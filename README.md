@@ -1,5 +1,9 @@
 # damoxing_fenci_gongji
 
+## 提示词
+promts.txt中包含论文中使用的提示词。其中只有Round0的表示就一轮，有Round0和Round1的有两轮。提示词会持续更新。
+
+
 ## 分词展示
 
 llm_segment.py是对qwen、qwen2.5-72b-instruct、deepseek_v3三个大模型，给定中文输出给出分词结果。其中qwen2.5-72b-instruct、deepseek_v3的词表是unicode形式展示字节，因此会将其转化成bytes再用utf-8编码就可以正常输出。由于模型文件都是从huggingface直接加载，因此使用前需要先翻墙。
