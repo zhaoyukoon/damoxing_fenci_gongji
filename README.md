@@ -1,4 +1,4 @@
-# damoxing_fenci_gongji
+# 【腾讯文档】大模型分词对生成结果影响的初步研究 https://docs.qq.com/doc/DT2twTXdjbmRFZ3J1
 
 ## 提示词
 promts.txt中包含论文中使用的提示词。其中只有Round0的表示就一轮，有Round0和Round1的有两轮。提示词会持续更新。
