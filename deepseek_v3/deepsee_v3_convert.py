@@ -40,7 +40,7 @@ def uni_str_to_bytes(word):
         return str(bytes(bs), 'utf-8')
     except UnicodeDecodeError:
         return word
-
+chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
 v_len=dict()
 tuples = []
 with open('tokenizer.json') as f:
