@@ -1,6 +1,4 @@
 import json
-from langdetect import detect
-import langdetect
 from tqdm import tqdm
 import re
 
