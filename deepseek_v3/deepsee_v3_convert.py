@@ -2,6 +2,7 @@ import json
 from langdetect import detect
 import langdetect
 from tqdm import tqdm
+import re
 
 def unicode_to_bytes_map():
     """
@@ -27,11 +28,6 @@ def unicode_to_bytes_map():
     return dict(zip(cs, bs))
 
 uni_to_byte = unicode_to_bytes_map()
-def has_chinese(string):
-    for char in string:
-        if '\u4e00' <= char <= '\u9fff':
-            return True
-    return False
 
 def uni_str_to_bytes(word):
     bs = []
@@ -56,7 +52,7 @@ with open('tokenizer.json') as f:
     print(vocab)
     for key in vocab:
         c = uni_str_to_bytes(key)
-        lang = 'zh-cn' if has_chinese(c) else 'NULL'
+        lang='zh-ch'if  chinese_pattern.match(converted) else 'NULL'
         v_len[key+"\t"+c]=len(c)
         tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'lang': lang})
 
@@ -67,7 +63,7 @@ count = 1
 with open('deepseek_v3.vocab_extend.tsv', 'w', encoding='utf-8') as f:
     for key in tqdm(sorted_dict):
         l = sorted_dict[key]
-        lang = 'zh-cn'if has_chinese(key.split('\t')[1]) else 'NULL'
+        lang='zh-ch'if  chinese_pattern.match(converted) else 'NULL'
         f.write(f'{key}\t{l}\t{lang}\n')
 with open('deepseek_v3.vocab_extend.json', 'w', encoding='utf-8') as f:
     json.dump(tuples, f, ensure_ascii=False, indent=4)
