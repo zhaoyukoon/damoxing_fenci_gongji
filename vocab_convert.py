@@ -106,14 +106,14 @@ def plot_length_distribution(lengths_pairs, vocab_names):
         # 使用点状线绘制
         plt.plot(all_bins_centers, all_counts, colors[2*i] + 'o--', 
                 alpha=0.7, 
-                label=vocab_names[i] + '所有词汇',
+                label=vocab_names[i] + '_all_vocab',
                 markersize=4,
                 linewidth=1,
                 linestyle='--')
         
         plt.plot(chinese_bins_centers, chinese_counts, colors[2*i+1] + 'o--',
                 alpha=0.7,
-                label=vocab_names[i] + '中文词汇',
+                label=vocab_names[i] + '_chinese_vocab',
                 markersize=4,
                 linewidth=1,
                 linestyle='--')
@@ -123,9 +123,9 @@ def plot_length_distribution(lengths_pairs, vocab_names):
     plt.yscale('log')
     
     # 设置图表属性
-    plt.title('词汇长度分布')
-    plt.xlabel('长度 (log scale)')
-    plt.ylabel('数量 (log scale)')
+    plt.title('vocab length distribution')
+    plt.xlabel('vocab_length (log scale)')
+    plt.ylabel('count (log scale)')
     plt.legend()
     plt.grid(True, alpha=0.3, linestyle='--')
     
