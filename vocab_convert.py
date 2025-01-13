@@ -3,6 +3,7 @@ from tqdm import tqdm
 import re
 from loguru import logger
 import argparse
+import matplotlib.pyplot as plt
 
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
@@ -57,6 +58,8 @@ if __name__ == '__main__':
     tuples = []
 
     logger.info(f'load vocab from {args.tok_path}/tokenizer.json')
+    all_lens = []
+    chinese_lens = []
     with open(args.tok_path + '/tokenizer.json') as f:
         j_obj = json.load(f)
         vocab = j_obj['model']['vocab']
@@ -65,6 +68,9 @@ if __name__ == '__main__':
             lang='zh-cn'if  chinese_pattern.match(c) else 'NULL'
             v_len[key+"\t"+c]=len(c)
             tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'lang': lang})
+            all_lens.append(len(c))
+            if lang == 'zh-cn':
+                chinese_lens.append(len(c))
 
     sorted_dict = {key: value for key, value in sorted(
         v_len.items(), key=lambda item: item[1], reverse=False)}
@@ -78,3 +84,22 @@ if __name__ == '__main__':
     logger.info(f'write to {args.tok_path}/vocab_extend.json')
     with open(args.tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
         json.dump(tuples, f, ensure_ascii=False, indent=4)
+        
+    # 绘制直方图
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 8))
+    
+    # 绘制all_lens直方图
+    ax1.hist(all_lens, bins=50, color='blue', alpha=0.7)
+    ax1.set_title('All Vocab Length Distribution')
+    ax1.set_xlabel('Length')
+    ax1.set_ylabel('Count')
+    
+    # 绘制chinese_lens直方图
+    ax2.hist(chinese_lens, bins=50, color='green', alpha=0.7)
+    ax2.set_title('Chinese Vocab Length Distribution')
+    ax2.set_xlabel('Length')
+    ax2.set_ylabel('Count')
+    
+    plt.tight_layout()
+    plt.savefig('vocab_length_histogram.png')
+    logger.info('Saved histogram to vocab_length_histogram.png')
