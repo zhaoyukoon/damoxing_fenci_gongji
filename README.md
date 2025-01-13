@@ -1,7 +1,7 @@
 # 【腾讯文档】大模型分词对生成结果影响的初步研究 https://docs.qq.com/doc/DT2twTXdjbmRFZ3J1
 
 ## 提示词
-promts.txt中包含论文中使用的提示词。其中只有Round0的表示就一轮，有Round0和Round1的有两轮。提示词会持续更新。
+promts.txt中包含论文中使用的提示词。其中只有`Round0`的表示就一轮，有`Round0`和`Round1`的有两轮。提示词会持续更新。
 
 
 ## 分词展示
@@ -10,7 +10,8 @@ llm_segment.py是对qwen、qwen2.5-72b-instruct、deepseek_v3三个大模型，�
 
 ## 词表读入
 
-vocab_convert.py，读入tokener.json处理为vocab_extend.json和 vocab_extend.tsv脚本。
+vocab_convert.py，读入tokener.json处理为vocab_extend.json和 vocab_extend.tsv脚本。使用方法:
+`python vocab_convert.py -tok_path deepseek_v3/qwen2.5-72b`
 
 deepseek_v3 目录中包含如下：
 1. tokener.json，包含词表，来自 https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/tokenizer.json ；
