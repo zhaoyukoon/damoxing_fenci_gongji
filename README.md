@@ -13,9 +13,9 @@ llm_segment.py是对qwen、qwen2.5-72b-instruct、deepseek_v3三个大模型，�
 deepseek_v3 目录中包含如下：
 1. tokener.json，包含词表，来自 https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/tokenizer.json ；
 2. tokenizer_config.json，词表配置，来自 https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/tokenizer_config.json。暂时未使用，据此可以判断出是基于LlamaTokenizerFast；
-3. deepseek_v3.vocab_extend.json，基于tokener.json中的vocab字段将其中unicode形式转化成可读的utf-8字符串，其中包含(原始词汇、utf-8词汇、utf-8词汇长度、是否是中文)四个字段；
-4. deepseek_v3.vocab_extend.tsv，以tsv格式展示deepseek_v3.vocab_extend.json内容，并以utf-8词汇长度顺序排序。由于utf-8词汇有换行，需要再处理一下。
-5. deepsee_v3_convert.py，读入tokener.json处理为deepseek_v3.vocab_extend.json和 deepseek_v3.vocab_extend.tsv脚本。
+3. vocab_extend.json，基于tokener.json中的vocab字段将其中unicode形式转化成可读的utf-8字符串，其中包含(原始词汇、utf-8词汇、utf-8词汇长度、是否是中文)四个字段；
+4. vocab_extend.tsv，以tsv格式展示vocab_extend.json内容，并以utf-8词汇长度顺序排序。由于utf-8词汇有换行，需要再处理一下。
+5. convert.py，读入tokener.json处理为vocab_extend.json和 vocab_extend.tsv脚本。
 
 
 qwen2.5-72b 目录中包含如下：
