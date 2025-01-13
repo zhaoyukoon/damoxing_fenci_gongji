@@ -1,6 +1,7 @@
 import json
 from tqdm import tqdm
 import re
+from loguru import logger
 
 def unicode_to_bytes_map():
     """
@@ -43,11 +44,14 @@ def uni_str_to_bytes(word):
 chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
 v_len=dict()
 tuples = []
-with open('tokenizer.json') as f:
+tok_path='deepseek_v3' ## or qwen2.5-72b 
+tok_path='qwen2.5-72b'
+logger.info(f'load vocab from {tok_path}/tokenizer.json')
+with open(tok_path + '/tokenizer.json') as f:
     j_obj = json.load(f)
     vocab = j_obj['model']['vocab']
     for key in vocab:
-        c = uni_str_to_bytes(key)
+        c = uni_str_to_bytes(key).replace('\n', '\\n')
         lang='zh-cn'if  chinese_pattern.match(c) else 'NULL'
         v_len[key+"\t"+c]=len(c)
         tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'lang': lang})
@@ -56,10 +60,10 @@ with open('tokenizer.json') as f:
 sorted_dict = {key: value for key, value in sorted(
     v_len.items(), key=lambda item: item[1], reverse=False)}
 count = 1
-with open('vocab_extend.tsv', 'w', encoding='utf-8') as f:
+with open(tok_path + '/vocab_extend.tsv', 'w', encoding='utf-8') as f:
     for key in tqdm(sorted_dict):
         l = sorted_dict[key]
         lang='zh-cn'if  chinese_pattern.match(key.split('\t')[1]) else 'NULL'
         f.write(f'{key}\t{l}\t{lang}\n')
-with open('vocab_extend.json', 'w', encoding='utf-8') as f:
+with open(tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
     json.dump(tuples, f, ensure_ascii=False, indent=4)
