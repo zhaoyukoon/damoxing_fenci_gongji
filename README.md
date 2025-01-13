@@ -30,3 +30,12 @@
 2. `tokenizer_config.json`，词表配置，来自 [Qwen2.5-72B-Instruct/tokenizer_json.json](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/tokenizer_json.json)。暂时未使用，据此可以判断出是基于Qwen2Tokenizer；
 3. `vocab_extend.json`，和`deepseek_v3`目录中相同格式；
 4. `vocab_extend.tsv`，和`deepseek_v3`目录中相同格式；
+
+如果您觉得本论文对您研究工作有贡献，请引用:
+```
+{
+  "author": "赵迎功",
+  "title": "注意意分词！分词影响大模型的初初步发现",
+  "url": "https://github.com/zhaoyukoon/damoxing_fenci_gongji"
+}
+```
