@@ -12,9 +12,9 @@
 
 ## 词表读入
 
-`vocab_convert.py`，读入`tokener.json`处理为`vocab_extend.json`和 `vocab_extend.tsv`脚本。使用方法:
+`vocab_convert.py`，读入`tokener.json`处理为`vocab_extend.json`和 `vocab_extend.tsv`脚本，并生成全部词表和汉字词表长度分布。使用方法:
 
-`python vocab_convert.py -tok_path deepseek_v3/qwen2.5-72b`
+`python vocab_convert.py -tok_path deepseek_v3/qwen2.5-72b/both`
 
 ### `Deepseek_v3`
 目录中包含如下：
