@@ -85,37 +85,38 @@ def process_vocab(tok_path):
         json.dump(tuples, f, ensure_ascii=False, indent=4)
     return (all_lens, chinese_lens)
 
-
 def plot_length_distribution(lengths_pairs, vocab_names):
     plt.figure(figsize=(10, 6))
     
-    colors = ['b','c','g','k','m','r','w','y']
-    # 计算直方图数据
-    for i in range(len(lengths_pairs)/2):
-        (all_lens, chinese_lens) = (lengths_pairs[2*i], lengths_pairs[2*i+1])
+    colors = ['b', 'c', 'g', 'k', 'm', 'r', 'w', 'y']
+    
+    # 遍历每个模型的数据
+    for i in range(len(vocab_names)):
+        all_lens = lengths_pairs[i][0]  # 获取第i个模型的所有词汇长度
+        chinese_lens = lengths_pairs[i][1]  # 获取第i个模型的中文词汇长度
+        
+        # 计算直方图数据
         all_counts, all_bins = np.histogram(all_lens, bins=50)
         chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
-    
+        
         # 获取bin中心点的位置
         all_bins_centers = (all_bins[:-1] + all_bins[1:]) / 2
         chinese_bins_centers = (chinese_bins[:-1] + chinese_bins[1:]) / 2
-    
+        
         # 使用点状线绘制
         plt.plot(all_bins_centers, all_counts, colors[2*i] + 'o--', 
-                 alpha=0.7, 
-                 label=vocab_names[i]+'所有词汇',
-                 markersize=4,
-                 linewidth=1,
-                 linestyle='--'
-                )
-    
-        plt.plot(chinese_bins_centers, chinese_counts, colors[2*i] + 'o--',
-                 alpha=0.7,
-                 label=vocab_names[i] + '中文词汇',
-                 markersize=4,
-                 linewidth=1,
-                 linestyle='--'
-                )
+                alpha=0.7, 
+                label=vocab_names[i] + '所有词汇',
+                markersize=4,
+                linewidth=1,
+                linestyle='--')
+        
+        plt.plot(chinese_bins_centers, chinese_counts, colors[2*i+1] + 'o--',
+                alpha=0.7,
+                label=vocab_names[i] + '中文词汇',
+                markersize=4,
+                linewidth=1,
+                linestyle='--')
     
     # 设置对数坐标
     plt.xscale('log')
