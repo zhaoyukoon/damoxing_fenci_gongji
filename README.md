@@ -16,15 +16,15 @@ promts.txt中包含论文中使用的提示词。其中只有`Round0`的表示�
 
 `python vocab_convert.py -tok_path deepseek_v3/qwen2.5-72b`
 
-deepseek_v3目录中包含如下：
+### `deepseek_v3`目录中包含如下：
 1. `tokener.json`，来自 [DeepSeek-V3/tokenizer.json](https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/tokenizer.json)；
 2. `tokenizer_config.json`，词表配置，来自[DeepSeek-V3/tokenizer_config.json](https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/tokenizer_config.json)。暂时未使用，据此可以判断出是基于LlamaTokenizerFast；
 3. `vocab_extend.json`，基于tokener.json中的vocab字段将其中unicode形式转化成可读的utf-8字符串，其中包含(原始词汇、utf-8词汇、utf-8词汇长度、是否是中文)四个字段；
 4. `vocab_extend.tsv`，以tsv格式展示vocab_extend.json内容，并以utf-8词汇长度顺序排序。
 
 
-qwen2.5-72b 目录中包含如下：
+### `qwen2.5-72b`目录中包含如下：
 1. `tokener.json`，来自 [Qwen2.5-72B-Instruct/tokenizer.json](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/tokenizer.json)；
 2. `tokenizer_config.json`，词表配置，来自 [Qwen2.5-72B-Instruct/tokenizer_json.json](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/tokenizer_json.json)。暂时未使用，据此可以判断出是基于Qwen2Tokenizer；
-3. `vocab_extend.json`，和deepseek_v3目录中相同格式；
-4. `vocab_extend.tsv`，和deepseek_v3目录中相同格式；
+3. `vocab_extend.json`，和`deepseek_v3`目录中相同格式；
+4. `vocab_extend.tsv`，和`deepseek_v3`目录中相同格式；
