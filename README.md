@@ -1,4 +1,4 @@
-# 注意意分词！分词影响大模型的初步发现
+# 注意分词！分词影响大模型的初步发现
 
 [论文地址(腾讯文档)V8](https://docs.qq.com/pdf/DT1hvaXpPU2ZrVWZE) ， [tokenize_llm_evaluation.v6](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/tokenize_llm_evaluation.v6.pdf) 为PDF版本。
 
