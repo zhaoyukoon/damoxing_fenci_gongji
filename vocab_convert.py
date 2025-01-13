@@ -69,10 +69,12 @@ if __name__ == '__main__':
     sorted_dict = {key: value for key, value in sorted(
         v_len.items(), key=lambda item: item[1], reverse=False)}
     count = 1
+    logger.info(f'write to {args.tok_path}/vocab_extend.tsv')
     with open(args.tok_path + '/vocab_extend.tsv', 'w', encoding='utf-8') as f:
         for key in tqdm(sorted_dict):
             l = sorted_dict[key]
             lang='zh-cn'if  chinese_pattern.match(key.split('\t')[1]) else 'NULL'
             f.write(f'{key}\t{l}\t{lang}\n')
+    logger.info(f'write to {args.tok_path}/vocab_extend.json')
     with open(args.tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
         json.dump(tuples, f, ensure_ascii=False, indent=4)
