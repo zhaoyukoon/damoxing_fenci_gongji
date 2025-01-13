@@ -88,9 +88,12 @@ if __name__ == '__main__':
     # 绘制直方图
     plt.figure(figsize=(10, 6))
     
-    # 绘制all_lens和chinese_lens直方图
-    plt.hist(all_lens, bins=50, color='blue', alpha=0.7, label='All Vocab')
-    plt.hist(chinese_lens, bins=50, color='green', alpha=0.7, label='Chinese Vocab')
+    # 绘制all_lens和chinese_lens点状线图
+    import numpy as np
+    all_counts, all_bins = np.histogram(all_lens, bins=50)
+    chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
+    plt.plot(all_bins[:-1], all_counts, 'bo-', alpha=0.7, label='All Vocab')
+    plt.plot(chinese_bins[:-1], chinese_counts, 'go-', alpha=0.7, label='Chinese Vocab')
     
     # 设置对数坐标
     plt.xscale('log')
