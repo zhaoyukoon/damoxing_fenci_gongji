@@ -3,7 +3,7 @@
 [论文地址(腾讯文档)](https://docs.qq.com/pdf/DT21obUxPZUh6UFdt?) ， [tokenize_llm_evaluation.v6](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/tokenize_llm_evaluation.v6.pdf) 为PDF版本。
  
 ## 提示词
-`promts.json`中包含论文中使用的提示词。其中包含了提示词、模型、调用途径、结果是否符合预期。
+`prompts.json`中包含论文中使用的提示词。其中包含了提示词、模型、调用途径、结果是否符合预期。
 
 
 ## 分词展示
@@ -16,7 +16,7 @@
 
 `python vocab_convert.py -tok_path deepseek_v3/qwen2.5-72b`
 
-### `deepseek_v3`
+### `Deepseek_v3`
 目录中包含如下：
 1. `tokener.json`，来自 [DeepSeek-V3/tokenizer.json](https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/tokenizer.json)；
 2. `tokenizer_config.json`，词表配置，来自[DeepSeek-V3/tokenizer_config.json](https://huggingface.co/deepseek-ai/DeepSeek-V3/blob/main/tokenizer_config.json)。暂时未使用，据此可以判断出是基于LlamaTokenizerFast；
@@ -24,7 +24,7 @@
 4. `vocab_extend.tsv`，以tsv格式展示vocab_extend.json内容，并以utf-8词汇长度顺序排序。
 
 
-### `qwen2.5-72b`
+### `Qwen2.5-72b`
 目录中包含如下：
 1. `tokener.json`，来自 [Qwen2.5-72B-Instruct/tokenizer.json](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/tokenizer.json)；
 2. `tokenizer_config.json`，词表配置，来自 [Qwen2.5-72B-Instruct/tokenizer_json.json](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/tokenizer_json.json)。暂时未使用，据此可以判断出是基于Qwen2Tokenizer；
