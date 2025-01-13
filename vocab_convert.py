@@ -86,19 +86,20 @@ if __name__ == '__main__':
         json.dump(tuples, f, ensure_ascii=False, indent=4)
         
     # 绘制直方图
-    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 8))
+    plt.figure(figsize=(10, 6))
     
-    # 绘制all_lens直方图
-    ax1.hist(all_lens, bins=50, color='blue', alpha=0.7)
-    ax1.set_title('All Vocab Length Distribution')
-    ax1.set_xlabel('Length')
-    ax1.set_ylabel('Count')
+    # 绘制all_lens和chinese_lens直方图
+    plt.hist(all_lens, bins=50, color='blue', alpha=0.7, label='All Vocab')
+    plt.hist(chinese_lens, bins=50, color='green', alpha=0.7, label='Chinese Vocab')
     
-    # 绘制chinese_lens直方图
-    ax2.hist(chinese_lens, bins=50, color='green', alpha=0.7)
-    ax2.set_title('Chinese Vocab Length Distribution')
-    ax2.set_xlabel('Length')
-    ax2.set_ylabel('Count')
+    # 设置对数坐标
+    plt.xscale('log')
+    plt.yscale('log')
+    
+    plt.title('Vocab Length Distribution')
+    plt.xlabel('Length (log scale)')
+    plt.ylabel('Count (log scale)')
+    plt.legend()
     
     plt.tight_layout()
     plt.savefig('vocab_length_histogram.png')
