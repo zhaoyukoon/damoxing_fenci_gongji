@@ -2,6 +2,12 @@
 
 [论文地址(腾讯文档)V10](https://docs.qq.com/pdf/DT095ZktteVVJTE5K)
 
+## Issue
+
+我分别给Qwen和Deepseek提交了issues:
+1. Qwen: https://github.com/QwenLM/Qwen2.5/issues/1159 ， 目前得到了回复；
+2. Deepseek： https://github.com/deepseek-ai/DeepSeek-V3/issues/263  目前尚未回复；
+
 ## 说明
 刚刚发现有人给OpenAI提过[粗粒度词问题](https://github.com/openai/tiktoken/issues/297)，不过他们没搭理。
 
