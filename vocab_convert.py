@@ -8,7 +8,7 @@ import numpy as np
 
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
-    parser.add_argument('--tok_path', type=str, default='deepseek_v3',
+    parser.add_argument('--tok_path', type=str, default='both',
                        choices=['deepseek_v3', 'qwen2.5-72b'],
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 both')
     return parser.parse_args()
