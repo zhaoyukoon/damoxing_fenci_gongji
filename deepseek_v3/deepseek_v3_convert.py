@@ -45,12 +45,10 @@ v_len=dict()
 tuples = []
 with open('tokenizer.json') as f:
     j_obj = json.load(f)
-    print('model' in j_obj)
     vocab = j_obj['model']['vocab']
-    print(vocab)
     for key in vocab:
         c = uni_str_to_bytes(key)
-        lang='zh-ch'if  chinese_pattern.match(converted) else 'NULL'
+        lang='zh-ch'if  chinese_pattern.match(c) else 'NULL'
         v_len[key+"\t"+c]=len(c)
         tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'lang': lang})
 
@@ -61,7 +59,7 @@ count = 1
 with open('deepseek_v3.vocab_extend.tsv', 'w', encoding='utf-8') as f:
     for key in tqdm(sorted_dict):
         l = sorted_dict[key]
-        lang='zh-ch'if  chinese_pattern.match(converted) else 'NULL'
+        lang='zh-ch'if  chinese_pattern.match(key.split('\t')[1]) else 'NULL'
         f.write(f'{key}\t{l}\t{lang}\n')
 with open('deepseek_v3.vocab_extend.json', 'w', encoding='utf-8') as f:
     json.dump(tuples, f, ensure_ascii=False, indent=4)
