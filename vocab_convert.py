@@ -10,7 +10,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
     parser.add_argument('--tok_path', type=str, default='deepseek_v3',
                        choices=['deepseek_v3', 'qwen2.5-72b'],
-                       help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b')
+                       help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 both')
     return parser.parse_args()
 
 def unicode_to_bytes_map():
@@ -84,51 +84,61 @@ def process_vocab(tok_path):
     with open(tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
         json.dump(tuples, f, ensure_ascii=False, indent=4)
     return (all_lens, chinese_lens)
-        
-def plot_length_distribution(all_lens, chinese_lens):
+
+
+def plot_length_distribution(lengths_pairs, vocab_names):
     plt.figure(figsize=(10, 6))
     
+    colors = ['b','c','g','k','m','r','w','y']
     # 计算直方图数据
-    all_counts, all_bins = np.histogram(all_lens, bins=50)
-    chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
+    for i in range(len(lengths_pairs)/2):
+        (all_lens, chinese_lens) = (lengths_pairs[2*i], lengths_pairs[2*i+1])
+        all_counts, all_bins = np.histogram(all_lens, bins=50)
+        chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
     
-    # 获取bin中心点的位置
-    all_bins_centers = (all_bins[:-1] + all_bins[1:]) / 2
-    chinese_bins_centers = (chinese_bins[:-1] + chinese_bins[1:]) / 2
+        # 获取bin中心点的位置
+        all_bins_centers = (all_bins[:-1] + all_bins[1:]) / 2
+        chinese_bins_centers = (chinese_bins[:-1] + chinese_bins[1:]) / 2
     
-    # 使用点状线绘制
-    plt.plot(all_bins_centers, all_counts, 'bo--', 
-             alpha=0.7, 
-             label='All Vocab',
-             markersize=4,
-             linewidth=1,
-             linestyle='--'
-            )
+        # 使用点状线绘制
+        plt.plot(all_bins_centers, all_counts, colors[2*i] + 'o--', 
+                 alpha=0.7, 
+                 label=vocab_names[i]+'所有词汇',
+                 markersize=4,
+                 linewidth=1,
+                 linestyle='--'
+                )
     
-    plt.plot(chinese_bins_centers, chinese_counts, 'go--',
-             alpha=0.7,
-             label='Chinese Vocab',
-             markersize=4,
-             linewidth=1,
-             linestyle='--'
-            )
+        plt.plot(chinese_bins_centers, chinese_counts, colors[2*i] + 'o--',
+                 alpha=0.7,
+                 label=vocab_names[i] + '中文词汇',
+                 markersize=4,
+                 linewidth=1,
+                 linestyle='--'
+                )
     
     # 设置对数坐标
     plt.xscale('log')
     plt.yscale('log')
     
     # 设置图表属性
-    plt.title('Vocab Length Distribution (Zipf)')
-    plt.xlabel('Length (log scale)')
-    plt.ylabel('Count (log scale)')
+    plt.title('词汇长度分布')
+    plt.xlabel('长度 (log scale)')
+    plt.ylabel('数量 (log scale)')
     plt.legend()
     plt.grid(True, alpha=0.3, linestyle='--')
     
     plt.tight_layout()
     plt.savefig('vocab_length_histogram.png', dpi=300)
-    print('Saved histogram to vocab_length_histogram.png')
+    logger.info('Saved histogram to vocab_length_histogram.png')
 
 if __name__ == '__main__':
     args = parse_args()
-    (all_lens, chinese_lens) = process_vocab(args.tok_path)
-    plot_length_distribution(all_lens, chinese_lens)
+    if args.tok_path == 'both':
+        (all_lens1, chinese_lens1) = process_vocab('deepseek_v3')
+        (all_lens2, chinese_lens2) = process_vocab('qwen2.5-72b')
+        pairs = [(all_lens1, chinese_lens1), (all_lens2, chinese_lens2)]
+        plot_length_distribution(pairs, ['deepseek_v3', 'qwen2.5-72b'])
+    else:
+        (all_lens, chinese_lens) = process_vocab(args.tok_path)
+        plot_length_distribution([(all_lens, chinese_lens)], args.tok_path)
