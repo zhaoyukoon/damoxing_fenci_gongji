@@ -1,6 +1,6 @@
 # 大模型分词对生成结果影响的初步研究 
 
-[论文地址(腾讯文档)]: https://docs.qq.com/doc/DT2twTXdjbmRFZ3J1 ， [tokenize_llm_evaluation.v6]: https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/tokenize_llm_evaluation.v6.pdf 为PDF版本。
+[论文地址(腾讯文档)](https://docs.qq.com/doc/DT2twTXdjbmRFZ3J1) ， [tokenize_llm_evaluation.v6](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/tokenize_llm_evaluation.v6.pdf) 为PDF版本。
  
 ## 提示词
 promts.txt中包含论文中使用的提示词。其中只有`Round0`的表示就一轮，有`Round0`和`Round1`的有两轮。提示词会持续更新。
