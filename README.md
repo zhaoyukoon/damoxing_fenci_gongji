@@ -1,6 +1,6 @@
 # 注意分词！分词影响大模型的初步发现
 
-[论文地址(腾讯文档)V10]ttps://docs.qq.com/pdf/DT095ZktteVVJTE5K) ， [tokenize_llm_evaluation.v6](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/tokenize_llm_evaluation.v6.pdf) 为PDF版本。
+[论文地址(腾讯文档)V10]ttps://docs.qq.com/pdf/DT095ZktteVVJTE5K)
 
 ## 说明
 刚刚发现有人给OpenAI提过[粗粒度词问题](https://github.com/openai/tiktoken/issues/297)，不过他们没搭理。
