@@ -4,6 +4,7 @@ import re
 from loguru import logger
 import argparse
 import matplotlib.pyplot as plt
+import numpy as np
 
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
@@ -51,16 +52,15 @@ def uni_str_to_bytes(word):
     except UnicodeDecodeError:
         return word
 
-if __name__ == '__main__':
-    args = parse_args()
+def process_vocab(tok_path):
     chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
     v_len=dict()
     tuples = []
 
-    logger.info(f'load vocab from {args.tok_path}/tokenizer.json')
+    logger.info(f'load vocab from {tok_path}/tokenizer.json')
     all_lens = []
     chinese_lens = []
-    with open(args.tok_path + '/tokenizer.json') as f:
+    with open(tok_path + '/tokenizer.json') as f:
         j_obj = json.load(f)
         vocab = j_obj['model']['vocab']
         for key in vocab:
@@ -74,36 +74,61 @@ if __name__ == '__main__':
 
     sorted_dict = {key: value for key, value in sorted(
         v_len.items(), key=lambda item: item[1], reverse=False)}
-    count = 1
-    logger.info(f'write to {args.tok_path}/vocab_extend.tsv')
-    with open(args.tok_path + '/vocab_extend.tsv', 'w', encoding='utf-8') as f:
+    logger.info(f'write to {tok_path}/vocab_extend.tsv')
+    with open(tok_path + '/vocab_extend.tsv', 'w', encoding='utf-8') as f:
         for key in tqdm(sorted_dict):
             l = sorted_dict[key]
             lang='zh-cn'if  chinese_pattern.match(key.split('\t')[1]) else 'NULL'
             f.write(f'{key}\t{l}\t{lang}\n')
-    logger.info(f'write to {args.tok_path}/vocab_extend.json')
-    with open(args.tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
+    logger.info(f'write to {tok_path}/vocab_extend.json')
+    with open(tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
         json.dump(tuples, f, ensure_ascii=False, indent=4)
+    return (all_lens, chinese_lens)
         
-    # 绘制直方图
+def plot_length_distribution(all_lens, chinese_lens):
     plt.figure(figsize=(10, 6))
     
-    # 绘制all_lens和chinese_lens点状线图
-    import numpy as np
+    # 计算直方图数据
     all_counts, all_bins = np.histogram(all_lens, bins=50)
     chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
-    plt.plot(all_bins[:-1], all_counts, 'bo-', alpha=0.7, label='All Vocab')
-    plt.plot(chinese_bins[:-1], chinese_counts, 'go-', alpha=0.7, label='Chinese Vocab')
+    
+    # 获取bin中心点的位置
+    all_bins_centers = (all_bins[:-1] + all_bins[1:]) / 2
+    chinese_bins_centers = (chinese_bins[:-1] + chinese_bins[1:]) / 2
+    
+    # 使用点状线绘制
+    plt.plot(all_bins_centers, all_counts, 'bo--', 
+             alpha=0.7, 
+             label='All Vocab',
+             markersize=4,
+             linewidth=1,
+             linestyle='--'
+            )
+    
+    plt.plot(chinese_bins_centers, chinese_counts, 'go--',
+             alpha=0.7,
+             label='Chinese Vocab',
+             markersize=4,
+             linewidth=1,
+             linestyle='--'
+            )
     
     # 设置对数坐标
     plt.xscale('log')
     plt.yscale('log')
     
-    plt.title('Vocab Length Distribution')
+    # 设置图表属性
+    plt.title('Vocab Length Distribution (Zipf)')
     plt.xlabel('Length (log scale)')
     plt.ylabel('Count (log scale)')
     plt.legend()
+    plt.grid(True, alpha=0.3, linestyle='--')
     
     plt.tight_layout()
-    plt.savefig('vocab_length_histogram.png')
-    logger.info('Saved histogram to vocab_length_histogram.png')
+    plt.savefig('vocab_length_histogram.png', dpi=300)
+    print('Saved histogram to vocab_length_histogram.png')
+
+if __name__ == '__main__':
+    args = parse_args()
+    (all_lens, chinese_lens) = process_vocab(args.tok_path)
+    plot_length_distribution(all_lens, chinese_lens)
