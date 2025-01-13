@@ -106,14 +106,14 @@ def plot_length_distribution(lengths_pairs, vocab_names):
         # 使用点状线绘制
         plt.plot(all_bins_centers, all_counts, colors[2*i] + 'o--', 
                 alpha=0.7, 
-                label=vocab_names[i] + '_all_vocab',
+                label=vocab_names[i] + '_all',
                 markersize=4,
                 linewidth=1,
                 linestyle='--')
         
         plt.plot(chinese_bins_centers, chinese_counts, colors[2*i+1] + 'o--',
                 alpha=0.7,
-                label=vocab_names[i] + '_chinese_vocab',
+                label=vocab_names[i] + '_chinese',
                 markersize=4,
                 linewidth=1,
                 linestyle='--')
