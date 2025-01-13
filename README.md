@@ -3,7 +3,7 @@
 [论文地址(腾讯文档)V8](https://docs.qq.com/pdf/DT1hvaXpPU2ZrVWZE) ， [tokenize_llm_evaluation.v6](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/tokenize_llm_evaluation.v6.pdf) 为PDF版本。
 
 ## 说明
-刚刚发现有人给OpenAI提过粗粒度词的问题，https://github.com/openai/tiktoken/issues/297，不过他们没搭理。
+刚刚发现有人给OpenAI提过[粗粒度词问题](https://github.com/openai/tiktoken/issues/297)，不过他们没搭理。
 
 ## 提示词
 `prompts.json`中包含论文中使用的提示词。其中包含了提示词、模型、调用途径、结果是否符合预期。
