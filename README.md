@@ -9,6 +9,8 @@
 
 ## 记录
 
+给MiniCPM提交了issue https://github.com/OpenBMB/MiniCPM/issues/276
+
 2025/01/14: 发现 [tokenizer-attack](https://github.com/alisawuffles/tokenizer-attack)，利用BPE分词器的合并规则列表和每个类别的示例数据，推断出训练数据中各类别的比例。和本项目关注问题切入点非常相关。两个工作异同分析如下：
 1. `相同` 都是关注BPE分词对大模型影响;
 2. `相同` 都建议谨慎使用BPE tokenizer;
@@ -21,9 +23,10 @@
 ## Issue
 
 我分别给Qwen、Deepseek和OpenAI提交了issues:
-1. Qwen: https://github.com/QwenLM/Qwen2.5/issues/1159 https://github.com/QwenLM/Qwen2.5/issues/1161 ， 都得到回复；
+1. Qwen: https://github.com/QwenLM/Qwen2.5/issues/1159 https://github.com/QwenLM/Qwen2.5/issues/1161 ， 都得到回复，被close；
 2. Deepseek： https://github.com/deepseek-ai/DeepSeek-V3/issues/263  https://github.com/deepseek-ai/DeepSeek-V3/issues/273 两个都尚未回复；
 3. OpenAI: https://github.com/openai/tiktoken/issues/368 尚未回复；
+4. MiniCPM: https://github.com/OpenBMB/MiniCPM/issues/276 尚未回复；
 
 ## 提示词
 `prompts.json`中包含论文中使用的提示词。其中包含了提示词、模型、调用途径、结果是否符合预期。
