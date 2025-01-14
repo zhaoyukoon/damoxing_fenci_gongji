@@ -3,6 +3,7 @@
 
 from tiktoken import get_encoding
 from tiktoken.model import MODEL_TO_ENCODING
+import jieba
 
 encodings = list(
     dict.fromkeys(MODEL_TO_ENCODING.values())
@@ -41,7 +42,7 @@ def main():
                 )
             except:
                 pass
-            
+        cn_words_segmented = set()
         cn_words = []
         for token in tokens:
             chn = ''.join(filter(is_chinese, token))
@@ -49,16 +50,23 @@ def main():
             # Keep this token if:
             # 1. >= 2 chinese characters
             # 2. Not too many other characters
-            if (len(chn) >= 2 and
+            if (len(chn) >= 1 and
                 len(chn) >= len(token) - 1):
                 cn_words.append(chn)
 
         cn_words.sort(key=lambda x: -len(x))
 
-        for i, word in enumerate(cn_words):
-            if len(word) != len(cn_words[i - 1]):
-                print(f'\n{len(word):4}: ', end='')
-            print(word, end=' ')
+        with open(enc_name+'.chinese_words.txt', 'w', encoding='utf-8') as f:
+            for i, word in enumerate(cn_words):
+                if len(word) != len(cn_words[i - 1]):
+                    print(f'\n{len(word):4}: ', end='')
+                segs = list(jieba.cut(word))
+                f.write(word+"\t"+' '.join(segs)+"\n")
+                for seg in segs:
+                    cn_words_segmented.add(seg)
+        with open(enc_name+'.chinese_words.segs.txt', 'w', encoding='utf-8') as f:
+            for word in cn_words_segmented:
+                f.write(word+"\n")
 
         print('\n')
 
