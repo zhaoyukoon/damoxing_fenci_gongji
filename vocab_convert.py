@@ -89,7 +89,7 @@ def process_vocab(tok_path):
     logger.info(f'write to {tok_path}/vocab_extend_segged.tsv')
     with open(tok_path + '/vocab_extend_segged.tsv', 'w', encoding='utf-8') as f:
         for k, v in sorted(seg_chinese_vocab.items(), key=lambda item: -item[1]):
-            f.write(k+"\t"+str(v)+"\n")
+            f.write(k+"\t"+str(v)+"\t"+ str(len(k)) + "\n")
     logger.info(f'write to {tok_path}/vocab_extend.tsv')
     with open(tok_path + '/vocab_extend.tsv', 'w', encoding='utf-8') as f:
         for key in tqdm(sorted_dict):
