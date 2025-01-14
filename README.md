@@ -2,14 +2,16 @@
 
 [论文地址(腾讯文档)V10](https://docs.qq.com/pdf/DT095ZktteVVJTE5K)
 
+## 记录
+
+2015/01/14: 给OpenAI提交issue
+
 ## Issue
 
-我分别给Qwen和Deepseek提交了issues:
-1. Qwen: https://github.com/QwenLM/Qwen2.5/issues/1159 ， 目前得到了回复；
-2. Deepseek： https://github.com/deepseek-ai/DeepSeek-V3/issues/263  目前尚未回复；
-
-## 说明
-刚刚发现有人给OpenAI提过[粗粒度词问题](https://github.com/openai/tiktoken/issues/297)，不过他们没搭理。
+我分别给Qwen、Deepseek和OpenAI提交了issues:
+1. Qwen: https://github.com/QwenLM/Qwen2.5/issues/1159 ， 得到回复；
+2. Deepseek： https://github.com/deepseek-ai/DeepSeek-V3/issues/263  尚未回复；
+3. OpenAI: https://github.com/openai/tiktoken/issues/368 尚未回复；
 
 ## 提示词
 `prompts.json`中包含论文中使用的提示词。其中包含了提示词、模型、调用途径、结果是否符合预期。
