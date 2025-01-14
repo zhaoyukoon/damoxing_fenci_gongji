@@ -9,7 +9,7 @@
 
 ## 记录
 
-给MiniCPM提交了issue https://github.com/OpenBMB/MiniCPM/issues/276
+2025/01/14: 给MiniCPM提交了issue https://github.com/OpenBMB/MiniCPM/issues/276
 
 2025/01/14: 发现 [tokenizer-attack](https://github.com/alisawuffles/tokenizer-attack)，利用BPE分词器的合并规则列表和每个类别的示例数据，推断出训练数据中各类别的比例。和本项目关注问题切入点非常相关。两个工作异同分析如下：
 1. `相同` 都是关注BPE分词对大模型影响;
