@@ -21,7 +21,7 @@
 ## Issue
 
 我分别给Qwen、Deepseek和OpenAI提交了issues:
-1. Qwen: https://github.com/QwenLM/Qwen2.5/issues/1159 https://github.com/QwenLM/Qwen2.5/issues/1161 ， 第一个得到回复，第二个还没有；
+1. Qwen: https://github.com/QwenLM/Qwen2.5/issues/1159 https://github.com/QwenLM/Qwen2.5/issues/1161 ， 都得到回复；
 2. Deepseek： https://github.com/deepseek-ai/DeepSeek-V3/issues/263  https://github.com/deepseek-ai/DeepSeek-V3/issues/273 两个都尚未回复；
 3. OpenAI: https://github.com/openai/tiktoken/issues/368 尚未回复；
 
