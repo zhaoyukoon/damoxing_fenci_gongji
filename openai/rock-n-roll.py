@@ -9,6 +9,13 @@ encodings = list(
     dict.fromkeys(MODEL_TO_ENCODING.values())
 )
 
+def is_english(ch: str):
+    code_point = ord(ch)
+    return (
+        ord('a') <= code_point <= ord('z') or
+        ord('A') <= code_point <= ord('Z')
+    )
+
 def is_chinese(ch: str):
     code_point = ord(ch)
     return (
@@ -44,8 +51,11 @@ def main():
                 pass
         cn_words_segmented = dict()
         cn_words = []
+        en_words = []
         for token in tokens:
             chn = ''.join(filter(is_chinese, token))
+            eng = ''.join(filter(is_english, token))
+            en_words.append(eng)
 
             # Keep this token if:
             # 1. >= 2 chinese characters
@@ -55,6 +65,11 @@ def main():
                 cn_words.append(chn)
 
         cn_words.sort(key=lambda x: -len(x))
+        en_words.sort(key=lambda x: -len(x))
+
+        with open(enc_name+'.english_words.txt', 'w', encoding='utf-8') as f:
+            for i, word in enumerate(en_words):
+                f.write(word+"\n")
 
         with open(enc_name+'.chinese_words.txt', 'w', encoding='utf-8') as f:
             for i, word in enumerate(cn_words):
