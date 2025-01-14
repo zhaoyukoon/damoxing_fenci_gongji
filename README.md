@@ -1,10 +1,10 @@
 # 注意分词！分词影响大模型的初步发现
 
-## 想法
+## 文章
 
-[具体工作](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E8%AE%BA%E6%96%87.md)
+[markdown简约版(新)](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E8%AE%BA%E6%96%87.md)
 
-[论文地址(腾讯文档)完整版(旧)](https://docs.qq.com/pdf/DT095ZktteVVJTE5K)
+[原始完整版(旧)](https://docs.qq.com/pdf/DT095ZktteVVJTE5K)
 
 
 ## 记录
