@@ -42,7 +42,7 @@ def main():
                 )
             except:
                 pass
-        cn_words_segmented = set()
+        cn_words_segmented = dict()
         cn_words = []
         for token in tokens:
             chn = ''.join(filter(is_chinese, token))
@@ -63,10 +63,11 @@ def main():
                 segs = list(jieba.cut(word))
                 f.write(word+"\t"+' '.join(segs)+"\n")
                 for seg in segs:
-                    cn_words_segmented.add(seg)
+                    count = 0 if seg not in cn_words_segmented else cn_words_segmented[seg]
+                    cn_words_segmented[seg] = count + 1
         with open(enc_name+'.chinese_words.segs.txt', 'w', encoding='utf-8') as f:
-            for word in cn_words_segmented:
-                f.write(word+"\n")
+            for k, v in sorted(cn_words_segmented.items(), key=lambda item: item[1]):
+                f.write(k + "\t"+str(v)+"\n")
 
         print('\n')
 
