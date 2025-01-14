@@ -66,7 +66,7 @@ def main():
                     count = 0 if seg not in cn_words_segmented else cn_words_segmented[seg]
                     cn_words_segmented[seg] = count + 1
         with open(enc_name+'.chinese_words.segs.txt', 'w', encoding='utf-8') as f:
-            for k, v in sorted(cn_words_segmented.items(), key=lambda item: item[1]):
+            for k, v in sorted(cn_words_segmented.items(), key=lambda item: -item[1]):
                 f.write(k + "\t"+str(v)+"\n")
 
         print('\n')
