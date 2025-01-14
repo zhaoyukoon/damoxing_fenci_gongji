@@ -64,6 +64,7 @@ def process_vocab(tok_path):
     all_lens = []
     chinese_lens = []
     seg_chinese_vocab = dict()
+    seg_char_vocab = dict()
     
     with open(tok_path + '/tokenizer.json') as f:
         j_obj = json.load(f)
@@ -78,6 +79,10 @@ def process_vocab(tok_path):
                 for seg in segs:
                     count = 0 if seg not in seg_chinese_vocab else seg_chinese_vocab[seg]
                     seg_chinese_vocab[seg] = count + 1
+                    for char in seg:
+                        count = 0 if char not in seg_char_vocab else seg_char_vocab[char]
+                        seg_char_vocab[char] = count + 1
+ 
             v_len[key + "\t" + c + "\t" + ' '.join(segs)]=len(c)
             tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'converted_seg': ' '.join(segs),'lang': lang})
             all_lens.append(len(c))
@@ -90,6 +95,12 @@ def process_vocab(tok_path):
     with open(tok_path + '/vocab_extend_segged.tsv', 'w', encoding='utf-8') as f:
         for k, v in sorted(seg_chinese_vocab.items(), key=lambda item: -item[1]):
             f.write(k+"\t"+str(v)+"\t"+ str(len(k)) + "\n")
+
+    logger.info(f'write to {tok_path}/vocab_char.tsv')
+    with open(tok_path + '/vocab_char.tsv', 'w', encoding='utf-8') as f:
+        for k, v in sorted(seg_char_vocab.items(), key=lambda item: -item[1]):
+            f.write(k+"\t"+str(v) + "\n")
+ 
     logger.info(f'write to {tok_path}/vocab_extend.tsv')
     with open(tok_path + '/vocab_extend.tsv', 'w', encoding='utf-8') as f:
         for key in tqdm(sorted_dict):
