@@ -218,53 +218,72 @@ def process_vocab(tok_path):
         json.dump(tuples, f, ensure_ascii=False, indent=4)
     return (all_lens, chinese_lens)
 
+
 def plot_length_distribution(lengths_pairs, vocab_names):
     plt.figure(figsize=(10, 6))
     
-    colors = ['b', 'c', 'g', 'k', 'm', 'r', 'w', 'y']
+    # Define distinct color + line style combinations
+    styles = [
+        {'color': '#1f77b4', 'marker': 'o', 'linestyle': '-'},  # blue, circle, solid
+        {'color': '#ff7f0e', 'marker': 's', 'linestyle': '--'},  # orange, square, dashed
+        {'color': '#2ca02c', 'marker': '^', 'linestyle': '-.'},  # green, triangle, dashdot
+        {'color': '#d62728', 'marker': 'v', 'linestyle': ':'},   # red, triangle-down, dotted
+        {'color': '#9467bd', 'marker': 'D', 'linestyle': '-'},   # purple, diamond, solid
+        {'color': '#8c564b', 'marker': 'p', 'linestyle': '--'},  # brown, pentagon, dashed
+        {'color': '#e377c2', 'marker': 'h', 'linestyle': '-.'},  # pink, hexagon, dashdot
+        {'color': '#7f7f7f', 'marker': '*', 'linestyle': ':'}    # gray, star, dotted
+    ]
     
-    # 遍历每个模型的数据
     for i in range(len(vocab_names)):
-        all_lens = lengths_pairs[i][0]  # 获取第i个模型的所有词汇长度
-        chinese_lens = lengths_pairs[i][1]  # 获取第i个模型的中文词汇长度
+        # Sort lengths in descending order for Zipf plot
+        all_lens = sorted(lengths_pairs[i][0], reverse=True)
+        chinese_lens = sorted(lengths_pairs[i][1], reverse=True)
         
-        # 计算直方图数据
-        all_counts, all_bins = np.histogram(all_lens, bins=50)
-        chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
+        # Calculate ranks
+        all_ranks = np.arange(1, len(all_lens) + 1)
+        chinese_ranks = np.arange(1, len(chinese_lens) + 1)
         
-        # 获取bin中心点的位置
-        all_bins_centers = (all_bins[:-1] + all_bins[1:]) / 2
-        chinese_bins_centers = (chinese_bins[:-1] + chinese_bins[1:]) / 2
-        
-        # 使用点状线绘制
-        plt.plot(all_bins_centers, all_counts, colors[2*i] + 'o--', 
-                alpha=0.7, 
-                label=vocab_names[i] + '_all',
-                markersize=4,
-                linewidth=1,
-                linestyle='--')
-        
-        plt.plot(chinese_bins_centers, chinese_counts, colors[2*i+1] + 'o--',
+        # Plot all vocabularies - with swapped axes (y=ranks, x=lengths)
+        plt.plot(all_lens, all_ranks,
+                color=styles[2*i]['color'],
+                marker=styles[2*i]['marker'],
+                linestyle=styles[2*i]['linestyle'],
+                label=f"{vocab_names[i]}_all",
                 alpha=0.7,
-                label=vocab_names[i] + '_chinese',
                 markersize=4,
-                linewidth=1,
-                linestyle='--')
+                markevery=len(all_ranks)//20)  # Plot markers at intervals
+        
+        # Plot Chinese vocabularies - with swapped axes
+        plt.plot(chinese_lens, chinese_ranks,
+                color=styles[2*i+1]['color'],
+                marker=styles[2*i+1]['marker'],
+                linestyle=styles[2*i+1]['linestyle'],
+                label=f"{vocab_names[i]}_chinese",
+                alpha=0.7,
+                markersize=4,
+                markevery=len(chinese_ranks)//20)  # Plot markers at intervals
     
-    # 设置对数坐标
-    plt.xscale('log')
+    # Set log scales (swapped from previous version)
     plt.yscale('log')
+    plt.xscale('log')
     
-    # 设置图表属性
-    plt.title('vocab length distribution')
-    plt.xlabel('vocab_length (log scale)')
-    plt.ylabel('count (log scale)')
-    plt.legend()
-    plt.grid(True, alpha=0.3, linestyle='--')
+    # Set labels and title (swapped from previous version)
+    plt.title('Vocabulary Length Zipf Distribution')
+    plt.ylabel('Rank (log scale)')
+    plt.xlabel('Token Length (log scale)')
     
+    # Customize legend
+    plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+    
+    # Add grid with custom style
+    plt.grid(True, alpha=0.3, linestyle='--', which='both')
+    
+    # Adjust layout to prevent label cutoff
     plt.tight_layout()
-    plt.savefig('vocab_length_histogram.png', dpi=300)
-    logger.info('Saved histogram to vocab_length_histogram.png')
+    
+    # Save the plot
+    plt.savefig('vocab_length_zipf.png', dpi=300, bbox_inches='tight')
+    logger.info('Saved Zipf distribution plot to vocab_length_zipf.png')
 
 if __name__ == '__main__':
     args = parse_args()
