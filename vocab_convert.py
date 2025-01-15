@@ -6,7 +6,8 @@ import argparse
 import matplotlib.pyplot as plt
 import numpy as np
 import jieba
-
+from tiktoken import get_encoding
+from tiktoken.model import MODEL_TO_ENCODING
 import tiktoken
 #jieba.enable_paddle()
 
@@ -188,9 +189,7 @@ def process_vocab(tok_path):
             for line in f:
                 vocab.append(line.strip())
     elif tok_path == 'gpt-4o':
-        logger.info('Loading OpenAI gpt-4o tokenizer vocabulary')
-        from tiktoken import get_encoding, MODEL_TO_ENCODING
-        
+        logger.info('Loading OpenAI gpt-4o tokenizer vocabulary')        
         # Add o200_base encoding
         encoder = get_encoding('o200_base')  # Using o200_base encoding
         
