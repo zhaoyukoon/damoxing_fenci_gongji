@@ -347,25 +347,33 @@ def write_lang_count_markdown(model_to_lang_count):
             languages.update(lang_count.keys())
         languages = sorted(list(languages))
         
+        # Calculate model totals
+        model_totals = {}
+        for model, lang_count in model_to_lang_count.items():
+            model_totals[model] = sum(lang_count.values())
+        
         # Write table header
-        f.write('| Language | ' + ' | '.join(models) + ' | Total |\n')
-        f.write('|----------|' + '|'.join(['---' for _ in range(len(models) + 1)]) + '|\n')
+        f.write('| Language | ' + ' | '.join(models) + ' |\n')
+        f.write('|----------|' + '|'.join(['---' for _ in range(len(models))]) + '|\n')
         
         # Write data rows, one for each language
         for lang in languages:
             row = [lang]
-            lang_total = 0
             for model in models:
                 count = model_to_lang_count[model].get(lang, 0)
-                lang_total += count
                 row.append(str(count))
-            row.append(str(lang_total))
             f.write('| ' + ' | '.join(row) + ' |\n')
+        
+        # Add total row
+        total_row = ['Total']
+        for model in models:
+            total_row.append(str(model_totals[model]))
+        f.write('| ' + ' | '.join(total_row) + ' |\n')
         
         # Add summary section
         f.write('\n## Summary\n\n')
         for model, lang_count in model_to_lang_count.items():
-            f.write(f'### {model}\n\n')
+            f.write(f'### {model} (Total: {model_totals[model]})\n\n')
             for lang, count in sorted(lang_count.items(), key=lambda x: x[1], reverse=True):
                 f.write(f'- {lang}: {count}\n')
             f.write('\n')
