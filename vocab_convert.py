@@ -64,19 +64,84 @@ def is_english(ch: str):
     )
 
 chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
-english_pattern = re.compile(r'^[a-zA-Z._]+$')
+english_pattern = re.compile(r'^[a-zA-Z]+$')
 digit_pattern = re.compile(r'^[0-9]+$')
  
+def detect_language(text):
+    """
+    Detect the probable language of a text string based on character ranges.
+    Returns a dictionary with detected languages and their percentage of characters.
+    
+    Supports: English, Chinese, Japanese, Korean, Russian, Greek, Arabic, Hebrew, Thai
+    """
+    if not text:
+        return {"unknown": 100.0}
+    
+    # Character range definitions
+    ranges = {
+        "english": lambda c: ord('a') <= ord(c.lower()) <= ord('z'),
+        "chinese": lambda c: 0x4E00 <= ord(c) <= 0x9FFF,
+        "japanese": lambda c: (0x3040 <= ord(c) <= 0x309F) or  # Hiragana
+                            (0x30A0 <= ord(c) <= 0x30FF) or    # Katakana
+                            (0x4E00 <= ord(c) <= 0x9FFF),      # Kanji
+        "korean": lambda c: 0xAC00 <= ord(c) <= 0xD7AF,
+        "russian": lambda c: 0x0400 <= ord(c) <= 0x04FF,
+        "greek": lambda c: 0x0370 <= ord(c) <= 0x03FF,
+        "arabic": lambda c: 0x0600 <= ord(c) <= 0x06FF,
+        "hebrew": lambda c: 0x0590 <= ord(c) <= 0x05FF,
+        "thai": lambda c: 0x0E00 <= ord(c) <= 0x0E7F
+    }
+    
+    # Count characters for each language
+    counts = {lang: 0 for lang in ranges}
+    total_chars = 0
+    
+    for char in text:
+        if char.isspace():
+            continue
+        total_chars += 1
+        for lang, char_range in ranges.items():
+            if char_range(char):
+                counts[lang] += 1
+                
+    if total_chars == 0:
+        return {"unknown": 100.0}
+    
+    # Calculate percentages and filter out languages with 0%
+    percentages = {
+        lang: (count / total_chars) * 100
+        for lang, count in counts.items()
+        if count > 0
+    }
+    
+    # If no language detected, mark as unknown
+    if not percentages:
+        return {"unknown": 100.0}
+    
+    return percentages
+
+def get_primary_language(text):
+    """
+    Returns the most probable language for the given text.
+    """
+    try:
+        langs = detect_language(text)
+    except TypeError:
+        logger.error(f'detect {text} failed')
+        return 'NULL'
+    if not langs or langs.get("unknown", 0) == 100.0:
+        return "NULL"
+    return max(langs.items(), key=lambda x: x[1])[0]
+
+
 def detect_lang(s):
+    if '\t' in s or '\\t' in s or '\n' in s or '\\n' in s:
+        return 'control'
     if chinese_pattern.match(s):
         return 'zh-cn'
-    if english_pattern.match(s):
-        return 'en'
     if digit_pattern.match(s):
         return 'digits'
-    if re.search('[a-zA-Z]', s):
-        return 'part-en'
-    return 'NULL'
+    return get_primary_language(s)
 
 
 def process_vocab(tok_path):
