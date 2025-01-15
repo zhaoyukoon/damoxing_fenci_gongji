@@ -179,7 +179,7 @@ def process_vocab(tok_path):
     seg_english_vocab = dict()
     english_vocab = dict()
     seg_char_vocab = dict()
-    
+    lang_count = dict()
     vocab = []
     if tok_path == 'internlm':
         logger.info(f'load vocab from {tok_path}/internlm3-8b-instruct/vocab.txt')
@@ -196,6 +196,8 @@ def process_vocab(tok_path):
     for key in vocab:
         c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t')
         lang = detect_lang(c)
+        lc = lang_count[lang] if lang in lang_count else 0
+        lang_count[lang] = lc + 1
         segs = []
         if lang == 'pure_english':
             english_vocab[c] = len(c)
@@ -251,8 +253,7 @@ def process_vocab(tok_path):
     logger.info(f'write to {tok_path}/vocab_extend.json')
     with open(tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
         json.dump(tuples, f, ensure_ascii=False, indent=4)
-    return (all_lens, chinese_lens)
-
+    return (all_lens, chinese_lens, lang_count)
 
 def plot_length_distribution(lengths_pairs, vocab_names):
     plt.figure(figsize=(10, 6))
@@ -309,15 +310,59 @@ def plot_length_distribution(lengths_pairs, vocab_names):
     plt.savefig('vocab_length_histogram.png', dpi=300, bbox_inches='tight')
     logger.info('Saved histogram to vocab_length_histogram.png')
 
-
+def write_lang_count_markdown(model_to_lang_count):
+    """
+    Write language distribution statistics to a markdown file
+    
+    Args:
+        model_to_lang_count (dict): Dictionary mapping model names to their language counts
+    """
+    logger.info('Writing language counts to model_lang_count.md')
+    
+    with open('model_lang_count.md', 'w', encoding='utf-8') as f:
+        # Write header
+        f.write('# Model Language Distribution Statistics\n\n')
+        
+        # Create table header
+        languages = set()
+        for lang_count in model_to_lang_count.values():
+            languages.update(lang_count.keys())
+        languages = sorted(list(languages))
+        
+        # Write table header
+        f.write('| Model | ' + ' | '.join(languages) + ' | Total |\n')
+        f.write('|-------|' + '|'.join(['---' for _ in range(len(languages) + 1)]) + '|\n')
+        
+        # Write data rows
+        for model, lang_count in model_to_lang_count.items():
+            total = sum(lang_count.values())
+            row = [model]
+            for lang in languages:
+                count = lang_count.get(lang, 0)
+                row.append(str(count))
+            row.append(str(total))
+            f.write('| ' + ' | '.join(row) + ' |\n')
+        
+        # Add summary section
+        f.write('\n## Summary\n\n')
+        for model, lang_count in model_to_lang_count.items():
+            f.write(f'### {model}\n\n')
+            for lang, count in sorted(lang_count.items(), key=lambda x: x[1], reverse=True):
+                f.write(f'- {lang}: {count}\n')
+            f.write('\n')
+            
 if __name__ == '__main__':
     args = parse_args()
     if args.tok_path == 'all':
-        choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm']
+        models=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm']
+        model_to_lang_count = dict()
         pairs= []
-        for choice in choices:
-            pairs.append(process_vocab(choice))
+        for model in models:
+            (all_lens, chinese_lens, lang_count) = process_vocab(model)
+            pairs.append(process_vocab([all_lens, chinese_lens]))
+            model_to_lang_count[model]=lang_count
         plot_length_distribution(pairs, choices)
+        write_lang_count_markdown(model_to_lang_count)
     else:
         (all_lens, chinese_lens) = process_vocab(args.tok_path)
         plot_length_distribution([(all_lens, chinese_lens)], [args.tok_path])
