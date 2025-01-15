@@ -191,7 +191,7 @@ def process_vocab(tok_path):
     elif tok_path == 'gpt-4o':
         logger.info('Loading OpenAI gpt-4o tokenizer vocabulary')        
         # Add o200_base encoding
-        encoder = get_encoding('o200_base')  # Using o200_base encoding
+        encoder = get_encoding('o200k_base')  # Using o200_base encoding
         
         tokens = []
         for i in range(encoder.max_token_value + 1):
