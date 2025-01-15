@@ -12,7 +12,7 @@ import jieba
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
     parser.add_argument('--tok_path', type=str, default='both',
-                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B'],
+                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm'],
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 both')
     return parser.parse_args()
 
@@ -148,36 +148,45 @@ def process_vocab(tok_path):
     v_len=dict()
     tuples = []
 
-    logger.info(f'load vocab from {tok_path}/tokenizer.json')
     all_lens = []
     chinese_lens = []
     seg_chinese_vocab = dict()
     english_vocab = dict()
     seg_char_vocab = dict()
     
-    with open(tok_path + '/tokenizer.json') as f:
-        j_obj = json.load(f)
-        vocab = j_obj['model']['vocab']
-        for key in vocab:
-            c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t')
-            lang = detect_lang(c)
-            segs = []
-            if lang == 'english':
-                english_vocab[c] = len(c)
-            elif lang == 'zh-cn':
-                segs = list(jieba.cut(c))
-                for seg in segs:
-                    count = 0 if seg not in seg_chinese_vocab else seg_chinese_vocab[seg]
-                    seg_chinese_vocab[seg] = count + 1
-                    for char in seg:
-                        count = 0 if char not in seg_char_vocab else seg_char_vocab[char]
-                        seg_char_vocab[char] = count + 1
+    vocab = []
+    if tok_path == 'internlm':
+        logger.info(f'load vocab from {tok_path}/internlm3-8b-instruct/vocab.txt')
+        tok_path=tok_path + '/internlm3-8b-instruct'
+        with open(tok_path+"/vocab.txt") as f:
+            for line in f:
+                vocab.append(line.strip())
+    else:
+        logger.info(f'load vocab from {tok_path}/tokenizer.json')
+
+        with open(tok_path + '/tokenizer.json') as f:
+            j_obj = json.load(f)
+            vocab = j_obj['model']['vocab']
+    for key in vocab:
+        c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t')
+        lang = detect_lang(c)
+        segs = []
+        if lang == 'english':
+            english_vocab[c] = len(c)
+        elif lang == 'zh-cn':
+            segs = list(jieba.cut(c))
+            for seg in segs:
+                count = 0 if seg not in seg_chinese_vocab else seg_chinese_vocab[seg]
+                seg_chinese_vocab[seg] = count + 1
+                for char in seg:
+                    count = 0 if char not in seg_char_vocab else seg_char_vocab[char]
+                    seg_char_vocab[char] = count + 1
  
-            v_len[key + "\t" + c + "\t" + ' '.join(segs)]=len(c)
-            tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'converted_seg': ' '.join(segs),'lang': lang})
-            all_lens.append(len(c))
-            if lang == 'zh-cn':
-                chinese_lens.append(len(c))
+        v_len[key + "\t" + c + "\t" + ' '.join(segs)]=len(c)
+        tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'converted_seg': ' '.join(segs),'lang': lang})
+        all_lens.append(len(c))
+        if lang == 'zh-cn':
+            chinese_lens.append(len(c))
 
     sorted_dict = {key: value for key, value in sorted(
         v_len.items(), key=lambda item: item[1], reverse=False)}
