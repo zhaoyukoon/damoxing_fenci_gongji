@@ -337,7 +337,7 @@ def write_lang_count_markdown(model_to_lang_count):
     """
     logger.info('Writing language counts to model_lang_count.md')
     
-    with open('model_lang_count.md', 'w', encoding='utf-8') as f:
+    with open('大模型词汇语言分布.md', 'w', encoding='utf-8') as f:
         # Write header
         f.write('# 大模型词汇语言分布\n\n')
         
