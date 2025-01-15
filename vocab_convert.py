@@ -12,7 +12,7 @@ import jieba
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
     parser.add_argument('--tok_path', type=str, default='both',
-                       choices=['deepseek_v3', 'qwen2.5-72b'],
+                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B'],
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 both')
     return parser.parse_args()
 
@@ -55,8 +55,29 @@ def uni_str_to_bytes(word):
     except UnicodeDecodeError:
         return word
 
+
+def is_english(ch: str):
+    code_point = ord(ch)
+    return (
+        ord('a') <= code_point <= ord('z') or
+        ord('A') <= code_point <= ord('Z')
+    )
+
+chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
+english_pattern = re.compile(r'^[a-zA-Z._]+$')
+digit_pattern = re.compile(r'^[0-9]+$')
+ 
+def detect_lang(s):
+    if chinese_pattern.match(s):
+        return 'zh-cn'
+    if english_pattern.match(s):
+        return 'en'
+    if digit_pattern.match(s):
+        return 'digits'
+    return 'NULL'
+
+
 def process_vocab(tok_path):
-    chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
     v_len=dict()
     tuples = []
 
@@ -64,6 +85,7 @@ def process_vocab(tok_path):
     all_lens = []
     chinese_lens = []
     seg_chinese_vocab = dict()
+    english_vocab = dict()
     seg_char_vocab = dict()
     
     with open(tok_path + '/tokenizer.json') as f:
@@ -71,10 +93,11 @@ def process_vocab(tok_path):
         vocab = j_obj['model']['vocab']
         for key in vocab:
             c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t')
-            lang = 'NULL'
+            lang = detect_lang(c)
             segs = []
-            if  chinese_pattern.match(c):
-                lang = 'zh-cn'
+            if lang == 'en':
+                english_vocab[c] = len(c)
+            elif lang == 'zh-cn':
                 segs = list(jieba.cut(c))
                 for seg in segs:
                     count = 0 if seg not in seg_chinese_vocab else seg_chinese_vocab[seg]
@@ -96,6 +119,12 @@ def process_vocab(tok_path):
         for k, v in sorted(seg_chinese_vocab.items(), key=lambda item: -item[1]):
             f.write(k+"\t"+str(v)+"\t"+ str(len(k)) + "\n")
 
+    logger.info(f'write to {tok_path}/vocab_english.tsv')
+    with open(tok_path + '/vocab_english.tsv', 'w', encoding='utf-8') as f:
+        for k, v in sorted(english_vocab.items(), key=lambda item: -item[1]):
+            f.write(k+"\t"+str(v) + "\n")
+
+
     logger.info(f'write to {tok_path}/vocab_char.tsv')
     with open(tok_path + '/vocab_char.tsv', 'w', encoding='utf-8') as f:
         for k, v in sorted(seg_char_vocab.items(), key=lambda item: -item[1]):
@@ -105,7 +134,8 @@ def process_vocab(tok_path):
     with open(tok_path + '/vocab_extend.tsv', 'w', encoding='utf-8') as f:
         for key in tqdm(sorted_dict):
             l = sorted_dict[key]
-            lang='zh-cn'if  chinese_pattern.match(key.split('\t')[1]) else 'NULL'
+            c = key.split('\t')[1]
+            lang = detect_lang(c)
             f.write(f'{key}\t{l}\t{lang}\n')
     logger.info(f'write to {tok_path}/vocab_extend.json')
     with open(tok_path + '/vocab_extend.json', 'w', encoding='utf-8') as f:
