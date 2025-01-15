@@ -55,7 +55,8 @@ def main():
         for token in tokens:
             chn = ''.join(filter(is_chinese, token))
             eng = ''.join(filter(is_english, token))
-            en_words.append(eng)
+            if len(eng):
+                en_words.append(eng)
 
             # Keep this token if:
             # 1. >= 2 chinese characters
