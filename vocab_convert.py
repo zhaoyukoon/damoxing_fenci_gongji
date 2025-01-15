@@ -329,7 +329,8 @@ def plot_length_distribution(lengths_pairs, vocab_names):
 
 def write_lang_count_markdown(model_to_lang_count):
     """
-    Write language distribution statistics to a markdown file
+    Write language distribution statistics to a markdown file with languages as rows
+    and models as columns
     
     Args:
         model_to_lang_count (dict): Dictionary mapping model names to their language counts
@@ -340,24 +341,26 @@ def write_lang_count_markdown(model_to_lang_count):
         # Write header
         f.write('# Model Language Distribution Statistics\n\n')
         
-        # Create table header
+        # Get sorted list of models and languages
+        models = sorted(list(model_to_lang_count.keys()))
         languages = set()
         for lang_count in model_to_lang_count.values():
             languages.update(lang_count.keys())
         languages = sorted(list(languages))
         
         # Write table header
-        f.write('| Model | ' + ' | '.join(languages) + ' | Total |\n')
-        f.write('|-------|' + '|'.join(['---' for _ in range(len(languages) + 1)]) + '|\n')
+        f.write('| Language | ' + ' | '.join(models) + ' | Total |\n')
+        f.write('|----------|' + '|'.join(['---' for _ in range(len(models) + 1)]) + '|\n')
         
-        # Write data rows
-        for model, lang_count in model_to_lang_count.items():
-            total = sum(lang_count.values())
-            row = [model]
-            for lang in languages:
-                count = lang_count.get(lang, 0)
+        # Write data rows, one for each language
+        for lang in languages:
+            row = [lang]
+            lang_total = 0
+            for model in models:
+                count = model_to_lang_count[model].get(lang, 0)
+                lang_total += count
                 row.append(str(count))
-            row.append(str(total))
+            row.append(str(lang_total))
             f.write('| ' + ' | '.join(row) + ' |\n')
         
         # Add summary section
