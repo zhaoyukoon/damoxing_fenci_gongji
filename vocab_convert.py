@@ -11,9 +11,9 @@ import jieba
 
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
-    parser.add_argument('--tok_path', type=str, default='both',
+    parser.add_argument('--tok_path', type=str, default='all',
                        choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm'],
-                       help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 both')
+                       help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 all')
     return parser.parse_args()
 
 def unicode_to_bytes_map():
@@ -138,7 +138,7 @@ def detect_lang(s):
     if '\t' in s or '\\t' in s or '\n' in s or '\\n' in s:
         return 'control'
     if chinese_pattern.match(s):
-        return 'zh-cn'
+        return 'chinese'
     if digit_pattern.match(s):
         return 'digits'
     return get_primary_language(s)
@@ -173,7 +173,7 @@ def process_vocab(tok_path):
         segs = []
         if lang == 'english':
             english_vocab[c] = len(c)
-        elif lang == 'zh-cn':
+        elif lang == 'chinese':
             segs = list(jieba.cut(c))
             for seg in segs:
                 count = 0 if seg not in seg_chinese_vocab else seg_chinese_vocab[seg]
@@ -185,7 +185,7 @@ def process_vocab(tok_path):
         v_len[key + "\t" + c + "\t" + ' '.join(segs)]=len(c)
         tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'converted_seg': ' '.join(segs),'lang': lang})
         all_lens.append(len(c))
-        if lang == 'zh-cn':
+        if lang == 'chinese':
             chinese_lens.append(len(c))
 
     sorted_dict = {key: value for key, value in sorted(
@@ -268,11 +268,12 @@ def plot_length_distribution(lengths_pairs, vocab_names):
 
 if __name__ == '__main__':
     args = parse_args()
-    if args.tok_path == 'both':
-        (all_lens1, chinese_lens1) = process_vocab('deepseek_v3')
-        (all_lens2, chinese_lens2) = process_vocab('qwen2.5-72b')
-        pairs = [(all_lens1, chinese_lens1), (all_lens2, chinese_lens2)]
-        plot_length_distribution(pairs, ['deepseek_v3', 'qwen2.5-72b'])
+    if args.tok_path == 'all':
+        choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm']
+        pairs= []
+        for choice in choices:
+            pairs.append(process_vocab(choice))
+        plot_length_distribution(pairs, choices)
     else:
         (all_lens, chinese_lens) = process_vocab(args.tok_path)
         plot_length_distribution([(all_lens, chinese_lens)], [args.tok_path])
