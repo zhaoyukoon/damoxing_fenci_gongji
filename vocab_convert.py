@@ -14,7 +14,7 @@ import tiktoken
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
     parser.add_argument('--tok_path', type=str, default='all',
-                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm', 'gpt4-o'],
+                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instructi', 'gpt4-o'],
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 all')
     return parser.parse_args()
 
@@ -182,9 +182,8 @@ def process_vocab(tok_path):
     seg_char_vocab = dict()
     lang_count = dict()
     vocab = []
-    if tok_path == 'internlm':
-        logger.info(f'load vocab from {tok_path}/internlm3-8b-instruct/vocab.txt')
-        tok_path=tok_path + '/internlm3-8b-instruct'
+    if tok_path == 'internlm3-8b-instruct':
+        logger.info(f'load vocab from {tok_path}/vocab.txt')
         with open(tok_path+"/vocab.txt") as f:
             for line in f:
                 vocab.append(line.strip())
@@ -374,7 +373,7 @@ def write_lang_count_markdown(model_to_lang_count):
 if __name__ == '__main__':
     args = parse_args()
     if args.tok_path == 'all':
-        models=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm', 'gpt-4o']
+        models=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B','internlm3-8b-instruct', 'gpt-4o']
         model_to_lang_count = dict()
         pairs= []
         for model in models:
