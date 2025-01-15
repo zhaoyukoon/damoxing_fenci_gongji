@@ -13,7 +13,7 @@ import tiktoken
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
     parser.add_argument('--tok_path', type=str, default='all',
-                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm'],
+                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm', 'gpt4-o'],
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 all')
     return parser.parse_args()
 
@@ -187,6 +187,22 @@ def process_vocab(tok_path):
         with open(tok_path+"/vocab.txt") as f:
             for line in f:
                 vocab.append(line.strip())
+    elif tok_path == 'gpt-4o':
+        logger.info('Loading OpenAI gpt-4o tokenizer vocabulary')
+        from tiktoken import get_encoding, MODEL_TO_ENCODING
+        
+        # Add o200_base encoding
+        encoder = get_encoding('o200_base')  # Using o200_base encoding
+        
+        tokens = []
+        for i in range(encoder.max_token_value + 1):
+            try:
+                token = encoder.decode([i])
+                vocab.append(token)
+            except:
+                continue
+                
+        logger.info(f'Loaded {len(vocab)} tokens from o200_base vocabulary')
     else:
         logger.info(f'load vocab from {tok_path}/tokenizer.json')
 
@@ -354,7 +370,7 @@ def write_lang_count_markdown(model_to_lang_count):
 if __name__ == '__main__':
     args = parse_args()
     if args.tok_path == 'all':
-        models=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm']
+        models=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm', 'gpt-4o']
         model_to_lang_count = dict()
         pairs= []
         for model in models:
