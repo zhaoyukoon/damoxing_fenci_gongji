@@ -222,68 +222,62 @@ def process_vocab(tok_path):
 def plot_length_distribution(lengths_pairs, vocab_names):
     plt.figure(figsize=(10, 6))
     
-    # Define distinct color + line style combinations
+    # Define distinct line styles for each model
     styles = [
-        {'color': '#1f77b4', 'marker': 'o', 'linestyle': '-'},  # blue, circle, solid
-        {'color': '#ff7f0e', 'marker': 's', 'linestyle': '--'},  # orange, square, dashed
-        {'color': '#2ca02c', 'marker': '^', 'linestyle': '-.'},  # green, triangle, dashdot
-        {'color': '#d62728', 'marker': 'v', 'linestyle': ':'},   # red, triangle-down, dotted
-        {'color': '#9467bd', 'marker': 'D', 'linestyle': '-'},   # purple, diamond, solid
-        {'color': '#8c564b', 'marker': 'p', 'linestyle': '--'},  # brown, pentagon, dashed
-        {'color': '#e377c2', 'marker': 'h', 'linestyle': '-.'},  # pink, hexagon, dashdot
-        {'color': '#7f7f7f', 'marker': '*', 'linestyle': ':'}    # gray, star, dotted
+        {'color': 'blue', 'linestyle': '-', 'marker': 'o'},      # deepseek all
+        {'color': 'blue', 'linestyle': '--', 'marker': 'o'},     # deepseek chinese
+        {'color': 'red', 'linestyle': '--', 'marker': 's'},      # qwen all
+        {'color': 'red', 'linestyle': ':', 'marker': 's'},       # qwen chinese
+        {'color': 'green', 'linestyle': '-.', 'marker': '^'},    # MiniCPM all
+        {'color': 'green', 'linestyle': ':', 'marker': '^'},     # MiniCPM chinese
+        {'color': 'purple', 'linestyle': ':', 'marker': 'D'},    # internlm all
+        {'color': 'purple', 'linestyle': '--', 'marker': 'D'}    # internlm chinese
     ]
     
     for i in range(len(vocab_names)):
-        # Sort lengths in descending order for Zipf plot
-        all_lens = sorted(lengths_pairs[i][0], reverse=True)
-        chinese_lens = sorted(lengths_pairs[i][1], reverse=True)
+        all_lens = lengths_pairs[i][0]
+        chinese_lens = lengths_pairs[i][1]
         
-        # Calculate ranks
-        all_ranks = np.arange(1, len(all_lens) + 1)
-        chinese_ranks = np.arange(1, len(chinese_lens) + 1)
+        # Calculate histogram data
+        all_counts, all_bins = np.histogram(all_lens, bins=50)
+        chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
         
-        # Plot all vocabularies - with swapped axes (y=ranks, x=lengths)
-        plt.plot(all_lens, all_ranks,
+        # Get bin centers
+        all_bins_centers = (all_bins[:-1] + all_bins[1:]) / 2
+        chinese_bins_centers = (chinese_bins[:-1] + chinese_bins[1:]) / 2
+        
+        # Plot smooth curves for both all and Chinese vocabularies
+        plt.plot(all_bins_centers, 
+                all_counts,
                 color=styles[2*i]['color'],
-                marker=styles[2*i]['marker'],
                 linestyle=styles[2*i]['linestyle'],
-                label=f"{vocab_names[i]}_all",
-                alpha=0.7,
+                marker=styles[2*i]['marker'],
                 markersize=4,
-                markevery=len(all_ranks)//20)  # Plot markers at intervals
+                linewidth=1.5,
+                label=f"{vocab_names[i]}_all")
         
-        # Plot Chinese vocabularies - with swapped axes
-        plt.plot(chinese_lens, chinese_ranks,
+        plt.plot(chinese_bins_centers, 
+                chinese_counts,
                 color=styles[2*i+1]['color'],
-                marker=styles[2*i+1]['marker'],
                 linestyle=styles[2*i+1]['linestyle'],
-                label=f"{vocab_names[i]}_chinese",
-                alpha=0.7,
+                marker=styles[2*i+1]['marker'],
                 markersize=4,
-                markevery=len(chinese_ranks)//20)  # Plot markers at intervals
+                linewidth=1.5,
+                label=f"{vocab_names[i]}_chinese")
     
-    # Set log scales (swapped from previous version)
-    plt.yscale('log')
     plt.xscale('log')
+    plt.yscale('log')
     
-    # Set labels and title (swapped from previous version)
-    plt.title('Vocabulary Length Zipf Distribution')
-    plt.ylabel('Rank (log scale)')
-    plt.xlabel('Token Length (log scale)')
-    
-    # Customize legend
+    plt.title('Vocabulary Length Distribution')
+    plt.xlabel('Vocabulary Length (log scale)')
+    plt.ylabel('Count (log scale)')
     plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.grid(True, alpha=0.3, linestyle='--')
     
-    # Add grid with custom style
-    plt.grid(True, alpha=0.3, linestyle='--', which='both')
-    
-    # Adjust layout to prevent label cutoff
     plt.tight_layout()
-    
-    # Save the plot
-    plt.savefig('vocab_length_zipf.png', dpi=300, bbox_inches='tight')
-    logger.info('Saved Zipf distribution plot to vocab_length_zipf.png')
+    plt.savefig('vocab_length_histogram.png', dpi=300, bbox_inches='tight')
+    logger.info('Saved histogram to vocab_length_histogram.png')
+
 
 if __name__ == '__main__':
     args = parse_args()
