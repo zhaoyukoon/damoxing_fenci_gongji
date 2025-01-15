@@ -162,7 +162,7 @@ def process_vocab(tok_path):
             c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t')
             lang = detect_lang(c)
             segs = []
-            if lang == 'en':
+            if lang == 'english':
                 english_vocab[c] = len(c)
             elif lang == 'zh-cn':
                 segs = list(jieba.cut(c))
@@ -266,4 +266,4 @@ if __name__ == '__main__':
         plot_length_distribution(pairs, ['deepseek_v3', 'qwen2.5-72b'])
     else:
         (all_lens, chinese_lens) = process_vocab(args.tok_path)
-        plot_length_distribution([(all_lens, chinese_lens)], args.tok_path)
+        plot_length_distribution([(all_lens, chinese_lens)], [args.tok_path])
