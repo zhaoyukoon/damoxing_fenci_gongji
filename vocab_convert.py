@@ -361,7 +361,7 @@ if __name__ == '__main__':
             (all_lens, chinese_lens, lang_count) = process_vocab(model)
             pairs.append([all_lens, chinese_lens])
             model_to_lang_count[model]=lang_count
-        plot_length_distribution(pairs, choices)
+        plot_length_distribution(pairs, models)
         write_lang_count_markdown(model_to_lang_count)
     else:
         (all_lens, chinese_lens) = process_vocab(args.tok_path)
