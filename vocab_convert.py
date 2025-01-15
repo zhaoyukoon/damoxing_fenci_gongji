@@ -74,6 +74,8 @@ def detect_lang(s):
         return 'en'
     if digit_pattern.match(s):
         return 'digits'
+    if re.search('[a-zA-Z]', s):
+        return 'part-en'
     return 'NULL'
 
 
