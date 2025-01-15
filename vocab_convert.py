@@ -282,7 +282,9 @@ def plot_length_distribution(lengths_pairs, vocab_names):
         {'color': 'green', 'linestyle': '-.', 'marker': '^'},    # MiniCPM all
         {'color': 'green', 'linestyle': ':', 'marker': '^'},     # MiniCPM chinese
         {'color': 'purple', 'linestyle': ':', 'marker': 'D'},    # internlm all
-        {'color': 'purple', 'linestyle': '--', 'marker': 'D'}    # internlm chinese
+        {'color': 'purple', 'linestyle': '--', 'marker': 'D'},   # internlm chinese
+        {'color': 'orange', 'linestyle': '-', 'marker': 'v'},    # gpt-4 all
+        {'color': 'orange', 'linestyle': '--', 'marker': 'v'}    # gpt-4 chinese
     ]
     
     for i in range(len(vocab_names)):
