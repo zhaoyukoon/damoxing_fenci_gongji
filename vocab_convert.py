@@ -238,16 +238,12 @@ def plot_length_distribution(lengths_pairs, vocab_names):
         all_lens = lengths_pairs[i][0]
         chinese_lens = lengths_pairs[i][1]
         
-        # Calculate histogram data
-        all_counts, all_bins = np.histogram(all_lens, bins=50)
-        chinese_counts, chinese_bins = np.histogram(chinese_lens, bins=50)
+        # Count occurrences of each length
+        all_unique_lengths, all_counts = np.unique(all_lens, return_counts=True)
+        chinese_unique_lengths, chinese_counts = np.unique(chinese_lens, return_counts=True)
         
-        # Get bin centers
-        all_bins_centers = (all_bins[:-1] + all_bins[1:]) / 2
-        chinese_bins_centers = (chinese_bins[:-1] + chinese_bins[1:]) / 2
-        
-        # Plot smooth curves for both all and Chinese vocabularies
-        plt.plot(all_bins_centers, 
+        # Plot actual length counts
+        plt.plot(all_unique_lengths, 
                 all_counts,
                 color=styles[2*i]['color'],
                 linestyle=styles[2*i]['linestyle'],
@@ -256,7 +252,7 @@ def plot_length_distribution(lengths_pairs, vocab_names):
                 linewidth=1.5,
                 label=f"{vocab_names[i]}_all")
         
-        plt.plot(chinese_bins_centers, 
+        plt.plot(chinese_unique_lengths, 
                 chinese_counts,
                 color=styles[2*i+1]['color'],
                 linestyle=styles[2*i+1]['linestyle'],
