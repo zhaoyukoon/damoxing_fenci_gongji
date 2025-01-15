@@ -339,7 +339,7 @@ def write_lang_count_markdown(model_to_lang_count):
     
     with open('model_lang_count.md', 'w', encoding='utf-8') as f:
         # Write header
-        f.write('# Model Language Distribution Statistics\n\n')
+        f.write('# 大模型词汇语言分布\n\n')
         
         # Get sorted list of models and languages
         models = sorted(list(model_to_lang_count.keys()))
