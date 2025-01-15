@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import jieba
 
+import tiktoken
 #jieba.enable_paddle()
 
 def parse_args():
@@ -15,6 +16,28 @@ def parse_args():
                        choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm'],
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 all')
     return parser.parse_args()
+
+
+def tokenize_text(text, model="gpt-4o"):
+    """
+    Tokenize text using GPT tokenizer
+    
+    Args:
+        text (str): Text to tokenize
+        model (str): Model name to use for tokenization (default: gpt-3.5-turbo)
+    
+    Returns:
+        list: List of tokens
+        int: Number of tokens
+    """
+    # Get the tokenizer for the specified model
+    encoder = tiktoken.encoding_for_model(model)
+    
+    # Encode the text to tokens
+    tokens = encoder.encode(text)
+    # Decode tokens back to strings for visualization
+    token_strings = [encoder.decode([token]) for token in tokens]
+    return token_strings
 
 def unicode_to_bytes_map():
     """
@@ -137,6 +160,8 @@ def get_primary_language(text):
 def detect_lang(s):
     if '\t' in s or '\\t' in s or '\n' in s or '\\n' in s:
         return 'control'
+    if english_pattern.match(s):
+        return 'pure_english'
     if chinese_pattern.match(s):
         return 'chinese'
     if digit_pattern.match(s):
@@ -151,6 +176,7 @@ def process_vocab(tok_path):
     all_lens = []
     chinese_lens = []
     seg_chinese_vocab = dict()
+    seg_english_vocab = dict()
     english_vocab = dict()
     seg_char_vocab = dict()
     
@@ -171,8 +197,13 @@ def process_vocab(tok_path):
         c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t')
         lang = detect_lang(c)
         segs = []
-        if lang == 'english':
+        if lang == 'pure_english':
             english_vocab[c] = len(c)
+            
+            segs = tokenize_text(c) if  english_pattern.match(c) and len(c) > 5 else [c]
+            for seg in segs:
+                count = 0 if seg not in seg_english_vocab else seg_english_vocab[seg]
+                seg_english_vocab[seg] = count + 1
         elif lang == 'chinese':
             segs = list(jieba.cut(c))
             for seg in segs:
@@ -193,6 +224,10 @@ def process_vocab(tok_path):
     logger.info(f'write to {tok_path}/vocab_extend_segged.tsv')
     with open(tok_path + '/vocab_extend_segged.tsv', 'w', encoding='utf-8') as f:
         for k, v in sorted(seg_chinese_vocab.items(), key=lambda item: -item[1]):
+            f.write(k+"\t"+str(v)+"\t"+ str(len(k)) + "\n")
+
+    with open(tok_path + '/vocab_extend_segged_english.tsv', 'w', encoding='utf-8') as f:
+        for k, v in sorted(seg_english_vocab.items(), key=lambda item: -item[1]):
             f.write(k+"\t"+str(v)+"\t"+ str(len(k)) + "\n")
 
     logger.info(f'write to {tok_path}/vocab_english.tsv')
@@ -286,3 +321,4 @@ if __name__ == '__main__':
     else:
         (all_lens, chinese_lens) = process_vocab(args.tok_path)
         plot_length_distribution([(all_lens, chinese_lens)], [args.tok_path])
+
