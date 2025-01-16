@@ -1,0 +1,10 @@
+{
+  "add_prefix_space": false,
+  "bos_token": "<beginning_of_sentence>",
+  "clean_up_tokenization_spaces": false,
+  "eos_token": "<end_of_sentence>",
+  "model_max_length": 40960000,
+  "tokenizer_class": "GPT2Tokenizer",
+  "unk_token": "<end_of_document>",
+  "chat_template": "{% for message in messages %}{% if message['role'] == 'system' %}{{ '<beginning_of_sentence>system ai_setting=assistant\\n' + message['content'][0]['text'] + '<end_of_sentence>\\n'}}{% elif message['role'] == 'user' %}{{ '<beginning_of_sentence>user name=user\\n' + message['content'][0]['text'] + '<end_of_sentence>\\n'}}{% elif message['role'] == 'assistant' %}{{ '<beginning_of_sentence>ai name=assistant\\n' }}{% for content in message['content'] | selectattr('type', 'equalto', 'text') %}{% generation %}{{ content['text'] }}{% endgeneration %}{% endfor %}{{ '<end_of_sentence>\\n' }}{% endif %}{% endfor %}{% if add_generation_prompt %}{{ '<beginning_of_sentence>ai name=assistant\\n' }}{% endif %}"
+}

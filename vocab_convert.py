@@ -11,10 +11,12 @@ from tiktoken.model import MODEL_TO_ENCODING
 import tiktoken
 #jieba.enable_paddle()
 
+models =['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01']
+
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
     parser.add_argument('--tok_path', type=str, default='all',
-                       choices=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instructi', 'gpt4-o'],
+                       choices=models + ['all'],
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 all')
     return parser.parse_args()
 
@@ -283,7 +285,9 @@ def plot_length_distribution(lengths_pairs, vocab_names):
         {'color': 'purple', 'linestyle': ':', 'marker': 'D'},    # internlm all
         {'color': 'purple', 'linestyle': '--', 'marker': 'D'},   # internlm chinese
         {'color': 'orange', 'linestyle': '-', 'marker': 'v'},    # gpt-4 all
-        {'color': 'orange', 'linestyle': '--', 'marker': 'v'}    # gpt-4 chinese
+        {'color': 'orange', 'linestyle': '--', 'marker': 'v'},    # gpt-4 chinese
+        {'color': 'brown', 'linestyle': '-', 'marker': 'p'},     # minimax all
+        {'color': 'brown', 'linestyle': '--', 'marker': 'p'}     # minimax chinese
     ]
     
     for i in range(len(vocab_names)):
@@ -381,7 +385,6 @@ def write_lang_count_markdown(model_to_lang_count):
 if __name__ == '__main__':
     args = parse_args()
     if args.tok_path == 'all':
-        models=['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B','internlm3-8b-instruct', 'gpt-4o']
         model_to_lang_count = dict()
         pairs= []
         for model in models:
