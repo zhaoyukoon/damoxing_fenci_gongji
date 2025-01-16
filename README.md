@@ -16,7 +16,7 @@
 
 ## 记录
 
-2025/01/16: 分析了今天刚刚发布的[MiniMax-Text01](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)，中文词汇以1个和2个字为主
+2025/01/16: 分析了今天刚刚发布的[MiniMax-Text01](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)，中文词汇以2个和3个字为主，有非常多的长词。原始词表38421，重新分词后 23473。
 
 2025/01/15: 分析了今天刚刚发布的[internlm3-8b-instruct](https://huggingface.co/internlm/internlm3-8b-instruct)，中文词汇以1个和2个字为主，和本文期望一致，不提交issue。原始词表有 10364 中文词，重新 分词去重之后有7901。
 
