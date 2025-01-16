@@ -6,7 +6,7 @@
 
 [原始完整版(旧)](https://docs.qq.com/pdf/DT095ZktteVVJTE5K)
 
-下面是各个大模型词表中英文和中文词汇数量统计，具体参考（[大模型词汇语言分布](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E6%B1%87%E8%AF%AD%E8%A8%80%E5%88%86%E5%B8%83.md)和[分析报告](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E8%A1%A8%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md))：
+下面是各个大模型词表中英文和中文词汇数量统计，具体参考（[大模型词汇语言分布](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E6%B1%87%E8%AF%AD%E8%A8%80%E5%88%86%E5%B8%83.md)和[分析报告](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E8%A1%A8%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)）：
 
 | 词表统计 | GPT-4o | Deepseek-v3 | Qwen2.5 |  MiniCPM3-4B  |  internlm3-8b-instruct |
 | ----- | ----- | ----- | ----- |  ----- |   ----- |
