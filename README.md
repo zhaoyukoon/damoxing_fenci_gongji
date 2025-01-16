@@ -2,6 +2,8 @@
 
 ## 文章
 
+大模型中分词使用的是数据驱动的BPE，数据集分布对词表有很大的影响。本项目分析各个大模型的词表语言和词汇长度分布。
+
 [markdown简约版(新)](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E8%AE%BA%E6%96%87.md)
 
 [原始完整版(旧)](https://docs.qq.com/pdf/DT095ZktteVVJTE5K)
