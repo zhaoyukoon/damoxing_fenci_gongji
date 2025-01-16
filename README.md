@@ -8,15 +8,17 @@
 
 下面是各个大模型词表中英文和中文词汇数量统计，具体参考（[大模型词汇语言分布](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E6%B1%87%E8%AF%AD%E8%A8%80%E5%88%86%E5%B8%83.md)和[分析报告](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E8%A1%A8%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)）：
 
-| 词表统计 | GPT-4o | Deepseek-v3 | Qwen2.5 |  MiniCPM3-4B  |  internlm3-8b-instruct |
-| ----- | ----- | ----- | ----- |  ----- |   ----- |
-| 中文 | 7478 | 35184 | 24966 |  28322 |  10364 | 10364 | 
-|  英文| 134382 | 21994 |  27376 | 15832 | 23291 |
+| 词表统计 | GPT-4o | Deepseek-v3 | Qwen2.5 |  MiniCPM3-4B  |  internlm3-8b-instruct |MiniMax-Text-01|
+| ----- | ----- | ----- | ----- |  ----- |   ----- | ----- |
+| 中文 | 7478 | 35184 | 24966 |  28322 |  10364 | 10364 | 38420|
+|  英文| 37839 | 21994 |   27376 | 15832 | 23291 | 33489 |
 
 
 ## 记录
 
-2025/01/15: 分析了今天刚刚发布的internlm3-8b-instruct，中文词汇以1个和2个字为主，和本文期望一致，不提交issue。原始词表有 10364 中文词，重新 分词去重之后有7901。
+2025/01/16: 分析了今天刚刚发布的[MiniMax-Text01](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)，中文词汇以1个和2个字为主
+
+2025/01/15: 分析了今天刚刚发布的[internlm3-8b-instruct](https://huggingface.co/internlm/internlm3-8b-instruct)，中文词汇以1个和2个字为主，和本文期望一致，不提交issue。原始词表有 10364 中文词，重新 分词去重之后有7901。
 
 2025/01/14: 给MiniCPM提交了issue https://github.com/OpenBMB/MiniCPM/issues/276
 
