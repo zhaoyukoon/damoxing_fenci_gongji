@@ -20,6 +20,8 @@
 
 2025/01/17: 增加了微软的[Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) ，相比与其他家动辄12万甚至20万，词表很特别，一共只有32000。其中中文单词只有700，都是汉字。包括阿拉伯语、希伯来语、韩语、日语在内的其他语言也是类似处理策略。 另外 controls（词中包含`\t`或者`\n`）只有一个，词表很干净！
 
+2025/01/17:  增加了[glm-4-9b-chat](https://huggingface.co/THUDM/glm-4-9b-chat/tree/main) ， 词表中规中矩，其中中文词数量高达`28478`，最长的词是 `词条初始信息均引自国家企业信用信息公示系统`。
+
 2025/01/16: 发现几篇很好讲[BPE的博客](https://blog.sgdylan.com/2024/05/14/tokenizer-note/) [how-to-train-tokenizer](https://github.com/yanqiangmiffy/how-to-train-tokenizer) [如何训练模型分词器：BPE、WordPiece、ULM、SentencePiece](https://zhuanlan.zhihu.com/p/631008016?utm_id=0)
 
 2025/01/16: 分析了今天刚刚发布的[MiniMax-Text01](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)，中文词汇以2个和3个字为主，有非常多的长词。原始词表38421，重新分词后 23473。 另外，词表有大量日文词，最长的是`日以上更新していないブログに表示しています`。
