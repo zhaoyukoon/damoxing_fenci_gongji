@@ -12,7 +12,7 @@ import tiktoken
 import base64
 #jieba.enable_paddle()
 
-models =['Phi-3.5-mini-instruct','deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01', 'glm-4-9b-chat']
+models =['Mistral-7B-Instruct-v0.3','Phi-3.5-mini-instruct','deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01', 'glm-4-9b-chat']
 
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
