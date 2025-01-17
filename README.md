@@ -20,7 +20,7 @@
 
 2025/01/17: 增加了 [Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)，词表一共`32768`，和Phi-3.5-mini-instruct一样精简。中文`1459`，除了3个两字词之外都是汉字。英文最长单词`ancellationToken`。包括阿拉伯语、希伯来语、韩语、日语在内的其他语言也是类似处理策略。 另外 controls（词中包含`\t`或者`\n`）只有一个，词表很干净！
 
-2025/01/17: 增加了 (telechat-7B)[https://huggingface.co/Tele-AI/telechat-7B] ，中文词表数量`29919`，最长词`请安装Unicode擴展字形档`和`見:附录:漢語詞彙索引/`，有大量繁体中文数据。
+2025/01/17: 增加了 [telechat-7B](https://huggingface.co/Tele-AI/telechat-7B) ，中文词表数量`29919`，最长词`请安装Unicode擴展字形档`和`見:附录:漢語詞彙索引/`，有大量繁体中文数据。
 
 2025/01/17: 增加了[Gemma-2-9b-it](https://www.modelscope.cn/models/LLM-Research/gemma-2-9b-it) ，词表巨大，一共有256000单词。中文词表数量`256000`，最长的是`点击下一页继续阅读`，还有繁体词汇`請繼續往下閱讀`。
 
