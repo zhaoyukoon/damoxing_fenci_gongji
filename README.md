@@ -10,10 +10,13 @@
 
 下面是各个大模型词表中英文和中文词汇数量统计，具体参考（[大模型词汇语言分布](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E6%B1%87%E8%AF%AD%E8%A8%80%E5%88%86%E5%B8%83.md)和[分析报告](https://github.com/zhaoyukoon/damoxing_fenci_gongji/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%8D%E8%A1%A8%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)）：
 
-| 词表统计 | GPT-4o | Deepseek-v3 | Qwen2.5 |  MiniCPM3-4B  |  internlm3-8b-instruct |MiniMax-Text-01|
-| ----- | ----- | ----- | ----- |  ----- |   ----- | ----- |
-| 中文 | 7478 | 35184 | 24966 |  28322 |  10364 |  38420|
-|  英文| 37839 | 21994 |   27376 | 15832 | 23291 | 33489 |
+
+| Language | Llama-3.3-70B-Instruct | MiniCPM3-4B | MiniMax-Text-01 | Mistral-7B-Instruct-v0.3 | Phi-3.5-mini-instruct | deepseek_v3 | gemma-2-9b-it | glm-4-9b-chat | gpt-4o | internlm3-8b-instruct | qwen2.5-72b | telechat-7B |
+|----------|---|---|---|---|---|---|---|---|---|---|---|---|
+| chinese | 4265 | 28322 | 38420 | 1459 | 700 | 35184 | 21762 | 28478 | 7449 | 10364 | 24966 | 29919 |
+| pure_english | 28158 | 15832 | 33489 | 10612 | 10204 | 21994 | 72065 | 29915 | 37839 | 23291 | 27376 | 28863 |
+| Total | 128000 | 73440 | 200000 | 32768 | 32000 | 128000 | 256000 | 150252 | 200000 | 128569 | 151643 | 160135 |
+
 
 
 ## 记录
