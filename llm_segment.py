@@ -32,6 +32,8 @@ def uni_str_to_bytes(word):
     for c in word:
         byte = uni_to_byte[c] if c in uni_to_byte else -1
         bs.append(byte)
+    if -1 in  bs:
+        return word
     return str(bytes(bs), 'utf-8')
 
 
@@ -65,9 +67,6 @@ text='中国人民解放军'
 text='最高人民法院党史学习教育需要注意的是马克思恩格斯习近平新时代中国特色社会主义思想'
 text='生命周期函数'
 text='李鹏飞和李鹏飞到南京了。请严格根据上文回答：李鹏在哪里？怎么到的？'
-#for name in [name1, name2, name3]:
-#    seg = segment(name, text)
-#    print(f'{name}\t{seg}')
 
 from openai import OpenAI
 
@@ -83,6 +82,7 @@ prompt='习近平新时代中国特色社会主义思想。请严格尝试对上
 prompt='最高人民法院党史学习教育需要注意的是马克思恩格斯习近平新时代中国特色社会主义思想。请对上面语句拆成字'
 prompt = 'segment .translatesAutoresizingMaskIntoConstraints to subwords'
 seg = segment(name3, prompt)
+'''
 response = client.chat.completions.create(
     model="deepseek-chat",
     messages=[
@@ -95,3 +95,14 @@ response = client.chat.completions.create(
 print(f'prompt: {prompt}')
 print(f'segment: {seg}')
 print(f'deepseek-v3:{response.choices[0].message.content}')
+'''
+
+text = 'Unigram 语言建模首先在 《 Improving neural network translation models with multiple subword candidates》 中提出。这种方法与 WordPiece 相同点是：同样使用语言模型来挑选子词。与 WordPiece 最大区别：WordPiece 算法的词表大小都是从小到大变化。UniLM 的词库则是从大到小变化,即先初始化一个大词表，根据评估准则不断丢弃词表，直到满足限定条件。ULM 算法考虑了句子的不同分词可能，因而能够输出带概率的多个子词分段。'
+text = '网球拍卖了'
+text = '球拍'
+text = '清水出芙蓉'
+models=['openbmb/MiniCPM3-4B','deepseek-ai/DeepSeek-V3', 'Qwen/Qwen2.5-72B-Instruct', 'MiniMaxAI/MiniMax-Text-01', 'Qwen/Qwen2.5-72B-Instruct']
+for name in models:
+    seg = segment(name, text)
+    print(f'{name}\t{seg}')
+

@@ -9,9 +9,10 @@ import jieba
 from tiktoken import get_encoding
 from tiktoken.model import MODEL_TO_ENCODING
 import tiktoken
+import base64
 #jieba.enable_paddle()
 
-models =['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01']
+models =['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01', 'glm-4-9b-chat']
 
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
@@ -69,8 +70,11 @@ uni_to_byte = unicode_to_bytes_map()
 
 def uni_str_to_bytes(word):
     bs = []
-    if 'begin' in word:
-        return word
+    try:
+        if 'begin' in word:
+            return word
+    except TypeError:
+        logger.warning(f'type error:{word}')
     for c in word:
         if c not in uni_to_byte:
             return word
@@ -172,6 +176,36 @@ def detect_lang(s):
     return get_primary_language(s)
 
 
+def get_styles(style_count):
+    """
+    Generate a list of distinct plot styles.
+    
+    Args:
+        style_count (int): Number of styles needed
+    
+    Returns:
+        list: List of dictionaries containing color, linestyle, and marker configurations
+    """
+    # Define basic style elements
+    colors = ['blue', 'red', 'green', 'purple', 'orange', 'brown', 
+             'cyan', 'magenta', 'gray', 'olive', 'pink', 'teal']
+    
+    linestyles = ['-', '--', '-.', ':']
+    
+    markers = ['o', 's', '^', 'v', 'D', 'p', '*', 'h', '+', 'x', '|', '_']
+    
+    styles = []
+    for i in range(style_count):
+        style = {
+            'color': colors[i % len(colors)],
+            'linestyle': linestyles[(i // len(colors)) % len(linestyles)],
+            'marker': markers[i % len(markers)]
+        }
+        styles.append(style)
+    
+    return styles
+
+ 
 def process_vocab(tok_path):
     v_len=dict()
     tuples = []
@@ -184,7 +218,23 @@ def process_vocab(tok_path):
     seg_char_vocab = dict()
     lang_count = dict()
     vocab = []
-    if tok_path == 'internlm3-8b-instruct':
+    if tok_path =='glm-4-9b-chat':
+        with open(tok_path + "/tokenizer.model") as f:
+           decode_error_count = 0
+           for line in f:
+               token, rank = line.strip().split()
+               rank = int(rank)
+               token = base64.b64decode(token)
+               try:
+                   s=str(token, 'utf-8')
+                   vocab.append(s)
+               except UnicodeDecodeError:
+                   logger.warning(f'UnicodeDecodeError {token}')
+                   s=token
+                   decode_error_count +=1
+           logger.error(f'decode_error_count: {decode_error_count}')
+   
+    elif tok_path == 'internlm3-8b-instruct':
         logger.info(f'load vocab from {tok_path}/vocab.txt')
         with open(tok_path+"/vocab.txt") as f:
             for line in f:
@@ -273,23 +323,8 @@ def process_vocab(tok_path):
 
 def plot_length_distribution(lengths_pairs, vocab_names):
     plt.figure(figsize=(10, 6))
-    
     # Define distinct line styles for each model
-    styles = [
-        {'color': 'blue', 'linestyle': '-', 'marker': 'o'},      # deepseek all
-        {'color': 'blue', 'linestyle': '--', 'marker': 'o'},     # deepseek chinese
-        {'color': 'red', 'linestyle': '--', 'marker': 's'},      # qwen all
-        {'color': 'red', 'linestyle': ':', 'marker': 's'},       # qwen chinese
-        {'color': 'green', 'linestyle': '-.', 'marker': '^'},    # MiniCPM all
-        {'color': 'green', 'linestyle': ':', 'marker': '^'},     # MiniCPM chinese
-        {'color': 'purple', 'linestyle': ':', 'marker': 'D'},    # internlm all
-        {'color': 'purple', 'linestyle': '--', 'marker': 'D'},   # internlm chinese
-        {'color': 'orange', 'linestyle': '-', 'marker': 'v'},    # gpt-4 all
-        {'color': 'orange', 'linestyle': '--', 'marker': 'v'},    # gpt-4 chinese
-        {'color': 'brown', 'linestyle': '-', 'marker': 'p'},     # minimax all
-        {'color': 'brown', 'linestyle': '--', 'marker': 'p'}     # minimax chinese
-    ]
-    
+    styles = get_styles(2*len(vocab_names))
     for i in range(len(vocab_names)):
         all_lens = lengths_pairs[i][0]
         chinese_lens = lengths_pairs[i][1]
@@ -388,6 +423,7 @@ if __name__ == '__main__':
         model_to_lang_count = dict()
         pairs= []
         for model in models:
+            logger.info(f'process {model}')
             (all_lens, chinese_lens, lang_count) = process_vocab(model)
             pairs.append([all_lens, chinese_lens])
             model_to_lang_count[model]=lang_count
