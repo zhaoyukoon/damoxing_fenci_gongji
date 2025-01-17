@@ -12,7 +12,7 @@ import tiktoken
 import base64
 #jieba.enable_paddle()
 
-models =['deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01', 'glm-4-9b-chat']
+models =['Phi-3.5-mini-instruct','deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01', 'glm-4-9b-chat']
 
 def parse_args():
     parser = argparse.ArgumentParser(description='词汇表转换工具')
@@ -218,7 +218,7 @@ def process_vocab(tok_path):
     seg_char_vocab = dict()
     lang_count = dict()
     vocab = []
-    if tok_path =='glm-4-9b-chat':
+    if tok_path in ['glm-4-9b-chat']:
         with open(tok_path + "/tokenizer.model") as f:
            decode_error_count = 0
            for line in f:
