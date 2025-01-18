@@ -37368,7 +37368,7 @@ mbi	mbi		3	english
 kih	kih		3	null
 тео	тео		3	russian
 Kad	Kad		3	null
-BiH	BiH		3	croatian
+BiH	BiH		3	english
 ▁Џе	▁Џе		3	russian
 ▁Тр	▁Тр		3	russian
 jno	jno		3	serbian
@@ -57577,7 +57577,7 @@ nter	nter		4	persian
 cncn	cncn		4	french
 OCCc	OCCc		4	english
 -].?	-].?		4	NULL
-BrCc	BrCc		4	null
+BrCc	BrCc		4	english
 ▁OCc	▁OCc		4	english
 ▁CCn	▁CCn		4	english
 tolu	tolu		4	polish
@@ -87128,7 +87128,7 @@ Assume	Assume		6	english
 ▁Grade	▁Grade		6	english
 ▁verse	▁verse		6	english
 ▁relat	▁relat		6	english
-ItemId	ItemId		6	dutch
+ItemId	ItemId		6	english
 ▁Organ	▁Organ		6	english
 ▁Proto	▁Proto		6	english
 steady	steady		6	english
@@ -109307,7 +109307,7 @@ location	location		8	english
 ▁Returns	▁Returns		8	english
 settings	settings		8	english
 ▁headers	▁headers		8	english
-DateTime	DateTime		8	german
+DateTime	DateTime		8	english
 Function	Function		8	english
 Document	Document		8	english
 Argument	Argument		8	spanish
@@ -109677,7 +109677,7 @@ datasets	datasets		8	italian
 ▁cancell	▁cancell		8	english
 AddField	AddField		8	english
 ▁showing	▁showing		8	english
-GetValue	GetValue		8	german
+GetValue	GetValue		8	english
 Redirect	Redirect		8	english
 deletion	deletion		8	english
 Encoding	Encoding		8	english
@@ -109694,7 +109694,7 @@ Standard	Standard		8	english
 ▁attempt	▁attempt		8	english
 ▁println	▁println		8	english
 linspace	linspace		8	english
-ViewById	ViewById		8	dutch
+ViewById	ViewById		8	english
 ▁voltage	▁voltage		8	english
 ▁getchar	▁getchar		8	english
 ▁applies	▁applies		8	english
@@ -109980,7 +109980,7 @@ multiply	multiply		8	english
 ▁suspect	▁suspect		8	english
 queryset	queryset		8	english
 gradient	gradient		8	spanish
-TypeName	TypeName		8	german
+TypeName	TypeName		8	english
 ▁regions	▁regions		8	english
 ▁protect	▁protect		8	spanish
 triangle	triangle		8	english
@@ -110113,7 +110113,7 @@ fraction	fraction		8	english
 ▁careful	▁careful		8	english
 ▁totally	▁totally		8	english
 ▁rewrite	▁rewrite		8	english
-GridView	GridView		8	null
+GridView	GridView		8	english
 ▁Average	▁Average		8	english
 building	building		8	english
 ▁curious	▁curious		8	english
@@ -116407,7 +116407,7 @@ velopment	velopment		9	english
 ▁vertical	▁vertical		9	english
 ▁replaced	▁replaced		9	english
 OrDefault	OrDefault		9	english
-DbContext	DbContext		9	russian
+DbContext	DbContext		9	english
 minecraft	minecraft		9	english
 ▁remember	▁remember		9	english
 Animation	Animation		9	english
@@ -116639,7 +116639,7 @@ necessary	necessary		9	spanish
 Copyright	Copyright		9	english
 ▁Multiply	▁Multiply		9	english
 undefined	undefined		9	english
-DateField	DateField		9	german
+DateField	DateField		9	english
 tablename	tablename		9	english
 ▁involved	▁involved		9	english
 constexpr	constexpr		9	english
@@ -117110,7 +117110,7 @@ setlength	setlength		9	english
 ▁Revision	▁Revision		9	english
 ferential	ferential		9	english
 computing	computing		9	english
-ElementAt	ElementAt		9	german
+ElementAt	ElementAt		9	english
 ▁calculus	▁calculus		9	english
 ▁arranged	▁arranged		9	english
 ▁carriage	▁carriage		9	english
@@ -117329,7 +117329,7 @@ described	described		9	english
 ▁страницы	▁страницы		9	russian
 ▁########	▁########		9	NULL
 classical	classical		9	english
-AppCompat	AppCompat		9	indonesian
+AppCompat	AppCompat		9	english
 PageIndex	PageIndex		9	english
 ▁judgment	▁judgment		9	english
 ▁pleasant	▁pleasant		9	english
@@ -120803,7 +120803,7 @@ exceptions	exceptions		10	english
 ▁completed	▁completed		10	english
 ▁candidate	▁candidate		10	english
 ▁sentences	▁sentences		10	english
-StatusCode	StatusCode		10	french
+StatusCode	StatusCode		10	english
 ▁wondering	▁wondering		10	english
 categories	categories		10	english
 ▁sometimes	▁sometimes		10	english
@@ -120877,7 +120877,7 @@ matplotlib	matplotlib		10	arabic
 ▁Therefore	▁Therefore		10	english
 ▁regarding	▁regarding		10	english
 permission	permission		10	english
-InlineData	InlineData		10	german
+InlineData	InlineData		10	english
 ▁executing	▁executing		10	english
 ▁arbitrary	▁arbitrary		10	portuguese
 ▁behaviour	▁behaviour		10	english
@@ -120955,7 +120955,7 @@ transition	transition		10	english
 ▁providing	▁providing		10	english
 ▁evaluated	▁evaluated		10	english
 ▁unordered	▁unordered		10	spanish
-XmlElement	XmlElement		10	german
+XmlElement	XmlElement		10	english
 population	population		10	null
 dependency	dependency		10	english
 resolution	resolution		10	english
@@ -123698,7 +123698,7 @@ Declaration	Declaration		11	english
 ▁limitation	▁limitation		11	english
 ▁sequential	▁sequential		11	english
 ▁Management	▁Management		11	english
-TryGetValue	TryGetValue		11	german
+TryGetValue	TryGetValue		11	english
 ▁describing	▁describing		11	english
 orientation	orientation		11	english
 ▁protection	▁protection		11	english
@@ -125261,7 +125261,7 @@ Vietcombank	Vietcombank		11	indonesian
 ▁UnityEngine	▁UnityEngine		12	english
 ------------	------------		12	NULL
 ▁collections	▁collections		12	english
-JsonProperty	JsonProperty		12	czech
+JsonProperty	JsonProperty		12	english
 ▁permissions	▁permissions		12	english
 ▁transaction	▁transaction		12	english
 ▁IEnumerable	▁IEnumerable		12	polish
@@ -125333,7 +125333,7 @@ BooleanField	BooleanField		12	english
 ▁corresponds	▁corresponds		12	english
 ▁urlpatterns	▁urlpatterns		12	english
 ▁frequencies	▁frequencies		12	english
-PropertyName	PropertyName		12	german
+PropertyName	PropertyName		12	english
 ▁observation	▁observation		12	english
 ▁interacting	▁interacting		12	english
 findViewById	findViewById		12	english
@@ -125373,7 +125373,7 @@ Distribution	Distribution		12	english
 assertRaises	assertRaises		12	english
 ▁torchvision	▁torchvision		12	english
 ▁Programming	▁Programming		12	english
-HttpResponse	HttpResponse	HttpResponse	12	chinese
+HttpResponse	HttpResponse		12	english
 ▁Explanation	▁Explanation		12	english
 ▁substantial	▁substantial		12	english
 ▁established	▁established		12	english
@@ -125386,7 +125386,7 @@ applications	applications		12	english
 Transactions	Transactions		12	english
 RequestParam	RequestParam		12	english
 ▁composition	▁composition		12	english
-DefaultValue	DefaultValue		12	german
+DefaultValue	DefaultValue		12	english
 ▁subtraction	▁subtraction		12	english
 crossentropy	crossentropy		12	english
 DecimalField	DecimalField		12	english
@@ -125515,7 +125515,7 @@ transmission	transmission		12	english
 ▁methodology	▁methodology		12	english
 multivariate	multivariate		12	english
 ▁atmospheric	▁atmospheric		12	english
-DataGridView	DataGridView		12	null
+DataGridView	DataGridView		12	english
 ▁researchers	▁researchers		12	english
 specifically	specifically		12	english
 ▁competitive	▁competitive		12	english
@@ -126324,7 +126324,7 @@ stackexchange	stackexchange		13	english
 Serialization	Serialization		13	english
 configuration	configuration		13	english
 ▁applications	▁applications		13	english
-DateTimeField	DateTimeField		13	german
+DateTimeField	DateTimeField		13	english
 ▁dictionaries	▁dictionaries		13	english
 NullException	NullException		13	english
 ▁instructions	▁instructions		13	english
@@ -126334,7 +126334,7 @@ Authorization	Authorization		13	english
 ▁notification	▁notification		13	english
 ▁assertEquals	▁assertEquals		13	english
 ▁registration	▁registration		13	english
-IsNullOrEmpty	IsNullOrEmpty		13	null
+IsNullOrEmpty	IsNullOrEmpty		13	english
 ▁intersection	▁intersection		13	english
 preprocessing	preprocessing		13	english
 ▁specifically	▁specifically		13	english
@@ -126399,7 +126399,7 @@ SelectedIndex	SelectedIndex		13	english
 ▁sufficiently	▁sufficiently		13	english
 ▁manipulating	▁manipulating		13	english
 ▁использовать	▁использовать		13	russian
-UnmanagedType	UnmanagedType		13	french
+UnmanagedType	UnmanagedType		13	english
 BeautifulSoup	BeautifulSoup		13	english
 distributions	distributions		13	english
 communication	communication		13	english
@@ -126912,7 +126912,7 @@ Authentication	Authentication		14	english
 ComponentModel	ComponentModel		14	english
 ▁StringBuilder	▁StringBuilder		14	english
 SerializeField	SerializeField		14	english
-ArgumentParser	ArgumentParser		14	spanish
+ArgumentParser	ArgumentParser		14	english
 getElementById	getElementById		14	german
 --------------	--------------		14	NULL
 ▁understanding	▁understanding		14	english
@@ -127434,7 +127434,7 @@ AAAAAAAAAAAAAAAA	AAAAAAAAAAAAAAAA		16	english
 ▁Wissenschaftler	▁Wissenschaftler		16	german
 ▁verschiedensten	▁verschiedensten		16	german
 ▁personenbezogen	▁personenbezogen		16	polish
-AntwortenLöschen	AntwortenLöschen		16	german
+AntwortenLöschen	AntwortenLöschen		16	english
 ▁wirtschaftliche	▁wirtschaftliche		16	german
 ▁Internationalen	▁Internationalen		16	italian
 ▁österreichische	▁österreichische		16	german

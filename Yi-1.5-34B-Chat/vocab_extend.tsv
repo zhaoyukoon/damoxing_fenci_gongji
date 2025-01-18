@@ -25324,7 +25324,7 @@ PPP	PPP		3	english
 案件的	案件的	案件 的	3	chinese
 的心灵	的心灵	的 心灵	3	chinese
 )&=	)&=		3	NULL
-NzA	NzA		3	null
+NzA	NzA		3	english
 sci	sci		3	italian
 fav	fav		3	english
 vil	vil		3	danish
@@ -29806,7 +29806,7 @@ oped	oped		4	english
 ▁Hub	▁Hub		4	english
 тели	тели		4	russian
 ▁pig	▁pig		4	english
-ById	ById		4	dutch
+ById	ById		4	english
 scar	scar		4	english
 什么时候	什么时候	什么 时候	4	chinese
 mask	mask		4	english
@@ -29973,7 +29973,7 @@ town	town		4	english
 ▁Cre	▁Cre		4	english
 ▁Fro	▁Fro		4	english
 ▁bil	▁bil		4	slovenian
-MzAx	MzAx		4	arabic
+MzAx	MzAx		4	english
 love	love		4	english
 thur	thur		4	english
 ▁Fly	▁Fly		4	english
@@ -30563,7 +30563,7 @@ Conf	Conf		4	english
 Auto	Auto		4	english
 ++)\	++)\		4	NULL
 ▁Hat	▁Hat		4	english
-MzIy	MzIy		4	turkish
+MzIy	MzIy		4	english
 Even	Even		4	english
 ▁idi	▁idi		4	null
 劳动合同	劳动合同	劳动合同	4	chinese
@@ -53540,7 +53540,7 @@ heastern	heastern		8	english
 ▁judging	▁judging		8	english
 ▁hottest	▁hottest		8	english
 ▁locking	▁locking		8	english
-DateTime	DateTime		8	german
+DateTime	DateTime		8	english
 ▁shaking	▁shaking		8	english
 ▁immense	▁immense		8	english
 idential	idential		8	english
@@ -54164,7 +54164,7 @@ gettable	gettable		8	italian
 ▁evolves	▁evolves		8	english
 ▁Jupiter	▁Jupiter		8	english
 ▁newborn	▁newborn		8	english
-DoxyCode	DoxyCode		8	portuguese
+DoxyCode	DoxyCode		8	english
 previous	previous		8	english
 ▁buddies	▁buddies		8	english
 ▁integra	▁integra		8	portuguese
@@ -55281,7 +55281,7 @@ Snapshot	Snapshot		8	english
 ▁Wheeler	▁Wheeler		8	english
 ▁Lawyers	▁Lawyers		8	english
 ▁booklet	▁booklet		8	russian
-ViewById	ViewById		8	dutch
+ViewById	ViewById		8	english
 creative	creative		8	english
 nUsually	nUsually		8	english
 ▁Combine	▁Combine		8	english
@@ -60246,7 +60246,7 @@ associated	associated		10	english
 ▁surrogate	▁surrogate		10	english
 ▁minimizes	▁minimizes		10	english
 Initialize	Initialize		10	english
-StackTrace	StackTrace		10	russian
+StackTrace	StackTrace		10	english
 ▁stupidity	▁stupidity		10	english
 ▁footsteps	▁footsteps		10	german
 ▁logarithm	▁logarithm		10	english
@@ -61663,7 +61663,7 @@ equilibrium	equilibrium		11	english
 ▁enthusiast	▁enthusiast		11	polish
 ▁sunglasses	▁sunglasses		11	english
 ▁disclaimer	▁disclaimer		11	english
-DoxyCompact	DoxyCompact		11	portuguese
+DoxyCompact	DoxyCompact		11	english
 ▁classmates	▁classmates		11	english
 integration	integration		11	english
 ▁Originally	▁Originally		11	english
@@ -62725,7 +62725,7 @@ nPerformance	nPerformance		12	english
 ▁newsletters	▁newsletters		12	english
 ▁versatility	▁versatility		12	english
 ▁replication	▁replication		12	english
-DoxyCodeLine	DoxyCodeLine		12	portuguese
+DoxyCodeLine	DoxyCodeLine		12	english
 ▁Alternative	▁Alternative		12	english
 ▁conditioner	▁conditioner		12	italian
 ▁pedestrians	▁pedestrians		12	english
@@ -62914,7 +62914,7 @@ EventHandler	EventHandler		12	english
 ▁decoherence	▁decoherence		12	english
 ▁retaliation	▁retaliation		12	english
 ▁Statistical	▁Statistical		12	english
-JsonProperty	JsonProperty		12	czech
+JsonProperty	JsonProperty		12	english
 ▁substantive	▁substantive		12	english
 ▁blockbuster	▁blockbuster		12	english
 ▁transcripts	▁transcripts		12	english

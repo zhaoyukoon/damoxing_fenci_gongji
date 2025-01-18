@@ -11345,7 +11345,7 @@ here	here		4	english
 ▁Atl	▁Atl		4	english
 inet	inet		4	english
 ▁dut	▁dut		4	null
-ById	ById		4	dutch
+ById	ById		4	english
 anti	anti		4	english
 ▁sle	▁sle		4	english
 ▁kne	▁kne		4	english
@@ -22731,7 +22731,7 @@ atrice	atrice		6	null
 CLIENT	CLIENT		6	english
 ▁Apply	▁Apply		6	english
 Scheme	Scheme		6	english
-ByName	ByName		6	german
+ByName	ByName		6	english
 ▁orden	▁orden		6	spanish
 ▁Coord	▁Coord		6	english
 TARGET	TARGET		6	english
@@ -27022,7 +27022,7 @@ Registry	Registry		8	english
 Constant	Constant		8	english
 ▁Command	▁Command		8	english
 notation	notation		8	english
-DateTime	DateTime		8	german
+DateTime	DateTime		8	english
 ▁closely	▁closely		8	english
 ▁Federal	▁Federal		8	english
 ▁trading	▁trading		8	english
@@ -27826,7 +27826,7 @@ Disabled	Disabled		8	english
 ▁thereby	▁thereby		8	english
 ▁induced	▁induced		8	english
 ▁Februar	▁Februar		8	german
-ViewById	ViewById		8	dutch
+ViewById	ViewById		8	english
 ▁Kitchen	▁Kitchen		8	english
 relation	relation		8	english
 ▁ratings	▁ratings		8	english
@@ -28852,7 +28852,7 @@ Constants	Constants		9	english
 ▁channels	▁channels		9	english
 ▁estimate	▁estimate		9	english
 ▁darkness	▁darkness		9	english
-AppCompat	AppCompat		9	indonesian
+AppCompat	AppCompat		9	english
 ▁universe	▁universe		9	english
 ▁distingu	▁distingu		9	english
 ▁shooting	▁shooting		9	english
@@ -29134,7 +29134,7 @@ Character	Character		9	english
 ▁Atlantic	▁Atlantic		9	english
 ▁assuming	▁assuming		9	english
 ▁imagined	▁imagined		9	romanian
-GroupName	GroupName		9	german
+GroupName	GroupName		9	english
 ▁Lawrence	▁Lawrence		9	english
 ▁occupied	▁occupied		9	english
 ▁romantic	▁romantic		9	english
@@ -30424,7 +30424,7 @@ transition	transition		10	english
 ▁classroom	▁classroom		10	english
 ▁attending	▁attending		10	english
 ▁Tennessee	▁Tennessee		10	english
-StatusCode	StatusCode		10	french
+StatusCode	StatusCode		10	english
 ▁cigarette	▁cigarette		10	english
 ▁politique	▁politique		10	french
 ▁campaigns	▁campaigns		10	english
@@ -30445,7 +30445,7 @@ javascript	javascript		10	english
 ▁invisible	▁invisible		10	english
 ▁notamment	▁notamment		10	french
 Illuminate	Illuminate		10	english
-StackTrace	StackTrace		10	russian
+StackTrace	StackTrace		10	english
 ▁replacing	▁replacing		10	english
 ▁sophistic	▁sophistic		10	english
 ▁Nederland	▁Nederland		10	dutch
@@ -31218,7 +31218,7 @@ environment	environment		11	english
 ▁assertTrue	▁assertTrue		11	english
 ▁inevitable	▁inevitable		11	english
 ▁comparable	▁comparable		11	english
-GroupLayout	GroupLayout		11	german
+GroupLayout	GroupLayout		11	english
 ▁delivering	▁delivering		11	english
 ▁objectives	▁objectives		11	english
 ▁occupation	▁occupation		11	english
@@ -31324,7 +31324,7 @@ Preferences	Preferences		11	english
 ▁containers	▁containers		11	english
 ▁septiembre	▁septiembre		11	spanish
 ▁compromise	▁compromise		11	english
-HttpServlet	HttpServlet	HttpServlet	11	chinese
+HttpServlet	HttpServlet		11	english
 ▁disclaimer	▁disclaimer		11	english
 ▁frustrated	▁frustrated		11	english
 ▁Pittsburgh	▁Pittsburgh		11	english

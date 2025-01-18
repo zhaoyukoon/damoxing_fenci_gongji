@@ -236,22 +236,33 @@ def get_primary_language(text):
     return max(langs.items(), key=lambda x: x[1])[0]
 
 
+pPp=re.compile('[A-Z][a-z]+[A-Z]')
+
+
+def refine_english_lang(s):
+    if pPp.match(s):
+        return 'english'
+    lang= lang_model.predict(s.replace('▁', '').strip(), k=1)#detect(s)
+    lang=lang[0][0].replace('__label__','')
+
+    if len(s) > 8 and lang.lower() == 'vietnamese':
+        return 'english'
+
+    return get_language_name(lang).lower()
+
+
 def detect_lang(s):
     if '\t' in s or '\\t' in s or '\n' in s or '\\n' in s:
         return 'control'
     if english_pattern.match(s):
-        lang= lang_model.predict(s.replace('▁', '').strip(), k=1)#detect(s)
-        lang=lang[0][0].replace('__label__','')
-        return get_language_name(lang).lower()
+        return refine_english_lang(s)
     if chinese_pattern.match(s):
         return 'chinese'
     if digit_pattern.match(s):
         return 'digits'
     lang=get_primary_language(s)
     if lang=='english':
-        lang= lang_model.predict(s.replace('▁','').strip(), k=1)#detect(s)
-        lang=lang[0][0].replace('__label__','')
-        return get_language_name(lang).lower()
+        return refine_english_lang(s)
 
     return lang
 

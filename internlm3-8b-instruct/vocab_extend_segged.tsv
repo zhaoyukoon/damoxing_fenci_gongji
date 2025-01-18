@@ -506,7 +506,6 @@ FS	2	2
 文件	2	2
 函数	2	2
 获取	2	2
-HttpResponse	2	12
 BO	2	2
 ops	2	3
 用户	2	2
@@ -1159,6 +1158,7 @@ ttp	1	3
 tml	1	3
 tty	1	3
 字符	1	2
+HttpResponse	1	12
 列表	1	2
 创建	1	2
 元素	1	2

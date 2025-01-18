@@ -9993,7 +9993,7 @@ oken	oken		4	null
 ▁ill	▁ill		4	english
 ▁sal	▁sal		4	english
 elen	elen		4	english
-ById	ById		4	dutch
+ById	ById		4	english
 ▁gru	▁gru		4	polish
 atos	atos		4	english
 ▁meg	▁meg		4	hungarian
@@ -26702,7 +26702,7 @@ Updated	Updated		7	english
 ▁Bright	▁Bright		7	english
 ▁droite	▁droite		7	french
 getting	getting		7	english
-TagName	TagName		7	german
+TagName	TagName		7	english
 ▁Handle	▁Handle		7	english
 ▁skulle	▁skulle		7	swedish
 ▁relate	▁relate		7	english
@@ -27203,7 +27203,7 @@ Settings	Settings		8	english
 ▁reasons	▁reasons		8	english
 ▁subsequ	▁subsequ		8	null
 ▁declare	▁declare		8	english
-ViewById	ViewById		8	dutch
+ViewById	ViewById		8	english
 ▁enabled	▁enabled		8	spanish
 ▁algebra	▁algebra		8	english
 ▁Current	▁Current		8	english
@@ -27322,7 +27322,7 @@ standing	standing		8	english
 ▁Control	▁Control		8	english
 ........	........		8	NULL
 ▁circuit	▁circuit		8	english
-DateTime	DateTime		8	german
+DateTime	DateTime		8	english
 ▁famille	▁famille		8	french
 ationale	ationale		8	romanian
 ▁elected	▁elected		8	english
@@ -27697,7 +27697,7 @@ wicklung	wicklung		8	german
 ▁Account	▁Account		8	english
 ▁sorting	▁sorting		8	english
 ▁деятель	▁деятель		8	russian
-GridView	GridView		8	null
+GridView	GridView		8	english
 ▁seguito	▁seguito		8	italian
 abstract	abstract		8	english
 ▁strateg	▁strateg		8	null
@@ -28596,7 +28596,7 @@ ymnasium	ymnasium		8	german
 ▁backing	▁backing		8	english
 Distance	Distance		8	english
 ▁персона	▁персона		8	russian
-ListItem	ListItem		8	finnish
+ListItem	ListItem		8	english
 ▁lengths	▁lengths		8	english
 ▁Fourier	▁Fourier		8	english
 uclidean	uclidean		8	english
@@ -30021,7 +30021,7 @@ Available	Available		9	english
 ▁medieval	▁medieval		9	english
 ▁educated	▁educated		9	english
 uellement	uellement		9	french
-IndexPath	IndexPath		9	czech
+IndexPath	IndexPath		9	english
 ▁phenomen	▁phenomen		9	english
 ▁kwietnia	▁kwietnia		9	polish
 ▁possibil	▁possibil		9	italian
@@ -30118,7 +30118,7 @@ präsident	präsident		9	german
 ▁splendid	▁splendid		9	english
 ▁générale	▁générale		9	french
 ▁imprison	▁imprison		9	english
-FirstName	FirstName		9	german
+FirstName	FirstName		9	english
 ▁quartier	▁quartier		9	french
 ▁éditions	▁éditions		9	french
 ▁periodic	▁periodic		9	english
@@ -30422,7 +30422,7 @@ Definition	Definition		10	english
 ynchronous	ynchronous		10	null
 ▁Stuttgart	▁Stuttgart		10	german
 ▁Politiker	▁Politiker		10	german
-StackTrace	StackTrace		10	russian
+StackTrace	StackTrace		10	english
 ▁Currently	▁Currently		10	english
 navigation	navigation		10	english
 DataSource	DataSource		10	english
@@ -30994,7 +30994,7 @@ coordinate	coordinate		10	english
 ▁deviation	▁deviation		10	english
 ▁scattered	▁scattered		10	english
 ▁problemas	▁problemas		10	spanish
-DateFormat	DateFormat		10	german
+DateFormat	DateFormat		10	english
 ▁compagnie	▁compagnie		10	french
 ▁understand	▁understand		11	english
 ▁Consultado	▁Consultado		11	spanish
@@ -31383,7 +31383,7 @@ zeichnungen	zeichnungen		11	german
 ▁provincial	▁provincial		11	english
 ▁succession	▁succession		11	english
 ▁leadership	▁leadership		11	english
-HttpRequest	HttpRequest	HttpRequest	11	chinese
+HttpRequest	HttpRequest		11	english
 ▁tensorflow	▁tensorflow		11	english
 ▁conception	▁conception		11	english
 ▁activation	▁activation		11	english
@@ -31479,7 +31479,7 @@ collections	collections		11	english
 ▁siguientes	▁siguientes		11	spanish
 ▁Petersburg	▁Petersburg		11	english
 ▁результате	▁результате		11	russian
-AtIndexPath	AtIndexPath		11	czech
+AtIndexPath	AtIndexPath		11	english
 ▁discipline	▁discipline		11	english
 ▁Mitglieder	▁Mitglieder		11	german
 ▁▁▁▁▁▁▁▁▁▁▁▁	▁▁▁▁▁▁▁▁▁▁▁▁		12	NULL
@@ -31564,7 +31564,7 @@ plementation	plementation		12	english
 findViewById	findViewById		12	english
 ▁association	▁association		12	english
 ▁observation	▁observation		12	english
-LinearLayout	LinearLayout		12	thai
+LinearLayout	LinearLayout		12	english
 displaystyle	displaystyle		12	english
 ▁individuals	▁individuals		12	english
 ▁experiments	▁experiments		12	english
@@ -31931,7 +31931,7 @@ longrightarrow	longrightarrow		14	english
 ▁notifications	▁notifications		14	english
 ▁decomposition	▁decomposition		14	english
 ▁modifications	▁modifications		14	english
-LayoutInflater	LayoutInflater		14	null
+LayoutInflater	LayoutInflater		14	english
 RelativeLayout	RelativeLayout		14	english
 CollectionView	CollectionView		14	english
 ▁concentration	▁concentration		14	english
