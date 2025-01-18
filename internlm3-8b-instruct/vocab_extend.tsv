@@ -60145,7 +60145,7 @@ kada	kada		4	serbian
 јући	јући		4	russian
 штво	штво		4	russian
 изво	изво		4	russian
-▁BiH	▁BiH		4	croatian
+▁BiH	▁BiH		4	english
 riji	riji		4	croatian
 лија	лија		4	russian
 vnog	vnog		4	null
@@ -70873,7 +70873,7 @@ ielle	ielle		5	latvian
 ▁Spit	▁Spit		5	english
 ▁Sond	▁Sond		5	german
 ▁Isla	▁Isla		5	spanish
-▁NaCl	▁NaCl		5	spanish
+▁NaCl	▁NaCl		5	english
 ▁bale	▁bale		5	english
 ▁fron	▁fron		5	english
 liced	liced		5	english
@@ -78762,7 +78762,7 @@ CCOCc	CCOCc		5	english
 enoxy	enoxy		5	english
 -[[[(	-[[[(		5	NULL
 COCOc	COCOc		5	english
-▁BrCc	▁BrCc		5	null
+▁BrCc	▁BrCc		5	english
 aceto	aceto		5	english
 CCCCn	CCCCn		5	english
 CCCNc	CCCNc		5	english
@@ -86442,7 +86442,7 @@ CSharp	CSharp		6	english
 epochs	epochs		6	english
 ▁Price	▁Price		6	english
 Circle	Circle		6	english
-▁NumPy	▁NumPy		6	null
+▁NumPy	▁NumPy		6	english
 selves	selves		6	english
 ▁Ident	▁Ident		6	english
 market	market		6	english
@@ -86977,7 +86977,7 @@ notice	notice		6	french
 Ensure	Ensure		6	english
 ▁north	▁north		6	english
 cannot	cannot		6	english
-▁MySql	▁MySql		6	japanese
+▁MySql	▁MySql		6	english
 ▁loose	▁loose		6	english
 LOGGER	LOGGER		6	english
 ▁young	▁young		6	english
@@ -87323,7 +87323,7 @@ remain	remain		6	english
 ▁flood	▁flood		6	english
 ▁Serve	▁Serve		6	english
 ▁instr	▁instr		6	english
-▁ImGui	▁ImGui		6	null
+▁ImGui	▁ImGui		6	english
 ▁faith	▁faith		6	french
 ▁Sorry	▁Sorry		6	english
 ▁civil	▁civil		6	english
@@ -116089,10 +116089,10 @@ Showroom	Showroom		8	english
 ▁trường	▁trường		8	english
 ▁viettel	▁viettel		8	lithuanian
 ▁nghiệp	▁nghiệp		8	vietnamese
-▁VietSub	▁VietSub		8	null
+▁VietSub	▁VietSub		8	english
 ▁VinFast	▁VinFast		8	english
 ▁HOTLINE	▁HOTLINE		8	japanese
-▁VietNam	▁VietNam		8	vietnamese
+▁VietNam	▁VietNam		8	english
 ▁chuyển	▁chuyển		8	russian
 ▁thường	▁thường		8	vietnamese
 ▁Exciter	▁Exciter		8	english
@@ -116191,7 +116191,7 @@ WriteLine	WriteLine		9	english
 ▁sentence	▁sentence		9	english
 ▁creating	▁creating		9	english
 ▁software	▁software		9	english
-▁DateTime	▁DateTime		9	german
+▁DateTime	▁DateTime		9	english
 ▁Generate	▁Generate		9	english
 ▁consider	▁consider		9	english
 ▁category	▁category		9	english
@@ -121079,7 +121079,7 @@ calculator	calculator		10	english
 simulation	simulation		10	english
 ▁Dimension	▁Dimension		10	english
 additional	additional		10	english
-▁PartialEq	▁PartialEq		10	german
+▁PartialEq	▁PartialEq		10	english
 ▁expressed	▁expressed		10	english
 ▁dedicated	▁dedicated		10	english
 ▁satisfies	▁satisfies		10	english
@@ -126318,7 +126318,7 @@ stackoverflow	stackoverflow		13	english
 ▁distribution	▁distribution		13	english
 stackexchange	stackexchange		13	english
 ▁representing	▁representing		13	english
-▁HttpResponse	▁HttpResponse	▁ HttpResponse	13	chinese
+▁HttpResponse	▁HttpResponse		13	english
 ▁relationship	▁relationship		13	english
 ▁successfully	▁successfully		13	english
 Serialization	Serialization		13	english
@@ -126369,7 +126369,7 @@ ValueHandling	ValueHandling		13	english
 StringBuilder	StringBuilder		13	english
 ▁temperatures	▁temperatures		13	english
 ▁differential	▁differential		13	english
-▁BindingFlags	▁BindingFlags		13	german
+▁BindingFlags	▁BindingFlags		13	english
 ▁substitution	▁substitution		13	english
 ▁interactions	▁interactions		13	english
 ▁professional	▁professional		13	english
@@ -126907,7 +126907,7 @@ cungquanghang	cungquanghang		13	english
 ▁BeautifulSoup	▁BeautifulSoup		14	english
 ▁functionality	▁functionality		14	english
 Authentication	Authentication		14	english
-▁MonoBehaviour	▁MonoBehaviour		14	null
+▁MonoBehaviour	▁MonoBehaviour		14	english
 ▁Configuration	▁Configuration		14	english
 ComponentModel	ComponentModel		14	english
 ▁StringBuilder	▁StringBuilder		14	english
@@ -126921,7 +126921,7 @@ FirstOrDefault	FirstOrDefault		14	english
 ▁authenticated	▁authenticated		14	english
 ▁communication	▁communication		14	english
 ▁compatibility	▁compatibility		14	english
-▁DateTimeField	▁DateTimeField		14	german
+▁DateTimeField	▁DateTimeField		14	english
 authentication	authentication		14	english
 ▁interpolation	▁interpolation		14	english
 ▁convolutional	▁convolutional		14	english

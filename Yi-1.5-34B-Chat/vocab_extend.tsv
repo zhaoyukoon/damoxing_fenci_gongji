@@ -53252,7 +53252,7 @@ validate	validate		8	english
 ▁wonders	▁wonders		8	english
 ▁Monitor	▁Monitor		8	english
 ▁happier	▁happier		8	english
-▁MacBook	▁MacBook		8	null
+▁MacBook	▁MacBook		8	english
 ▁lengthy	▁lengthy		8	english
 ▁Integer	▁Integer		8	null
 ▁Imagine	▁Imagine		8	english
@@ -57165,7 +57165,7 @@ potential	potential		9	english
 ▁Clinical	▁Clinical		9	english
 ▁initiate	▁initiate		9	english
 ▁Constant	▁Constant		9	english
-▁LinkedIn	▁LinkedIn		9	null
+▁LinkedIn	▁LinkedIn		9	english
 ▁contours	▁contours		9	english
 ▁outputId	▁outputId		9	null
 ▁nitrogen	▁nitrogen		9	english
@@ -57734,7 +57734,7 @@ nWhatever	nWhatever		9	italian
 ▁rainfall	▁rainfall		9	english
 ▁muscular	▁muscular		9	english
 DataFrame	DataFrame		9	english
-▁DateTime	▁DateTime		9	german
+▁DateTime	▁DateTime		9	english
 ▁carriage	▁carriage		9	english
 ▁decorate	▁decorate		9	english
 quisition	quisition		9	english
@@ -61940,7 +61940,7 @@ orientation	orientation		11	english
 ▁Wellington	▁Wellington		11	english
 ▁negativity	▁negativity		11	english
 ▁admittedly	▁admittedly		11	english
-▁PowerPoint	▁PowerPoint		11	null
+▁PowerPoint	▁PowerPoint		11	english
 ▁goalkeeper	▁goalkeeper		11	english
 ▁Lieutenant	▁Lieutenant		11	english
 ▁sacrificed	▁sacrificed		11	english

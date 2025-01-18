@@ -240,9 +240,10 @@ pPp=re.compile('[A-Z][a-z]+[A-Z]')
 
 
 def refine_english_lang(s):
+    s=s.replace('▁', '').strip()
     if pPp.match(s):
         return 'english'
-    lang= lang_model.predict(s.replace('▁', '').strip(), k=1)#detect(s)
+    lang= lang_model.predict(s, k=1)
     lang=lang[0][0].replace('__label__','')
 
     if len(s) > 8 and lang.lower() == 'vietnamese':
@@ -499,15 +500,8 @@ def write_lang_count_markdown(model_to_lang_count):
         for model in models:
             total_row.append(str(model_totals[model]))
         f.write('| ' + ' | '.join(total_row) + ' |\n')
-        
-        # Add summary section
-        f.write('\n## Summary\n\n')
-        for model, lang_count in model_to_lang_count.items():
-            f.write(f'### {model} (Total: {model_totals[model]})\n\n')
-            for lang, count in sorted(lang_count.items(), key=lambda x: x[1], reverse=True):
-                f.write(f'- {lang}: {count}\n')
-            f.write('\n')
             
+
 if __name__ == '__main__':
     args = parse_args()
     if args.tok_path == 'all':
