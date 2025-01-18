@@ -10,6 +10,9 @@ from tiktoken import get_encoding
 from tiktoken.model import MODEL_TO_ENCODING
 import tiktoken
 import base64
+import fasttext
+
+lang_model = fasttext.load_model('lid.176.ftz')
 #jieba.enable_paddle()
 
 models =['360Zhinao2-7B-Chat-4K','Yi-1.5-34B-Chat','gemma-2-9b-it','telechat-7B','Llama-3.3-70B-Instruct','Mistral-7B-Instruct-v0.3','Phi-3.5-mini-instruct','deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct', 'gpt-4o', 'MiniMax-Text-01', 'glm-4-9b-chat']
@@ -168,12 +171,20 @@ def detect_lang(s):
     if '\t' in s or '\\t' in s or '\n' in s or '\\n' in s:
         return 'control'
     if english_pattern.match(s):
-        return 'pure_english'
+        lang= lang_model.predict(s.replace('▁', '').strip(), k=1)#detect(s)
+        lang=lang[0][0].replace('__label__','')
+        return lang
     if chinese_pattern.match(s):
         return 'chinese'
     if digit_pattern.match(s):
         return 'digits'
-    return get_primary_language(s)
+    lang=get_primary_language(s)
+    if lang=='english':
+        lang= lang_model.predict(s.replace('▁','').strip(), k=1)#detect(s)
+        lang=lang[0][0].replace('__label__','')
+        return lang
+
+    return lang
 
 
 def get_styles(style_count):
@@ -265,14 +276,14 @@ def process_vocab(tok_path):
         lc = lang_count[lang] if lang in lang_count else 0
         lang_count[lang] = lc + 1
         segs = []
-        if lang == 'pure_english':
+        if lang in ['pure_english','en']:
             english_vocab[c] = len(c)
             
             segs = tokenize_text(c) if  english_pattern.match(c) and len(c) > 5 else [c]
             for seg in segs:
                 count = 0 if seg not in seg_english_vocab else seg_english_vocab[seg]
                 seg_english_vocab[seg] = count + 1
-        elif lang == 'chinese':
+        elif lang in ['chinese','zh-cn','zh-tw','zh-hk']:
             segs = list(jieba.cut(c))
             for seg in segs:
                 count = 0 if seg not in seg_chinese_vocab else seg_chinese_vocab[seg]
@@ -284,7 +295,7 @@ def process_vocab(tok_path):
         v_len[key + "\t" + c + "\t" + ' '.join(segs)]=len(c)
         tuples.append({'origin': key, 'converted': c, 'len(converted)': len(c), 'converted_seg': ' '.join(segs),'lang': lang})
         all_lens.append(len(c))
-        if lang == 'chinese':
+        if lang in ['chinese','zh-cn','zh-tw','zh-hk']:
             chinese_lens.append(len(c))
 
     sorted_dict = {key: value for key, value in sorted(
