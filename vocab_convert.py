@@ -24,6 +24,75 @@ def parse_args():
                        help='tokenizer路径，可选值：deepseek_v3 或 qwen2.5-72b 或者 all')
     return parser.parse_args()
 
+def get_language_names():
+    """
+    Returns a dictionary mapping ISO 639-1 codes to their corresponding language names in English.
+    
+    Returns:
+        dict: ISO codes as keys and language names as values
+    """
+    return {
+        # Major world languages
+        "en": "English",
+        "zh": "Chinese",
+        "es": "Spanish",
+        "hi": "Hindi",
+        "ar": "Arabic",
+        "bn": "Bengali",
+        "pt": "Portuguese",
+        "ru": "Russian",
+        "ja": "Japanese",
+        "de": "German",
+        
+        # European languages
+        "fr": "French",
+        "it": "Italian",
+        "nl": "Dutch",
+        "pl": "Polish",
+        "el": "Greek",
+        "cs": "Czech",
+        "sv": "Swedish",
+        "da": "Danish",
+        "fi": "Finnish",
+        "no": "Norwegian",
+        
+        # Asian languages
+        "ko": "Korean",
+        "vi": "Vietnamese",
+        "th": "Thai",
+        "tr": "Turkish",
+        "fa": "Persian",
+        "id": "Indonesian",
+        "ms": "Malay",
+        
+        # Other major languages
+        "he": "Hebrew",
+        "uk": "Ukrainian",
+        "ro": "Romanian",
+        "hu": "Hungarian",
+        "bg": "Bulgarian",
+        "hr": "Croatian",
+        "sr": "Serbian",
+        "sk": "Slovak",
+        "sl": "Slovenian",
+        "et": "Estonian",
+        "lv": "Latvian",
+        "lt": "Lithuanian"
+    }
+
+def get_language_name(iso_code):
+    """
+    Get the language name for a given ISO 639-1 code.
+    
+    Args:
+        iso_code (str): ISO 639-1 language code
+        
+    Returns:
+        str: Language name in English if found, None otherwise
+    """
+    names = get_language_names()
+    normalized_code = iso_code.lower().strip()
+    return names.get(normalized_code) if normalized_code in names else 'NULL'
 
 def tokenize_text(text, model="gpt-4o"):
     """
@@ -173,7 +242,7 @@ def detect_lang(s):
     if english_pattern.match(s):
         lang= lang_model.predict(s.replace('▁', '').strip(), k=1)#detect(s)
         lang=lang[0][0].replace('__label__','')
-        return lang
+        return get_language_name(lang).lower()
     if chinese_pattern.match(s):
         return 'chinese'
     if digit_pattern.match(s):
@@ -182,7 +251,7 @@ def detect_lang(s):
     if lang=='english':
         lang= lang_model.predict(s.replace('▁','').strip(), k=1)#detect(s)
         lang=lang[0][0].replace('__label__','')
-        return lang
+        return get_language_name(lang).lower()
 
     return lang
 
