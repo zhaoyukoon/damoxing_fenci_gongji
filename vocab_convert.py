@@ -360,7 +360,7 @@ def process_vocab(tok_path):
         lc = lang_count[lang] if lang in lang_count else 0
         lang_count[lang] = lc + 1
         segs = []
-        if lang in ['pure_english','en']:
+        if lang in ['pure_english','en', 'english']:
             english_vocab[c] = len(c)
             
             segs = tokenize_text(c) if  english_pattern.match(c) and len(c) > 5 else [c]
