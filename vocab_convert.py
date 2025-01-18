@@ -249,7 +249,10 @@ def refine_english_lang(s):
     if len(s) > 8 and lang.lower() == 'vietnamese':
         return 'english'
 
-    return get_language_name(lang).lower()
+    lang = get_language_name(lang).lower()
+    if lang == 'null':
+        return 'NULL'
+    return lang
 
 
 def detect_lang(s):
