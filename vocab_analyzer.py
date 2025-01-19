@@ -88,7 +88,12 @@ def process_vocab(tok_path):
     vocab = []
 
     # Load vocabulary based on model type
-    if tok_path in ['glm-4-9b-chat', '360Zhinao2-7B-Chat-4K']:
+    if tok_path in ['RWKV']:
+        with open(tok_path  + '/rwkv_vocab_v20230424.txt') as f:
+            for line in f:
+                tokens = line.strip().split()
+                vocab.append(tokens[1][1:-1])
+    elif tok_path in ['glm-4-9b-chat', '360Zhinao2-7B-Chat-4K']:
         with open(tok_path + "/tokenizer.model") as f:
             decode_error_count = 0
             for line in f:
