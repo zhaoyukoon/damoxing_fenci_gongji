@@ -1836,7 +1836,7 @@ AR	AR	AR	2	english
 br	br	br	2	english
 Ġgl	gl	gl	2	english
 Ġbr	br	br	2	english
-ĠIf	If		2	spanish
+ĠIf	If	If	2	english
 CR	CR	CR	2	english
 Ġfr	fr	fr	2	english
 NA	NA	NA	2	english
@@ -1847,7 +1847,7 @@ He	He	He	2	english
 24	24		2	digits
 Ġpa	pa	pa	2	english
 $.	$.		2	NULL
-'m	'm	'm	2	english
+'m	'm		2	NULL
 ãĤ	ãĤ		2	NULL
 yn	yn	yn	2	english
 $,	$,		2	NULL
@@ -1871,7 +1871,7 @@ ES	ES	ES	2	english
 aj	aj		2	russian
 IT	IT	IT	2	english
 80	80		2	digits
-tt	tt		2	french
+tt	tt	tt	2	english
 ek	ek	ek	2	english
 \[	\[		2	NULL
 40	40		2	digits
@@ -1995,7 +1995,7 @@ ET	ET		2	german
 Ġ25	25		2	digits
 44	44		2	digits
 Ġ</	</		2	NULL
-If	If		2	spanish
+If	If	If	2	english
 Ġey	ey	ey	2	english
 88	88		2	digits
 ĠAt	At	At	2	english
@@ -2087,7 +2087,7 @@ my	my	my	2	english
 87	87		2	digits
 So	So	So	2	english
 ĠPr	Pr	Pr	2	english
-bt	bt		2	spanish
+bt	bt	bt	2	english
 pm	pm	pm	2	english
 Id	Id	Id	2	english
 Ġce	ce	ce	2	english
@@ -2095,7 +2095,7 @@ Id	Id	Id	2	english
 Ph	Ph	Ph	2	english
 Ġcy	cy	cy	2	english
 CC	CC	CC	2	english
-nt	nt		2	persian
+nt	nt	nt	2	english
 ~~	~~		2	NULL
 ĠBr	Br	Br	2	english
 ey	ey	ey	2	english
@@ -2281,7 +2281,7 @@ oe	oe	oe	2	english
 CD	CD	CD	2	english
 ĠII	II	II	2	english
 ĠAf	Af	Af	2	english
-Ps	Ps	Ps	2	chinese
+Ps	Ps	Ps	2	english
 ]^	]^		2	NULL
 gn	gn	gn	2	english
 62	62		2	digits
@@ -2325,7 +2325,7 @@ Do	Do	Do	2	english
 SC	SC	SC	2	english
 ĠAP	AP	AP	2	english
 ĠIS	IS	IS	2	english
-ui	ui		2	german
+ui	ui	ui	2	english
 ,'	,'		2	NULL
 ĊĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠ	\n		2	control
 la	la	la	2	english
@@ -2385,7 +2385,7 @@ Fr	Fr	Fr	2	english
 EC	EC	EC	2	english
 Ġvs	vs	vs	2	english
 FL	FL	FL	2	english
-UL	UL		2	russian
+UL	UL	UL	2	english
 ĠPR	PR	PR	2	english
 !!	!!		2	NULL
 Be	Be	Be	2	english
@@ -2516,7 +2516,7 @@ LA	LA	LA	2	english
 vo	vo	vo	2	english
 ĠFe	Fe	Fe	2	english
 PT	PT	PT	2	english
-ua	ua		2	italian
+ua	ua	ua	2	english
 Ġ"[	"[		2	NULL
 kt	kt	kt	2	english
 Ġmg	mg	mg	2	english
@@ -2530,7 +2530,7 @@ SI	SI	SI	2	english
 ba	ba	ba	2	english
 kg	kg	kg	2	english
 bm	bm	bm	2	english
-ql	ql		2	japanese
+ql	ql	ql	2	english
 AV	AV	AV	2	english
 ĠUp	Up	Up	2	english
 CM	CM	CM	2	english
@@ -2579,7 +2579,7 @@ GR	GR	GR	2	english
 MT	MT	MT	2	english
 ĠCR	CR	CR	2	english
 ''	''		2	NULL
-hr	hr		2	french
+hr	hr	hr	2	english
 BA	BA	BA	2	english
 YS	YS	YS	2	english
 MO	MO	MO	2	english
@@ -2676,7 +2676,7 @@ FP	FP	FP	2	english
 ][	][		2	NULL
 cr	cr	cr	2	english
 SL	SL	SL	2	english
-xe	xe	xe	2	chinese
+xe	xe	xe	2	english
 ä½	ä½		2	NULL
 ĠdÃ©	dé		2	french
 Ġ44	44		2	digits
@@ -2772,7 +2772,7 @@ cf	cf	cf	2	english
 ĠMS	MS	MS	2	english
 ĠIr	Ir	Ir	2	english
 LS	LS	LS	2	english
-FS	FS	FS	2	chinese
+FS	FS	FS	2	english
 Ð¾Ð»	ол		2	russian
 $)	$)		2	NULL
 Ġcm	cm	cm	2	english
@@ -3015,7 +3015,7 @@ HR	HR	HR	2	english
 |-	|-		2	NULL
 ĠSP	SP	SP	2	english
 >,	>,		2	NULL
-BO	BO	BO	2	chinese
+BO	BO	BO	2	english
 $_	$_		2	NULL
 ĠSC	SC	SC	2	english
 Ġec	ec	ec	2	english
@@ -3048,7 +3048,7 @@ Pi	Pi	Pi	2	english
 OF	OF	OF	2	english
 GS	GS	GS	2	english
 ìĿ	ìĿ		2	NULL
-ĠPs	Ps	Ps	2	chinese
+ĠPs	Ps	Ps	2	english
 ĠKn	Kn	Kn	2	english
 ĠSa	Sa	Sa	2	english
 ĠMD	MD	MD	2	english
@@ -3294,7 +3294,7 @@ LY	LY	LY	2	english
 ;;	;;		2	NULL
 ĠMP	MP	MP	2	english
 ç»	ç»		2	NULL
-Ġxe	xe	xe	2	chinese
+Ġxe	xe	xe	2	english
 Hi	Hi	Hi	2	english
 +^	+^		2	NULL
 NG	NG		2	french
@@ -3385,7 +3385,7 @@ hw	hw	hw	2	english
 Ġ_,	_,		2	NULL
 Av	Av	Av	2	english
 TF	TF	TF	2	english
-hd	hd	hd	2	chinese
+hd	hd	hd	2	english
 Bs	Bs	Bs	2	english
 ĠCP	CP	CP	2	english
 _+	_+		2	NULL
@@ -3461,7 +3461,7 @@ TM	TM	TM	2	english
 -$	-$		2	NULL
 [[	[[		2	NULL
 cz	cz	cz	2	english
-ĠÎ¼m	μm	μm	2	english
+ĠÎ¼m	μm		2	NULL
 GM	GM	GM	2	english
 æ³	æ³		2	NULL
 ?)	?)		2	NULL
@@ -3496,7 +3496,7 @@ AX	AX	AX	2	english
 è¨	è¨		2	NULL
 ĠAI	AI	AI	2	english
 PF	PF	PF	2	english
-ĠÎ¼g	μg	μg	2	english
+ĠÎ¼g	μg		2	NULL
 BY	BY	BY	2	english
 +)	+)		2	NULL
 Na	Na	Na	2	english
@@ -3655,7 +3655,7 @@ Bi	Bi	Bi	2	english
 {$	{$		2	NULL
 Ġ04	04		2	digits
 Ġ[$	[$		2	NULL
-ĠÎ¼M	μM	μM	2	english
+ĠÎ¼M	μM		2	NULL
 ÑĨÐ¸	ци		2	russian
 èĩ	èĩ		2	NULL
 vc	vc	vc	2	english
@@ -3991,7 +3991,7 @@ dh	dh		2	french
 ĠĠĠĊĠ	\n		2	control
 gz	gz	gz	2	english
 ĠRC	RC	RC	2	english
-ĠBO	BO	BO	2	chinese
+ĠBO	BO	BO	2	english
 ĠNT	NT	NT	2	english
 ĠÂ§Â§	§§		2	NULL
 ĠÐ²Ñĭ	вы		2	russian
@@ -4004,7 +4004,7 @@ Hg	Hg	Hg	2	english
 ~.	~.		2	NULL
 ç´	ç´		2	NULL
 tm	tm		2	french
-Ġhr	hr		2	french
+Ġhr	hr	hr	2	english
 ĠLP	LP	LP	2	english
 NY	NY	NY	2	english
 ĠTs	Ts	Ts	2	english
@@ -4091,7 +4091,7 @@ UX	UX	UX	2	english
 ãģĭãĤī	から		2	japanese
 Ġfn	fn	fn	2	english
 ĠHS	HS	HS	2	english
-Î¼g	μg	μg	2	english
+Î¼g	μg		2	NULL
 kr	kr	kr	2	english
 ÐµÐ²	ев		2	russian
 -.	-.		2	NULL
@@ -4101,7 +4101,7 @@ kr	kr	kr	2	english
 ĠND	ND	ND	2	english
 Ð¸Ñħ	их		2	russian
 :/	:/		2	NULL
-lg	lg	lg	2	chinese
+lg	lg	lg	2	english
 RU	RU	RU	2	english
 Ġ$_	$_		2	NULL
 å¦	å¦		2	NULL
@@ -4178,7 +4178,7 @@ IK	IK	IK	2	english
 ĠsÃ©	sé		2	spanish
 ç¨	ç¨		2	NULL
 ĠAy	Ay	Ay	2	english
-Î¼m	μm	μm	2	english
+Î¼m	μm		2	NULL
 ĊĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠ	\n		2	control
 ĠPV	PV	PV	2	english
 @@	@@		2	NULL
@@ -4192,7 +4192,7 @@ Lu	Lu	Lu	2	english
 ĠGT	GT	GT	2	english
 Ġ".	".		2	NULL
 Ġ$<	$<		2	NULL
-ĠÂµg	µg	µg	2	english
+ĠÂµg	µg		2	NULL
 Ir	Ir	Ir	2	english
 ĠRP	RP	RP	2	english
 ĠBB	BB	BB	2	english
@@ -4415,7 +4415,7 @@ Ox	Ox	Ox	2	english
 ĠEb	Eb	Eb	2	english
 Sa	Sa	Sa	2	english
 ĠLT	LT	LT	2	english
-Î¼M	μM	μM	2	english
+Î¼M	μM		2	NULL
 Â»,	»,		2	NULL
 æ¸	æ¸		2	NULL
 ĠBh	Bh	Bh	2	english
@@ -4426,7 +4426,7 @@ Um	Um		2	portuguese
 !_	!_		2	NULL
 ĊĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠ	\n		2	control
 ĠnÃ¤	nä		2	NULL
-ĠÂµM	µM	µM	2	english
+ĠÂµM	µM		2	NULL
 Ġay	ay	ay	2	english
 Ã¼h	üh		2	NULL
 Ġmt	mt	mt	2	english
@@ -4529,7 +4529,7 @@ DQ	DQ		2	french
 ĠÈĻi	și		2	NULL
 :*	:*		2	NULL
 Ġ@"	@"		2	NULL
-zn	zn		2	russian
+zn	zn	zn	2	english
 Ly	Ly	Ly	2	english
 ĠGI	GI	GI	2	english
 ĠCd	Cd	Cd	2	english
@@ -4570,10 +4570,10 @@ WF	WF	WF	2	english
 ìļ	ìļ		2	NULL
 ĠDT	DT	DT	2	english
 *\	*\		2	NULL
-jd	jd		2	japanese
+jd	jd	jd	2	english
 MN	MN	MN	2	english
 mr	mr	mr	2	english
-ĠFS	FS	FS	2	chinese
+ĠFS	FS	FS	2	english
 >'	>'		2	NULL
 WP	WP	WP	2	english
 ĠCf	Cf	Cf	2	english
@@ -4583,7 +4583,7 @@ yi	yi	yi	2	english
 ç©	ç©		2	NULL
 âĸĪâĸĪ	██		2	NULL
 qt	qt	qt	2	english
-Ġui	ui		2	german
+Ġui	ui	ui	2	english
 ãĤĪãģĨ	よう		2	japanese
 VS	VS	VS	2	english
 yx	yx	yx	2	english
@@ -4591,7 +4591,7 @@ KP	KP	KP	2	english
 FG	FG	FG	2	english
 *>	*>		2	NULL
 hp	hp	hp	2	english
-ĠÎ¼L	μL	μL	2	english
+ĠÎ¼L	μL		2	NULL
 ĠAÎ²	Aβ		2	NULL
 Ã¡t	át		2	NULL
 wm	wm	wm	2	english
@@ -4608,7 +4608,7 @@ wm	wm	wm	2	english
 ĠEA	EA	EA	2	english
 ĠvÃ¤	vä		2	NULL
 Ġ[-	[-		2	NULL
-ĠÂµm	µm	µm	2	english
+ĠÂµm	µm		2	NULL
 ĠÂ»,	»,		2	NULL
 ĠUT	UT	UT	2	english
 HY	HY	HY	2	english
@@ -4637,7 +4637,7 @@ Hu	Hu	Hu	2	english
 à³	à³		2	NULL
 VT	VT	VT	2	english
 DU	DU	DU	2	english
-ĠÎ¼l	μl	μl	2	english
+ĠÎ¼l	μl		2	NULL
 )<	)<		2	NULL
 Ġĉ	\t		2	control
 åģ	åģ		2	NULL
@@ -4649,7 +4649,7 @@ rp	rp	rp	2	english
 ?.	?.		2	NULL
 vp	vp	vp	2	english
 ĠCp	Cp	Cp	2	english
-ĠUL	UL		2	russian
+ĠUL	UL	UL	2	english
 Nd	Nd	Nd	2	english
 ĠIQ	IQ	IQ	2	english
 ĠVS	VS	VS	2	english
@@ -4826,7 +4826,7 @@ Mu	Mu	Mu	2	english
 á¸	á¸		2	NULL
 Ġ$^	$^		2	NULL
 Ve	Ve	Ve	2	english
-Î¼l	μl	μl	2	english
+Î¼l	μl		2	NULL
 ë¡	ë¡		2	NULL
 qa	qa	qa	2	english
 XR	XR	XR	2	english
@@ -5055,7 +5055,7 @@ WV	WV	WV	2	english
 âĢ¦âĢĿ	…”		2	NULL
 ĠFc	Fc	Fc	2	english
 Ġ(Â§	(§		2	NULL
-Ġnt	nt		2	persian
+Ġnt	nt	nt	2	english
 Ġ'$	'$		2	NULL
 ľĵ	ľĵ		2	NULL
 $=	$=		2	NULL
@@ -5100,7 +5100,7 @@ lj	lj	lj	2	english
 Â°,	°,		2	NULL
 bj	bj	bj	2	english
 zc	zc	zc	2	english
-Î¼L	μL	μL	2	english
+Î¼L	μL		2	NULL
 !(	!(		2	NULL
 *"	*"		2	NULL
 çı	çı		2	NULL
@@ -5112,7 +5112,7 @@ Pb	Pb	Pb	2	english
 JB	JB	JB	2	english
 ĠĠĊĠĠĠ	\n		2	control
 &$	&$		2	NULL
-ĠLÃ©	Lé	Lé	2	english
+ĠLÃ©	Lé		2	NULL
 ĸ´	ĸ´		2	NULL
 ĠXL	XL	XL	2	english
 Ġku	ku	ku	2	english
@@ -5177,7 +5177,7 @@ FH	FH	FH	2	english
 Ð»Ñİ	лю		2	russian
 ×ķ×ª	ות		2	hebrew
 Ġmk	mk	mk	2	english
-ĠMÃ©	Mé	Mé	2	english
+ĠMÃ©	Mé		2	NULL
 AJ	AJ	AJ	2	english
 Ġ_"	_"		2	NULL
 ĠtÃ©	té		2	NULL
@@ -5239,7 +5239,7 @@ Vi	Vi	Vi	2	english
 ĠvÃ©	vé		2	french
 ĊĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠ	\n		2	control
 ãĥĥãĤ¯	ック		2	japanese
-Ġbt	bt		2	spanish
+Ġbt	bt	bt	2	english
 Ks	Ks	Ks	2	english
 Ġ'@	'@		2	NULL
 ĠKB	KB	KB	2	english
@@ -5258,7 +5258,7 @@ Js	Js	Js	2	english
 ãĤ¹ãĥĪ	スト		2	japanese
 wc	wc		2	german
 zd	zd		2	german
-ĠnÃĥ	nÃ	nÃ	2	english
+ĠnÃĥ	nÃ		2	NULL
 âĭ	âĭ		2	NULL
 <-	<-		2	NULL
 >/	>/		2	NULL
@@ -5391,7 +5391,7 @@ ZA	ZA	ZA	2	english
 ĠhÃ¶	hö		2	NULL
 Ġ&#	&#		2	NULL
 ĠBG	BG	BG	2	english
-ĠfÃĥ	fÃ	fÃ	2	english
+ĠfÃĥ	fÃ		2	NULL
 ĠÏĢÎµ	πε		2	greek
 éŁ	éŁ		2	NULL
 ĠÑģÑĬ	съ		2	russian
@@ -5490,7 +5490,7 @@ JM	JM	JM	2	english
 ÏĥÎµ	σε		2	greek
 ĠhÃ¤	hä		2	NULL
 Ã©p	ép		2	french
-Âµg	µg	µg	2	english
+Âµg	µg		2	NULL
 Ġ(&	(&		2	NULL
 ÑĢÑĭ	ры		2	russian
 ĠPd	Pd	Pd	2	english
@@ -5508,11 +5508,11 @@ Yu	Yu	Yu	2	english
 ÏĢÎ±	πα		2	greek
 ĠÂ».	».		2	NULL
 å¦Ĥæŀľ	如果	如果	2	chinese
-Ġtt	tt		2	french
+Ġtt	tt	tt	2	english
 EG	EG	EG	2	english
 zg	zg	zg	2	english
 Ġdh	dh		2	french
-ĠÂµl	µl	µl	2	english
+ĠÂµl	µl		2	NULL
 BW	BW	BW	2	english
 Fu	Fu	Fu	2	english
 Äģs	ās		2	NULL
@@ -5557,7 +5557,7 @@ Ay	Ay	Ay	2	english
 ÑĥÐ¿	уп		2	russian
 -%	-%		2	NULL
 ,#	,#		2	NULL
-Âµm	µm	µm	2	english
+Âµm	µm		2	NULL
 Ġdm	dm	dm	2	english
 FV	FV	FV	2	english
 ĠOV	OV	OV	2	english
@@ -5634,7 +5634,7 @@ wu	wu	wu	2	english
 QT	QT	QT	2	english
 åĤ	åĤ		2	NULL
 Jy	Jy	Jy	2	english
-lÃ©	lé	lé	2	english
+lÃ©	lé		2	NULL
 Ġuc	uc	uc	2	english
 ĠVB	VB	VB	2	english
 Ġfp	fp	fp	2	english
@@ -5684,7 +5684,7 @@ lk	lk	lk	2	english
 ĊĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠĠ	\n		2	control
 TK	TK	TK	2	english
 Ð²ÑĢ	вр		2	russian
-ĠÂµL	µL	µL	2	english
+ĠÂµL	µL		2	NULL
 Ġrx	rx	rx	2	english
 èİ	èİ		2	NULL
 Ġky	ky	ky	2	english
@@ -5693,7 +5693,7 @@ Wu	Wu	Wu	2	english
 XM	XM	XM	2	english
 dj	dj	dj	2	english
 ĠEW	EW		2	german
-ĠpÃĥ	pÃ	pÃ	2	english
+ĠpÃĥ	pÃ		2	NULL
 æĴ	æĴ		2	NULL
 ÎºÎµ	κε		2	greek
 ĠÃīt	Ét		2	french
@@ -5703,7 +5703,7 @@ dj	dj	dj	2	english
 Ġ{:	{:		2	NULL
 ĠBj	Bj	Bj	2	english
 pv	pv	pv	2	english
-ĠRÃ©	Ré	Ré	2	english
+ĠRÃ©	Ré		2	NULL
 ĠHÃ¶	Hö		2	NULL
 mV	mV	mV	2	english
 TU	TU	TU	2	english
@@ -5971,7 +5971,7 @@ kp	kp	kp	2	english
 RK	RK	RK	2	english
 ëł	ëł		2	NULL
 SQ	SQ	SQ	2	english
-mw	mw		2	german
+mw	mw	mw	2	english
 Ġthe	the	the	3	english
 ing	ing	ing	3	english
 ion	ion	ion	3	english
@@ -6025,14 +6025,14 @@ ard	ard	ard	3	english
 Ġcan	can	can	3	english
 ame	ame	ame	3	english
 out	out	out	3	english
-ome	ome		3	malay
+ome	ome	ome	3	english
 age	age	age	3	english
 Ġwhe	whe	whe	3	english
 der	der		3	german
 ost	ost		3	german
 Ġres	res	res	3	english
 ult	ult		3	portuguese
-ide	ide	ide	3	chinese
+ide	ide	ide	3	english
 ast	ast	ast	3	english
 ath	ath	ath	3	english
 ans	ans		3	french
@@ -6058,7 +6058,7 @@ ary	ary	ary	3	english
 ime	ime	ime	3	english
 Ġhas	has	has	3	english
 Ġdis	dis		3	german
-ens	ens		3	portuguese
+ens	ens	ens	3	english
 Ġout	out	out	3	english
 int	int	int	3	english
 Ġhad	had	had	3	english
@@ -6129,7 +6129,7 @@ old	old	old	3	english
 ink	ink		3	german
 Ġget	get	get	3	english
 Ġacc	acc	acc	3	english
-ian	ian		3	french
+ian	ian	ian	3	english
 ced	ced	ced	3	english
 Ġrec	rec	rec	3	english
 ish	ish	ish	3	english
@@ -6225,7 +6225,7 @@ hes	hes		3	malay
 let	let	let	3	english
 Ġpar	par		3	french
 ool	ool	ool	3	english
-ger	ger		3	german
+ger	ger	ger	3	english
 ork	ork	ork	3	english
 put	put	put	3	english
 riv	riv	riv	3	english
@@ -6260,7 +6260,7 @@ ank	ank	ank	3	english
 Ġmem	mem	mem	3	english
 ĠCom	Com		3	portuguese
 set	set	set	3	english
-cal	cal		3	french
+cal	cal	cal	3	english
 ]{}	]{}		3	NULL
 ]\]	]\]		3	NULL
 Ġfil	fil	fil	3	english
@@ -6353,7 +6353,7 @@ Fig	Fig	Fig	3	english
 Ġdem	dem		3	german
 're	're	're	3	english
 Ġdev	dev	dev	3	english
-Ġopt	opt		3	russian
+Ġopt	opt	opt	3	english
 Ġinc	inc	inc	3	english
 Ġerr	err	err	3	english
 pha	pha	pha	3	english
@@ -6363,7 +6363,7 @@ und	und		3	german
 ets	ets	ets	3	english
 Ġtoo	too	too	3	english
 arm	arm	arm	3	english
-ium	ium		3	russian
+ium	ium	ium	3	english
 Ġbre	bre		3	french
 200	200		3	digits
 ott	ott		3	italian
@@ -6417,7 +6417,7 @@ sec	sec	sec	3	english
 ope	ope	ope	3	english
 ĠCon	Con		3	italian
 Ġpot	pot	pot	3	english
-Ġcal	cal		3	french
+Ġcal	cal	cal	3	english
 Ġhig	hig	hig	3	english
 Ġcap	cap	cap	3	english
 oss	oss	oss	3	english
@@ -6456,7 +6456,7 @@ uro	uro	uro	3	english
 Ġobt	obt	obt	3	english
 aps	aps	aps	3	english
 new	new	new	3	english
-Ġide	ide	ide	3	chinese
+Ġide	ide	ide	3	english
 por	por		3	spanish
 ats	ats	ats	3	english
 'll	'll	'll	3	english
@@ -6494,7 +6494,7 @@ acy	acy	acy	3	english
 Ġrad	rad	rad	3	english
 But	But	But	3	english
 }^{	}^{		3	NULL
-bar	bar		3	french
+bar	bar	bar	3	english
 rem	rem	rem	3	english
 idd	idd	idd	3	english
 Ġdiv	div		3	french
@@ -6540,7 +6540,7 @@ osp	osp		3	spanish
 phi	phi	phi	3	english
 mon	mon		3	french
 yle	yle	yle	3	english
-opt	opt		3	russian
+opt	opt	opt	3	english
 ney	ney	ney	3	english
 Ġinf	inf	inf	3	english
 sum	sum	sum	3	english
@@ -6616,7 +6616,7 @@ ude	ude	ude	3	english
 Ġexc	exc	exc	3	english
 ges	ges		3	german
 une	une		3	french
-Ġbar	bar		3	french
+Ġbar	bar	bar	3	english
 ĠEng	Eng	Eng	3	english
 ĠMay	May	May	3	english
 oll	oll	oll	3	english
@@ -6648,7 +6648,7 @@ now	now	now	3	english
 irm	irm	irm	3	english
 Ġdam	dam	dam	3	english
 oph	oph		3	german
-ops	ops	ops	3	chinese
+ops	ops	ops	3	english
 www	www	www	3	english
 }{\	}{\		3	NULL
 alt	alt	alt	3	english
@@ -6738,7 +6738,7 @@ ili	ili	ili	3	english
 uth	uth	uth	3	english
 Ġeff	eff	eff	3	english
 ĠNot	Not	Not	3	english
-tau	tau		3	portuguese
+tau	tau	tau	3	english
 ĠPol	Pol	Pol	3	english
 ocr	ocr	ocr	3	english
 oke	oke	oke	3	english
@@ -6874,7 +6874,7 @@ ham	ham	ham	3	english
 ĠArt	Art	Art	3	english
 Ġled	led	led	3	english
 eah	eah	eah	3	english
-Ġens	ens		3	portuguese
+Ġens	ens	ens	3	english
 Ġrot	rot	rot	3	english
 bon	bon		3	french
 ĠVal	Val	Val	3	english
@@ -6965,7 +6965,7 @@ opl	opl	opl	3	english
 Ġbuy	buy	buy	3	english
 iÃ³n	ión		3	spanish
 Ġtim	tim	tim	3	english
-ULL	ULL		3	russian
+ULL	ULL	ULL	3	english
 dim	dim	dim	3	english
 Set	Set	Set	3	english
 tee	tee	tee	3	english
@@ -6988,8 +6988,8 @@ rad	rad	rad	3	english
 kay	kay	kay	3	english
 ais	ais	ais	3	english
 chi	chi		3	italian
-rum	rum		3	italian
-vec	vec		3	russian
+rum	rum	rum	3	english
+vec	vec	vec	3	english
 lib	lib	lib	3	english
 ĠChe	Che		3	italian
 ĠSen	Sen		3	turkish
@@ -7323,7 +7323,7 @@ Map	Map	Map	3	english
 ync	ync	ync	3	english
 Ġmel	mel	mel	3	english
 mas	mas		3	italian
-api	api		3	indonesian
+api	api	api	3	english
 she	she	she	3	english
 ĠMex	Mex	Mex	3	english
 Any	Any	Any	3	english
@@ -7352,7 +7352,7 @@ Rep	Rep	Rep	3	english
 Ste	Ste	Ste	3	english
 ĠMag	Mag	Mag	3	english
 Ġnic	nic	nic	3	english
-Ġspl	spl	spl	3	chinese
+Ġspl	spl	spl	3	english
 Ġ});	});		3	NULL
 ĠMrs	Mrs	Mrs	3	english
 ola	ola		3	turkish
@@ -7595,7 +7595,7 @@ enu	enu	enu	3	english
 400	400		3	digits
 pet	pet	pet	3	english
 buf	buf	buf	3	english
-uum	uum	uum	3	chinese
+uum	uum	uum	3	english
 DNA	DNA	DNA	3	english
 wer	wer	wer	3	english
 ĠMel	Mel	Mel	3	english
@@ -7641,7 +7641,7 @@ flu	flu	flu	3	english
 Ġvul	vul	vul	3	english
 Ġmic	mic	mic	3	english
 ]^.	]^.		3	NULL
-png	png		3	german
+png	png	png	3	english
 ĠTem	Tem		3	portuguese
 kes	kes	kes	3	english
 obe	obe	obe	3	english
@@ -7705,7 +7705,7 @@ Did	Did	Did	3	english
 Eng	Eng	Eng	3	english
 ĠOld	Old	Old	3	english
 ĠPet	Pet	Pet	3	english
-ova	ova		3	japanese
+ova	ova	ova	3	english
 ald	ald	ald	3	english
 ali	ali	ali	3	english
 Ġfro	fro	fro	3	english
@@ -7721,7 +7721,7 @@ ATA	ATA	ATA	3	english
 uan	uan	uan	3	english
 Ġsed	sed	sed	3	english
 ĠExt	Ext	Ext	3	english
-Ġflo	flo	flo	3	chinese
+Ġflo	flo	flo	3	english
 ĠFil	Fil	Fil	3	english
 Ġvit	vit	vit	3	english
 Ġtip	tip	tip	3	english
@@ -7773,7 +7773,7 @@ SYS	SYS	SYS	3	english
 iva	iva	iva	3	english
 ski	ski	ski	3	english
 nic	nic	nic	3	english
-Ġwra	wra		3	spanish
+Ġwra	wra	wra	3	english
 PCR	PCR	PCR	3	english
 obj	obj	obj	3	english
 Ġalk	alk	alk	3	english
@@ -7838,7 +7838,7 @@ asi	asi	asi	3	english
 ĠMen	Men	Men	3	english
 fin	fin		3	french
 ĠRam	Ram	Ram	3	english
-aph	aph		3	ukrainian
+aph	aph	aph	3	english
 ĠAff	Aff	Aff	3	english
 Web	Web	Web	3	english
 ĠVis	Vis	Vis	3	english
@@ -7885,7 +7885,7 @@ mut	mut	mut	3	english
 ĠLab	Lab	Lab	3	english
 Ã¨re	ère		3	french
 txt	txt	txt	3	english
-ULT	ULT		3	russian
+ULT	ULT	ULT	3	english
 Ġbon	bon		3	french
 had	had	had	3	english
 cit	cit	cit	3	english
@@ -7979,7 +7979,7 @@ PER	PER	PER	3	english
 Med	Med	Med	3	english
 ĠWay	Way	Way	3	english
 Ġtun	tun		3	french
-tml	tml	tml	3	chinese
+tml	tml	tml	3	english
 PAR	PAR	PAR	3	english
 Dep	Dep	Dep	3	english
 ),\	),\		3	NULL
@@ -8045,13 +8045,13 @@ urd	urd	urd	3	english
 Use	Use	Use	3	english
 130	130		3	digits
 API	API	API	3	english
-Ġrum	rum		3	italian
+Ġrum	rum	rum	3	english
 itÃ©	ité		3	french
 ĠEmp	Emp	Emp	3	english
 Ġcum	cum	cum	3	english
 adi	adi	adi	3	english
 ĠKen	Ken	Ken	3	english
-sql	sql		3	japanese
+sql	sql	sql	3	english
 uri	uri	uri	3	english
 019	019		3	digits
 ĠWat	Wat	Wat	3	english
@@ -8059,7 +8059,7 @@ uri	uri	uri	3	english
 Ġ111	111		3	digits
 102	102		3	digits
 Ġ115	115		3	digits
-ttp	ttp	ttp	3	chinese
+ttp	ttp	ttp	3	english
 aws	aws	aws	3	english
 Ġ**(	**(		3	NULL
 ĠAge	Age	Age	3	english
@@ -8223,7 +8223,7 @@ AMP	AMP	AMP	3	english
 ĠCat	Cat	Cat	3	english
 Met	Met	Met	3	english
 Ġ105	105		3	digits
-aya	aya		3	french
+aya	aya	aya	3	english
 Ġjun	jun	jun	3	english
 ĠAud	Aud	Aud	3	english
 Ġ116	116		3	digits
@@ -8364,7 +8364,7 @@ oes	oes		3	spanish
 Cle	Cle	Cle	3	english
 \_[	\_[		3	NULL
 126	126		3	digits
-Ġpub	pub		3	serbian
+Ġpub	pub	pub	3	english
 Ġapt	apt	apt	3	english
 114	114		3	digits
 124	124		3	digits
@@ -8439,7 +8439,7 @@ Pos	Pos	Pos	3	english
 IAL	IAL	IAL	3	english
 Ġpap	pap	pap	3	english
 KEY	KEY	KEY	3	english
-Ġmim	mim		3	portuguese
+Ġmim	mim	mim	3	english
 Ġtie	tie	tie	3	english
 Ġ134	134		3	digits
 via	via	via	3	english
@@ -8514,9 +8514,9 @@ uto	uto	uto	3	english
 ĠAli	Ali	Ali	3	english
 *(-	*(-		3	NULL
 Dat	Dat	Dat	3	english
-PRE	PRE		3	spanish
+PRE	PRE	PRE	3	english
 bad	bad	bad	3	english
-doi	doi		3	spanish
+doi	doi	doi	3	english
 ANG	ANG	ANG	3	english
 133	133		3	digits
 ims	ims	ims	3	english
@@ -8858,7 +8858,7 @@ ARN	ARN	ARN	3	english
 ĠSex	Sex	Sex	3	english
 emb	emb	emb	3	english
 ĠCSS	CSS		3	italian
-pub	pub		3	serbian
+pub	pub	pub	3	english
 eto	eto	eto	3	english
 149	149		3	digits
 iam	iam	iam	3	english
@@ -9541,7 +9541,7 @@ PLE	PLE	PLE	3	english
 Den	Den	Den	3	english
 237	237		3	digits
 Ġ148	148		3	digits
-Ġvec	vec		3	russian
+Ġvec	vec	vec	3	english
 Ð¸ÑĤÑĮ	ить		3	russian
 Ġ157	157		3	digits
 043	043		3	digits
@@ -9554,7 +9554,7 @@ War	War	War	3	english
 Wed	Wed	Wed	3	english
 183	183		3	digits
 349	349		3	digits
-riz	riz		3	german
+riz	riz	riz	3	english
 ĠFlu	Flu	Flu	3	english
 Ġski	ski	ski	3	english
 Ġcob	cob	cob	3	english
@@ -9572,7 +9572,7 @@ SSL	SSL	SSL	3	english
 cad	cad	cad	3	english
 213	213		3	digits
 Ã¤tt	ätt		3	NULL
-omi	omi	omi	3	chinese
+omi	omi	omi	3	english
 akt	akt	akt	3	english
 osi	osi	osi	3	english
 ĠPle	Ple	Ple	3	english
@@ -9628,7 +9628,7 @@ aku	aku		3	indonesian
 ĠSET	SET	SET	3	english
 Ġtat	tat		3	russian
 Ġech	ech	ech	3	english
-Ġsql	sql		3	japanese
+Ġsql	sql	sql	3	english
 Ġsta	sta		3	italian
 ĠRud	Rud	Rud	3	english
 Ġtam	tam	tam	3	english
@@ -9717,7 +9717,7 @@ peg	peg	peg	3	english
 ĠAbd	Abd	Abd	3	english
 Ã¤Ã¤n	ään		3	NULL
 kom	kom	kom	3	english
-Ġger	ger		3	german
+Ġger	ger	ger	3	english
 ĠAlb	Alb	Alb	3	english
 ĠGot	Got	Got	3	english
 480	480		3	digits
@@ -9959,14 +9959,14 @@ ICA	ICA	ICA	3	english
 ĠHPV	HPV	HPV	3	english
 Ġjer	jer	jer	3	english
 ĠAMP	AMP	AMP	3	english
-spl	spl	spl	3	chinese
+spl	spl	spl	3	english
 din	din	din	3	english
 Ġ320	320		3	digits
 ilo	ilo	ilo	3	english
 Ġunm	unm	unm	3	english
 286	286		3	digits
 Ġzip	zip	zip	3	english
-Ġapi	api		3	indonesian
+Ġapi	api	api	3	english
 Ġkun	kun	kun	3	english
 Ġlol	lol	lol	3	english
 Ġhen	hen	hen	3	english
@@ -10142,7 +10142,7 @@ Raw	Raw	Raw	3	english
 Law	Law	Law	3	english
 Bay	Bay	Bay	3	english
 444	444		3	digits
-GLE	GLE	GLE	3	chinese
+GLE	GLE	GLE	3	english
 ahr	ahr	ahr	3	english
 359	359		3	digits
 MSO	MSO	MSO	3	english
@@ -10228,7 +10228,7 @@ CMD	CMD	CMD	3	english
 Ġ401	401		3	digits
 379	379		3	digits
 Ð°Ð»ÑĮ	аль		3	russian
-ogo	ogo	ogo	3	chinese
+ogo	ogo	ogo	3	english
 '_{	'_{		3	NULL
 Ġpla	pla	pla	3	english
 ĠKur	Kur	Kur	3	english
@@ -10250,7 +10250,7 @@ nom	nom		3	french
 ĠÐºÐ°Ðº	как		3	russian
 LAY	LAY	LAY	3	english
 gue	gue	gue	3	english
-htm	htm	htm	3	chinese
+htm	htm	htm	3	english
 WIN	WIN	WIN	3	english
 388	388		3	digits
 ÑĢÐ°Ð½	ран		3	russian
@@ -10519,7 +10519,7 @@ Neg	Neg	Neg	3	english
 Ġ290	290		3	digits
 ^+$	^+$		3	NULL
 Ġlex	lex	lex	3	english
-tti	tti	tti	3	chinese
+tti	tti	tti	3	english
 Ġ194	194		3	digits
 ĠLit	Lit	Lit	3	english
 Ġ229	229		3	digits
@@ -10537,7 +10537,7 @@ Tax	Tax	Tax	3	english
 ĠCin	Cin	Cin	3	english
 Ġ223	223		3	digits
 055	055		3	digits
-ĠPRE	PRE		3	spanish
+ĠPRE	PRE	PRE	3	english
 604	604		3	digits
 Ġhoc	hoc	hoc	3	english
 503	503		3	digits
@@ -10676,7 +10676,7 @@ zek	zek	zek	3	english
 ĠTun	Tun	Tun	3	english
 cot	cot	cot	3	english
 Kim	Kim	Kim	3	english
-Sql	Sql		3	japanese
+Sql	Sql	Sql	3	english
 Ġved	ved	ved	3	english
 ĠPie	Pie	Pie	3	english
 ĠSha	Sha	Sha	3	english
@@ -10739,7 +10739,7 @@ CLE	CLE	CLE	3	english
 Ġ\[[	\[[		3	NULL
 996	996		3	digits
 686	686		3	digits
-Ġdoi	doi		3	spanish
+Ġdoi	doi	doi	3	english
 ARC	ARC	ARC	3	english
 ĠPam	Pam	Pam	3	english
 ĠBir	Bir		3	turkish
@@ -10926,7 +10926,7 @@ ${\	${\		3	NULL
 Ġace	ace	ace	3	english
 LIN	LIN		3	german
 654	654		3	digits
-Ġtau	tau		3	portuguese
+Ġtau	tau	tau	3	english
 Ð½ÑĭÐµ	ные		3	russian
 Ġ279	279		3	digits
 Ġusb	usb	usb	3	english
@@ -11091,7 +11091,7 @@ ICT	ICT	ICT	3	english
 ĠMaz	Maz	Maz	3	english
 ĠÎ³Î¹Î±	για		3	greek
 475	475		3	digits
-Ã¯ve	ïve	ïve	3	english
+Ã¯ve	ïve		3	NULL
 ĠCMS	CMS	CMS	3	english
 Ġ243	243		3	digits
 Ġyog	yog	yog	3	english
@@ -11507,7 +11507,7 @@ xiv	xiv		3	french
 ĠNaN	NaN	NaN	3	english
 Fif	Fif	Fif	3	english
 ĠSah	Sah	Sah	3	english
-chÃ©	ché	ché	3	english
+chÃ©	ché		3	NULL
 ESP	ESP	ESP	3	english
 051	051		3	digits
 }",	}",		3	NULL
@@ -11842,7 +11842,7 @@ dle	dle	dle	3	english
 ĠAML	AML	AML	3	english
 NON	NON	NON	3	english
 OPS	OPS	OPS	3	english
-ERO	ERO		3	ukrainian
+ERO	ERO	ERO	3	english
 Ġ460	460		3	digits
 Ġ415	415		3	digits
 Ast	Ast	Ast	3	english
@@ -11905,7 +11905,7 @@ Hig	Hig	Hig	3	english
 ĠFuk	Fuk	Fuk	3	english
 Ġá½	Ġá½		3	NULL
 ĠLAT	LAT	LAT	3	english
-arÃ©	aré	aré	3	english
+arÃ©	aré		3	NULL
 ĠPOS	POS	POS	3	english
 '''	'''		3	NULL
 Haw	Haw		3	french
@@ -12257,7 +12257,7 @@ apk	apk	apk	3	english
 Ġ436	436		3	digits
 Ġ388	388		3	digits
 ĠTap	Tap	Tap	3	english
-afa	afa		3	spanish
+afa	afa	afa	3	english
 Pic	Pic		3	italian
 ĠADA	ADA	ADA	3	english
 DIV	DIV	DIV	3	english
@@ -12325,11 +12325,11 @@ Glu	Glu	Glu	3	english
 Buy	Buy	Buy	3	english
 rst	rst		3	portuguese
 jin	jin	jin	3	english
-Myc	Myc		3	malay
+Myc	Myc	Myc	3	english
 xym	xym	xym	3	english
 Und	Und		3	german
 061	061		3	digits
-fax	fax		3	thai
+fax	fax	fax	3	english
 hev	hev	hev	3	english
 atu	atu		3	portuguese
 ^+\	^+\		3	NULL
@@ -12445,7 +12445,7 @@ ifa	ifa	ifa	3	english
 ĠFDR	FDR	FDR	3	english
 ĠVPN	VPN	VPN	3	english
 Ġ383	383		3	digits
-ĠHIS	HIS		3	italian
+ĠHIS	HIS	HIS	3	english
 USD	USD	USD	3	english
 ĠSAT	SAT	SAT	3	english
 Ġegy	egy	egy	3	english
@@ -12460,7 +12460,7 @@ GAC	GAC	GAC	3	english
 jem	jem	jem	3	english
 OID	OID	OID	3	english
 Ram	Ram	Ram	3	english
-Ġpng	png		3	german
+Ġpng	png	png	3	english
 ĠLIN	LIN		3	german
 630	630		3	digits
 ĠCRT	CRT	CRT	3	english
@@ -12470,7 +12470,7 @@ Mot	Mot	Mot	3	english
 Ġrhs	rhs	rhs	3	english
 ĠADD	ADD	ADD	3	english
 Ġ378	378		3	digits
-Ġops	ops	ops	3	chinese
+Ġops	ops	ops	3	english
 }).	}).		3	NULL
 opo	opo	opo	3	english
 ĠDEL	DEL	DEL	3	english
@@ -12482,7 +12482,7 @@ Pow	Pow	Pow	3	english
 Ġ417	417		3	digits
 Ġ419	419		3	digits
 ĠOUR	OUR	OUR	3	english
-ĠHbA	HbA	HbA	3	chinese
+ĠHbA	HbA	HbA	3	english
 %--	%--		3	NULL
 Lex	Lex	Lex	3	english
 ĠALS	ALS	ALS	3	english
@@ -12495,7 +12495,7 @@ Ada	Ada	Ada	3	english
 753	753		3	digits
 lis	lis	lis	3	english
 Lew	Lew	Lew	3	english
-tte	tte	tte	3	chinese
+tte	tte	tte	3	english
 574	574		3	digits
 ĠFIX	FIX	FIX	3	english
 azo	azo	azo	3	english
@@ -12534,7 +12534,7 @@ kie	kie	kie	3	english
 ĠTip	Tip	Tip	3	english
 HEL	HEL	HEL	3	english
 ĠABA	ABA	ABA	3	english
-Ġfax	fax		3	thai
+Ġfax	fax	fax	3	english
 LET	LET	LET	3	english
 ÑģÐ»Ð¸	сли		3	russian
 dos	dos		3	portuguese
@@ -12542,7 +12542,7 @@ vat	vat	vat	3	english
 Ġfen	fen	fen	3	english
 ĠRho	Rho	Rho	3	english
 ĠFas	Fas	Fas	3	english
-Ġaph	aph		3	ukrainian
+Ġaph	aph	aph	3	english
 zin	zin	zin	3	english
 ĠCyn	Cyn		3	french
 Ġprz	prz	prz	3	english
@@ -12634,7 +12634,7 @@ NMR	NMR	NMR	3	english
 {})	{})		3	NULL
 fal	fal	fal	3	english
 amd	amd	amd	3	english
-CCC	CCC		3	hebrew
+CCC	CCC	CCC	3	english
 ftp	ftp	ftp	3	english
 ĠEra	Era		3	italian
 jes	jes	jes	3	english
@@ -12679,14 +12679,14 @@ tur	tur		3	turkish
 .);	.);		3	NULL
 Ġ467	467		3	digits
 Tak	Tak	Tak	3	english
-nah	nah		3	german
+nah	nah	nah	3	english
 Ġ541	541		3	digits
 ĠMVP	MVP		3	italian
 ĠROC	ROC	ROC	3	english
 aic	aic	aic	3	english
 ĠBuc	Buc	Buc	3	english
 ĠIgE	IgE	IgE	3	english
-ĠSql	Sql		3	japanese
+ĠSql	Sql	Sql	3	english
 ÑĢÑĥÐ³	руг		3	russian
 kDa	kDa		3	code
 ĠROI	ROI	ROI	3	english
@@ -12864,7 +12864,7 @@ CAN	CAN	CAN	3	english
 ĠKab	Kab	Kab	3	english
 keV	keV		3	malay
 ĠFAA	FAA	FAA	3	english
-flo	flo	flo	3	chinese
+flo	flo	flo	3	english
 Sah	Sah	Sah	3	english
 neo	neo	neo	3	english
 Ġ489	489		3	digits
@@ -12879,7 +12879,7 @@ gio	gio	gio	3	english
 Ġbef	bef	bef	3	english
 515	515		3	digits
 .''	.''		3	NULL
-ĠPag	Pag	Pag	3	chinese
+ĠPag	Pag	Pag	3	english
 LEX	LEX	LEX	3	english
 ĠSUN	SUN	SUN	3	english
 CES	CES		3	italian
@@ -12933,7 +12933,7 @@ Ger	Ger	Ger	3	english
 079	079		3	digits
 Sad	Sad	Sad	3	english
 Ġ547	547		3	digits
-ĠHBO	HBO	HBO	3	chinese
+ĠHBO	HBO	HBO	3	english
 561	561		3	digits
 Ġzoo	zoo	zoo	3	english
 Ġave	ave		3	french
@@ -13296,7 +13296,7 @@ ogh	ogh	ogh	3	english
 tel	tel	tel	3	english
 "."	"."		3	NULL
 439	439		3	digits
-ĠMyc	Myc		3	malay
+ĠMyc	Myc	Myc	3	english
 cav	cav	cav	3	english
 emo	emo	emo	3	english
 ĠXml	Xml	Xml	3	english
@@ -13442,7 +13442,7 @@ zyk	zyk	zyk	3	english
 coe	coe	coe	3	english
 Ġjan	jan	jan	3	english
 Ġnim	nim	nim	3	english
-ĠthÃ©	thé	thé	3	english
+ĠthÃ©	thé		3	NULL
 HDL	HDL	HDL	3	english
 Ġ}).	}).		3	NULL
 ĠMMA	MMA	MMA	3	english
@@ -13879,7 +13879,7 @@ oxo	oxo	oxo	3	english
 ĠKCl	KCl	KCl	3	english
 cci	cci		3	italian
 735	735		3	digits
-tty	tty	tty	3	chinese
+tty	tty	tty	3	english
 Ð»ÑİÑĩ	люч		3	russian
 ĠHed	Hed	Hed	3	english
 ĠUPS	UPS	UPS	3	english
@@ -14123,7 +14123,7 @@ Wis	Wis	Wis	3	english
 BAS	BAS	BAS	3	english
 .\"	.\"		3	NULL
 Arn	Arn	Arn	3	english
-uve	uve	uve	3	chinese
+uve	uve	uve	3	english
 ONA	ONA	ONA	3	english
 Eye	Eye	Eye	3	english
 thi	thi	thi	3	english
@@ -14153,7 +14153,7 @@ gay	gay	gay	3	english
 Wol	Wol	Wol	3	english
 Blo	Blo	Blo	3	english
 ĠDip	Dip	Dip	3	english
-ĠCCC	CCC		3	hebrew
+ĠCCC	CCC	CCC	3	english
 Ġ$$|	$$|		3	NULL
 azu	azu	azu	3	english
 Ġhob	hob	hob	3	english
@@ -14504,7 +14504,7 @@ ance	ance		4	spanish
 ally	ally	ally	4	english
 Ġthey	they	they	4	english
 ough	ough	ough	4	english
-ions	ions		4	russian
+ions	ions	ions	4	english
 ĉĉ	\t\t		4	control
 rent	rent	rent	4	english
 Ġmore	more	more	4	english
@@ -14654,7 +14654,7 @@ ases	ases	ases	4	english
 ason	ason	ason	4	english
 over	over	over	4	english
 Ġmuch	much	much	4	english
-ense	ense		4	portuguese
+ense	ense	ense	4	english
 Ġread	read	read	4	english
 ired	ired	ired	4	english
 Ġ\[[@	\[[@		4	NULL
@@ -14987,7 +14987,7 @@ abor	abor	abor	4	english
 Ġfood	food	food	4	english
 imum	imum	imum	4	english
 date	date		4	french
-omet	omet		4	malay
+omet	omet	omet	4	english
 Ġviol	viol	viol	4	english
 List	List	List	4	english
 That	That	That	4	english
@@ -15421,7 +15421,7 @@ othe	othe	othe	4	english
 berg	berg	berg	4	english
 Ġutil	util		4	french
 Ġjury	jury	jury	4	english
-omic	omic	omic	4	chinese
+omic	omic	omic	4	english
 Ġhous	hous	hous	4	english
 amin	amin	amin	4	english
 rant	rant	rant	4	english
@@ -15474,7 +15474,7 @@ ocyt	ocyt	ocyt	4	english
 Form	Form	Form	4	english
 Ġharm	harm	harm	4	english
 Ġsets	sets	sets	4	english
-omin	omin	omin	4	chinese
+omin	omin	omin	4	english
 Ġpeak	peak	peak	4	english
 Ġcast	cast	cast	4	english
 Ġtend	tend	tend	4	english
@@ -15618,7 +15618,7 @@ thon	thon	thon	4	english
 ione	ione		4	spanish
 otyp	otyp		4	german
 Ġvolt	volt	volt	4	english
-Ġrise	rise		4	japanese
+Ġrise	rise	rise	4	english
 umin	umin	umin	4	english
 ĠOver	Over	Over	4	english
 olar	olar		4	turkish
@@ -15755,7 +15755,7 @@ dots	dots	dots	4	english
 Ġcycl	cycl	cycl	4	english
 ĠPhil	Phil	Phil	4	english
 Ġrich	rich	rich	4	english
-omes	omes		4	malay
+omes	omes	omes	4	english
 inst	inst	inst	4	english
 aked	aked	aked	4	english
 utor	utor	utor	4	english
@@ -15823,7 +15823,7 @@ AAAA	AAAA	AAAA	4	english
 oret	oret	oret	4	english
 main	main	main	4	english
 else	else	else	4	english
-gers	gers		4	german
+gers	gers	gers	4	english
 Ġcart	cart	cart	4	english
 ĠGold	Gold	Gold	4	english
 Ġsale	sale	sale	4	english
@@ -15929,7 +15929,7 @@ star	star	star	4	english
 arsh	arsh	arsh	4	english
 Ġ1990	1990		4	digits
 Ġflag	flag	flag	4	english
-oral	oral		4	italian
+oral	oral	oral	4	english
 aded	aded	aded	4	english
 ĠGive	Give	Give	4	english
 rine	rine	rine	4	english
@@ -15937,7 +15937,7 @@ rine	rine	rine	4	english
 umns	umns	umns	4	english
 Ġsole	sole	sole	4	english
 Ġcash	cash	cash	4	english
-Ġoral	oral		4	italian
+Ġoral	oral	oral	4	english
 rior	rior	rior	4	english
 Ġlarg	larg	larg	4	english
 čĊĉ	\n\t		4	control
@@ -15960,7 +15960,7 @@ apse	apse	apse	4	english
 Ġflav	flav	flav	4	english
 iger	iger	iger	4	english
 Ġbare	bare	bare	4	english
-omer	omer		4	malay
+omer	omer	omer	4	english
 ĠLong	Long	Long	4	english
 Ġ1998	1998		4	digits
 mosp	mosp		4	spanish
@@ -16001,7 +16001,7 @@ conf	conf	conf	4	english
 uled	uled	uled	4	english
 Ġfont	font	font	4	english
 seud	seud	seud	4	english
-Ġwarn	warn		4	indonesian
+Ġwarn	warn	warn	4	english
 riev	riev	riev	4	english
 Ġasym	asym	asym	4	english
 Ġboys	boys	boys	4	english
@@ -16192,7 +16192,7 @@ aved	aved		4	french
 ĠCall	Call	Call	4	english
 Ġorth	orth		4	german
 Ġgest	gest		4	german
-avas	avas		4	portuguese
+avas	avas	avas	4	english
 ĠRock	Rock	Rock	4	english
 Ġgall	gall	gall	4	english
 ifer	ifer	ifer	4	english
@@ -16324,7 +16324,7 @@ Page	Page	Page	4	english
 Ġloan	loan	loan	4	english
 caps	caps	caps	4	english
 ĠOhio	Ohio	Ohio	4	english
-Ġkiss	kiss		4	german
+Ġkiss	kiss	kiss	4	english
 ropy	ropy	ropy	4	english
 "}](	"}](		4	NULL
 Ġkeys	keys	keys	4	english
@@ -16824,7 +16824,7 @@ edge	edge	edge	4	english
 Ġcann	cann	cann	4	english
 help	help	help	4	english
 aton	aton	aton	4	english
-Ġolig	olig		4	italian
+Ġolig	olig	olig	4	english
 echo	echo	echo	4	english
 ĠJean	Jean		4	french
 \!\!	\!\!		4	NULL
@@ -16856,7 +16856,7 @@ acht	acht	acht	4	english
 Task	Task	Task	4	english
 Ġhash	hash	hash	4	english
 Tool	Tool	Tool	4	english
-Ġions	ions		4	russian
+Ġions	ions	ions	4	english
 Ġdeny	deny	deny	4	english
 Ġmyth	myth	myth	4	english
 ĠTerm	Term	Term	4	english
@@ -17015,7 +17015,7 @@ unes	unes		4	french
 Ġcorn	corn	corn	4	english
 Thus	Thus	Thus	4	english
 ĠPrim	Prim	Prim	4	english
-opsy	opsy	opsy	4	chinese
+opsy	opsy	opsy	4	english
 lesh	lesh	lesh	4	english
 Ġmath	math	math	4	english
 Dist	Dist	Dist	4	english
@@ -17075,8 +17075,8 @@ bigg	bigg	bigg	4	english
 ĠExpl	Expl	Expl	4	english
 audi	audi	audi	4	english
 TEST	TEST	TEST	4	english
-Ġpale	pale		4	french
-Ġmelt	melt	melt	4	chinese
+Ġpale	pale	pale	4	english
+Ġmelt	melt	melt	4	english
 Ġisot	isot	isot	4	english
 Ġangi	angi	angi	4	english
 Ġobsc	obsc	obsc	4	english
@@ -17093,7 +17093,7 @@ driv	driv	driv	4	english
 1988	1988		4	digits
 wich	wich	wich	4	english
 Ġarts	arts	arts	4	english
-Ġgerm	germ		4	german
+Ġgerm	germ	germ	4	english
 oton	oton	oton	4	english
 },$$	},$$		4	NULL
 coll	coll	coll	4	english
@@ -17161,7 +17161,7 @@ larg	larg	larg	4	english
 heet	heet	heet	4	english
 Ġlets	lets	lets	4	english
 vens	vens	vens	4	english
-omed	omed		4	malay
+omed	omed	omed	4	english
 irds	irds	irds	4	english
 2020	2020		4	digits
 ikip	ikip		4	turkish
@@ -17169,7 +17169,7 @@ ikip	ikip		4	turkish
 anal	anal	anal	4	english
 Ġdrum	drum	drum	4	english
 aman	aman	aman	4	english
-Http	Http	Http	4	chinese
+Http	Http	Http	4	english
 cert	cert	cert	4	english
 wave	wave	wave	4	english
 Ġspir	spir	spir	4	english
@@ -17255,7 +17255,7 @@ VERS	VERS	VERS	4	english
 NULL	NULL	NULL	4	english
 Ġextr	extr	extr	4	english
 ĠHope	Hope	Hope	4	english
-ĠMess	Mess		4	italian
+ĠMess	Mess	Mess	4	english
 ĠProp	Prop	Prop	4	english
 Ġgrat	grat	grat	4	english
 Ġunde	unde	unde	4	english
@@ -17344,7 +17344,7 @@ them	them	them	4	english
 ĠTHAT	THAT	THAT	4	english
 Ġdamp	damp	damp	4	english
 Ġrefr	refr	refr	4	english
-Ġovar	ovar		4	japanese
+Ġovar	ovar	ovar	4	english
 wiki	wiki		4	german
 iche	iche	iche	4	english
 1980	1980		4	digits
@@ -17440,7 +17440,7 @@ omat	omat	omat	4	english
 pire	pire	pire	4	english
 CODE	CODE	CODE	4	english
 othy	othy	othy	4	english
-ndef	ndef		4	french
+ndef	ndef	ndef	4	english
 ĠEmer	Emer	Emer	4	english
 ugar	ugar	ugar	4	english
 cost	cost	cost	4	english
@@ -17543,7 +17543,7 @@ iors	iors	iors	4	english
 Ġ1967	1967		4	digits
 ĠBull	Bull	Bull	4	english
 ĠWhit	Whit	Whit	4	english
-ĠHell	Hell		4	russian
+ĠHell	Hell	Hell	4	english
 eled	eled	eled	4	english
 Ġgods	gods	gods	4	english
 "));	"));		4	NULL
@@ -17632,7 +17632,7 @@ Save	Save	Save	4	english
 ĠVice	Vice	Vice	4	english
 ).](	).](		4	NULL
 ĊĉĠ	\n\t		4	control
-ULAR	ULAR		4	russian
+ULAR	ULAR	ULAR	4	english
 Ġlord	lord	lord	4	english
 mill	mill	mill	4	english
 prec	prec	prec	4	english
@@ -17658,7 +17658,7 @@ loat	loat	loat	4	english
 Ġdass	dass		4	german
 iÃ¨re	ière		4	french
 MODE	MODE	MODE	4	english
-Ġdign	dign		4	italian
+Ġdign	dign	dign	4	english
 ithm	ithm	ithm	4	english
 Ġbrid	brid	brid	4	english
 ĠUtah	Utah	Utah	4	english
@@ -17667,13 +17667,13 @@ gets	gets	gets	4	english
 ĠMand	Mand	Mand	4	english
 Ġdors	dors	dors	4	english
 Ġneat	neat		4	italian
-coma	coma	coma	4	chinese
+coma	coma	coma	4	english
 Prim	Prim	Prim	4	english
 Ġlane	lane	lane	4	english
 rics	rics	rics	4	english
 Ġ----	----		4	NULL
 ĠestÃ¡	está		4	portuguese
-ĠNASA	NASA		4	arabic
+ĠNASA	NASA	NASA	4	english
 ĠLang	Lang	Lang	4	english
 Game	Game	Game	4	english
 ĠLuke	Luke	Luke	4	english
@@ -17859,7 +17859,7 @@ ogan	ogan		4	french
 Ġpoem	poem	poem	4	english
 Rear	Rear	Rear	4	english
 Ġfolk	folk	folk	4	english
-ioni	ioni		4	italian
+ioni	ioni	ioni	4	english
 scar	scar	scar	4	english
 ĠMarx	Marx	Marx	4	english
 riel	riel		4	french
@@ -17985,14 +17985,14 @@ ADDR	ADDR	ADDR	4	english
 neys	neys	neys	4	english
 Ġsurf	surf	surf	4	english
 Ġmate	mate	mate	4	english
-ussi	ussi	ussi	4	chinese
+ussi	ussi	ussi	4	english
 Ġdots	dots	dots	4	english
 ĠBrig	Brig	Brig	4	english
 Ġ1962	1962		4	digits
 Foot	Foot	Foot	4	english
 âĢĵâĢĵâĢĵâĢĵ	––––		4	NULL
 idos	idos		4	spanish
-Ġdend	dend		4	german
+Ġdend	dend	dend	4	english
 Ġvest	vest	vest	4	english
 agne	agne	agne	4	english
 rays	rays	rays	4	english
@@ -18030,7 +18030,7 @@ gluc	gluc	gluc	4	english
 Ġbeds	beds	beds	4	english
 acre	acre	acre	4	english
 Ġdisg	disg	disg	4	english
-ttes	ttes	ttes	4	chinese
+ttes	ttes	ttes	4	english
 jury	jury	jury	4	english
 Ġpupp	pupp	pupp	4	english
 Ġnort	nort	nort	4	english
@@ -18193,7 +18193,7 @@ iota	iota	iota	4	english
 umed	umed		4	french
 }\,\	}\,\		4	NULL
 Ġmell	mell	mell	4	english
-Ġfals	fals		4	german
+Ġfals	fals	fals	4	english
 Ġmush	mush	mush	4	english
 ĠMaur	Maur	Maur	4	english
 ĠChel	Chel	Chel	4	english
@@ -18247,7 +18247,7 @@ team	team	team	4	english
 Blue	Blue	Blue	4	english
 ĠAstr	Astr	Astr	4	english
 FROM	FROM	FROM	4	english
-ovan	ovan		4	japanese
+ovan	ovan	ovan	4	english
 esto	esto		4	spanish
 eren	eren	eren	4	english
 1974	1974		4	digits
@@ -18558,7 +18558,7 @@ Enum	Enum	Enum	4	english
 Cert	Cert	Cert	4	english
 gart	gart	gart	4	english
 iska	iska		4	french
-ĠHttp	Http	Http	4	chinese
+ĠHttp	Http	Http	4	english
 Area	Area	Area	4	english
 ubot	ubot	ubot	4	english
 ĠHorn	Horn	Horn	4	english
@@ -18578,7 +18578,7 @@ inez	inez	inez	4	english
 hyth	hyth	hyth	4	english
 Ġloos	loos	loos	4	english
 ĠGaza	Gaza	Gaza	4	english
-rise	rise		4	japanese
+rise	rise	rise	4	english
 ampa	ampa	ampa	4	english
 Ġlamb	lamb	lamb	4	english
 rike	rike	rike	4	english
@@ -18657,7 +18657,7 @@ ardi	ardi	ardi	4	english
 Ġtert	tert	tert	4	english
 mock	mock	mock	4	english
 Publ	Publ	Publ	4	english
-aphr	aphr		4	ukrainian
+aphr	aphr	aphr	4	english
 ĠProc	Proc	Proc	4	english
 ĠCuba	Cuba	Cuba	4	english
 scal	scal	scal	4	english
@@ -18962,7 +18962,7 @@ orum	orum	orum	4	english
 ĠCamb	Camb	Camb	4	english
 love	love	love	4	english
 IRST	IRST	IRST	4	english
-atri	atri		4	italian
+atri	atri	atri	4	english
 tawa	tawa	tawa	4	english
 psis	psis	psis	4	english
 Ġseas	seas		4	spanish
@@ -18994,7 +18994,7 @@ oner	oner	oner	4	english
 0101	0101		4	digits
 PART	PART	PART	4	english
 gang	gang	gang	4	english
-ayan	ayan		4	french
+ayan	ayan	ayan	4	english
 ĠNine	Nine	Nine	4	english
 idyl	idyl	idyl	4	english
 ĠNucl	Nucl	Nucl	4	english
@@ -19160,7 +19160,7 @@ vity	vity	vity	4	english
 ĠPour	Pour		4	french
 ĠDATA	DATA	DATA	4	english
 CEPT	CEPT	CEPT	4	english
-ĠAirl	Airl		4	spanish
+ĠAirl	Airl	Airl	4	english
 ĠProb	Prob	Prob	4	english
 rout	rout	rout	4	english
 Ġpear	pear	pear	4	english
@@ -19184,7 +19184,7 @@ Same	Same	Same	4	english
 ĠScre	Scre	Scre	4	english
 Ġduck	duck	duck	4	english
 ĠTris	Tris	Tris	4	english
-ĠFame	Fame		4	spanish
+ĠFame	Fame	Fame	4	english
 meas	meas	meas	4	english
 aeda	aeda	aeda	4	english
 Expr	Expr	Expr	4	english
@@ -19233,7 +19233,7 @@ beck	beck	beck	4	english
 5000	5000		4	digits
 urbs	urbs	urbs	4	english
 ĠBath	Bath	Bath	4	english
-opts	opts		4	russian
+opts	opts	opts	4	english
 Ġbegg	begg	begg	4	english
 Ã¡rio	ário		4	portuguese
 1966	1966		4	digits
@@ -19270,7 +19270,7 @@ Side	Side	Side	4	english
 Ġnoch	noch		4	german
 ĠWash	Wash	Wash	4	english
 }}$-	}}$-		4	NULL
-Ġbary	bary		4	thai
+Ġbary	bary	bary	4	english
 ĠGoth	Goth	Goth	4	english
 ĠRate	Rate	Rate	4	english
 OVER	OVER	OVER	4	english
@@ -19295,7 +19295,7 @@ Pack	Pack	Pack	4	english
 ĠFace	Face	Face	4	english
 xton	xton	xton	4	english
 ĠBorn	Born	Born	4	english
-Ġtabs	tabs		4	french
+Ġtabs	tabs	tabs	4	english
 Ġculp	culp	culp	4	english
 Fort	Fort	Fort	4	english
 0014	0014		4	digits
@@ -19363,7 +19363,7 @@ MAKE	MAKE	MAKE	4	english
 Nice	Nice	Nice	4	english
 RICT	RICT	RICT	4	english
 Ġpave	pave	pave	4	english
-Ġbang	bang		4	vietnamese
+Ġbang	bang	bang	4	english
 ĠLaid	Laid	Laid	4	english
 bred	bred	bred	4	english
 Ġinex	inex	inex	4	english
@@ -19535,7 +19535,7 @@ inus	inus	inus	4	english
 Much	Much	Much	4	english
 ĠHook	Hook	Hook	4	english
 adal	adal	adal	4	english
-warn	warn		4	indonesian
+warn	warn	warn	4	english
 ĠkÃ¶nn	könn		4	german
 Fill	Fill	Fill	4	english
 Ġmaid	maid	maid	4	english
@@ -19848,7 +19848,7 @@ MESS	MESS	MESS	4	english
 ĠCALL	CALL	CALL	4	english
 ĠSeth	Seth	Seth	4	english
 ĠMAPK	MAPK	MAPK	4	english
-Ġpest	pest		4	portuguese
+Ġpest	pest	pest	4	english
 rika	rika	rika	4	english
 Ġbake	bake	bake	4	english
 song	song	song	4	english
@@ -19886,7 +19886,7 @@ FUNC	FUNC	FUNC	4	english
 Fred	Fred	Fred	4	english
 uder	uder	uder	4	english
 ;;;;	;;;;		4	NULL
-Ġopts	opts		4	russian
+Ġopts	opts	opts	4	english
 pure	pure		4	italian
 Ġrins	rins	rins	4	english
 Ġoval	oval	oval	4	english
@@ -20066,7 +20066,7 @@ inho	inho	inho	4	english
 ĠSect	Sect	Sect	4	english
 ĠGust	Gust	Gust	4	english
 GPIO	GPIO	GPIO	4	english
-tabs	tabs		4	french
+tabs	tabs	tabs	4	english
 ĠSpin	Spin	Spin	4	english
 DATE	DATE	DATE	4	english
 ĠChip	Chip	Chip	4	english
@@ -20116,7 +20116,7 @@ Wave	Wave	Wave	4	english
 ĠMerr	Merr	Merr	4	english
 Ġdome	dome		4	german
 aisy	aisy		4	indonesian
-ULTS	ULTS		4	russian
+ULTS	ULTS	ULTS	4	english
 ovir	ovir	ovir	4	english
 ikov	ikov	ikov	4	english
 aple	aple	aple	4	english
@@ -20127,7 +20127,7 @@ sein	sein		4	german
 Exit	Exit	Exit	4	english
 ĠJson	Json	Json	4	english
 ĠDies	Dies	Dies	4	english
-Ġensu	ensu		4	portuguese
+Ġensu	ensu	ensu	4	english
 Ġriot	riot	riot	4	english
 Fact	Fact	Fact	4	english
 Ġfres	fres	fres	4	english
@@ -20376,7 +20376,7 @@ swap	swap	swap	4	english
 ĠcAMP	cAMP	cAMP	4	english
 Safe	Safe	Safe	4	english
 Ġpian	pian		4	italian
-Ġfury	fury		4	french
+Ġfury	fury	fury	4	english
 0050	0050		4	digits
 Corp	Corp	Corp	4	english
 vast	vast	vast	4	english
@@ -20493,7 +20493,7 @@ edin	edin	edin	4	english
 ĠTory	Tory	Tory	4	english
 istÃ¤	istä		4	NULL
 urdy	urdy	urdy	4	english
-gems	gems		4	spanish
+gems	gems	gems	4	english
 skin	skin	skin	4	english
 Ġhose	hose	hose	4	english
 hope	hope	hope	4	english
@@ -20734,7 +20734,7 @@ happ	happ	happ	4	english
 itÃ©s	ités		4	french
 lost	lost	lost	4	english
 itty	itty	itty	4	english
-tten	tten	tten	4	chinese
+tten	tten	tten	4	english
 imen	imen	imen	4	english
 IEEE	IEEE	IEEE	4	english
 ATER	ATER	ATER	4	english
@@ -20787,7 +20787,7 @@ Guid	Guid	Guid	4	english
 andi	andi	andi	4	english
 ĠBiol	Biol	Biol	4	english
 Ġcref	cref	cref	4	english
-ogon	ogon	ogon	4	chinese
+ogon	ogon	ogon	4	english
 IDEO	IDEO	IDEO	4	english
 iret	iret		4	italian
 ĠJung	Jung		4	german
@@ -20830,7 +20830,7 @@ sinh	sinh	sinh	4	english
 ĠChal	Chal	Chal	4	english
 )={\	)={\		4	NULL
 qPCR	qPCR		4	vietnamese
-Hell	Hell		4	russian
+Hell	Hell	Hell	4	english
 onds	onds	onds	4	english
 CTOR	CTOR	CTOR	4	english
 Josh	Josh	Josh	4	english
@@ -20895,7 +20895,7 @@ uren	uren	uren	4	english
 ĠMant	Mant	Mant	4	english
 Ġlabs	labs	labs	4	english
 ilin	ilin	ilin	4	english
-Elem	Elem		4	japanese
+Elem	Elem	Elem	4	english
 cosh	cosh	cosh	4	english
 trip	trip	trip	4	english
 Ġsmug	smug	smug	4	english
@@ -20953,7 +20953,7 @@ intr	intr	intr	4	english
 Ġfeud	feud	feud	4	english
 }}{(	}}{(		4	NULL
 urai	urai		4	serbian
-chos	chos		4	german
+chos	chos	chos	4	english
 icki	icki	icki	4	english
 Rail	Rail	Rail	4	english
 ĠPlot	Plot	Plot	4	english
@@ -20961,7 +20961,7 @@ nice	nice	nice	4	english
 ĠTank	Tank	Tank	4	english
 lung	lung		4	german
 Ġresh	resh	resh	4	english
-ĠPapa	Papa		4	italian
+ĠPapa	Papa	Papa	4	english
 Ġlibr	libr	libr	4	english
 igne	igne	igne	4	english
 ĠWife	Wife	Wife	4	english
@@ -21103,7 +21103,7 @@ UINT	UINT	UINT	4	english
 ĠShan	Shan	Shan	4	english
 ĠChef	Chef	Chef	4	english
 ãģĹãģ¦ãģĦãĤĭ	している		4	japanese
-CCCC	CCCC		4	hebrew
+CCCC	CCCC	CCCC	4	english
 freq	freq	freq	4	english
 Ġthru	thru	thru	4	english
 Ġbloc	bloc		4	french
@@ -21123,7 +21123,7 @@ OLOG	OLOG	OLOG	4	english
 rico	rico		4	german
 Ġpadd	padd	padd	4	english
 uden	uden	uden	4	english
-yyyy	yyyy		4	turkish
+yyyy	yyyy	yyyy	4	english
 Pull	Pull	Pull	4	english
 ĠHers	Hers		4	german
 ĠJuda	Juda	Juda	4	english
@@ -21325,7 +21325,7 @@ jcmm	jcmm	jcmm	4	english
 ĠHyde	Hyde	Hyde	4	english
 1944	1944		4	digits
 akra	akra	akra	4	english
-PRES	PRES		4	spanish
+PRES	PRES	PRES	4	english
 odka	odka	odka	4	english
 Ġ2030	2030		4	digits
 ibel	ibel	ibel	4	english
@@ -21339,7 +21339,7 @@ died	died	died	4	english
 ypse	ypse	ypse	4	english
 thor	thor	thor	4	english
 Ġcauc	cauc	cauc	4	english
-Ġgems	gems		4	spanish
+Ġgems	gems	gems	4	english
 undy	undy	undy	4	english
 jpeg	jpeg	jpeg	4	english
 Ġwink	wink		4	german
@@ -21403,7 +21403,7 @@ hljs	hljs		4	serbian
 Cath	Cath	Cath	4	english
 ĠFest	Fest	Fest	4	english
 ĠCrew	Crew	Crew	4	english
-ensa	ensa		4	spanish
+ensa	ensa	ensa	4	english
 ĠDuty	Duty	Duty	4	english
 Ġmoss	moss	moss	4	english
 ĠMile	Mile	Mile	4	english
@@ -21596,7 +21596,7 @@ Burn	Burn	Burn	4	english
 ĠTian	Tian	Tian	4	english
 Ġbans	bans	bans	4	english
 ĠDeaf	Deaf	Deaf	4	english
-ĠPRES	PRES		4	spanish
+ĠPRES	PRES	PRES	4	english
 Ġknit	knit	knit	4	english
 Baby	Baby	Baby	4	english
 Ġsaga	saga		4	german
@@ -21769,7 +21769,7 @@ chev	chev	chev	4	english
 ĠTina	Tina	Tina	4	english
 Ġ{{{\	{{{\		4	NULL
 \]](	\]](		4	NULL
-Ġomin	omin	omin	4	chinese
+Ġomin	omin	omin	4	english
 PSCs	PSCs	PSCs	4	english
 dong	dong	dong	4	english
 oppy	oppy	oppy	4	english
@@ -21782,7 +21782,7 @@ inco	inco	inco	4	english
 ĠOdys	Odys	Odys	4	english
 icum	icum	icum	4	english
 1937	1937		4	digits
-Ġcoma	coma	coma	4	chinese
+Ġcoma	coma	coma	4	english
 ĠHert	Hert	Hert	4	english
 ĠBrom	Brom	Brom	4	english
 mium	mium	mium	4	english
@@ -22226,7 +22226,7 @@ tone	tone	tone	4	english
 otry	otry		4	spanish
 Plug	Plug	Plug	4	english
 Viet	Viet	Viet	4	english
-Mess	Mess		4	italian
+Mess	Mess	Mess	4	english
 ĠReds	Reds	Reds	4	english
 )**(	)**(		4	NULL
 Ġmash	mash	mash	4	english
@@ -22309,7 +22309,7 @@ mina	mina	mina	4	english
 ĠLowe	Lowe	Lowe	4	english
 0059	0059		4	digits
 perf	perf		4	french
-enso	enso		4	portuguese
+enso	enso	enso	4	english
 ĠMAKE	MAKE	MAKE	4	english
 ĠMgCl	MgCl	MgCl	4	english
 odon	odon	odon	4	english
@@ -22813,7 +22813,7 @@ times	times	times	5	english
 Ġneeds	needs	needs	5	english
 iddle	iddle	iddle	5	english
 comes	comes	comes	5	english
-Ġfalse	false		5	german
+Ġfalse	false	false	5	english
 stant	stant	stant	5	english
 Table	Table	Table	5	english
 Ġquite	quite	quite	5	english
@@ -23003,7 +23003,7 @@ ights	ights	ights	5	english
 group	group	group	5	english
 Ġemerg	emerg	emerg	5	english
 Ġworth	worth	worth	5	english
-orage	orage		5	italian
+orage	orage	orage	5	english
 Ġthous	thous	thous	5	english
 ouble	ouble	ouble	5	english
 oding	oding	oding	5	english
@@ -23017,7 +23017,7 @@ oding	oding	oding	5	english
 Ġextra	extra	extra	5	english
 Ġmulti	multi	multi	5	english
 ĠTrans	Trans	Trans	5	english
-Ġphone	phone		5	thai
+Ġphone	phone	phone	5	english
 older	older	older	5	english
 Ġtumor	tumor		5	indonesian
 Ġequal	equal	equal	5	english
@@ -23198,7 +23198,7 @@ rical	rical	rical	5	english
 produ	produ	produ	5	english
 Ġradio	radio	radio	5	english
 osing	osing	osing	5	english
-Ġoptim	optim		5	russian
+Ġoptim	optim	optim	5	english
 count	count	count	5	english
 title	title	title	5	english
 Ġagent	agent	agent	5	english
@@ -23296,7 +23296,7 @@ Field	Field	Field	5	english
 Ġmanif	manif	manif	5	english
 Trans	Trans	Trans	5	english
 Ġtrain	train	train	5	english
-phone	phone		5	thai
+phone	phone	phone	5	english
 Sigma	Sigma	Sigma	5	english
 Ġscene	scene	scene	5	english
 Ġmouth	mouth	mouth	5	english
@@ -23442,7 +23442,7 @@ first	first	first	5	english
 break	break	break	5	english
 Ġsmart	smart	smart	5	english
 press	press		5	spanish
-Ġguide	guide		5	russian
+Ġguide	guide	guide	5	english
 Model	Model	Model	5	english
 Ġquiet	quiet	quiet	5	english
 Ġplays	plays	plays	5	english
@@ -23504,7 +23504,7 @@ bered	bered	bered	5	english
 Ġarter	arter	arter	5	english
 Ġdraft	draft	draft	5	english
 ĠScott	Scott	Scott	5	english
-Ġdispl	displ	displ	5	chinese
+Ġdispl	displ	displ	5	english
 Ġguard	guard		5	italian
 Ġphoto	photo	photo	5	english
 scale	scale	scale	5	english
@@ -23547,7 +23547,7 @@ cdots	cdots	cdots	5	english
 ector	ector	ector	5	english
 Ġhelps	helps	helps	5	english
 Ġabund	abund	abund	5	english
-false	false		5	german
+false	false	false	5	english
 Ġcolle	colle	colle	5	english
 ĠHence	Hence	Hence	5	english
 ochem	ochem	ochem	5	english
@@ -23649,7 +23649,7 @@ Right	Right	Right	5	english
 prote	prote	prote	5	english
 ensus	ensus	ensus	5	english
 erior	erior		5	spanish
-Ġpairs	pairs		5	serbian
+Ġpairs	pairs	pairs	5	english
 Ġdepos	depos	depos	5	english
 Ġsmile	smile	smile	5	english
 uable	uable	uable	5	english
@@ -23707,10 +23707,10 @@ match	match	match	5	english
 Ġfinds	finds	finds	5	english
 Ġlaugh	laugh	laugh	5	english
 ĠNever	Never	Never	5	english
-Ġinequ	inequ		5	german
+Ġinequ	inequ	inequ	5	english
 icate	icate	icate	5	english
 Ġenemy	enemy		5	spanish
-Ġtrend	trend		5	italian
+Ġtrend	trend	trend	5	english
 Ġargue	argue	argue	5	english
 ĠChief	Chief	Chief	5	english
 Check	Check	Check	5	english
@@ -23864,7 +23864,7 @@ iture	iture	iture	5	english
 ĠEgypt	Egypt	Egypt	5	english
 Ġadhes	adhes	adhes	5	english
 ynthe	ynthe	ynthe	5	english
-Ġflash	flash		5	french
+Ġflash	flash	flash	5	english
 ĠGiven	Given	Given	5	english
 Ġprobe	probe	probe	5	english
 sized	sized	sized	5	english
@@ -23966,7 +23966,7 @@ ellee	ellee		5	french
 Ġinher	inher	inher	5	english
 Ġstuck	stuck	stuck	5	english
 Ġexcit	excit	excit	5	english
-Ġlegit	legit		5	german
+Ġlegit	legit	legit	5	english
 Build	Build	Build	5	english
 ioned	ioned		5	spanish
 empty	empty	empty	5	english
@@ -24016,7 +24016,7 @@ orous	orous	orous	5	english
 oving	oving	oving	5	english
 ĠGreek	Greek	Greek	5	english
 Ġinnoc	innoc	innoc	5	english
-ensor	ensor		5	portuguese
+ensor	ensor	ensor	5	english
 aland	aland	aland	5	english
 ĠDavis	Davis	Davis	5	english
 Ġagric	agric	agric	5	english
@@ -24245,7 +24245,7 @@ endor	endor	endor	5	english
 ĠLewis	Lewis	Lewis	5	english
 burgh	burgh	burgh	5	english
 watch	watch	watch	5	english
-Ġdimin	dimin	dimin	5	chinese
+Ġdimin	dimin	dimin	5	english
 arded	arded	arded	5	english
 total	total	total	5	english
 Ġhopes	hopes	hopes	5	english
@@ -24387,7 +24387,7 @@ ilipp	ilipp	ilipp	5	english
 Ġarrow	arrow	arrow	5	english
 dated	dated	dated	5	english
 Debug	Debug	Debug	5	english
-Ġdeput	deput		5	serbian
+Ġdeput	deput	deput	5	english
 Ġresin	resin	resin	5	english
 Ġalien	alien	alien	5	english
 Ġstere	stere	stere	5	english
@@ -24468,13 +24468,13 @@ habil	habil		5	spanish
 ĠSimon	Simon	Simon	5	english
 piece	piece	piece	5	english
 Ġjuice	juice	juice	5	english
-omers	omers		5	malay
+omers	omers	omers	5	english
 ĠCOURT	COURT	COURT	5	english
 ĠJacob	Jacob	Jacob	5	english
 Ġirrad	irrad		5	spanish
 ĠLater	Later	Later	5	english
 Ġdonor	donor	donor	5	english
-Ġplots	plots		5	arabic
+Ġplots	plots	plots	5	english
 Ġhoney	honey	honey	5	english
 Ġdella	della		5	italian
 Ġannoy	annoy		5	italian
@@ -24595,7 +24595,7 @@ Cache	Cache	Cache	5	english
 ĠLevel	Level	Level	5	english
 ĠLiber	Liber	Liber	5	english
 items	items	items	5	english
-opter	opter		5	russian
+opter	opter	opter	5	english
 books	books	books	5	english
 Ġpaste	paste	paste	5	english
 aping	aping	aping	5	english
@@ -24815,7 +24815,7 @@ Users	Users	Users	5	english
 ĠStaff	Staff	Staff	5	english
 great	great	great	5	english
 Ġmarry	marry	marry	5	english
-ionic	ionic		5	russian
+ionic	ionic	ionic	5	english
 ĠSpect	Spect	Spect	5	english
 marks	marks	marks	5	english
 Print	Print	Print	5	english
@@ -24997,7 +24997,7 @@ early	early	early	5	english
 owner	owner	owner	5	english
 Ġrelie	relie	relie	5	english
 Ġfancy	fancy	fancy	5	english
-opsis	opsis	opsis	5	chinese
+opsis	opsis	opsis	5	english
 Ġlemon	lemon	lemon	5	english
 guard	guard		5	italian
 pless	pless	pless	5	english
@@ -25028,7 +25028,7 @@ utils	utils		5	french
 alled	alled	alled	5	english
 azole	azole	azole	5	english
 ĠSound	Sound	Sound	5	english
-Ġsuite	suite		5	german
+Ġsuite	suite	suite	5	english
 score	score	score	5	english
 oples	oples	oples	5	english
 accur	accur	accur	5	english
@@ -25101,7 +25101,7 @@ ctive	ctive	ctive	5	english
 alous	alous	alous	5	english
 Ġmedal	medal	medal	5	english
 ĠOTHER	OTHER	OTHER	5	english
-Ġwinds	winds	winds	5	chinese
+Ġwinds	winds	winds	5	english
 ĠPhase	Phase	Phase	5	english
 named	named	named	5	english
 riors	riors	riors	5	english
@@ -25349,7 +25349,7 @@ imals	imals		5	german
 armed	armed	armed	5	english
 keley	keley	keley	5	english
 anine	anine	anine	5	english
-ĠQuest	Quest		5	russian
+ĠQuest	Quest	Quest	5	english
 Ġreper	reper	reper	5	english
 ĠJerem	Jerem	Jerem	5	english
 Ġvague	vague	vague	5	english
@@ -25500,14 +25500,14 @@ immer	immer		5	german
 brand	brand	brand	5	english
 Ġtrash	trash	trash	5	english
 Scott	Scott	Scott	5	english
-PRESS	PRESS		5	spanish
+PRESS	PRESS	PRESS	5	english
 ĠPutin	Putin	Putin	5	english
 ĠMoney	Money	Money	5	english
 throw	throw	throw	5	english
 genes	genes	genes	5	english
 hover	hover	hover	5	english
 Ġnorms	norms	norms	5	english
-guide	guide		5	russian
+guide	guide	guide	5	english
 otomy	otomy	otomy	5	english
 chant	chant		5	french
 Ġwhisk	whisk	whisk	5	english
@@ -25651,7 +25651,7 @@ offee	offee	offee	5	english
 ribly	ribly	ribly	5	english
 shirt	shirt	shirt	5	english
 Ġpolys	polys	polys	5	english
-Ġindef	indef		5	french
+Ġindef	indef	indef	5	english
 Ġaussi	aussi		5	french
 owing	owing	owing	5	english
 othet	othet	othet	5	english
@@ -25769,7 +25769,7 @@ ocate	ocate	ocate	5	english
 weeks	weeks	weeks	5	english
 icaid	icaid		5	french
 Ġtours	tours	tours	5	english
-enson	enson		5	portuguese
+enson	enson	enson	5	english
 usage	usage	usage	5	english
 ĠOften	Often	Often	5	english
 ĠEmily	Emily	Emily	5	english
@@ -25910,7 +25910,7 @@ hello	hello	hello	5	english
 Ġstrom	strom	strom	5	english
 rules	rules	rules	5	english
 ãĥ³ãĥ	ãĥ³ãĥ		5	NULL
-aphyl	aphyl		5	ukrainian
+aphyl	aphyl	aphyl	5	english
 storm	storm	storm	5	english
 Ġpulls	pulls	pulls	5	english
 Ġavait	avait		5	french
@@ -26039,7 +26039,7 @@ arker	arker	arker	5	english
 inski	inski	inski	5	english
 ocyan	ocyan	ocyan	5	english
 ...](	...](		5	NULL
-aphys	aphys		5	ukrainian
+aphys	aphys	aphys	5	english
 ĠBiden	Biden	Biden	5	english
 Ġtwins	twins	twins	5	english
 adapt	adapt	adapt	5	english
@@ -26074,7 +26074,7 @@ dings	dings	dings	5	english
 Tests	Tests	Tests	5	english
 enton	enton	enton	5	english
 ĠTyler	Tyler	Tyler	5	english
-Ġoptic	optic		5	russian
+Ġoptic	optic	optic	5	english
 Ġretin	retin	retin	5	english
 death	death	death	5	english
 ienne	ienne	ienne	5	english
@@ -26200,7 +26200,7 @@ arthy	arthy	arthy	5	english
 ĠChase	Chase	Chase	5	english
 Ġspins	spins	spins	5	english
 Ġsells	sells	sells	5	english
-orate	orate		5	italian
+orate	orate	orate	5	english
 Ġjeans	jeans		5	french
 asian	asian	asian	5	english
 cemia	cemia		5	german
@@ -26265,7 +26265,7 @@ catch	catch	catch	5	english
 Ġshred	shred	shred	5	english
 posts	posts	posts	5	english
 ĠGross	Gross	Gross	5	english
-ĠSatan	Satan		5	german
+ĠSatan	Satan	Satan	5	english
 Ġtiles	tiles	tiles	5	english
 Ġporch	porch		5	italian
 Ġskept	skept	skept	5	english
@@ -26355,7 +26355,7 @@ Score	Score	Score	5	english
 Ġtheor	theor	theor	5	english
 Ġfuels	fuels	fuels	5	english
 Ġcaffe	caffe	caffe	5	english
-ensin	ensin		5	portuguese
+ensin	ensin	ensin	5	english
 atics	atics	atics	5	english
 Ġpumps	pumps	pumps	5	english
 Ġtread	tread	tread	5	english
@@ -26391,7 +26391,7 @@ Touch	Touch	Touch	5	english
 learn	learn	learn	5	english
 pherd	pherd	pherd	5	english
 Princ	Princ	Princ	5	english
-OOGLE	OOGLE	OOGLE	5	chinese
+OOGLE	OOGLE	OOGLE	5	english
 ĠUnity	Unity	Unity	5	english
 nucle	nucle	nucle	5	english
 owitz	owitz	owitz	5	english
@@ -26475,7 +26475,7 @@ cciÃ³n	cción		5	spanish
 Admin	Admin	Admin	5	english
 Below	Below	Below	5	english
 Ġshiny	shiny	shiny	5	english
-Ġepist	epist		5	italian
+Ġepist	epist	epist	5	english
 ĠBerry	Berry	Berry	5	english
 Ġsadly	sadly	sadly	5	english
 ĠSerum	Serum	Serum	5	english
@@ -26507,13 +26507,13 @@ grown	grown	grown	5	english
 Ġdisgr	disgr		5	french
 othal	othal	othal	5	english
 EVENT	EVENT	EVENT	5	english
-GROUP	GROUP		5	german
+GROUP	GROUP	GROUP	5	english
 ĠCroat	Croat	Croat	5	english
 ĠEntry	Entry	Entry	5	english
 icals	icals	icals	5	english
 Ġdeeds	deeds	deeds	5	english
 Ġscare	scare	scare	5	english
-Ġionic	ionic		5	russian
+Ġionic	ionic	ionic	5	english
 suits	suits		5	french
 Ġedema	edema		5	turkish
 Appro	Appro	Appro	5	english
@@ -26622,7 +26622,7 @@ WHERE	WHERE		5	japanese
 Ġsubpo	subpo	subpo	5	english
 alent	alent	alent	5	english
 Ġhilar	hilar	hilar	5	english
-ERIAL	ERIAL		5	italian
+ERIAL	ERIAL	ERIAL	5	english
 ĠProdu	Produ	Produ	5	english
 Sound	Sound	Sound	5	english
 ĠTampa	Tampa	Tampa	5	english
@@ -26719,7 +26719,7 @@ broad	broad	broad	5	english
 benef	benef		5	italian
 Ġfried	fried	fried	5	english
 ĠLopez	Lopez	Lopez	5	english
-ameth	ameth		5	serbian
+ameth	ameth	ameth	5	english
 ĠAntar	Antar	Antar	5	english
 ĠTitan	Titan	Titan	5	english
 Ġtiene	tiene		5	spanish
@@ -26745,7 +26745,7 @@ ricia	ricia	ricia	5	english
 maven	maven	maven	5	english
 BEGIN	BEGIN	BEGIN	5	english
 Ġgroom	groom	groom	5	english
-Ġnomin	nomin		5	french
+Ġnomin	nomin	nomin	5	english
 aurus	aurus	aurus	5	english
 Chief	Chief	Chief	5	english
 Ġfills	fills	fills	5	english
@@ -26798,7 +26798,7 @@ ousal	ousal	ousal	5	english
 ĠDaddy	Daddy	Daddy	5	english
 Ġbooth	booth	booth	5	english
 itals	itals		5	italian
-Ġblues	blues		5	french
+Ġblues	blues	blues	5	english
 odont	odont	odont	5	english
 ĠGrove	Grove	Grove	5	english
 Ġboson	boson	boson	5	english
@@ -26820,7 +26820,7 @@ PROTO	PROTO	PROTO	5	english
 ĠBurns	Burns	Burns	5	english
 ĠSally	Sally	Sally	5	english
 ucing	ucing	ucing	5	english
-optim	optim		5	russian
+optim	optim	optim	5	english
 ĠHeavy	Heavy	Heavy	5	english
 quick	quick	quick	5	english
 cline	cline	cline	5	english
@@ -26894,7 +26894,7 @@ rivol	rivol		5	french
 ingle	ingle		5	italian
 Ġsulph	sulph	sulph	5	english
 ĠRIGHT	RIGHT		5	japanese
-ĠDiana	Diana		5	spanish
+ĠDiana	Diana	Diana	5	english
 Harry	Harry	Harry	5	english
 ĠERROR	ERROR	ERROR	5	english
 ĠAnglo	Anglo	Anglo	5	english
@@ -26916,7 +26916,7 @@ Theme	Theme	Theme	5	english
 curve	curve	curve	5	english
 Ġstove	stove	stove	5	english
 Alert	Alert	Alert	5	english
-flash	flash		5	french
+flash	flash	flash	5	english
 ĠNazis	Nazis	Nazis	5	english
 ĠDylan	Dylan	Dylan	5	english
 Sharp	Sharp	Sharp	5	english
@@ -27080,7 +27080,7 @@ arris	arris	arris	5	english
 Ġexams	exams	exams	5	english
 rimin	rimin		5	italian
 ĠJohns	Johns	Johns	5	english
-Quest	Quest		5	russian
+Quest	Quest	Quest	5	english
 Ġmaize	maize	maize	5	english
 Ġreput	reput	reput	5	english
 ĠTrent	Trent	Trent	5	english
@@ -27333,7 +27333,7 @@ Throw	Throw	Throw	5	english
 Ġsteak	steak	steak	5	english
 uitar	uitar	uitar	5	english
 Ġdefer	defer	defer	5	english
-Ġclash	clash		5	arabic
+Ġclash	clash	clash	5	english
 Learn	Learn	Learn	5	english
 ĠBrett	Brett	Brett	5	english
 ĠJoyce	Joyce	Joyce	5	english
@@ -27384,7 +27384,7 @@ rella	rella	rella	5	english
 uthan	uthan	uthan	5	english
 INESS	INESS	INESS	5	english
 Polit	Polit	Polit	5	english
-optic	optic		5	russian
+optic	optic	optic	5	english
 ĠHuang	Huang	Huang	5	english
 rican	rican	rican	5	english
 Ġwhist	whist	whist	5	english
@@ -27402,7 +27402,7 @@ emerg	emerg	emerg	5	english
 ĠChrys	Chrys	Chrys	5	english
 ERSON	ERSON		5	spanish
 ĠÎµÎ¯Î½Î±Î¹	είναι		5	greek
-ĠPruss	Pruss		5	spanish
+ĠPruss	Pruss	Pruss	5	english
 Ġspars	spars	spars	5	english
 ĠAssay	Assay		5	french
 brids	brids	brids	5	english
@@ -27410,7 +27410,7 @@ stars	stars	stars	5	english
 ĠVista	Vista	Vista	5	english
 Ġembol	embol	embol	5	english
 orean	orean	orean	5	english
-orton	orton		5	german
+orton	orton	orton	5	english
 Named	Named	Named	5	english
 oplan	oplan	oplan	5	english
 inker	inker		5	german
@@ -27464,7 +27464,7 @@ young	young	young	5	english
 Ġdowns	downs	downs	5	english
 Ġdelic	delic	delic	5	english
 Ġclade	clade		5	spanish
-Setup	Setup	Setup	5	chinese
+Setup	Setup	Setup	5	english
 Ġtodas	todas		5	spanish
 Ġquand	quand		5	french
 ĠCongo	Congo	Congo	5	english
@@ -27488,7 +27488,7 @@ autom	autom		5	italian
 Ġhangs	hangs	hangs	5	english
 **](#	**](#		5	NULL
 ĠRugby	Rugby	Rugby	5	english
-ometh	ometh		5	malay
+ometh	ometh	ometh	5	english
 visit	visit	visit	5	english
 ĠArmen	Armen	Armen	5	english
 sites	sites	sites	5	english
@@ -27609,7 +27609,7 @@ issen	issen	issen	5	english
 quier	quier		5	spanish
 Ġengra	engra		5	german
 ĠStark	Stark		5	german
-Ġwrath	wrath		5	spanish
+Ġwrath	wrath	wrath	5	english
 dding	dding	dding	5	english
 ="#">	="#">		5	NULL
 Ġ\*\**	\*\**		5	NULL
@@ -27740,7 +27740,7 @@ ilion	ilion	ilion	5	english
 ĠWidth	Width	Width	5	english
 faith	faith		5	french
 Ġbliss	bliss	bliss	5	english
-ĠERISA	ERISA		5	italian
+ĠERISA	ERISA	ERISA	5	english
 ĠLeeds	Leeds	Leeds	5	english
 pitti	pitti	pitti	5	english
 Instr	Instr	Instr	5	english
@@ -27751,7 +27751,7 @@ GENER	GENER	GENER	5	english
 iazza	iazza		5	italian
 Ġexons	exons	exons	5	english
 Ġureth	ureth	ureth	5	english
-Ġclasp	clasp		5	arabic
+Ġclasp	clasp	clasp	5	english
 ĠAcute	Acute	Acute	5	english
 anmar	anmar		5	german
 ĠDixon	Dixon	Dixon	5	english
@@ -27826,7 +27826,7 @@ magic	magic	magic	5	english
 Ġchalk	chalk	chalk	5	english
 ĠFight	Fight	Fight	5	english
 AMPLE	AMPLE	AMPLE	5	english
-ocent	ocent		5	spanish
+ocent	ocent	ocent	5	english
 etype	etype	etype	5	english
 rique	rique		5	french
 ĠLords	Lords	Lords	5	english
@@ -27892,7 +27892,7 @@ rende	rende		5	italian
 shown	shown	shown	5	english
 venir	venir		5	french
 prior	prior	prior	5	english
-ĠSetup	Setup	Setup	5	chinese
+ĠSetup	Setup	Setup	5	english
 thren	thren	thren	5	english
 ĠLaden	Laden	Laden	5	english
 ĠPompe	Pompe	Pompe	5	english
@@ -28032,7 +28032,7 @@ ocado	ocado		5	spanish
 Ġspicy	spicy	spicy	5	english
 Ġdunge	dunge		5	german
 piper	piper	piper	5	english
-plots	plots		5	arabic
+plots	plots	plots	5	english
 Money	Money	Money	5	english
 Ġtying	tying	tying	5	english
 Ġrents	rents	rents	5	english
@@ -28048,7 +28048,7 @@ ifest	ifest	ifest	5	english
 RIGHT	RIGHT		5	japanese
 Ġnatur	natur		5	german
 ĠWendy	Wendy	Wendy	5	english
-Ġwarns	warns		5	indonesian
+Ġwarns	warns	warns	5	english
 letes	letes	letes	5	english
 ophan	ophan	ophan	5	english
 Ġdaddy	daddy	daddy	5	english
@@ -28076,7 +28076,7 @@ ivism	ivism	ivism	5	english
 IGNED	IGNED	IGNED	5	english
 )}.$$	)}.$$		5	NULL
 varez	varez	varez	5	english
-ĠGROUP	GROUP		5	german
+ĠGROUP	GROUP	GROUP	5	english
 Ġrainy	rainy	rainy	5	english
 ĠBasil	Basil	Basil	5	english
 osten	osten		5	german
@@ -28088,7 +28088,7 @@ cumin	cumin	cumin	5	english
 ulses	ulses	ulses	5	english
 ycler	ycler	ycler	5	english
 mails	mails	mails	5	english
-uracy	uracy		5	french
+uracy	uracy	uracy	5	english
 }},$$	}},$$		5	NULL
 atore	atore		5	italian
 Ġtrier	trier		5	french
@@ -28137,7 +28137,7 @@ reira	reira		5	portuguese
 Fresh	Fresh	Fresh	5	english
 ĠCONNE	CONNE	CONNE	5	english
 ograf	ograf	ograf	5	english
-suite	suite		5	german
+suite	suite	suite	5	english
 Ġdecid	decid	decid	5	english
 ĠdiffÃ©	diffé	diffé	5	english
 ovsky	ovsky	ovsky	5	english
@@ -28211,7 +28211,7 @@ Azure	Azure	Azure	5	english
 Ġcapit	capit	capit	5	english
 ĠJared	Jared	Jared	5	english
 istar	istar	istar	5	english
-aryng	aryng		5	spanish
+aryng	aryng	aryng	5	english
 glyph	glyph	glyph	5	english
 ĠMongo	Mongo	Mongo	5	english
 yster	yster	yster	5	english
@@ -28253,7 +28253,7 @@ arton	arton	arton	5	english
 duino	duino	duino	5	english
 ĠLands	Lands	Lands	5	english
 anked	anked	anked	5	english
-Ġovary	ovary		5	japanese
+Ġovary	ovary	ovary	5	english
 uelle	uelle		5	german
 zilla	zilla	zilla	5	english
 ĠOwner	Owner	Owner	5	english
@@ -28282,7 +28282,7 @@ ceipt	ceipt	ceipt	5	english
 amble	amble	amble	5	english
 stdio	stdio		5	german
 ĠPlans	Plans	Plans	5	english
-Ġmaple	maple		5	ukrainian
+Ġmaple	maple	maple	5	english
 ĠKitty	Kitty	Kitty	5	english
 ĠSense	Sense	Sense	5	english
 ikers	ikers		5	german
@@ -28292,7 +28292,7 @@ patri	patri		5	italian
 ĠForms	Forms	Forms	5	english
 Merge	Merge	Merge	5	english
 ISHED	ISHED	ISHED	5	english
-PRINT	PRINT		5	italian
+PRINT	PRINT	PRINT	5	english
 ĠEssex	Essex	Essex	5	english
 croft	croft	croft	5	english
 Activ	Activ	Activ	5	english
@@ -28356,7 +28356,7 @@ uents	uents	uents	5	english
 ĠDecre	Decre	Decre	5	english
 Ġaides	aides	aides	5	english
 Ġturbo	turbo	turbo	5	english
-Ġrumor	rumor		5	italian
+Ġrumor	rumor	rumor	5	english
 ĠBLOCK	BLOCK	BLOCK	5	english
 zzles	zzles	zzles	5	english
 leine	leine		5	german
@@ -28571,7 +28571,7 @@ Compl	Compl		5	indonesian
 ĠRabbi	Rabbi	Rabbi	5	english
 rette	rette	rette	5	english
 ocrat	ocrat	ocrat	5	english
-ĠRNase	RNase	RNase	5	chinese
+ĠRNase	RNase	RNase	5	english
 osaur	osaur	osaur	5	english
 inset	inset	inset	5	english
 ĠFiber	Fiber	Fiber	5	english
@@ -28582,7 +28582,7 @@ inset	inset	inset	5	english
 Ġspeck	speck	speck	5	english
 ĠShock	Shock	Shock	5	english
 Ġvoxel	voxel	voxel	5	english
-ĠGauss	Gauss		5	german
+ĠGauss	Gauss	Gauss	5	english
 amers	amers	amers	5	english
 ESULT	ESULT	ESULT	5	english
 GRect	GRect	GRect	5	english
@@ -28896,7 +28896,7 @@ usamm	usamm		5	german
 knock	knock	knock	5	english
 Makes	Makes	Makes	5	english
 Ġsplen	splen	splen	5	english
-ĠBlank	Blank		5	german
+ĠBlank	Blank	Blank	5	english
 hence	hence	hence	5	english
 ĠStats	Stats	Stats	5	english
 vival	vival		5	spanish
@@ -28924,7 +28924,7 @@ chemy	chemy	chemy	5	english
 Issue	Issue	Issue	5	english
 Ġtaxed	taxed	taxed	5	english
 doesn	doesn	doesn	5	english
-Ġstump	stump		5	italian
+Ġstump	stump	stump	5	english
 Ġabrog	abrog		5	spanish
 ĠColon	Colon	Colon	5	english
 ibaba	ibaba		5	spanish
@@ -28988,7 +28988,7 @@ MNRAS	MNRAS	MNRAS	5	english
 umers	umers		5	indonesian
 Ġscler	scler	scler	5	english
 Ġattic	attic	attic	5	english
-ĠAndrÃ©	André	André	5	english
+ĠAndrÃ©	André		5	NULL
 ĠEIGEN	EIGEN	EIGEN	5	english
 yahoo	yahoo		5	french
 Trial	Trial	Trial	5	english
@@ -29197,7 +29197,7 @@ ressed	ressed	ressed	6	english
 Ġthough	though	though	6	english
 Ġhigher	higher	higher	6	english
 Ġperiod	period	period	6	english
-Ġvalues	values		6	indonesian
+Ġvalues	values	values	6	english
 illion	illion	illion	6	english
 Ġdesign	design	design	6	english
 Ġenough	enough	en ough	6	english
@@ -29253,7 +29253,7 @@ ground	ground	ground	6	english
 minist	minist	min ist	6	english
 mathrm	mathrm	mathrm	6	english
 Ġshowed	showed	show ed	6	english
-string	string		6	german
+string	string	string	6	english
 Ġdetect	detect		6	italian
 ession	ession	ession	6	english
 ensity	ensity	ensity	6	english
@@ -29281,7 +29281,7 @@ Figure	Figure	Figure	6	english
 Ġfuture	future	future	6	english
 struct	struct	struct	6	english
 Ġentire	entire	ent ire	6	english
-Ġstring	string		6	german
+Ġstring	string	string	6	english
 Ġparent	parent		6	serbian
 ternal	ternal	ternal	6	english
 Ġeconom	econom	econom	6	english
@@ -29346,7 +29346,7 @@ istics	istics	istics	6	english
 Ġformer	former	former	6	english
 refore	refore	re fore	6	english
 Ġsatisf	satisf	s atisf	6	english
-Ġoutput	output		6	german
+Ġoutput	output	output	6	english
 Ġremain	remain	remain	6	english
 Ġdepend	depend	depend	6	english
 elling	elling	elling	6	english
@@ -29358,7 +29358,7 @@ elling	elling	elling	6	english
 Ġcoming	coming	coming	6	english
 Ġmember	member	member	6	english
 Ġrights	rights	rights	6	english
-Ġconfig	config		6	persian
+Ġconfig	config	config	6	english
 Ġscreen	screen	screen	6	english
 Ġselect	select	select	6	english
 Ġrandom	random	random	6	english
@@ -29413,7 +29413,7 @@ ibrary	ibrary	ibrary	6	english
 ociety	ociety	oc iety	6	english
 Ġfinanc	financ	fin anc	6	english
 estern	estern		6	spanish
-gorith	gorith		6	italian
+gorith	gorith	g orith	6	english
 Ġhighly	highly	high ly	6	english
 Ġassert	assert	assert	6	english
 ervice	ervice	ervice	6	english
@@ -29511,7 +29511,7 @@ atever	atever		6	italian
 Ġheight	height	height	6	english
 Ġfields	fields	fields	6	english
 Ġgiving	giving	giving	6	english
-Ġexists	exists		6	russian
+Ġexists	exists	exists	6	english
 stream	stream	stream	6	english
 Ġinstit	instit		6	german
 Ġscient	scient	scient	6	english
@@ -29550,14 +29550,14 @@ sembly	sembly	sembly	6	english
 Ġkilled	killed	k illed	6	english
 Ġfemale	female	female	6	english
 pected	pected	pected	6	english
-ensure	ensure		6	portuguese
+ensure	ensure	ensure	6	english
 ĠDemocr	Democr	Dem ocr	6	english
-Ġremove	remove		6	russian
+Ġremove	remove	remove	6	english
 Ġsubstr	substr	substr	6	english
 ĠIndian	Indian	Indian	6	english
-config	config		6	persian
+config	config	config	6	english
 ifying	ifying	ifying	6	english
-Ġensure	ensure		6	portuguese
+Ġensure	ensure	ensure	6	english
 Ġdanger	danger	danger	6	english
 apping	apping	apping	6	english
 Ġraised	raised	raised	6	english
@@ -29613,7 +29613,7 @@ istory	istory		6	turkish
 Ġcorpor	corpor	corpor	6	english
 Ġspirit	spirit	sp irit	6	english
 Ġconver	conver	con ver	6	english
-Ġformat	format		6	french
+Ġformat	format	format	6	english
 Ġsudden	sudden	s ud den	6	english
 Ġbreast	breast	bre ast	6	english
 Ġcauses	causes	ca uses	6	english
@@ -29636,7 +29636,7 @@ object	object	object	6	english
 Ġimplic	implic	imp lic	6	english
 ĠCanada	Canada	Canada	6	english
 Ġcredit	credit	credit	6	english
-Config	Config		6	persian
+Config	Config	Config	6	english
 Ġlatter	latter		6	german
 Ġregist	regist	reg ist	6	english
 terest	terest	ter est	6	english
@@ -29747,7 +29747,7 @@ annels	annels	annels	6	english
 Ġbatter	batter	b atter	6	english
 Ġterror	terror	terror	6	english
 Ġmarked	marked	marked	6	english
-itable	itable		6	indonesian
+itable	itable	itable	6	english
 Ġlisted	listed	listed	6	english
 uesday	uesday	uesday	6	english
 select	select	select	6	english
@@ -29757,7 +29757,7 @@ select	select	select	6	english
 Ġexplan	explan	ex plan	6	english
 Ġbroken	broken	broken	6	english
 Ġaccord	accord	accord	6	english
-Ġtables	tables		6	french
+Ġtables	tables	tables	6	english
 Ġmainly	mainly	main ly	6	english
 ĠThomas	Thomas	Thomas	6	english
 Ġspring	spring	spring	6	english
@@ -29850,7 +29850,7 @@ helial	helial		6	german
 Ġphotos	photos	photos	6	english
 Ġannual	annual	annual	6	english
 Ġburden	burden	bur den	6	english
-Ġmetric	metric	metric	6	chinese
+Ġmetric	metric	metric	6	english
 hether	hether		6	french
 Ġprolif	prolif	pro lif	6	english
 Ġcloser	closer	clos er	6	english
@@ -29872,7 +29872,7 @@ Stream	Stream	Stream	6	english
 Ġguilty	guilty	g uil ty	6	english
 Ġvision	vision	vision	6	english
 Ġeditor	editor	editor	6	english
-format	format		6	french
+format	format	format	6	english
 iously	iously	iously	6	english
 linear	linear		6	italian
 ftware	ftware	ftware	6	english
@@ -29956,7 +29956,7 @@ People	People	People	6	english
 Ġtumors	tumors		6	indonesian
 Ġlowest	lowest	lowest	6	english
 amsbsy	amsbsy	ams b sy	6	english
-values	values		6	indonesian
+values	values	values	6	english
 Ġplanet	planet	planet	6	english
 Ġyellow	yellow	yellow	6	english
 Ġmetast	metast	met ast	6	english
@@ -30014,7 +30014,7 @@ Result	Result	Result	6	english
 Ġassign	assign	assign	6	english
 ochond	ochond	ochond	6	english
 center	center	center	6	english
-output	output		6	german
+output	output	output	6	english
 Ġposted	posted	posted	6	english
 idents	idents	idents	6	english
 Ġremind	remind	rem ind	6	english
@@ -30215,7 +30215,7 @@ Second	Second	Second	6	english
 Ġmagnet	magnet	mag net	6	english
 filter	filter	filter	6	english
 uality	uality	ual ity	6	english
-metric	metric	metric	6	chinese
+metric	metric	metric	6	english
 vector	vector	vector	6	english
 Ġrising	rising	r ising	6	english
 Output	Output	Output	6	english
@@ -30360,17 +30360,17 @@ onical	onical	on ical	6	english
 Ġcrimes	crimes	cr imes	6	english
 Ġasympt	asympt	as ym pt	6	english
 Ġharder	harder	hard er	6	english
-remove	remove		6	russian
+remove	remove	remove	6	english
 Target	Target	Target	6	english
 ĠCentre	Centre	Centre	6	english
 Ġcheese	cheese	che ese	6	english
-orable	orable		6	italian
+orable	orable	orable	6	english
 ĠSoviet	Soviet	S ov iet	6	english
 Ġshadow	shadow	shadow	6	english
 Ġbeside	beside		6	german
 Window	Window	Window	6	english
 fusion	fusion	fusion	6	english
-Ġvolunt	volunt		6	spanish
+Ġvolunt	volunt	vol unt	6	english
 ĠSeries	Series	Series	6	english
 Ġartery	artery	arter y	6	english
 double	double	double	6	english
@@ -30526,8 +30526,8 @@ Custom	Custom	Custom	6	english
 domain	domain	domain	6	english
 Ġubuntu	ubuntu	ubuntu	6	english
 Ġfallen	fallen	fallen	6	english
-Ġtrends	trends		6	italian
-Module	Module		6	french
+Ġtrends	trends	tr ends	6	english
+Module	Module	Module	6	english
 Ġticket	ticket	ticket	6	english
 enders	enders	enders	6	english
 Ġdating	dating	dating	6	english
@@ -30560,7 +30560,7 @@ closed	closed	closed	6	english
 Ġranges	ranges	ranges	6	english
 Ġtraits	traits	traits	6	english
 Ġuptake	uptake	upt ake	6	english
-Ġatomic	atomic		6	persian
+Ġatomic	atomic	atomic	6	english
 ĠPython	Python	Python	6	english
 shaped	shaped	sh aped	6	english
 Ġfrozen	frozen	f rozen	6	english
@@ -30784,7 +30784,7 @@ Public	Public	Public	6	english
 ĠNether	Nether	Net her	6	english
 ĠLabour	Labour	Lab our	6	english
 acious	acious	acious	6	english
-Ġfreely	freely		6	french
+Ġfreely	freely	fre ely	6	english
 ĠBattle	Battle	Battle	6	english
 Ġrelies	relies	rel ies	6	english
 ĠGolden	Golden	Golden	6	english
@@ -30881,7 +30881,7 @@ middle	middle	middle	6	english
 mented	mented	mented	6	english
 Ġrefuse	refuse	ref use	6	english
 Ġarrays	arrays	arrays	6	english
-rowser	rowser		6	persian
+rowser	rowser	rowser	6	english
 Ġboards	boards	boards	6	english
 delete	delete	delete	6	english
 resses	resses	resses	6	english
@@ -30928,8 +30928,8 @@ Dialog	Dialog	Dialog	6	english
 Ġgaming	gaming	gaming	6	english
 ĠPoland	Poland	Pol and	6	english
 isible	isible	isible	6	english
-atomic	atomic		6	persian
-oblast	oblast		6	persian
+atomic	atomic	atomic	6	english
+oblast	oblast	oblast	6	english
 except	except	except	6	english
 ĠMichel	Michel		6	french
 usalem	usalem	usalem	6	english
@@ -31010,7 +31010,7 @@ months	months	months	6	english
 Ġasleep	asleep	as leep	6	english
 Widget	Widget	Widget	6	english
 arette	arette	arette	6	english
-ogonal	ogonal	ogonal	6	chinese
+ogonal	ogonal	ogonal	6	english
 Ġsupers	supers	sup ers	6	english
 ollary	ollary	oll ary	6	english
 course	course	course	6	english
@@ -31134,7 +31134,7 @@ imated	imated	imated	6	english
 Ġthromb	thromb	th romb	6	english
 Ġsubdiv	subdiv	sub div	6	english
 Ġtermin	termin	termin	6	english
-Ġpaired	paired		6	serbian
+Ġpaired	paired	paired	6	english
 Ġmarrow	marrow	mar row	6	english
 ĠCredit	Credit	Credit	6	english
 Ġslices	slices	s lices	6	english
@@ -31246,11 +31246,11 @@ ousing	ousing	ousing	6	english
 ĠThings	Things	Things	6	english
 Ġcausal	causal	ca usal	6	english
 Sample	Sample	Sample	6	english
-Ġanomal	anomal		6	spanish
+Ġanomal	anomal	an omal	6	english
 ĠLiving	Living	Living	6	english
 ĠjQuery	jQuery		6	code
 ĠTwenty	Twenty	Twenty	6	english
-exists	exists		6	russian
+exists	exists	exists	6	english
 Ġjunior	junior		6	french
 Ġrhythm	rhythm	rh ythm	6	english
 Ġenters	enters	ent ers	6	english
@@ -31300,7 +31300,7 @@ unders	unders	unders	6	english
 Ġgrains	grains	gr ains	6	english
 ĠOracle	Oracle	Oracle	6	english
 Ġbrains	brains	brains	6	english
-Ġtablet	tablet		6	french
+Ġtablet	tablet	tablet	6	english
 ĠOthers	Others	Others	6	english
 Ġdigest	digest	digest	6	english
 Ġbetray	betray		6	german
@@ -31345,7 +31345,7 @@ verter	verter	verter	6	english
 ĠActive	Active	Active	6	english
 Ġtraged	traged	tr aged	6	english
 Ġwaiver	waiver	wa iver	6	english
-Ġsacred	sacred		6	german
+Ġsacred	sacred	s ac red	6	english
 upload	upload	upload	6	english
 Ġslaves	slaves	sl aves	6	english
 Ġlibert	libert	lib ert	6	english
@@ -31448,7 +31448,7 @@ assium	assium	assium	6	english
 Schema	Schema	Schema	6	english
 ĠJustin	Justin	Justin	6	english
 Ġtended	tended	t ended	6	english
-ĠConfig	Config		6	persian
+ĠConfig	Config	Config	6	english
 Ġabsurd	absurd	abs urd	6	english
 Ġrushed	rushed	r ushed	6	english
 immune	immune		6	french
@@ -31651,7 +31651,7 @@ pleted	pleted	pleted	6	english
 Ġaortic	aortic	a ortic	6	english
 ĠPuerto	Puerto	Puerto	6	english
 ĠRodrig	Rodrig	Rod rig	6	english
-Ġaccent	accent	accent	6	chinese
+Ġaccent	accent	accent	6	english
 ĠDebtor	Debtor	Deb tor	6	english
 ĠRachel	Rachel	Rachel	6	english
 Ġmakers	makers	makers	6	english
@@ -32057,7 +32057,7 @@ tensor	tensor	tensor	6	english
 ussion	ussion	ussion	6	english
 Altern	Altern	Altern	6	english
 Ġmetres	metres	met res	6	english
-omeric	omeric		6	malay
+omeric	omeric	omer ic	6	english
 lookup	lookup	lookup	6	english
 Ġtragic	tragic		6	german
 Within	Within	Within	6	english
@@ -32193,7 +32193,7 @@ ouched	ouched	ouched	6	english
 innati	innati	inn ati	6	english
 Ġinward	inward	in ward	6	english
 Ġoutfit	outfit	out fit	6	english
-Ġpestic	pestic		6	portuguese
+Ġpestic	pestic	p estic	6	english
 Sunday	Sunday	Sunday	6	english
 ibular	ibular	ib ular	6	english
 Ġtrails	trails	tr ails	6	english
@@ -32274,7 +32274,7 @@ mobile	mobile	mobile	6	english
 ĠRemark	Remark	Remark	6	english
 Folder	Folder	Folder	6	english
 Ġproofs	proofs	proof s	6	english
-veolar	veolar	veolar	6	chinese
+veolar	veolar	ve olar	6	english
 Ġatrial	atrial	atr ial	6	english
 lichen	lichen	lichen	6	english
 Ġmonkey	monkey	mon key	6	english
@@ -32357,7 +32357,7 @@ medium	medium	medium	6	english
 ĠFields	Fields	Fields	6	english
 assign	assign	assign	6	english
 everse	everse	ever se	6	english
-Ġrumors	rumors		6	italian
+Ġrumors	rumors	rum ors	6	english
 Ġcandle	candle	c andle	6	english
 ptides	ptides		6	serbian
 ĠPotter	Potter	Pot ter	6	english
@@ -32403,7 +32403,7 @@ histor	histor	histor	6	english
 Depend	Depend	Depend	6	english
 ĠJoshua	Joshua	Joshua	6	english
 Scalar	Scalar	Scalar	6	english
-xspace	xspace	xspace	6	chinese
+xspace	xspace	x space	6	english
 Ġglands	glands	g lands	6	english
 ĠShield	Shield	Shield	6	english
 taking	taking	taking	6	english
@@ -32511,14 +32511,14 @@ watson	watson	wat son	6	english
 Ġdetain	detain	det ain	6	english
 Ġpillow	pillow	p illow	6	english
 Ġretina	retina	ret ina	6	english
-ĠModule	Module		6	french
+ĠModule	Module	Module	6	english
 Ġimagin	imagin	im agin	6	english
 Ġmening	mening	men ing	6	english
 SOURCE	SOURCE	SOURCE	6	english
 Ġtandem	tandem	t and em	6	english
 ĠAnders	Anders	And ers	6	english
 cyclop	cyclop	cycl op	6	english
-paired	paired		6	serbian
+paired	paired	paired	6	english
 Images	Images	Images	6	english
 mental	mental		6	indonesian
 ĠTables	Tables	Tables	6	english
@@ -32584,7 +32584,7 @@ ophyll	ophyll	ophyll	6	english
 Ġcracks	cracks	cr acks	6	english
 ĠKaplan	Kaplan	Kap lan	6	english
 Compat	Compat		6	indonesian
-ĠGOOGLE	GOOGLE	GOOGLE	6	chinese
+ĠGOOGLE	GOOGLE	GO OGLE	6	english
 Ġupheld	upheld	up held	6	english
 ĠConfed	Confed	Conf ed	6	english
 marked	marked	marked	6	english
@@ -32620,7 +32620,7 @@ strict	strict	strict	6	english
 Ġspends	spends	sp ends	6	english
 Ġindemn	indemn	ind emn	6	english
 Ġuneven	uneven		6	french
-ĠPhotos	Photos	Photos	6	chinese
+ĠPhotos	Photos	Photos	6	english
 ĠMcCain	McCain	Mc Cain	6	english
 lining	lining	lining	6	english
 Shared	Shared	Shared	6	english
@@ -32663,7 +32663,7 @@ labels	labels	labels	6	english
 kinson	kinson	kinson	6	english
 ĠChoice	Choice		6	french
 ĠtambÃ©m	também		6	portuguese
-Ġbiases	biases		6	german
+Ġbiases	biases	bias es	6	english
 Ġloudly	loudly	l oud ly	6	english
 Ġclicks	clicks	click s	6	english
 Ġaerial	aerial	a erial	6	english
@@ -32735,10 +32735,10 @@ belief	belief	belief	6	english
 athing	athing	athing	6	english
 erably	erably	er ably	6	english
 Ġretard	retard	ret ard	6	english
-Ġdamned	damned		6	spanish
+Ġdamned	damned	dam ned	6	english
 Ġmentor	mentor		6	indonesian
 olymer	olymer	oly mer	6	english
-Ġexplor	explor		6	spanish
+Ġexplor	explor	expl or	6	english
 ĠAccept	Accept	Accept	6	english
 Ġbounce	bounce	bounce	6	english
 ĠManuel	Manuel		6	spanish
@@ -32794,7 +32794,7 @@ tagged	tagged	tag ged	6	english
 Ġevoked	evoked	ev oked	6	english
 Ġbooked	booked	book ed	6	english
 umbing	umbing	umbing	6	english
-Ġshorts	shorts		6	french
+Ġshorts	shorts	short s	6	english
 Groups	Groups	Groups	6	english
 atches	atches	atches	6	english
 ampton	ampton	ampton	6	english
@@ -32816,9 +32816,9 @@ Bounds	Bounds	Bounds	6	english
 ĠGerald	Gerald	Ger ald	6	english
 terror	terror	terror	6	english
 theory	theory	the ory	6	english
-oracle	oracle		6	italian
+oracle	oracle	oracle	6	english
 ĠSpider	Spider	Spider	6	english
-ensors	ensors		6	portuguese
+ensors	ensors	ensors	6	english
 Ġavoids	avoids	avo ids	6	english
 ĠLength	Length	Length	6	english
 Ġeighty	eighty	e ighty	6	english
@@ -32845,7 +32845,7 @@ izumab	izumab		6	italian
 planes	planes	planes	6	english
 shield	shield	shield	6	english
 Ġpopped	popped		6	german
-Ġtrench	trench		6	italian
+Ġtrench	trench	tr ench	6	english
 METHOD	METHOD	METHOD	6	english
 Ġocular	ocular	ocular	6	english
 Ġextrav	extrav	ex trav	6	english
@@ -32866,7 +32866,7 @@ Answer	Answer	Answer	6	english
 openia	openia	open ia	6	english
 please	please	please	6	english
 Ġcontig	contig	cont ig	6	english
-ĠPlasma	Plasma		6	german
+ĠPlasma	Plasma	Pl asma	6	english
 ĠDriver	Driver	Driver	6	english
 ĠBuffer	Buffer	Buffer	6	english
 Ġphotoc	photoc	phot oc	6	english
@@ -32934,7 +32934,7 @@ packed	packed	packed	6	english
 amined	amined		6	french
 raisal	raisal		6	indonesian
 Ġrented	rented	r ented	6	english
-GROUND	GROUND		6	german
+GROUND	GROUND	GROUND	6	english
 OFFSET	OFFSET	OFFSET	6	english
 levard	levard	levard	6	english
 Ġpriced	priced	priced	6	english
@@ -33386,7 +33386,7 @@ Mapper	Mapper		6	italian
 Ġspices	spices	sp ices	6	english
 elaide	elaide	elaide	6	english
 cuador	cuador		6	spanish
-opters	opters		6	russian
+opters	opters	opters	6	english
 formin	formin	formin	6	english
 ĠGandhi	Gandhi	G and hi	6	english
 Ġfibres	fibres		6	spanish
@@ -33481,7 +33481,7 @@ pretty	pretty	pretty	6	english
 doctor	doctor	doctor	6	english
 Adjust	Adjust	Adjust	6	english
 entary	entary	ent ary	6	english
-oclast	oclast		6	arabic
+oclast	oclast	oc last	6	english
 ĠTorres	Torres	Tor res	6	english
 ĠSevent	Sevent	Se vent	6	english
 agland	agland	ag land	6	english
@@ -33508,7 +33508,7 @@ obiles	obiles		6	italian
 Ġsuburb	suburb	sub urb	6	english
 ourage	ourage		6	portuguese
 Ġmolten	molten		6	german
-tables	tables		6	french
+tables	tables	tables	6	english
 Ġricher	richer	r icher	6	english
 ACTION	ACTION	ACTION	6	english
 Season	Season	Season	6	english
@@ -33848,7 +33848,7 @@ olphin	olphin	olph in	6	english
 Ġdismay	dismay	d ism ay	6	english
 ĠFalcon	Falcon	Fal con	6	english
 Ġtowels	towels	t owels	6	english
-ovanni	ovanni		6	french
+ovanni	ovanni	ov anni	6	english
 ĠEdited	Edited	Edited	6	english
 rounds	rounds	round s	6	english
 Ġechoes	echoes	echo es	6	english
@@ -33874,7 +33874,7 @@ idemia	idemia		6	french
 cardia	cardia	card ia	6	english
 Ġpostal	postal	postal	6	english
 ophone	ophone	ophone	6	english
-PREFIX	PREFIX		6	spanish
+PREFIX	PREFIX	PREFIX	6	english
 Ġshakes	shakes	sh akes	6	english
 ankton	ankton	ank ton	6	english
 Ġrinsed	rinsed	r ins ed	6	english
@@ -33893,7 +33893,7 @@ ionine	ionine	ion ine	6	english
 Ġredeem	redeem	rede em	6	english
 ĠSeeing	Seeing	Seeing	6	english
 ducers	ducers	ducers	6	english
-ensory	ensory		6	portuguese
+ensory	ensory	ens ory	6	english
 Ġfloral	floral	fl oral	6	english
 ulfide	ulfide	ulf ide	6	english
 ĠLiquid	Liquid	Liquid	6	english
@@ -33967,7 +33967,7 @@ legend	legend		6	spanish
 Ġsubord	subord	sub ord	6	english
 Ġmacros	macros	mac ros	6	english
 isease	isease	isease	6	english
-Ġoracle	oracle		6	italian
+Ġoracle	oracle	oracle	6	english
 Ġfloods	floods	f lood s	6	english
 Ġtracer	tracer	tr acer	6	english
 Ġgrease	grease	gre ase	6	english
@@ -33993,7 +33993,7 @@ Church	Church	Church	6	english
 ĠChance	Chance	Chance	6	english
 Ġposing	posing	posing	6	english
 Ġfulfil	fulfil	ful fil	6	english
-ientes	ientes		6	portuguese
+ientes	ientes	ientes	6	english
 Ġstably	stably	st ably	6	english
 hering	hering	her ing	6	english
 ĠMorton	Morton		6	italian
@@ -34296,7 +34296,7 @@ ppings	ppings	pp ings	6	english
 rotate	rotate	rotate	6	english
 Syntax	Syntax	Syntax	6	english
 Ġpasser	passer	pass er	6	english
-Ġslurry	slurry	slurry	6	chinese
+Ġslurry	slurry	sl urry	6	english
 Ġlinger	linger	linger	6	english
 ĠBenson	Benson	B enson	6	english
 Ġwrists	wrists	wr ists	6	english
@@ -34368,7 +34368,7 @@ zitter	zitter	zitter	6	english
 andals	andals	and als	6	english
 opedic	opedic	opedic	6	english
 ĠOrient	Orient	Orient	6	english
-Ġsqlite	sqlite		6	japanese
+Ġsqlite	sqlite	sqlite	6	english
 Ġlodged	lodged	lod ged	6	english
 ĠLudwig	Ludwig	L ud wig	6	english
 atinib	atinib	atin ib	6	english
@@ -34473,7 +34473,7 @@ piring	piring	p iring	6	english
 Ġwisely	wisely	wis ely	6	english
 Ġcavern	cavern	c av ern	6	english
 ĠAzerba	Azerba	A zer ba	6	english
-Photos	Photos	Photos	6	chinese
+Photos	Photos	Photos	6	english
 Ġentend	entend	ent end	6	english
 ĠPostal	Postal	Postal	6	english
 ippets	ippets	ippets	6	english
@@ -34665,7 +34665,7 @@ Finish	Finish	Finish	6	english
 Ġraison	raison		6	french
 Notify	Notify	Notify	6	english
 ĠLisbon	Lisbon	Lis bon	6	english
-aliana	aliana		6	spanish
+aliana	aliana	al iana	6	english
 Ġhacker	hacker		6	spanish
 Ġmyosin	myosin	my osin	6	english
 ĠLawson	Lawson	Law son	6	english
@@ -34864,7 +34864,7 @@ vester	vester	vester	6	english
 ĠKelley	Kelley	K elley	6	english
 wanted	wanted	wanted	6	english
 Ġfuckin	fuckin	fuck in	6	english
-optera	optera		6	russian
+optera	optera	op tera	6	english
 reject	reject	reject	6	english
 Ġdisple	disple	dis ple	6	english
 heated	heated	heated	6	english
@@ -34917,7 +34917,7 @@ ational	ational	ational	7	english
 Ġprocess	process	process	7	english
 Ġpresent	present	present	7	english
 ression	ression	ression	7	english
-ategory	ategory		7	arabic
+ategory	ategory	ategory	7	english
 Ġdevelop	develop	develop	7	english
 Ġwithout	without	without	7	english
 ization	ization	ization	7	english
@@ -35048,7 +35048,7 @@ ospital	ospital		7	italian
 Ġrunning	running	running	7	english
 actions	actions	actions	7	english
 Ġsamples	samples	samples	7	english
-itation	itation		7	italian
+itation	itation	itation	7	english
 Ġwritten	written	written	7	english
 Ġcreated	created	created	7	english
 ributed	ributed	rib uted	7	english
@@ -35087,7 +35087,7 @@ acement	acement	acement	7	english
 Ġregular	regular	regular	7	english
 ĠAmerica	America	America	7	english
 Ġbrought	brought	b rought	7	english
-Ġprotect	protect		7	spanish
+Ġprotect	protect	protect	7	english
 Ġwriting	writing	writing	7	english
 Ġdensity	density	density	7	english
 vention	vention	vention	7	english
@@ -35296,7 +35296,7 @@ induced	induced	ind uced	7	english
 However	However	However	7	english
 Ġuniform	uniform	uniform	7	english
 Ġoutcome	outcome	out come	7	english
-Ġconvert	convert		7	russian
+Ġconvert	convert	convert	7	english
 ĠCouncil	Council	Council	7	english
 iveness	iveness	iveness	7	english
 ĠCompany	Company	Company	7	english
@@ -35348,7 +35348,7 @@ aturday	aturday		7	portuguese
 Ġrelates	relates	rel ates	7	english
 Ġcompens	compens	comp ens	7	english
 Ġleaders	leaders	leaders	7	english
-Element	Element		7	german
+Element	Element	Element	7	english
 Ġsitting	sitting	s itting	7	english
 Ġpossess	possess	poss ess	7	english
 Ġfocused	focused	focused	7	english
@@ -35390,7 +35390,7 @@ Service	Service	Service	7	english
 ĠWindows	Windows	Windows	7	english
 uscript	uscript	us cript	7	english
 Message	Message	Message	7	english
-ometric	ometric		7	malay
+ometric	ometric	ometric	7	english
 endment	endment	end ment	7	english
 Ġwarrant	warrant	w arrant	7	english
 Ġvirtual	virtual	virtual	7	english
@@ -35477,7 +35477,7 @@ theless	theless	the less	7	english
 Ġdisappe	disappe	dis appe	7	english
 Ġamounts	amounts	amount s	7	english
 Ġwindows	windows	windows	7	english
-Ġexplore	explore		7	spanish
+Ġexplore	explore	expl ore	7	english
 Ġnoticed	noticed	noticed	7	english
 Ġfunding	funding	fund ing	7	english
 Ġglucose	glucose	gl ucose	7	english
@@ -35509,7 +35509,7 @@ Content	Content	Content	7	english
 mediate	mediate	mediate	7	english
 Ġclosest	closest	closest	7	english
 Ġamazing	amazing	am azing	7	english
-Ġoptimal	optimal		7	russian
+Ġoptimal	optimal	optimal	7	english
 Ġadopted	adopted	ad opt ed	7	english
 Ġalgebra	algebra	al gebra	7	english
 Ġorganic	organic	organic	7	english
@@ -35630,7 +35630,7 @@ perties	perties	perties	7	english
 ĠDespite	Despite	Despite	7	english
 agnetic	agnetic	agnetic	7	english
 Ġcutting	cutting	cut ting	7	english
-Ġrounded	rounded	rounded	7	chinese
+Ġrounded	rounded	rounded	7	english
 inction	inction	inction	7	english
 Ġtheorem	theorem	the orem	7	english
 Ġclothes	clothes	cl othes	7	english
@@ -35827,7 +35827,7 @@ illance	illance	illance	7	english
 ĠEastern	Eastern	Eastern	7	english
 Ġconspir	conspir	con spir	7	english
 Ġsurvive	survive	sur vive	7	english
-Ġlateral	lateral		7	russian
+Ġlateral	lateral	l ateral	7	english
 Ġcompute	compute	compute	7	english
 Ġmodules	modules	modules	7	english
 ĠCaptain	Captain	Captain	7	english
@@ -35962,7 +35962,7 @@ ricular	ricular	ric ular	7	english
 Ġenables	enables		7	spanish
 ĠMethods	Methods	Methods	7	english
 ĠIslamic	Islamic	Islam ic	7	english
-Ġpadding	padding	padding	7	chinese
+Ġpadding	padding	padding	7	english
 ĠConserv	Conserv	Con serv	7	english
 Ġtraject	traject		7	spanish
 Ġholiday	holiday	holiday	7	english
@@ -36020,7 +36020,7 @@ pection	pection	pection	7	english
 ificant	ificant	ificant	7	english
 Ġaffairs	affairs	aff airs	7	english
 Ġpending	pending	pending	7	english
-Ġenemies	enemies		7	spanish
+Ġenemies	enemies	en emies	7	english
 Ġairport	airport	airport	7	english
 Ġstained	stained	st ained	7	english
 comment	comment	comment	7	english
@@ -36331,7 +36331,7 @@ Display	Display	Display	7	english
 Ġstaring	staring	st aring	7	english
 Ġacceler	acceler	acceler	7	english
 ĠHarvard	Harvard	Har vard	7	english
-padding	padding	padding	7	chinese
+padding	padding	padding	7	english
 Ġdeserve	deserve		7	italian
 between	between	between	7	english
 ologous	ologous	olog ous	7	english
@@ -36454,7 +36454,7 @@ assador	assador	assador	7	english
 ĠIslands	Islands	Is lands	7	english
 ĠSenator	Senator	Sen ator	7	english
 Ġsmiling	smiling	sm iling	7	english
-ĠDisease	Disease		7	indonesian
+ĠDisease	Disease	Disease	7	english
 integer	integer	integer	7	english
 Michael	Michael	Michael	7	english
 Ġdissent	dissent		7	german
@@ -36474,7 +36474,7 @@ Figures	Figures	Figures	7	english
 Ġtwisted	twisted	tw isted	7	english
 Ġtestify	testify	test ify	7	english
 Subject	Subject	Subject	7	english
-Ġovarian	ovarian		7	japanese
+Ġovarian	ovarian	ov arian	7	english
 Release	Release	Release	7	english
 Ġescaped	escaped		7	spanish
 Ġtightly	tightly	t ightly	7	english
@@ -36538,7 +36538,7 @@ special	special	special	7	english
 Ġmalaria	malaria	mal aria	7	english
 izontal	izontal		7	serbian
 Ġembrace	embrace		7	italian
-allenge	allenge		7	vietnamese
+allenge	allenge	allenge	7	english
 CHAPTER	CHAPTER	CH APTER	7	english
 Ġsoluble	soluble		7	french
 ĠTheatre	Theatre	The atre	7	english
@@ -36588,11 +36588,11 @@ osevelt	osevelt	osevelt	7	english
 Ġlongest	longest	long est	7	english
 lesssim	lesssim	less sim	7	english
 whether	whether	whether	7	english
-Ġensures	ensures		7	portuguese
+Ġensures	ensures	ens ures	7	english
 ĠPURPOSE	PURPOSE	PUR POSE	7	english
 ĠProtein	Protein	Protein	7	english
 Ġseventh	seventh	se venth	7	english
-Ġrefract	refract		7	german
+Ġrefract	refract	re fract	7	english
 Ġshallow	shallow	sh allow	7	english
 Ġanxious	anxious	an x ious	7	english
 ĠCollins	Collins	Coll ins	7	english
@@ -36880,7 +36880,7 @@ aternal	aternal	ater nal	7	english
 Ġtrustee	trustee	trust ee	7	english
 ĠSamsung	Samsung		7	german
 Ġnewborn	newborn	new born	7	english
-Ġblanket	blanket		7	german
+Ġblanket	blanket	blank et	7	english
 Ġsharply	sharply	sh ar ply	7	english
 ynchron	ynchron	ynchron	7	english
 0000000	0000000		7	digits
@@ -36914,7 +36914,7 @@ keyword	keyword	keyword	7	english
 loading	loading	loading	7	english
 Ġrenewed	renewed	renew ed	7	english
 ĠLooking	Looking	Looking	7	english
-Ġtablets	tablets		7	french
+Ġtablets	tablets	table ts	7	english
 Ġpleaded	pleaded	ple aded	7	english
 ĠPatient	Patient	Patient	7	english
 ĠFinance	Finance	Finance	7	english
@@ -36991,7 +36991,7 @@ plugins	plugins	plugins	7	english
 intendo	intendo	intendo	7	english
 ĠComplex	Complex	Complex	7	english
 ĠAgainst	Against	Against	7	english
-uparrow	uparrow		7	russian
+uparrow	uparrow	upar row	7	english
 Ġbitcoin	bitcoin	bitcoin	7	english
 ĠReuters	Reuters		7	german
 ĠWriting	Writing	Writing	7	english
@@ -37041,7 +37041,7 @@ borough	borough	borough	7	english
 icillin	icillin		7	french
 cluster	cluster	cluster	7	english
 Ġcopying	copying	copy ing	7	english
-amiliar	amiliar		7	spanish
+amiliar	amiliar	amiliar	7	english
 Ġatheros	atheros	ather os	7	english
 ountain	ountain	ountain	7	english
 ĠAPPEALS	APPEALS	AP PE ALS	7	english
@@ -37050,7 +37050,7 @@ ountain	ountain	ountain	7	english
 Ġrouting	routing	routing	7	english
 Ġanalogy	analogy	anal ogy	7	english
 Ġcreator	creator	creator	7	english
-Ġdisgust	disgust		7	italian
+Ġdisgust	disgust	dis gust	7	english
 Ġrewrite	rewrite	rewrite	7	english
 olutely	olutely	ol utely	7	english
 Ġsealing	sealing	se aling	7	english
@@ -37146,7 +37146,7 @@ Include	Include	Include	7	english
 Ġsulfate	sulfate	s ulf ate	7	english
 Ġcondemn	condemn	cond emn	7	english
 Ġleaning	leaning	lean ing	7	english
-Ġnominal	nominal		7	french
+Ġnominal	nominal	nom inal	7	english
 Ġbundles	bundles	bund les	7	english
 ĠLIMITED	LIMITED	LIMIT ED	7	english
 jective	jective	jective	7	english
@@ -37221,7 +37221,7 @@ atement	atement	atement	7	english
 Ġwhoever	whoever		7	french
 payment	payment	payment	7	english
 Ġemperor	emperor	em peror	7	english
-ĠElement	Element		7	german
+ĠElement	Element	Element	7	english
 ĠSamples	Samples	Samples	7	english
 Ġunhappy	unhappy	un happy	7	english
 feeding	feeding	feeding	7	english
@@ -37488,7 +37488,7 @@ species	species	species	7	english
 Ġsteroid	steroid	st eroid	7	english
 ĠWelcome	Welcome	Welcome	7	english
 finding	finding	finding	7	english
-convert	convert		7	russian
+convert	convert	convert	7	english
 ĠGregory	Gregory	Greg ory	7	english
 ophilic	ophilic	oph ilic	7	english
 Ġissuing	issuing	iss uing	7	english
@@ -37571,7 +37571,7 @@ orously	orously	or ously	7	english
 Ġparalle	paralle	par alle	7	english
 pecific	pecific	pecific	7	english
 Ġreacted	reacted	react ed	7	english
-optimal	optimal		7	russian
+optimal	optimal	optimal	7	english
 Ġbeaches	beaches	be aches	7	english
 Ġchaotic	chaotic	cha otic	7	english
 ĠQuarter	Quarter	Quarter	7	english
@@ -37617,7 +37617,7 @@ measure	measure	measure	7	english
 ĠImprove	Improve	Improve	7	english
 Ġguessed	guessed	gu essed	7	english
 marined	marined	mar ined	7	english
-Ġparamet	paramet		7	serbian
+Ġparamet	paramet	param et	7	english
 meaning	meaning	meaning	7	english
 cursors	cursors	c ursors	7	english
 Ġgrinned	grinned	gr inned	7	english
@@ -37743,7 +37743,7 @@ decided	decided	dec ided	7	english
 plectic	plectic	ple ctic	7	english
 hearing	hearing	he aring	7	english
 Patient	Patient	Patient	7	english
-ĠEXPRESS	EXPRESS		7	spanish
+ĠEXPRESS	EXPRESS	EXP RESS	7	english
 adapter	adapter	adapter	7	english
 Authors	Authors	Authors	7	english
 Ġmarched	marched	mar ched	7	english
@@ -37843,7 +37843,7 @@ reverse	reverse	reverse	7	english
 Chicago	Chicago	Chicago	7	english
 Ġneedles	needles	need les	7	english
 ĠProphet	Prophet	Prop het	7	english
-aphragm	aphragm		7	ukrainian
+aphragm	aphragm	ap hr agm	7	english
 Ġerosion	erosion	eros ion	7	english
 innings	innings	innings	7	english
 imposed	imposed	im posed	7	english
@@ -37954,7 +37954,7 @@ comings	comings	comings	7	english
 failure	failure	failure	7	english
 desktop	desktop	desktop	7	english
 missing	missing	missing	7	english
-protect	protect		7	spanish
+protect	protect	protect	7	english
 opening	opening	opening	7	english
 Italian	Italian	Italian	7	english
 Trigger	Trigger	Trigger	7	english
@@ -38146,7 +38146,7 @@ digital	digital	digital	7	english
 Ġgrading	grading	grading	7	english
 missive	missive	miss ive	7	english
 ĠKashmir	Kashmir	K ash mir	7	english
-ensible	ensible		7	portuguese
+ensible	ensible	ensible	7	english
 quarter	quarter	quarter	7	english
 ĠGoldman	Goldman	Gold man	7	english
 Ġimmunod	immunod	im mun od	7	english
@@ -38496,7 +38496,7 @@ MESSAGE	MESSAGE	MESSAGE	7	english
 Ġsoybean	soybean		7	spanish
 Ġscenery	scenery	sc enery	7	english
 Ġblogger	blogger	blog ger	7	english
-omerase	omerase		7	malay
+omerase	omerase	omer ase	7	english
 attempt	attempt	attempt	7	english
 Ġfabrics	fabrics	f abr ics	7	english
 Ġhaunted	haunted	ha unted	7	english
@@ -38550,14 +38550,14 @@ uckland	uckland	uckland	7	english
 Ġepiderm	epiderm	ep id erm	7	english
 circuit	circuit	c ircuit	7	english
 Ġchassis	chassis	ch assis	7	english
-ymphony	ymphony		7	french
+ymphony	ymphony	ymph ony	7	english
 Decoder	Decoder	Decoder	7	english
 Ġpuzzled	puzzled	p uzz led	7	english
 Ġencontr	encontr		7	spanish
 Ġassigns	assigns	assign s	7	english
 Exactly	Exactly	Exactly	7	english
 Ġrodents	rodents	rod ents	7	english
-Ġfalsely	falsely		7	german
+Ġfalsely	falsely	f als ely	7	english
 Ġcontral	contral	contr al	7	english
 iologic	iologic	i ologic	7	english
 compute	compute	compute	7	english
@@ -38639,7 +38639,7 @@ figures	figures	fig ures	7	english
 ĠLambert	Lambert	Lam bert	7	english
 Ġsibling	sibling	s ibling	7	english
 ĠScandin	Scandin	Sc andin	7	english
-ĠVikings	Vikings		7	turkish
+ĠVikings	Vikings	V ik ings	7	english
 imaging	imaging	im aging	7	english
 Ġdeleter	deleter	dele ter	7	english
 sembles	sembles	se mbles	7	english
@@ -38649,11 +38649,11 @@ inished	inished	inished	7	english
 started	started	started	7	english
 ĠCreator	Creator	Creator	7	english
 Receive	Receive	Receive	7	english
-ophagus	ophagus		7	spanish
+ophagus	ophagus	ophagus	7	english
 ĠOptical	Optical	Opt ical	7	english
 Ġgarment	garment	gar ment	7	english
 Ġkinemat	kinemat	kin emat	7	english
-Ġensuing	ensuing		7	malay
+Ġensuing	ensuing	ens uing	7	english
 Ġspanned	spanned		7	german
 Ġhybrids	hybrids	hy br ids	7	english
 Ġbrewing	brewing	bre wing	7	english
@@ -38668,7 +38668,7 @@ bersome	bersome	bers ome	7	english
 ilinear	ilinear	iline ar	7	english
 listing	listing	listing	7	english
 Ġepitope	epitope	ep ito pe	7	english
-Ġprogeny	progeny		7	italian
+Ġprogeny	progeny	pro gen y	7	english
 arnings	arnings	arnings	7	english
 Ġtasting	tasting	t asting	7	english
 Olympic	Olympic	Olymp ic	7	english
@@ -38710,7 +38710,7 @@ tooltip	tooltip	tooltip	7	english
 outside	outside	outside	7	english
 coupled	coupled	cou pled	7	english
 numbers	numbers	numbers	7	english
-Ġpalette	palette		7	french
+Ġpalette	palette	palette	7	english
 Ġlantern	lantern	lan tern	7	english
 Ġmelanch	melanch	mel anch	7	english
 Ġecology	ecology	ec ology	7	english
@@ -38720,7 +38720,7 @@ ophobia	ophobia	ophobia	7	english
 ĠClayton	Clayton	Clay ton	7	english
 Ġcolspan	colspan	col span	7	english
 Ġfirstly	firstly	first ly	7	english
-Ġuranium	uranium		7	german
+Ġuranium	uranium	uran ium	7	english
 Applied	Applied	Applied	7	english
 threads	threads	threads	7	english
 ATIONAL	ATIONAL		7	french
@@ -38814,7 +38814,7 @@ ymmetry	ymmetry	ym metry	7	english
 Ġinvites	invites	inv ites	7	english
 ĠJourney	Journey	Journey	7	english
 brother	brother	bro ther	7	english
-ĠPokÃ©mon	Pokémon	Pok émon	7	english
+ĠPokÃ©mon	Pokémon		7	NULL
 Seconds	Seconds	Seconds	7	english
 Ġpriming	priming	prim ing	7	english
 ĠRaiders	Raiders	Raid ers	7	english
@@ -38934,7 +38934,7 @@ violent	violent	violent	7	english
 Ġplaster	plaster	pl aster	7	english
 Ġanalogs	analogs	anal ogs	7	english
 Preview	Preview	Preview	7	english
-Ġfprintf	fprintf	fprintf	7	chinese
+Ġfprintf	fprintf	fprintf	7	english
 Ġlettuce	lettuce	lett uce	7	english
 Ġgripped	gripped	gr ipped	7	english
 Ġhostage	hostage	host age	7	english
@@ -39010,7 +39010,7 @@ ciparum	ciparum		7	french
 Ġconcise	concise	conc ise	7	english
 Ġdeflect	deflect	def lect	7	english
 olecule	olecule	olecule	7	english
-Ġblurred	blurred	blurred	7	chinese
+Ġblurred	blurred	blur red	7	english
 Ġmindful	mindful	mind ful	7	english
 Ġsimplex	simplex	simple x	7	english
 unicode	unicode	unicode	7	english
@@ -39059,7 +39059,7 @@ otherap	otherap	otherap	7	english
 Ġbankers	bankers	bank ers	7	english
 ĠQString	QString		7	spanish
 ĠOpening	Opening	Opening	7	english
-ĠMozilla	Mozilla		7	serbian
+ĠMozilla	Mozilla	Mozilla	7	english
 Ġexiting	exiting	ex iting	7	english
 Ġrelativ	relativ	rel ativ	7	english
 Ġpirates	pirates	pir ates	7	english
@@ -39119,7 +39119,7 @@ conspir	conspir	con spir	7	english
 opinion	opinion	op inion	7	english
 Ġsentido	sentido		7	spanish
 Ġaliment	aliment		7	italian
-mozilla	mozilla		7	serbian
+mozilla	mozilla	mozilla	7	english
 Ġplasmon	plasmon	plas mon	7	english
 ĠClasses	Classes	Classes	7	english
 Ġaccrued	accrued	ac cr ued	7	english
@@ -39131,7 +39131,7 @@ Charlie	Charlie	Charlie	7	english
 Ġectopic	ectopic	ect opic	7	english
 ĠTrudeau	Trudeau		7	portuguese
 Ġimpregn	impregn		7	italian
-Ġarsenic	arsenic		7	indonesian
+Ġarsenic	arsenic	ars enic	7	english
 England	England	England	7	english
 ĠObserve	Observe	Observe	7	english
 markets	markets	markets	7	english
@@ -39201,7 +39201,7 @@ Entries	Entries	Entries	7	english
 located	located	located	7	english
 Ġwartime	wartime	wart ime	7	english
 spheres	spheres	s pheres	7	english
-ĠAMERICA	AMERICA		7	italian
+ĠAMERICA	AMERICA	AM ERICA	7	english
 Ġsidebar	sidebar	sidebar	7	english
 Ġfission	fission	f ission	7	english
 Ġenlarge	enlarge		7	turkish
@@ -39282,7 +39282,7 @@ ceeding	ceeding	ceed ing	7	english
 ĠAmazing	Amazing	Amazing	7	english
 ĠArtists	Artists	Artists	7	english
 Ġweeping	weeping	we eping	7	english
-isexual	isexual		7	german
+isexual	isexual	is exual	7	english
 cleanup	cleanup	cleanup	7	english
 Ġaudible	audible	aud ible	7	english
 TEXTURE	TEXTURE	TEXT URE	7	english
@@ -39396,7 +39396,7 @@ htaking	htaking	htaking	7	english
 Ġfuncion	funcion		7	spanish
 Ġfilings	filings	fil ings	7	english
 CHANNEL	CHANNEL	CHANNEL	7	english
-rounded	rounded	rounded	7	chinese
+rounded	rounded	rounded	7	english
 Already	Already	Already	7	english
 Ġpolitic	politic	polit ic	7	english
 rifying	rifying	r ifying	7	english
@@ -39427,7 +39427,7 @@ webpack	webpack	webpack	7	english
 Ġcunning	cunning	c unning	7	english
 someone	someone	someone	7	english
 ĠMinutes	Minutes	Minutes	7	english
-ĠProtect	Protect		7	spanish
+ĠProtect	Protect	Protect	7	english
 ĠHimself	Himself	H im self	7	english
 Ġsprayed	sprayed		7	french
 Ġpessoas	pessoas		7	portuguese
@@ -39518,7 +39518,7 @@ upsilon	upsilon	ups ilon	7	english
 Ġdisdain	disdain	dis dain	7	english
 Ġcalorie	calorie		7	german
 ĠHOWEVER	HOWEVER	HOW EVER	7	english
-ĠYoutube	Youtube		7	portuguese
+ĠYoutube	Youtube	Youtube	7	english
 Managed	Managed	Managed	7	english
 Ġtossing	tossing	t oss ing	7	english
 cessive	cessive	cess ive	7	english
@@ -39723,7 +39723,7 @@ function	function	function	8	english
 Ġrelative	relative	relative	8	english
 ĠAlthough	Although	Although	8	english
 Ġeveryone	everyone	everyone	8	english
-Ġargument	argument		8	spanish
+Ġargument	argument	argument	8	english
 Ġdesigned	designed	des igned	8	english
 Ġdistance	distance	distance	8	english
 Ġproduced	produced	produ ced	8	english
@@ -39799,7 +39799,7 @@ atically	atically	atically	8	english
 ensional	ensional	ensional	8	english
 ĊĊĊĊ	\n\n\n\n		8	control
 Ġexposure	exposure	ex posure	8	english
-Ġdatabase	database		8	portuguese
+Ġdatabase	database	database	8	english
 Ġprepared	prepared	prepared	8	english
 ĠResearch	Research	Research	8	english
 Ġimproved	improved	im proved	8	english
@@ -39865,7 +39865,7 @@ nonumber	nonumber	non umber	8	english
 Ġcriminal	criminal	criminal	8	english
 Ġexchange	exchange	exchange	8	english
 Ġreceptor	receptor	re ceptor	8	english
-Ġgreatest	greatest		8	german
+Ġgreatest	greatest	great est	8	english
 ructions	ructions	ru ctions	8	english
 Ġhypothes	hypothes	hyp othes	8	english
 Ġelectron	electron	electron	8	english
@@ -40820,14 +40820,14 @@ although	although	although	8	english
 Ġdressing	dressing	d ressing	8	english
 iginally	iginally	iginal ly	8	english
 ĠMagazine	Magazine	Magazine	8	english
-Ġwherever	wherever		8	russian
+Ġwherever	wherever	where ver	8	english
 Ġservants	servants		8	french
 Ġcontempt	contempt	con tempt	8	english
 Security	Security	Security	8	english
 Ġintraven	intraven	intr aven	8	english
 Ġearnings	earnings	earn ings	8	english
 Ġsubscrib	subscrib	sub scrib	8	english
-ĠDatabase	Database		8	spanish
+ĠDatabase	Database	Database	8	english
 ertainly	ertainly	ertain ly	8	english
 Ġministry	ministry	min istry	8	english
 Ġinfusion	infusion	inf usion	8	english
@@ -40941,7 +40941,7 @@ sections	sections	sections	8	english
 Ġlogistic	logistic	log istic	8	english
 Ġunlawful	unlawful	un law ful	8	english
 metadata	metadata		8	spanish
-Database	Database		8	spanish
+Database	Database	Database	8	english
 ĠDownload	Download	Download	8	english
 download	download	download	8	english
 Ġcarriage	carriage	car riage	8	english
@@ -41003,12 +41003,12 @@ Children	Children	Children	8	english
 Ġmarkedly	markedly	marked ly	8	english
 ĠLikewise	Likewise	Lik ewise	8	english
 aminated	aminated	amin ated	8	english
-Ġoptimize	optimize		8	russian
+Ġoptimize	optimize	opt imize	8	english
 artifact	artifact	artifact	8	english
 Ġsimplest	simplest	simpl est	8	english
-Ġvolatile	volatile		8	italian
+Ġvolatile	volatile	volatile	8	english
 Ġcontexts	contexts	contexts	8	english
-Argument	Argument		8	spanish
+Argument	Argument	Argument	8	english
 Ġdeposits	deposits	de pos its	8	english
 stantial	stantial	stantial	8	english
 evidence	evidence	e vidence	8	english
@@ -41148,7 +41148,7 @@ Interest	Interest	Interest	8	english
 Ġischemia	ischemia	ische mia	8	english
 Ġdamaging	damaging	dam aging	8	english
 Fragment	Fragment		8	german
-argument	argument		8	spanish
+argument	argument	argument	8	english
 ĠPortugal	Portugal	Portugal	8	english
 acterial	acterial	acterial	8	english
 February	February	February	8	english
@@ -41203,9 +41203,9 @@ aturated	aturated		8	portuguese
 weighted	weighted	weighted	8	english
 Ġsecuring	securing	se cur ing	8	english
 Ġcalories	calories	cal ories	8	english
-Ġprotects	protects		8	spanish
+Ġprotects	protects	protect s	8	english
 ĠActually	Actually	Actually	8	english
-Ġsemantic	semantic		8	french
+Ġsemantic	semantic	semantic	8	english
 Ġsymbolic	symbolic	symbol ic	8	english
 Ġcombines	combines	comb ines	8	english
 ĠRussians	Russians	R ussi ans	8	english
@@ -41245,7 +41245,7 @@ administ	administ	admin ist	8	english
 Ġestrogen	estrogen		8	spanish
 Progress	Progress	Progress	8	english
 Ġsanction	sanction	san ction	8	english
-Elements	Elements		8	german
+Elements	Elements	Elements	8	english
 ĠOriginal	Original	Original	8	english
 Services	Services	Services	8	english
 Actually	Actually	Actually	8	english
@@ -41278,7 +41278,7 @@ Original	Original	Original	8	english
 Ġcorridor	corridor		8	portuguese
 Ġcharming	charming	ch arming	8	english
 Ġinactive	inactive	inactive	8	english
-database	database		8	portuguese
+database	database	database	8	english
 Ġwritings	writings	w rit ings	8	english
 Ġsympathy	sympathy	sym pathy	8	english
 Ġevolving	evolving	e volving	8	english
@@ -41336,7 +41336,7 @@ Sequence	Sequence	Sequence	8	english
 Ġdrainage	drainage	dr ain age	8	english
 comments	comments	comments	8	english
 roscopic	roscopic		8	french
-Ġdopamine	dopamine		8	german
+Ġdopamine	dopamine	dop amine	8	english
 ĠMcDonald	McDonald	Mc Donald	8	english
 Ġanalysts	analysts	anal ysts	8	english
 structor	structor		8	spanish
@@ -41492,7 +41492,7 @@ aturally	aturally		8	portuguese
 selector	selector	selector	8	english
 Ġstarring	starring	st arring	8	english
 Ġshortcut	shortcut	shortcut	8	english
-Ġpairwise	pairwise		8	serbian
+Ġpairwise	pairwise	pair wise	8	english
 ĠProgress	Progress	Progress	8	english
 Ġuploaded	uploaded	uploaded	8	english
 Ġexposing	exposing	ex posing	8	english
@@ -41518,7 +41518,7 @@ Required	Required	Required	8	english
 Ġconverts	converts	con verts	8	english
 Ġinverted	inverted	in verted	8	english
 Ġdecoding	decoding	dec oding	8	english
-Ġmodulate	modulate		8	german
+Ġmodulate	modulate	mod ulate	8	english
 Ġglorious	glorious	gl orious	8	english
 Thursday	Thursday	Thursday	8	english
 Ġtimeline	timeline	timeline	8	english
@@ -41707,7 +41707,7 @@ creation	creation	creation	8	english
 Ġsplicing	splicing	sp licing	8	english
 Ġstumbled	stumbled	st umbled	8	english
 speaking	speaking	spe aking	8	english
-Ġmuttered	muttered	muttered	8	chinese
+Ġmuttered	muttered	m utter ed	8	english
 Ġcolorful	colorful	color ful	8	english
 Ġdegraded	degraded	de graded	8	english
 Features	Features	Features	8	english
@@ -41752,7 +41752,7 @@ opoietic	opoietic	opo iet ic	8	english
 Ġcassette	cassette	cass ette	8	english
 Ġdetached	detached	det ached	8	english
 Ġpreclude	preclude	pre clude	8	english
-iseconds	iseconds		8	italian
+iseconds	iseconds	iseconds	8	english
 Canadian	Canadian	Canadian	8	english
 Software	Software	Software	8	english
 Ġovertime	overtime	o vertime	8	english
@@ -41824,7 +41824,7 @@ geqslant	geqslant		8	russian
 Ġreckless	reckless		8	french
 Ġfeminist	feminist		8	portuguese
 Ġfidelity	fidelity	f idelity	8	english
-ĠNapoleon	Napoleon		8	vietnamese
+ĠNapoleon	Napoleon	Nap oleon	8	english
 Ġgranular	granular	gran ular	8	english
 channels	channels	channels	8	english
 Ġinfantry	infantry	inf antry	8	english
@@ -41946,7 +41946,7 @@ Starting	Starting	Starting	8	english
 Ġcreators	creators	cre ators	8	english
 rendered	rendered	render ed	8	english
 Distance	Distance	Distance	8	english
-Ġexplores	explores		8	spanish
+Ġexplores	explores	expl ores	8	english
 messages	messages		8	italian
 provided	provided	provided	8	english
 Ġomission	omission	om ission	8	english
@@ -41991,7 +41991,7 @@ onuclear	onuclear		8	turkish
 Ġartifact	artifact	artifact	8	english
 dimethyl	dimethyl	dim ethyl	8	english
 Ġornament	ornament	orn ament	8	english
-volatile	volatile		8	italian
+volatile	volatile	volatile	8	english
 ĠSuddenly	Suddenly	Sud denly	8	english
 Ġsponsors	sponsors	s ponsors	8	english
 aspberry	aspberry	aspberry	8	english
@@ -42101,7 +42101,7 @@ rivolous	rivolous		8	italian
 estation	estation		8	spanish
 Ġexcision	excision	ex cision	8	english
 Ġsubclass	subclass	sub class	8	english
-ĠDiseases	Diseases		8	indonesian
+ĠDiseases	Diseases	Dise ases	8	english
 Ġoffended	offended	off ended	8	english
 Ġgeodesic	geodesic	ge odes ic	8	english
 Ġbetrayed	betrayed		8	german
@@ -42155,7 +42155,7 @@ inctions	inctions	in ctions	8	english
 Ġenduring	enduring	end uring	8	english
 reements	reements	reements	8	english
 Ġundetect	undetect	und etect	8	english
-Ġantennas	antennas		8	italian
+Ġantennas	antennas	ant enn as	8	english
 Ġcheckout	checkout	checkout	8	english
 Ġretailer	retailer	ret ailer	8	english
 research	research	research	8	english
@@ -42192,7 +42192,7 @@ Endpoint	Endpoint	Endpoint	8	english
 okinetic	okinetic	ok inetic	8	english
 Ġstrained	strained	strained	8	english
 Ġmonopoly	monopoly	mon opoly	8	english
-ĠArgument	Argument		8	spanish
+ĠArgument	Argument	Argument	8	english
 Ġslipping	slipping	sl ipping	8	english
 Ġspacious	spacious	sp acious	8	english
 ĠScholars	Scholars	Sch ol ars	8	english
@@ -42446,7 +42446,7 @@ tracking	tracking	tracking	8	english
 stranded	stranded	str anded	8	english
 Ġkillings	killings	kill ings	8	english
 Ġlobbying	lobbying	l obby ing	8	english
-Ġblankets	blankets		8	german
+Ġblankets	blankets	blank ets	8	english
 Ġphilanth	philanth	ph ilanth	8	english
 Ġbalances	balances	balances	8	english
 Messages	Messages	Messages	8	english
@@ -42530,7 +42530,7 @@ Negative	Negative	Negative	8	english
 ollywood	ollywood	ol lywood	8	english
 Continue	Continue	Continue	8	english
 Ġreceipts	receipts	rece ipts	8	english
-ĠElements	Elements		8	german
+ĠElements	Elements	Elements	8	english
 Ġfortress	fortress	fort ress	8	english
 Ġdiplomat	diplomat	d ipl omat	8	english
 Ġmodelled	modelled	model led	8	english
@@ -42739,7 +42739,7 @@ claiming	claiming	claim ing	8	english
 Ġcomedian	comedian	comed ian	8	english
 Ġteammate	teammate	te amm ate	8	english
 Whenever	Whenever	Whenever	8	english
-Ġarrogant	arrogant		8	spanish
+Ġarrogant	arrogant	ar rog ant	8	english
 ĠHartford	Hartford	Hart ford	8	english
 Ġmourning	mourning	mour ning	8	english
 eligible	eligible	eligible	8	english
@@ -42786,7 +42786,7 @@ included	included	included	8	english
 Ġreactors	reactors	react ors	8	english
 Ġbuilders	builders	builders	8	english
 commands	commands	commands	8	english
-Ġtrenches	trenches		8	italian
+Ġtrenches	trenches	tren ches	8	english
 feedback	feedback	feedback	8	english
 erialize	erialize	erialize	8	english
 ractable	ractable	r actable	8	english
@@ -43001,13 +43001,13 @@ Southern	Southern	Southern	8	english
 kerchief	kerchief	ker chief	8	english
 Ġbouncing	bouncing	b ouncing	8	english
 Ġalbicans	albicans		8	indonesian
-Ġstriatum	striatum		8	spanish
+Ġstriatum	striatum	str iat um	8	english
 Ġcampuses	campuses	camp uses	8	english
 Ġforgiven	forgiven	for given	8	english
 advanced	advanced	advanced	8	english
 ĠDowntown	Downtown	Dow ntown	8	english
 manifest	manifest	manifest	8	english
-ĠPoincarÃ©	Poincaré	P oin car é	8	english
+ĠPoincarÃ©	Poincaré		8	NULL
 ĠPriority	Priority	Priority	8	english
 Ġstitches	stitches	st itches	8	english
 Ġsuitcase	suitcase	s uit case	8	english
@@ -43034,7 +43034,7 @@ Particip	Particip		8	italian
 surgical	surgical	s urgical	8	english
 Ġfollower	follower	f ollower	8	english
 Ġdaunting	daunting	da unting	8	english
-Ġunpaired	unpaired		8	serbian
+Ġunpaired	unpaired	un paired	8	english
 ĠEmirates	Emirates	Em ir ates	8	english
 Ġscraping	scraping	scr aping	8	english
 Products	Products	Products	8	english
@@ -43461,7 +43461,7 @@ abilities	abilities	abilities	9	english
 ĠCalculate	Calculate	Calculate	9	english
 Ġthousands	thousands	th ousands	9	english
 Ġhighlight	highlight	highlight	9	english
-widetilde	widetilde		9	italian
+widetilde	widetilde	wid et ilde	9	english
 Ġarchitect	architect	architect	9	english
 dependent	dependent	dependent	9	english
 Ġextension	extension	extension	9	english
@@ -43944,7 +43944,7 @@ nutrients	nutrients	nut r ients	9	english
 Ġattending	attending	att ending	9	english
 Ġmonitored	monitored		9	italian
 Ġdistricts	districts	district s	9	english
-Ġtranslate	translate		9	german
+Ġtranslate	translate	translate	9	english
 ĠInsurance	Insurance	Insurance	9	english
 Ġprojected	projected	project ed	9	english
 Ġsovereign	sovereign		9	german
@@ -44079,7 +44079,7 @@ resistant	resistant	res istant	9	english
 Ġinfluenza	influenza		9	italian
 structure	structure	structure	9	english
 Ġinstantly	instantly	inst antly	9	english
-Ġoptimized	optimized		9	russian
+Ġoptimized	optimized	optimized	9	english
 Ġproximity	proximity	pro ximity	9	english
 Ġrecipient	recipient	recipient	9	english
 Ġaffidavit	affidavit		9	italian
@@ -44131,7 +44131,7 @@ Something	Something	Something	9	english
 Ġinability	inability	in ability	9	english
 Ġinterfere	interfere	inter f ere	9	english
 Ġdaughters	daughters	d aughters	9	english
-Ġbilateral	bilateral		9	german
+Ġbilateral	bilateral	bil ateral	9	english
 supported	supported	supported	9	english
 Ġconsiders	considers	cons iders	9	english
 Ġsurvivors	survivors	sur viv ors	9	english
@@ -44191,7 +44191,7 @@ Directory	Directory	Directory	9	english
 Ġpremature	premature	prem ature	9	english
 President	President	President	9	english
 Ġattacking	attacking	att acking	9	english
-Ġprecursor	precursor		9	russian
+Ġprecursor	precursor	prec ursor	9	english
 sectional	sectional	section al	9	english
 ĠGENERATED	GENERATED	GENER ATED	9	english
 generated	generated	generated	9	english
@@ -44516,7 +44516,7 @@ Animation	Animation	Animation	9	english
 placement	placement	placement	9	english
 ĠTransport	Transport	Transport	9	english
 Ġconverges	converges	con ver ges	9	english
-Ġeccentric	eccentric	eccentric	9	chinese
+Ġeccentric	eccentric	ecc entric	9	english
 Ġadvancing	advancing	adv ancing	9	english
 Ġdominance	dominance	domin ance	9	english
 agulation	agulation		9	spanish
@@ -44851,7 +44851,7 @@ asketball	asketball	asket ball	9	english
 ĠMilwaukee	Milwaukee	Mil waukee	9	english
 Ġcontempor	contempor		9	spanish
 Ġcognition	cognition	c ognition	9	english
-Ġanomalous	anomalous		9	spanish
+Ġanomalous	anomalous	an omal ous	9	english
 Ġremembers	remembers	rem embers	9	english
 Ġvisualize	visualize	visual ize	9	english
 Ġintervene	intervene	inter vene	9	english
@@ -44898,7 +44898,7 @@ Published	Published	Published	9	english
 Ġfiduciary	fiduciary		9	italian
 ĠCathedral	Cathedral	Cat hedral	9	english
 inguished	inguished	inguished	9	english
-leftarrow	leftarrow		9	russian
+leftarrow	leftarrow	left arrow	9	english
 Ġrecursive	recursive	recursive	9	english
 Ġprohibits	prohibits	pro hib its	9	english
 ĠCatholics	Catholics	Cath olics	9	english
@@ -45115,7 +45115,7 @@ Regarding	Regarding	Regarding	9	english
 ificantly	ificantly	ific antly	9	english
 Ġcustomize	customize	custom ize	9	english
 Ġminiature	miniature		9	italian
-Ġtranscend	transcend		9	italian
+Ġtranscend	transcend	trans c end	9	english
 Ġentangled	entangled	ent angled	9	english
 Formatter	Formatter	Formatter	9	english
 secondary	secondary	secondary	9	english
@@ -45130,7 +45130,7 @@ versation	versation	versation	9	english
 templates	templates	templates	9	english
 Ġcutaneous	cutaneous	cutaneous	9	english
 Ġinspected	inspected	ins pected	9	english
-translate	translate		9	german
+translate	translate	translate	9	english
 Ġdisasters	disasters	dis asters	9	english
 plaintiff	plaintiff	pl aint iff	9	english
 Ġmonastery	monastery	mon astery	9	english
@@ -45337,7 +45337,7 @@ ogenicity	ogenicity	ogenic ity	9	english
 antically	antically	antically	9	english
 establish	establish	est ablish	9	english
 Algorithm	Algorithm	Algorithm	9	english
-Arguments	Arguments		9	spanish
+Arguments	Arguments	Arguments	9	english
 Supported	Supported	Supported	9	english
 Ġprompting	prompting	prompt ing	9	english
 Ġsimulator	simulator	sim ulator	9	english
@@ -45716,7 +45716,7 @@ sequences	sequences	se quences	9	english
 Highlight	Highlight	Highlight	9	english
 Ġretreated	retreated	ret reated	9	english
 satellite	satellite	sat ellite	9	english
-Ġmodulator	modulator		9	german
+Ġmodulator	modulator	mod ulator	9	english
 Ġsafeguard	safeguard	s af egu ard	9	english
 Ġwellbeing	wellbeing	well being	9	english
 Ġshortages	shortages	short ages	9	english
@@ -45740,7 +45740,7 @@ reporting	reporting	report ing	9	english
 Ġadvertise	advertise	advert ise	9	english
 Appellees	Appellees		9	french
 ĠGuatemala	Guatemala		9	spanish
-lipidemia	lipidemia		9	french
+lipidemia	lipidemia	lip idem ia	9	english
 Ġpatiently	patiently	patient ly	9	english
 Ġjudiciary	judiciary	jud iciary	9	english
 ĠLipschitz	Lipschitz		9	german
@@ -45788,7 +45788,7 @@ injection	injection	in jection	9	english
 TextField	TextField	Text Field	9	english
 Ġrepulsive	repulsive	rep ulsive	9	english
 Ġrepairing	repairing	repair ing	9	english
-Ġprotector	protector		9	spanish
+Ġprotector	protector	prote ctor	9	english
 Ġcorridors	corridors	corr idors	9	english
 ĠInterpret	Interpret		9	italian
 Ġcoworkers	coworkers	cow ork ers	9	english
@@ -45885,7 +45885,7 @@ olinergic	olinergic	olin ergic	9	english
 GroupName	GroupName		9	german
 Ġuntouched	untouched	unt ouched	9	english
 ĠMessenger	Messenger	Messenger	9	english
-Ġautosomal	autosomal		9	french
+Ġautosomal	autosomal	aut osomal	9	english
 Ġaffirming	affirming	affirm ing	9	english
 Threshold	Threshold	Threshold	9	english
 Ġmassively	massively	mass ively	9	english
@@ -45930,7 +45930,7 @@ detection	detection	d etection	9	english
 terrorism	terrorism	terror ism	9	english
 Ġepidermis	epidermis	ep id erm is	9	english
 ĠCustomers	Customers	Customers	9	english
-Ġmodulates	modulates		9	german
+Ġmodulates	modulates	mod ulates	9	english
 Ġsurpassed	surpassed	sur passed	9	english
 Ġclaimants	claimants	claim ants	9	english
 Ġdoubtless	doubtless		9	french
@@ -46003,7 +46003,7 @@ usepackage	usepackage	use package	10	english
 Ġpreviously	previously	previous ly	10	english
 Ġbackground	background	background	10	english
 Ġsufficient	sufficient		10	french
-rightarrow	rightarrow		10	german
+rightarrow	rightarrow	rightarrow	10	english
 Ġcomponents	components	components	10	english
 Ġtechnology	technology	technology	10	english
 Ġderivative	derivative	der ivative	10	english
@@ -46090,7 +46090,7 @@ ifications	ifications	ifications	10	english
 Ġapplicable	applicable	app licable	10	english
 Ġindicating	indicating	ind icating	10	english
 Ġdepartment	department	department	10	english
-Ġchallenges	challenges		10	vietnamese
+Ġchallenges	challenges	ch allenges	10	english
 Ġinstrument	instrument	instrument	10	english
 Ġdefinitely	definitely	def initely	10	english
 ampionship	ampionship	amp ionship	10	english
@@ -46441,7 +46441,7 @@ Expression	Expression	Expression	10	english
 Ġconcurrent	concurrent	con current	10	english
 Ġcontradict	contradict	contr ad ict	10	english
 Ġundergoing	undergoing	under going	10	english
-ĠManchester	Manchester		10	french
+ĠManchester	Manchester	Manchester	10	english
 Ġstationary	stationary	station ary	10	english
 Ġtransverse	transverse	trans verse	10	english
 ĠProtection	Protection	Protection	10	english
@@ -46661,7 +46661,7 @@ annotation	annotation	annotation	10	english
 Attributes	Attributes		10	italian
 Ġreferenced	referenced	refer enced	10	english
 Ġsupportive	supportive	support ive	10	english
-Ġtablespoon	tablespoon		10	french
+Ġtablespoon	tablespoon	tables poon	10	english
 Ġpredictors	predictors	predict ors	10	english
 ĠEspecially	Especially	Especially	10	english
 Ġcompensate	compensate		10	italian
@@ -46783,7 +46783,7 @@ attributes	attributes	attributes	10	english
 Ġestimating	estimating		10	spanish
 Ġautonomous	autonomous	aut onomous	10	english
 Ġamendments	amendments	am end ments	10	english
-ĠDictionary	Dictionary		10	russian
+ĠDictionary	Dictionary	Dictionary	10	english
 Ġoverweight	overweight	over weight	10	english
 Ġdehydrogen	dehydrogen	de hyd rogen	10	english
 Ġconfession	confession	conf ession	10	english
@@ -46938,7 +46938,7 @@ omorphisms	omorphisms	om orph isms	10	english
 Ġmemorandum	memorandum	memor andum	10	english
 Ġexhaustion	exhaustion	ex haust ion	10	english
 conviction	conviction	conv iction	10	english
-Dictionary	Dictionary		10	russian
+Dictionary	Dictionary	Dictionary	10	english
 Ġautomation	automation	automation	10	english
 Ġoutpatient	outpatient	out patient	10	english
 Ġdismissing	dismissing	d ism issing	10	english
@@ -46971,7 +46971,7 @@ Dictionary	Dictionary		10	russian
 Ġundisputed	undisputed	und is puted	10	english
 Ġhistorians	historians	hist ori ans	10	english
 Ġplasticity	plasticity	plastic ity	10	english
-Rightarrow	Rightarrow		10	german
+Rightarrow	Rightarrow	Right arrow	10	english
 ĠAssociates	Associates	Associ ates	10	english
 Ġcontacting	contacting	contact ing	10	english
 Ġmotorcycle	motorcycle	motor cycle	10	english
@@ -46981,7 +46981,7 @@ Rightarrow	Rightarrow		10	german
 Ġmacrophage	macrophage	mac roph age	10	english
 aintenance	aintenance	aint enance	10	english
 Ġhomologous	homologous	hom olog ous	10	english
-Ġaccustomed	accustomed		10	vietnamese
+Ġaccustomed	accustomed	acc ustomed	10	english
 Ġcaregivers	caregivers	care g ivers	10	english
 Ġepigenetic	epigenetic	ep igen etic	10	english
 Ġannouncing	announcing	ann ouncing	10	english
@@ -47030,7 +47030,7 @@ identifier	identifier	identifier	10	english
 Ġminorities	minorities	minor ities	10	english
 Serializer	Serializer	Serializer	10	english
 Ġnegotiated	negotiated	neg oti ated	10	english
-Ġprecursors	precursors		10	russian
+Ġprecursors	precursors	prec ursors	10	english
 Ġdedication	dedication	ded ication	10	english
 Validation	Validation	Validation	10	english
 Ġregularity	regularity	regular ity	10	english
@@ -47142,7 +47142,7 @@ categories	categories	categories	10	english
 ĠSupporting	Supporting	Supporting	10	english
 ĠAmbassador	Ambassador	Amb assador	10	english
 Ġsolidarity	solidarity	solid arity	10	english
-osexuality	osexuality		10	persian
+osexuality	osexuality	osexual ity	10	english
 Ġpretending	pretending	pret ending	10	english
 reliminary	reliminary	re liminary	10	english
 Ġprogrammer	programmer	program mer	10	english
@@ -47161,7 +47161,7 @@ rientation	rientation	r ientation	10	english
 Ġdelightful	delightful	del ight ful	10	english
 Ġdisposable	disposable		10	italian
 Ġextracting	extracting	extract ing	10	english
-Ġrefractory	refractory		10	german
+Ġrefractory	refractory	re fr actory	10	english
 Ġesophageal	esophageal		10	german
 obacterium	obacterium	obacter ium	10	english
 Ġpedestrian	pedestrian	ped estrian	10	english
@@ -47253,11 +47253,11 @@ opathology	opathology	opath ology	10	english
 Ġcommenting	commenting	comment ing	10	english
 generative	generative	gener ative	10	english
 Ġdetachment	detachment	det achment	10	english
-Ġparametric	parametric		10	serbian
+Ġparametric	parametric	param etric	10	english
 Ġstipulated	stipulated	stip ulated	10	english
 Ġecosystems	ecosystems	ecos ystems	10	english
 peritoneal	peritoneal	per itone al	10	english
-parametric	parametric		10	serbian
+parametric	parametric	param etric	10	english
 Ġaspiration	aspiration	asp iration	10	english
 Ġneutrophil	neutrophil	ne ut roph il	10	english
 Annotation	Annotation	Annotation	10	english
@@ -47519,10 +47519,10 @@ Visibility	Visibility	Visibility	10	english
 Ġsucceeding	succeeding	s ucceed ing	10	english
 Ġgenerosity	generosity	gener osity	10	english
 Ġexplosions	explosions	expl os ions	10	english
-Ġosteoclast	osteoclast		10	serbian
+Ġosteoclast	osteoclast	oste oc last	10	english
 Ġcompulsory	compulsory	comp uls ory	10	english
 ĠRiemannian	Riemannian		10	german
-scriptsize	scriptsize		10	italian
+scriptsize	scriptsize	scripts ize	10	english
 ĠNavigation	Navigation	Navigation	10	english
 Electronic	Electronic	Electronic	10	english
 ĠArchbishop	Archbishop	Arch bishop	10	english
@@ -47797,7 +47797,7 @@ structural	structural	struct ural	10	english
 Ġattainment	attainment	att ainment	10	english
 Ġcopolymers	copolymers	cop ol ym ers	10	english
 ĠKubernetes	Kubernetes		10	spanish
-ĠBACKGROUND	BACKGROUND		10	german
+ĠBACKGROUND	BACKGROUND	BACKGROUND	10	english
 Ġvocational	vocational	voc ational	10	english
 ĠHuntington	Huntington	H unting ton	10	english
 Ġantifungal	antifungal	ant if ungal	10	english
@@ -47866,7 +47866,7 @@ particular	particular	part icular	10	english
 Ġdifferences	differences	dif ferences	11	english
 Ġestablished	established	est ablished	11	english
 Ġindividuals	individuals	individual s	11	english
-Ġappropriate	appropriate		11	italian
+Ġappropriate	appropriate	appropriate	11	english
 Ġexperiments	experiments	exper iments	11	english
 Ġinteresting	interesting	interesting	11	english
 Ġimmediately	immediately	im mediately	11	english
@@ -48069,7 +48069,7 @@ stitutional	stitutional	stitution al	11	english
 Ġformulation	formulation	form ulation	11	english
 Ġphotographs	photographs	phot ographs	11	english
 Ġoperational	operational	oper ational	11	english
-appropriate	appropriate		11	italian
+appropriate	appropriate	appropriate	11	english
 Ġfluorescent	fluorescent	flu ores cent	11	english
 ĠAfghanistan	Afghanistan	Af ghanistan	11	english
 Ġmethodology	methodology	method ology	11	english
@@ -48356,7 +48356,7 @@ vertisement	vertisement		11	french
 Ġmarketplace	marketplace	market place	11	english
 Ġbeautifully	beautifully	beautiful ly	11	english
 Ġsettlements	settlements	sett lements	11	english
-Ġcategorized	categorized		11	indonesian
+Ġcategorized	categorized	categorized	11	english
 Ġsuperficial	superficial		11	italian
 Ġalternating	alternating	altern ating	11	english
 ĠAgriculture	Agriculture	Agr iculture	11	english
@@ -48421,7 +48421,7 @@ operatively	operatively	oper atively	11	english
 hereinafter	hereinafter		11	german
 marinedrugs	marinedrugs	mar ined r ugs	11	english
 Ġdiscovering	discovering	discover ing	11	english
-Ġinclination	inclination	inclination	11	chinese
+Ġinclination	inclination	incl ination	11	english
 Ġcoordinator	coordinator	co ordinator	11	english
 Ġphosphatase	phosphatase	ph osph at ase	11	english
 Ġcultivation	cultivation	cult ivation	11	english
@@ -48435,7 +48435,7 @@ InputStream	InputStream	Input Stream	11	english
 Ġsovereignty	sovereignty		11	german
 Ġideological	ideological	ide ological	11	english
 Ġdrastically	drastically	dr ast ically	11	english
-Ġcategorical	categorical		11	indonesian
+Ġcategorical	categorical	categor ical	11	english
 Ġimpeachment	impeachment	im pe achment	11	english
 Ġattractions	attractions	at tractions	11	english
 Ġelectrolyte	electrolyte	elect ro ly te	11	english
@@ -48678,7 +48678,7 @@ Considering	Considering	Considering	11	english
 Arabidopsis	Arabidopsis	Arab id opsis	11	english
 Ġcontradicts	contradicts	contr ad icts	11	english
 destination	destination	destination	11	english
-Ġexploratory	exploratory		11	spanish
+Ġexploratory	exploratory	expl or atory	11	english
 isciplinary	isciplinary		11	italian
 Certificate	Certificate	Certificate	11	english
 Ġentertained	entertained	ent ert ained	11	english
@@ -48862,7 +48862,7 @@ Preferences	Preferences	Preferences	11	english
 Ġcontemplate	contemplate	con template	11	english
 Ġemergencies	emergencies	em erg encies	11	english
 Ġhandwriting	handwriting	hand writing	11	english
-ĠEscherichia	Escherichia		11	french
+ĠEscherichia	Escherichia	Es cher ich ia	11	english
 Ġnationality	nationality	national ity	11	english
 ĠCollections	Collections	Collections	11	english
 Ġpedestrians	pedestrians	ped estrians	11	english
@@ -48878,7 +48878,7 @@ interacting	interacting	inter acting	11	english
 ĠInteractive	Interactive	Interactive	11	english
 Ġvibrational	vibrational	v ibr ational	11	english
 annotations	annotations	annotations	11	english
-Ġcopyrighted	copyrighted		11	spanish
+Ġcopyrighted	copyrighted	copyright ed	11	english
 Ġextremities	extremities	ext rem ities	11	english
 tikzpicture	tikzpicture	tik z picture	11	english
 Ġabbreviated	abbreviated	ab brevi ated	11	english
@@ -49305,7 +49305,7 @@ availability	availability	availability	12	english
 Ġhospitalized	hospitalized	hospital ized	12	english
 Experimental	Experimental	Experimental	12	english
 biomolecules	biomolecules	bi om olecules	12	english
-ĠIndianapolis	Indianapolis		12	spanish
+ĠIndianapolis	Indianapolis	Indian apolis	12	english
 ĠConservation	Conservation	Con servation	12	english
 Ġconsolidated	consolidated	con solid ated	12	english
 Ġimmunization	immunization	im mun ization	12	english
@@ -49384,7 +49384,7 @@ Participants	Participants	Participants	12	english
 Ġstructurally	structurally	struct ur ally	12	english
 Supplemental	Supplemental	Supplement al	12	english
 Ġirreversible	irreversible	irre versible	12	english
-aphylococcus	aphylococcus		12	vietnamese
+aphylococcus	aphylococcus	aphyl ococcus	12	english
 Ġprerequisite	prerequisite	pr ere quisite	12	english
 Ġtransporters	transporters	transport ers	12	english
 ĠPublications	Publications	Public ations	12	english
@@ -49394,7 +49394,7 @@ aphylococcus	aphylococcus		12	vietnamese
 Ġaccelerating	accelerating	acceler ating	12	english
 Ġtransplanted	transplanted	trans pl anted	12	english
 Ġunidentified	unidentified	un identified	12	english
-LinearLayout	LinearLayout		12	thai
+LinearLayout	LinearLayout	Linear Layout	12	english
 Ġosteoporosis	osteoporosis	oste oporosis	12	english
 Ġpropositions	propositions	pro positions	12	english
 Ġequivalently	equivalently	equ ival ently	12	english
@@ -49959,7 +49959,7 @@ communications	communications	communications	14	english
 Ġdeterminations	determinations	determ inations	14	english
 Ġcentrifugation	centrifugation	centr if ug ation	14	english
 Ġadministrators	administrators	administr ators	14	english
-Ġadenocarcinoma	adenocarcinoma		14	italian
+Ġadenocarcinoma	adenocarcinoma	aden oc arc inoma	14	english
 Ġmicroorganisms	microorganisms	micro organ isms	14	english
 Ġdiscriminatory	discriminatory	dis crimin atory	14	english
 Ġaccountability	accountability	account ability	14	english
@@ -49988,7 +49988,7 @@ representation	representation	representation	14	english
 Ġregularization	regularization	regular ization	14	english
 Authentication	Authentication	Authentication	14	english
 Ġasymptotically	asymptotically	as ym pt ot ically	14	english
-leftrightarrow	leftrightarrow		14	russian
+leftrightarrow	leftrightarrow	lef tr ight arrow	14	english
 Ġdownregulation	downregulation		14	french
 Ġconventionally	conventionally	con vention ally	14	english
 Ġarchaeological	archaeological	arch ae ological	14	english
