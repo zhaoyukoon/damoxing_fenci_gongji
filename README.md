@@ -20,6 +20,8 @@
 
 ## 记录
 
+2015/01/20: 发现一篇 [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
+
 2015/01/20: 发现一篇[2018年 EMNLP 文章](https://aclanthology.org/2020.findings-emnlp.414.pdf)对比了BPE和unigram LM，认为后者是语言模型预训练的更好选择。
 
 2015/01/20: 发现 [TreeTokenizer](https://arxiv.org/pdf/2406.15245?) ，构建基于树的无指导tokenizer，在morphology任务上比BPE、sentencepiece、unigram更好。不过目前没有在大模型上评估结果。两个一个工作是 [compoundpiece](https://github.com/bminixhofer/compoundpiece) 。 此外，找到了很多年前经典的无指导morphology分割工具[Morfessor](https://github.com/aalto-speech/morfessor) 。
