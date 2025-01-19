@@ -21,9 +21,7 @@ def get_language_names():
         "en": "English",
         "zh": "Chinese",
         "es": "Spanish",
-        "hi": "Hindi",
         "ar": "Arabic",
-        "bn": "Bengali",
         "pt": "Portuguese",
         "ru": "Russian",
         "ja": "Japanese",
@@ -32,14 +30,14 @@ def get_language_names():
         # European languages
         "fr": "French",
         "it": "Italian",
-        "nl": "Dutch",
-        "pl": "Polish",
+       # "nl": "Dutch",
+      #  "pl": "Polish",
         "el": "Greek",
-        "cs": "Czech",
-        "sv": "Swedish",
-        "da": "Danish",
-        "fi": "Finnish",
-        "no": "Norwegian",
+       # "cs": "Czech",
+      #  "sv": "Swedish",
+      #  "da": "Danish",
+     #   "fi": "Finnish",
+     #   "no": "Norwegian",
         
         # Asian languages
         "ko": "Korean",
@@ -53,16 +51,15 @@ def get_language_names():
         # Other major languages
         "he": "Hebrew",
         "uk": "Ukrainian",
-        "ro": "Romanian",
-        "hu": "Hungarian",
-        "bg": "Bulgarian",
-        "hr": "Croatian",
+      #  "ro": "Romanian",
+       # "hu": "Hungarian",
+       # "hr": "Croatian",
         "sr": "Serbian",
-        "sk": "Slovak",
-        "sl": "Slovenian",
-        "et": "Estonian",
-        "lv": "Latvian",
-        "lt": "Lithuanian"
+      #  "sk": "Slovak",
+       # "sl": "Slovenian",
+      #  "et": "Estonian",
+     #   "lv": "Latvian",
+    #    "lt": "Lithuanian"
     }
 
 def get_language_name(iso_code):
