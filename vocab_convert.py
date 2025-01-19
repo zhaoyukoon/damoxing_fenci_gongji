@@ -355,7 +355,7 @@ def process_vocab(tok_path):
             j_obj = json.load(f)
             vocab = j_obj['model']['vocab']
     for key in vocab:
-        c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t')
+        c = uni_str_to_bytes(key).replace('\n', '\\n').replace('\t', '\\t').strip()
         lang = detect_lang(c)
         lc = lang_count[lang] if lang in lang_count else 0
         lang_count[lang] = lc + 1
