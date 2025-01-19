@@ -170,7 +170,7 @@ english_pattern = re.compile(r'^[a-zA-Z]+$')
 digit_pattern = re.compile(r'^[0-9]+$')
  
 code_camel=re.compile('[a-z]+[A-Z][a-z]')
-code_pattern = re.compile(r'^\.[a-zA-Z]+')
+code_pattern = re.compile(r'^[.$>:][a-zA-Z]+')
 def detect_language(text):
     """
     Detect the probable language of a text string based on character ranges.
@@ -238,9 +238,7 @@ def get_primary_language(text):
     return max(langs.items(), key=lambda x: x[1])[0]
 
 
-
-
-def refine_english_lang(s):
+def refine_english_lang(s, pure=False):
     s=s.replace('▁', '').strip()
     if code_camel.match(s) or code_pattern.match(s):
         return 'code'
@@ -252,7 +250,7 @@ def refine_english_lang(s):
 
     lang = get_language_name(lang).lower()
     if lang == 'null':
-        return 'NULL'
+        return 'english' if pure else 'NULL'
     return lang
 
 
@@ -260,7 +258,7 @@ def detect_lang(s):
     if '\t' in s or '\\t' in s or '\n' in s or '\\n' in s:
         return 'control'
     if english_pattern.match(s):
-        return refine_english_lang(s)
+        return refine_english_lang(s, True)
     if chinese_pattern.match(s):
         return 'chinese'
     if digit_pattern.match(s):
@@ -524,4 +522,3 @@ if __name__ == '__main__':
     else:
         (all_lens, chinese_lens) = process_vocab(args.tok_path)
         plot_length_distribution([(all_lens, chinese_lens)], [args.tok_path])
-
