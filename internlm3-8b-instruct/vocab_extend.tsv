@@ -1,4 +1,7 @@
 			0	NULL
+ğ			0	NULL
+č			0	NULL
+Č			0	NULL
 ;	;		1	NULL
 )	)		1	NULL
 :	:		1	NULL
@@ -699,7 +702,6 @@ Z	Z	Z	1	english
 述	述	述	1	chinese
 원	원		1	korean
 做	做	做	1	chinese
-ğ			1	NULL
 각	각		1	korean
 而	而	而	1	chinese
 志	志	志	1	chinese
@@ -970,7 +972,6 @@ Z	Z	Z	1	english
 市	市	市	1	chinese
 张	张	张	1	chinese
 길	길		1	korean
-č			1	NULL
 框	框	框	1	chinese
 负	负	负	1	chinese
 易	易	易	1	chinese
@@ -3543,6 +3544,7 @@ Z	Z	Z	1	english
 국	국		1	korean
 ϕ	ϕ		1	greek
 Γ	Γ		1	greek
+ič	i	i	1	english
 ¶	¶		1	NULL
 ⇒	⇒		1	NULL
 ⟩	⟩		1	NULL
@@ -3572,7 +3574,6 @@ Z	Z	Z	1	english
 Á	Á		1	NULL
 ƒ	ƒ		1	NULL
 ∏	∏		1	NULL
-Č			1	NULL
 Ψ	Ψ		1	greek
 Š	Š		1	NULL
 ₀	₀		1	NULL
@@ -4282,6 +4283,28 @@ Z	Z	Z	1	english
 ‮	‮		1	NULL
 ﺮ	ﺮ		1	NULL
 ٰ	ٰ		1	arabic
+če	e	e	1	english
+či	i	i	1	english
+rč	r	r	1	english
+Kč	K	K	1	english
+Če	e	e	1	english
+IČ	I	I	1	english
+ča	a	a	1	english
+čt	t	t	1	english
+ČT	T	T	1	english
+čo	o	o	1	english
+ČR	R	R	1	english
+čk	k	k	1	english
+Čt	t	t	1	english
+ČS	S	S	1	english
+kč	k	k	1	english
+vč	v	v	1	english
+ču	u	u	1	english
+Ča	a	a	1	english
+Či	i	i	1	english
+nČ	n	n	1	english
+ČI	I	I	1	english
+UČ	U	U	1	english
 ů	ů		1	NULL
 ň	ň		1	NULL
 ť	ť		1	NULL
@@ -4303,6 +4326,8 @@ Z	Z	Z	1	english
 Й	Й		1	russian
 Ы	Ы		1	russian
 Ь	Ь		1	russian
+Ču	u	u	1	english
+čn	n	n	1	english
 ј	ј		1	russian
 њ	њ		1	russian
 ћ	ћ		1	russian
@@ -13715,7 +13740,6 @@ pT	pT	pT	2	english
 ▁∙	▁∙		2	NULL
 –]	–]		2	NULL
 Ál	Ál		2	spanish
-ič	i	i	2	english
 TQ	TQ	TQ	2	chinese
 …,	…,		2	NULL
 /​	/​		2	NULL
@@ -13755,6 +13779,7 @@ Xu	Xu	Xu	2	english
 xI	xI	xI	2	english
 ~-	~-		2	NULL
 Ea	Ea	Ea	2	english
+ček	ek		2	NULL
 tB	tB	tB	2	english
 −(	−(		2	NULL
 mM	mM	mM	2	english
@@ -16883,7 +16908,6 @@ jí	jí		2	czech
 lá	lá		2	portuguese
 še	še		2	slovenian
 vě	v	v	2	english
-če	e	e	2	english
 mě	m	m	2	english
 tě	t	t	2	english
 vá	vá		2	czech
@@ -16912,19 +16936,22 @@ dí	dí		2	czech
 ▁ž	▁ž		2	NULL
 má	má		2	czech
 ši	ši		2	slovenian
-či	i	i	2	english
+čet	et		2	french
+čky	ky	ky	2	english
+čka	ka		2	NULL
 pí	pí		2	NULL
 ím	ím		2	czech
 ům	ům		2	norwegian
 ké	ké		2	hungarian
 lý	lý		2	vietnamese
 žd	žd		2	NULL
+čas	as	as	2	english
 vý	vý		2	slovak
 Vý	Vý		2	czech
 mé	mé		2	NULL
 pů	pů		2	czech
 há	há		2	portuguese
-rč	r	r	2	english
+čně	n	n	2	english
 vé	vé		2	french
 ců	ců		2	czech
 rý	rý		2	czech
@@ -16934,17 +16961,21 @@ zá	zá		2	czech
 šť	šť		2	NULL
 nů	nů		2	czech
 mů	mů		2	czech
+čku	ku	ku	2	english
 ▁Ú	▁Ú		2	NULL
 čá	čá		2	NULL
 Zá	Zá		2	romanian
 ▁Ž	▁Ž		2	NULL
+peč	pe		2	romanian
 řa	řa		2	czech
 ůž	ůž		2	NULL
 št	št		2	slovak
 ůj	ůj		2	czech
 řá	řá		2	NULL
+čer	er		2	danish
 tů	tů		2	czech
 sů	sů		2	czech
+čit	it	it	2	english
 pá	pá		2	portuguese
 sá	sá		2	romanian
 NÍ	NÍ	NÍ	2	english
@@ -16955,26 +16986,29 @@ př	př		2	czech
 bá	bá		2	czech
 ▁Ř	▁Ř		2	NULL
 bý	bý		2	czech
-Kč	K	K	2	english
 řů	řů		2	NULL
 jů	jů		2	czech
-Če	e	e	2	english
+čin	in	in	2	english
+čte	te	te	2	english
+čko	ko		2	NULL
 tý	tý		2	czech
 ža	ža		2	lithuanian
 Dě	D	D	2	english
 šk	šk		2	slovenian
+čil	il		2	italian
 Vá	Vá		2	romanian
+čan	an	an	2	english
+čem	em		2	portuguese
 Mí	Mí		2	czech
-IČ	I	I	2	english
 hů	hů		2	czech
 ůl	ůl		2	portuguese
-ča	a	a	2	english
 Mě	M	M	2	english
+poč	po	po	2	english
 Zd	Zd	Zd	2	english
+čen	en		2	spanish
 dů	dů		2	czech
 Bě	B	B	2	english
 dé	dé		2	french
-čt	t	t	2	english
 žá	žá		2	NULL
 ář	ář		2	NULL
 LÁ	LÁ	LÁ	2	english
@@ -16982,6 +17016,8 @@ mý	mý		2	czech
 Pá	Pá		2	romanian
 Ví	Ví		2	czech
 Vz	Vz		2	czech
+vač	va		2	NULL
+Čer	er		2	danish
 já	já		2	portuguese
 hé	hé	hé	2	english
 NÁ	NÁ	NÁ	2	english
@@ -16991,14 +17027,14 @@ tš	tš		2	estonian
 ŘÍ	ŘÍ		2	NULL
 NÉ	NÉ		2	czech
 NĚ	N	N	2	english
+čov	ov		2	german
 sť	sť		2	slovak
-ČT	T	T	2	english
 dý	dý		2	czech
 RÁ	RÁ	RÁ	2	english
+Čas	as	as	2	english
 hý	hý		2	czech
 Ži	Ži		2	slovenian
 Tě	T	T	2	english
-čo	o	o	2	english
 ša	ša		2	slovenian
 ÁL	ÁL		2	spanish
 ▁ř	▁ř		2	NULL
@@ -17006,13 +17042,12 @@ až	až		2	czech
 Už	Už		2	czech
 Zí	Zí		2	czech
 Rá	Rá		2	czech
-ČR	R	R	2	english
 ův	ův		2	czech
-čk	k	k	2	english
 Lé	Lé	Lé	2	english
 ňa	ňa		2	slovak
 Já	Já		2	romanian
 Dá	Dá		2	romanian
+Čes	es		2	spanish
 ýš	ýš		2	NULL
 žu	žu		2	latvian
 íz	íz		2	hungarian
@@ -17025,47 +17060,46 @@ TJ	TJ	TJ	2	english
 Cí	Cí		2	czech
 NÝ	NÝ		2	vietnamese
 bé	bé		2	french
-Čt	t	t	2	english
 Má	Má		2	czech
 šu	šu		2	latvian
 Ří	Ří		2	NULL
 Út	Út		2	NULL
 ír	ír		2	hungarian
 PŘ	PŘ		2	czech
-ČS	S	S	2	english
 Že	Že		2	slovenian
+lač	la		2	NULL
 óz	óz		2	spanish
 VÝ	VÝ		2	vietnamese
 Jí	Jí		2	czech
 ÁT	ÁT		2	spanish
-kč	k	k	2	english
 Dí	Dí		2	czech
 šá	šá		2	NULL
 VÁ	VÁ	VÁ	2	english
 ZP	ZP	ZP	2	english
 Až	Až		2	czech
 UŠ	UŠ	UŠ	2	english
+nič	ni		2	NULL
 íl	íl		2	hungarian
 ZS	ZS	ZS	2	english
-vč	v	v	2	english
 ťa	ťa		2	slovak
 áš	áš		2	NULL
 Pě	P	P	2	english
+roč	ro	ro	2	english
 ZÁ	ZÁ	ZÁ	2	english
+čel	el		2	spanish
 Ať	Ať		2	slovak
 ýt	ýt		2	NULL
 VĚ	V	V	2	english
-ču	u	u	2	english
+čno	no	no	2	english
 ÍN	ÍN		2	NULL
 Pí	Pí		2	czech
 pé	pé	pé	2	english
 ďa	a	a	2	english
 šl	šl		2	czech
 Vr	Vr	Vr	2	english
-Ča	a	a	2	english
-Či	i	i	2	english
 KÁ	KÁ	KÁ	2	english
 ýr	ýr		2	NULL
+PSČ	PS	PS	2	english
 Lá	Lá		2	romanian
 Tá	Tá		2	NULL
 ŘE	ŘE		2	czech
@@ -17077,8 +17111,11 @@ bů	bů		2	czech
 sé	sé		2	spanish
 ŘI	ŘI		2	czech
 Tý	Tý		2	czech
+čna	na		2	czech
 jú	jú		2	slovak
 áž	áž		2	NULL
+čtu	tu		2	french
+vič	vi		2	NULL
 Ší	Ší		2	NULL
 nú	nú		2	NULL
 Př	Př		2	czech
@@ -17086,6 +17123,7 @@ Př	Př		2	czech
 ÁV	ÁV		2	spanish
 ÁK	ÁK		2	spanish
 ěž	ěž		2	NULL
+ruč	ru		2	russian
 Še	Še		2	slovenian
 ÁZ	ÁZ		2	spanish
 ZŠ	ZŠ	ZŠ	2	english
@@ -17094,7 +17132,6 @@ ZŠ	ZŠ	ZŠ	2	english
 Sá	Sá		2	romanian
 ěr	r		2	persian
 ív	ív		2	hungarian
-nČ	n	n	2	english
 ÁN	ÁN		2	hungarian
 Dů	Dů		2	czech
 tř	tř		2	czech
@@ -17107,27 +17144,37 @@ pó	pó		2	spanish
 fó	fó		2	spanish
 Vl	Vl	Vl	2	english
 ěj	j	j	2	english
+toč	to	to	2	english
 eš	eš		2	serbian
 ÉR	ÉR		2	french
 Ši	Ši		2	slovenian
 éé	éé		2	NULL
+urč	ur		2	NULL
+Čet	et		2	french
+čne	ne		2	NULL
 ař	ař		2	czech
 Há	Há		2	portuguese
 ÉL	ÉL		2	french
 gó	gó		2	hungarian
+čes	es		2	spanish
 úz	úz		2	hungarian
 ňu	ňu	ňu	2	english
 ať	ať		2	slovak
+ČTK	TK	TK	2	english
+čaj	aj		2	russian
 ác	ác		2	vietnamese
+čle	le		2	french
 OŽ	OŽ	OŽ	2	english
-ČI	I	I	2	english
 Bé	Bé	Bé	2	english
 KÉ	KÉ		2	portuguese
+čar	ar		2	NULL
 Rý	Rý		2	czech
+čic	ic		2	NULL
 rž	rž		2	czech
+lič	li		2	NULL
 úč	úč		2	NULL
-UČ	U	U	2	english
 Tř	Tř		2	czech
+Poč	Po	Po	2	english
 šo	šo		2	dutch
 ňo	ňo		2	slovak
 só	só		2	portuguese
@@ -17793,26 +17840,31 @@ Pé	Pé		2	portuguese
 ▁Ј	▁Ј		2	russian
 ћа	ћа		2	russian
 њу	њу		2	russian
+čki	ki	ki	2	english
 јо	јо		2	russian
 љи	љи		2	russian
 ću	u	u	2	english
 ђу	ђу		2	russian
 ђа	ђа		2	russian
 ео	ео		2	russian
+čke	ke		2	NULL
 ој	ој		2	russian
 ▁Đ	▁Đ		2	NULL
 ћу	ћу		2	russian
 АД	АД		2	russian
 ђи	ђи		2	russian
 đi	i	i	2	english
+čni	ni		2	NULL
 ▁Ђ	▁Ђ		2	russian
 ОВ	ОВ		2	russian
 ИЈ	ИЈ		2	russian
 ▁Њ	▁Њ		2	russian
+čnu	nu		2	NULL
 ▁Џ	▁Џ		2	russian
 ГД	ГД		2	russian
 ГШ	ГШ		2	russian
 ▁Љ	▁Љ		2	russian
+čak	ak	ak	2	english
 љо	љо		2	russian
 јн	јн		2	russian
 џе	џе		2	russian
@@ -17839,6 +17891,8 @@ Pé	Pé		2	portuguese
 ЉЕ	ЉЕ		2	russian
 јл	јл		2	russian
 тд	тд		2	russian
+čim	im		2	german
+čla	la		2	NULL
 Ње	Ње		2	russian
 Цр	Цр		2	russian
 ЉА	ЉА		2	russian
@@ -17854,7 +17908,6 @@ Pé	Pé		2	portuguese
 ЂЕ	ЂЕ		2	russian
 ЋА	ЋА		2	russian
 ао	ао		2	russian
-Ču	u	u	2	english
 Хе	Хе		2	russian
 ђо	ђо		2	russian
 Бр	Бр		2	russian
@@ -17877,7 +17930,6 @@ Pé	Pé		2	portuguese
 оф	оф		2	russian
 Њу	Њу		2	russian
 ▁ć	▁ć		2	NULL
-čn	n	n	2	english
 ▁ѕ	▁ѕ		2	russian
 Тр	Тр		2	russian
 Џе	Џе		2	russian
@@ -27660,7 +27712,6 @@ oic	oic	oic	3	english
 kul	kul	kul	3	english
 ▁Ei	▁Ei	▁Ei	3	english
 isn	isn	isn	3	english
-ček	ek		3	NULL
 Kor	Kor	Kor	3	english
 enf	enf		3	czech
 TRU	TRU	TRU	3	english
@@ -32756,7 +32807,7 @@ ckt	ckt		3	german
 ehn	ehn		3	german
 bei	bei		3	german
 ünd	ünd		3	turkish
-nIn	nIn	nIn	3	english
+nIn	nIn		3	code
 tiv	tiv		3	norwegian
 ▁Gä	▁Gä		3	finnish
 Sie	Sie		3	german
@@ -32770,7 +32821,7 @@ Aus	Aus	Aus	3	english
 äte	äte		3	swedish
 ▁tä	▁tä		3	finnish
 Auf	Auf		3	german
-nUn	nUn		3	french
+nUn	nUn		3	code
 wür	wür		3	german
 rüf	rüf		3	german
 Wie	Wie		3	german
@@ -32784,7 +32835,7 @@ wär	wär		3	german
 ehm	ehm		3	german
 geh	geh		3	german
 fäh	fäh		3	german
-nIm	nIm	nIm	3	english
+nIm	nIm		3	code
 ehl	ehl		3	german
 uhr	uhr	uhr	3	english
 aun	aun	aun	3	english
@@ -32792,15 +32843,15 @@ aun	aun	aun	3	english
 eum	eum		3	NULL
 zus	zus		3	german
 uft	uft		3	italian
-nEs	nEs	nEs	3	english
+nEs	nEs		3	code
 zep	zep	zep	3	english
 Wer	Wer	Wer	3	english
 Neu	Neu		3	NULL
 zte	zte		3	hungarian
 ehe	ehe		3	german
-nAl	nAl	nAl	3	english
+nAl	nAl		3	code
 uhl	uhl	uhl	3	english
-nAn	nAn	nAn	3	english
+nAn	nAn		3	code
 roh	roh	roh	3	english
 ▁Öl	▁Öl		3	swedish
 bew	bew		3	german
@@ -32808,9 +32859,9 @@ bew	bew		3	german
 ürf	ürf		3	NULL
 alz	alz		3	italian
 ▁nä	▁nä		3	finnish
-nEr	nEr		3	dutch
-nAm	nAm	nAm	3	english
-nSt	nSt	nSt	3	english
+nEr	nEr		3	code
+nAm	nAm		3	code
+nSt	nSt		3	code
 .“\	.“\		3	NULL
 ufe	ufe		3	italian
 Als	Als		3	german
@@ -32828,17 +32879,17 @@ zun	zun	zun	3	english
 zur	zur		3	german
 ▁Üb	▁Üb		3	german
 Zur	Zur	Zur	3	english
-nSo	nSo	nSo	3	english
+nSo	nSo		3	code
 üst	üst		3	turkish
 dre	dre	dre	3	english
-nDa	nDa	nDa	3	english
+nDa	nDa		3	code
 agd	agd	agd	3	english
 ▁kü	▁kü		3	turkish
 zum	zum		3	german
 rät	rät		3	finnish
 abt	abt	abt	3	english
 Prä	Prä		3	finnish
-nUm	nUm		3	NULL
+nUm	nUm		3	code
 ▁Sü	▁Sü		3	NULL
 ."\	."\		3	NULL
 änn	änn		3	swedish
@@ -32849,23 +32900,23 @@ aat	aat		3	dutch
 öne	öne		3	turkish
 täu	täu		3	german
 Sti	Sti	Sti	3	english
-nDu	nDu	nDu	3	english
+nDu	nDu		3	code
 ▁Bä	▁Bä		3	finnish
-nAb	nAb	nAb	3	english
+nAb	nAb		3	code
 kop	kop		3	danish
 Gew	Gew		3	german
 ütt	ütt		3	NULL
 Ihr	Ihr		3	german
-nZu	nZu	nZu	3	english
+nZu	nZu		3	code
 Rei	Rei		3	portuguese
 Ist	Ist		3	german
 nur	nur		3	german
-nRe	nRe	nRe	3	english
+nRe	nRe		3	code
 aup	aup	aup	3	english
 Bau	Bau	Bau	3	english
 kea	kea		3	finnish
 Arb	Arb	Arb	3	english
-nSp	nSp	nSp	3	english
+nSp	nSp		3	code
 hte	hte	hte	3	english
 Nur	Nur	Nur	3	english
 stä	stä		3	finnish
@@ -32873,7 +32924,7 @@ stä	stä		3	finnish
 Gut	Gut		3	serbian
 ▁Wä	▁Wä		3	finnish
 ▁tö	▁tö		3	hungarian
-nBe	nBe	nBe	3	english
+nBe	nBe		3	code
 kön	kön		3	german
 ▁…\	▁…\		3	NULL
 Kom	Kom		3	swedish
@@ -32882,7 +32933,7 @@ fot	fot		3	swedish
 Hin	Hin	Hin	3	english
 kum	kum	kum	3	english
 Gel	Gel	Gel	3	english
-nOb	nOb	nOb	3	english
+nOb	nOb		3	code
 Nun	Nun	Nun	3	english
 bte	bte		3	dutch
 kau	kau		3	indonesian
@@ -32899,7 +32950,7 @@ EIN	EIN		3	german
 ▁Hä	▁Hä		3	finnish
 EIT	EIT		3	german
 Süd	Süd		3	german
-nJa	nJa		3	japanese
+nJa	nJa		3	code
 CDU	CDU	CDU	3	english
 ▁fü	▁fü		3	german
 Geh	Geh	Geh	3	english
@@ -32922,26 +32973,26 @@ frü	frü		3	german
 ött	ött		3	swedish
 rge	rge	rge	3	english
 unz	unz	unz	3	english
-nKl	nKl	nKl	3	english
+nKl	nKl		3	code
 siv	siv		3	norwegian
 pfe	pfe	pfe	3	english
 ▁mö	▁mö		3	NULL
-nWo	nWo		3	german
+nWo	nWo		3	code
 Fot	Fot	Fot	3	english
 eif	eif	eif	3	english
 Beg	Beg	Beg	3	english
-nJe	nJe		3	french
+nJe	nJe		3	code
 tiz	tiz	tiz	3	english
 tür	tür		3	turkish
 Ost	Ost	Ost	3	english
 ELT	ELT	ELT	3	english
 ▁€/	▁€/		3	NULL
 vom	vom		3	german
-nGe	nGe		3	NULL
+nGe	nGe		3	code
 täg	täg		3	swedish
 Dok	Dok	Dok	3	english
 .)\	.)\		3	NULL
-nAu	nAu	nAu	3	english
+nAu	nAu		3	code
 öre	öre		3	hungarian
 Bür	Bür		3	german
 Uhr	Uhr		3	german
@@ -32952,7 +33003,7 @@ kör	kör		3	hungarian
 ▁!\	▁!\		3	NULL
 Zug	Zug	Zug	3	english
 NEU	NEU	NEU	3	english
-nFl	nFl	nFl	3	english
+nFl	nFl		3	code
 ndl	ndl	ndl	3	english
 däm	däm		3	NULL
 fia	fia		3	russian
@@ -32960,29 +33011,29 @@ Ern	Ern	Ern	3	english
 ▁→\	▁→\		3	NULL
 Hör	Hör		3	swedish
 hut	hut	hut	3	english
-nFr	nFr	nFr	3	english
-nGr	nGr	nGr	3	english
+nFr	nFr		3	code
+nGr	nGr		3	code
 räg	räg		3	danish
 .»\	.»\		3	NULL
 Dre	Dre	Dre	3	english
 dün	dün		3	turkish
-nEx	nEx	nEx	3	english
+nEx	nEx		3	code
 Frü	Frü		3	german
 Wür	Wür		3	german
 cch	cch	cch	3	english
 Kre	Kre	Kre	3	english
 öhr	öhr		3	german
-nCh	nCh	nCh	3	english
+nCh	nCh		3	code
 .”\	.”\		3	NULL
 Eis	Eis	Eis	3	english
-nNa	nNa	nNa	3	english
+nNa	nNa		3	code
 ufa	ufa		3	italian
 Weg	Weg	Weg	3	english
 aub	aub	aub	3	english
 AUS	AUS	AUS	3	english
 Abt	Abt	Abt	3	english
 dok	dok	dok	3	english
-nMo	nMo	nMo	3	english
+nMo	nMo		3	code
 bär	bär		3	swedish
 Bek	Bek	Bek	3	english
 wol	wol		3	german
@@ -32993,16 +33044,16 @@ Fuß	Fuß		3	german
 Nie	Nie		3	polish
 edt	edt	edt	3	english
 llt	llt		3	NULL
-nNe	nNe	nNe	3	english
-nTh	nTh	nTh	3	english
+nNe	nNe		3	code
+nTh	nTh		3	code
 Ged	Ged	Ged	3	english
 Dez	Dez		3	german
 hän	hän		3	finnish
 BEN	BEN	BEN	3	english
 !“\	!“\		3	NULL
-nPl	nPl	nPl	3	english
+nPl	nPl		3	code
 urv	urv	urv	3	english
-nBl	nBl	nBl	3	english
+nBl	nBl		3	code
 Pfl	Pfl	Pfl	3	english
 abr	abr		3	spanish
 kru	kru	kru	3	english
@@ -33010,17 +33061,17 @@ Tür	Tür		3	german
 ege	ege		3	NULL
 upf	upf	upf	3	english
 erl	erl		3	german
-nEl	nEl		3	spanish
+nEl	nEl		3	code
 räu	räu		3	german
 axi	axi	axi	3	english
 ähe	ähe		3	german
-nDr	nDr		3	ukrainian
+nDr	nDr		3	code
 Dek	Dek	Dek	3	english
 !!\	!!\		3	NULL
 wur	wur		3	german
 wäl	wäl		3	german
 vgl	vgl	vgl	3	english
-nLe	nLe	nLe	3	english
+nLe	nLe		3	code
 nau	nau	nau	3	english
 hod	hod	hod	3	english
 mpf	mpf	mpf	3	english
@@ -33052,12 +33103,12 @@ Grü	Grü		3	german
 erz	erz		3	german
 !"\	!"\		3	NULL
 Beh	Beh	Beh	3	english
-nJo	nJo	nJo	3	english
+nJo	nJo		3	code
 aue	aue		3	german
 tio	tio		3	NULL
 ▁hä	▁hä		3	finnish
 Geg	Geg	Geg	3	english
-nDe	nDe	nDe	3	english
+nDe	nDe		3	code
 nun	nun		3	NULL
 ölt	ölt		3	hungarian
 ihr	ihr		3	german
@@ -33083,11 +33134,11 @@ nja	nja		3	croatian
 tia	tia		3	NULL
 IMM	IMM	IMM	3	english
 Oft	Oft	Oft	3	english
-nDi	nDi	nDi	3	english
+nDi	nDi		3	code
 TSV	TSV	TSV	3	english
 dts	dts	dts	3	english
-nHi	nHi	nHi	3	english
-nEn	nEn		3	spanish
+nHi	nHi		3	code
+nEn	nEn		3	code
 ▁–,	▁–,		3	NULL
 gek	gek	gek	3	english
 ▁LK	▁LK	▁LK	3	english
@@ -33100,7 +33151,7 @@ fär	fär		3	swedish
 Pau	Pau	Pau	3	english
 ilf	ilf	ilf	3	english
 Kab	Kab	Kab	3	english
-nMa	nMa	nMa	3	english
+nMa	nMa		3	code
 gli	gli		3	italian
 Sei	Sei		3	italian
 Rie	Rie	Rie	3	english
@@ -33135,21 +33186,21 @@ nzu	nzu		3	NULL
 Kro	Kro	Kro	3	english
 Ruh	Ruh		3	indonesian
 üff	üff		3	NULL
-nSa	nSa	nSa	3	english
-nHo	nHo	nHo	3	english
+nSa	nSa		3	code
+nHo	nHo		3	code
 sbi	sbi	sbi	3	english
 ▁Fä	▁Fä		3	finnish
 oer	oer		3	NULL
 Mün	Mün		3	turkish
 ?"\	?"\		3	NULL
 %.\	%.\		3	NULL
-nSe	nSe		3	spanish
-nDo	nDo	nDo	3	english
+nSe	nSe		3	code
+nDo	nDo		3	code
 Süß	Süß	Süß	3	english
 ▁lä	▁lä		3	finnish
 hly	hly	hly	3	english
-nCo	nCo	nCo	3	english
-nBr	nBr	nBr	3	english
+nCo	nCo		3	code
+nBr	nBr		3	code
 Zie	Zie		3	dutch
 ärz	ärz		3	german
 Sau	Sau	Sau	3	english
@@ -33180,24 +33231,24 @@ FEL	FEL	FEL	3	english
 sag	sag		3	german
 tät	tät		3	german
 ndu	ndu	ndu	3	english
-nMi	nMi		3	NULL
+nMi	nMi		3	code
 ▁VN	▁VN		3	dutch
 Ruf	Ruf	Ruf	3	english
 sud	sud		3	french
-nHa	nHa	nHa	3	english
-nBo	nBo	nBo	3	english
+nHa	nHa		3	code
+nBo	nBo		3	code
 wöl	wöl	wöl	3	english
 pte	pte		3	swedish
 ▁#\	▁#\		3	NULL
 Zer	Zer		3	NULL
 Agr	Agr	Agr	3	english
-nSc	nSc	nSc	3	english
+nSc	nSc		3	code
 Mei	Mei		3	indonesian
 tei	tei		3	estonian
 ▁ZO	▁ZO	▁ZO	3	english
 FRA	FRA	FRA	3	english
 RIT	RIT	RIT	3	english
-nKo	nKo	nKo	3	english
+nKo	nKo		3	code
 HTC	HTC	HTC	3	english
 süd	süd		3	german
 eke	eke		3	NULL
@@ -33205,7 +33256,7 @@ erw	erw	erw	3	english
 Gru	Gru	Gru	3	english
 Erz	Erz		3	german
 daß	daß		3	german
-nPh	nPh	nPh	3	english
+nPh	nPh		3	code
 jus	jus		3	lithuanian
 oog	oog		3	dutch
 euf	euf	euf	3	english
@@ -33258,11 +33309,8 @@ vět	vt	vt	3	english
 ský	ský		3	czech
 stí	stí		3	czech
 ého	ého		3	czech
-čet	et		3	french
 tře	tře		3	czech
 ▁zd	▁zd		3	german
-čky	ky	ky	3	english
-čka	ka		3	NULL
 kem	kem		3	NULL
 spě	sp	sp	3	english
 lož	lož		3	croatian
@@ -33297,7 +33345,6 @@ sah	sah		3	german
 kup	kup	kup	3	english
 lep	lep	lep	3	english
 řad	řad		3	czech
-čas	as	as	3	english
 ▁př	▁př		3	czech
 kce	kce		3	czech
 ným	ným		3	slovak
@@ -33316,7 +33363,6 @@ iná	iná		3	czech
 vou	vou		3	portuguese
 lní	lní		3	czech
 ▁tý	▁tý		3	czech
-čně	n	n	3	english
 ▁Vý	▁Vý		3	czech
 lka	lka		3	estonian
 bav	bav	bav	3	english
@@ -33342,7 +33388,6 @@ Při	Při		3	czech
 tej	tej		3	slovak
 zná	zná		3	czech
 ném	ném		3	hungarian
-čku	ku	ku	3	english
 dlo	dlo		3	czech
 ▁úč	▁úč		3	NULL
 dla	dla		3	polish
@@ -33356,7 +33401,6 @@ slu	slu	slu	3	english
 tky	tky		3	slovak
 ▁Ná	▁Ná		3	romanian
 ▁ní	▁ní		3	czech
-peč	pe		3	romanian
 voz	voz		3	spanish
 jím	jím		3	czech
 klá	klá		3	portuguese
@@ -33388,13 +33432,11 @@ vně	vn	vn	3	english
 bní	bní		3	czech
 Pře	Pře		3	czech
 ▁zí	▁zí		3	czech
-čer	er		3	danish
 pře	pře		3	czech
 ▁žá	▁žá		3	NULL
 řit	řit		3	czech
 dět	dt	dt	3	english
 ▁cí	▁cí		3	czech
-čit	it	it	3	english
 žní	žní		3	czech
 voj	voj		3	slovenian
 řka	řka		3	czech
@@ -33446,21 +33488,18 @@ věd	vd		3	romanian
 itě	it	it	3	english
 řen	řen		3	czech
 šte	šte		3	slovak
-čin	in	in	3	english
 Pou	Pou	Pou	3	english
 koj	koj		3	NULL
 šle	šle		3	czech
 dyž	dyž		3	czech
 lín	lín		3	NULL
 žen	žen		3	czech
-čte	te	te	3	english
 ích	ích		3	vietnamese
 krá	krá		3	slovak
 žeb	žeb		3	czech
 tiž	tiž		3	czech
 kli	kli	kli	3	english
 jmu	jmu	jmu	3	english
-čko	ko		3	NULL
 usí	usí		3	spanish
 Dob	Dob	Dob	3	english
 áte	áte		3	hungarian
@@ -33471,7 +33510,6 @@ při	při		3	czech
 dka	dka	dka	3	english
 rti	rti	rti	3	english
 ▁Ně	▁Ně		3	czech
-čil	il		3	italian
 ▁pé	▁pé	▁pé	3	english
 kým	kým		3	czech
 ráž	ráž		3	czech
@@ -33486,8 +33524,6 @@ vyk	vyk		3	swedish
 ▁zů	▁zů		3	czech
 liš	liš		3	czech
 zní	zní		3	czech
-čan	an	an	3	english
-čem	em		3	portuguese
 otu	otu		3	turkish
 káz	káz		3	hungarian
 mec	mec	mec	3	english
@@ -33513,11 +33549,10 @@ tně	tn	tn	3	english
 ály	ály		3	hungarian
 emě	em	em	3	english
 ▁ká	▁ká		3	czech
-poč	po	po	3	english
-čen	en		3	spanish
 žby	žby		3	slovenian
 ▁Bě	▁Bě		3	czech
 ezi	ezi		3	NULL
+čuje	uje		3	czech
 nám	nám		3	czech
 ▁sá	▁sá		3	romanian
 dak	dak		3	NULL
@@ -33560,7 +33595,9 @@ zba	zba	zba	3	english
 ▁čí	▁čí		3	NULL
 plá	plá		3	portuguese
 nka	nka	nka	3	english
+čast	ast	ast	3	english
 vám	vám		3	czech
+čeno	eno	eno	3	english
 ▁Tě	▁Tě		3	czech
 aná	aná		3	czech
 zně	zn		3	russian
@@ -33581,6 +33618,7 @@ mbo	mbo	mbo	3	english
 ▁tá	▁tá		3	NULL
 klu	klu	klu	3	english
 cvi	cvi	cvi	3	english
+ovač	ova		3	japanese
 Rok	Rok		3	polish
 aný	aný		3	czech
 ▁ať	▁ať		3	slovak
@@ -33594,13 +33632,12 @@ Kni	Kni	Kni	3	english
 kát	kát		3	hungarian
 eza	eza		3	NULL
 ▁Pá	▁Pá		3	romanian
+čnou	nou		3	NULL
 ▁IČ	▁IČ	▁IČ	3	english
 tím	tím		3	slovak
 ají	ají		3	czech
 ění	ění		3	czech
-vač	va		3	NULL
 ▁gó	▁gó		3	hungarian
-Čer	er		3	danish
 ▁bá	▁bá		3	czech
 Kdy	Kdy		3	czech
 lát	lát		3	hungarian
@@ -33631,6 +33668,7 @@ boj	boj		3	NULL
 ▁ús	▁ús		3	czech
 kvi	kvi	kvi	3	english
 ▁Ří	▁Ří		3	NULL
+Proč	Pro	Pro	3	english
 ▁Já	▁Já		3	romanian
 žít	žít		3	czech
 lák	lák		3	hungarian
@@ -33659,9 +33697,8 @@ zdí	zdí		3	czech
 ící	ící		3	czech
 lár	lár		3	hungarian
 OVÉ	OVÉ		3	portuguese
-nPo	nPo	nPo	3	english
+nPo	nPo		3	code
 mít	mít		3	czech
-čov	ov		3	german
 ▁ČS	▁ČS		3	czech
 kni	kni	kni	3	english
 nín	nín	nín	3	english
@@ -33676,7 +33713,6 @@ mně	mn	mn	3	english
 hoj	hoj		3	portuguese
 ▁VY	▁VY		3	swedish
 mlu	mlu		3	german
-Čas	as	as	3	english
 ruš	ruš		3	serbian
 růz	růz		3	czech
 óza	óza		3	slovak
@@ -33703,12 +33739,14 @@ Pom	Pom	Pom	3	english
 Vyu	Vyu	Vyu	3	english
 něk	nk	nk	3	english
 Stu	Stu	Stu	3	english
+čena	ena		3	spanish
 řek	řek		3	czech
 ývá	ývá		3	czech
 óna	óna		3	NULL
 pka	pka		3	NULL
 Kde	Kde		3	czech
 nět	nt	nt	3	english
+čice	ice	ice	3	english
 oty	oty	oty	3	english
 žný	žný		3	slovak
 CZK	CZK	CZK	3	english
@@ -33748,7 +33786,6 @@ naj	naj		3	NULL
 čtí	čtí		3	czech
 Nad	Nad	Nad	3	english
 kód	kód		3	czech
-Čes	es		3	spanish
 taz	taz	taz	3	english
 eně	en	en	3	english
 Zde	Zde	Zde	3	english
@@ -33817,7 +33854,6 @@ kdy	kdy		3	czech
 rám	rám		3	hungarian
 ▁tj	▁tj	▁tj	3	english
 Sko	Sko	Sko	3	english
-lač	la		3	NULL
 NOV	NOV		3	indonesian
 Poz	Poz	Poz	3	english
 éče	éče		3	french
@@ -33825,6 +33861,7 @@ Poz	Poz	Poz	3	english
 zol	zol		3	german
 Fir	Fir	Fir	3	english
 Sez	Sez		3	czech
+člen	len		3	russian
 Mám	Mám		3	czech
 tus	tus		3	spanish
 IČO	IO		3	portuguese
@@ -33844,9 +33881,8 @@ daj	daj		3	polish
 tud	tud		3	hungarian
 šta	šta		3	serbian
 Kli	Kli	Kli	3	english
-nZa	nZa	nZa	3	english
+nZa	nZa		3	code
 mám	mám		3	czech
-nič	ni		3	NULL
 nál	nál		3	czech
 vál	vál		3	hungarian
 dov	dov		3	italian
@@ -33862,11 +33898,11 @@ kne	kne	kne	3	english
 oři	oři		3	czech
 rgo	rgo	rgo	3	english
 dné	dné		3	slovak
-roč	ro	ro	3	english
 ▁Šu	▁Šu		3	slovenian
 ▁Ší	▁Ší		3	NULL
 NEJ	NEJ	NEJ	3	english
 tán	tán		3	hungarian
+Člen	len		3	russian
 zou	zou		3	dutch
 zam	zam	zam	3	english
 ROZ	ROZ	ROZ	3	english
@@ -33881,7 +33917,6 @@ Ani	Ani	Ani	3	english
 ▁ša	▁ša		3	slovenian
 Ště	Ště		3	czech
 áři	áři		3	czech
-čel	el		3	spanish
 ozí	ozí		3	czech
 ták	ták		3	hungarian
 ▁zt	▁zt		3	hungarian
@@ -33891,14 +33926,13 @@ dni	dni		3	slovenian
 sce	sce		3	italian
 tří	tří		3	czech
 ▁Čt	▁Čt		3	czech
-nVy	nVy	nVy	3	english
+nVy	nVy		3	code
 vém	vém		3	portuguese
 ▁út	▁út		3	hungarian
 ▁sú	▁sú		3	slovak
 SKÝ	SKÝ		3	NULL
 mán	mán		3	spanish
-čno	no	no	3	english
-nVe	nVe	nVe	3	english
+nVe	nVe		3	code
 ráz	ráz		3	hungarian
 što	što		3	NULL
 byl	byl		3	czech
@@ -33937,14 +33971,13 @@ Zad	Zad	Zad	3	english
 smě	sm	sm	3	english
 Jas	Jas	Jas	3	english
 Kov	Kov	Kov	3	english
-nOd	nOd	nOd	3	english
+nOd	nOd		3	code
 vše	vše		3	czech
 nVý	nVý		3	czech
 Tří	Tří		3	czech
 ána	ána		3	hungarian
 ▁zr	▁zr	▁zr	3	english
 obu	obu	obu	3	english
-PSČ	PS	PS	3	english
 Zav	Zav	Zav	3	english
 Cen	Cen	Cen	3	english
 žár	žár		3	czech
@@ -33995,15 +34028,12 @@ Jde	Jde		3	czech
 Vla	Vla	Vla	3	english
 vyu	vyu		3	swedish
 kál	kál		3	hungarian
-čna	na		3	czech
 bky	bky	bky	3	english
 gno	gno	gno	3	english
 ény	ény		3	hungarian
 dve	dve		3	slovak
 Hav	Hav	Hav	3	english
 bát	bát		3	hungarian
-čtu	tu		3	french
-vič	vi		3	NULL
 Dva	Dva	Dva	3	english
 Kri	Kri	Kri	3	english
 sna	sna	sna	3	english
@@ -34018,7 +34048,7 @@ POD	POD	POD	3	english
 ▁ZD	▁ZD		3	slovenian
 eko	eko		3	NULL
 alý	alý		3	czech
-nTo	nTo	nTo	3	english
+nTo	nTo		3	code
 Plo	Plo	Plo	3	english
 pný	pný		3	slovak
 ▁VZ	▁VZ	▁VZ	3	english
@@ -34042,7 +34072,6 @@ tyl	tyl	tyl	3	english
 kvě	kv	kv	3	english
 měl	ml	ml	3	english
 tát	tát		3	hungarian
-ruč	ru		3	russian
 tul	tul		3	romanian
 éla	éla		3	french
 kři	kři		3	czech
@@ -34130,7 +34159,6 @@ tná	tná		3	czech
 ZDE	ZDE		3	slovenian
 ▁Tř	▁Tř		3	czech
 kře	kře		3	czech
-toč	to	to	3	english
 Klu	Klu	Klu	3	english
 sul	sul		3	italian
 vih	vih		3	malay
@@ -34155,18 +34183,16 @@ což	což		3	NULL
 Vít	Vít		3	czech
 žko	žko		3	slovak
 bně	bn	bn	3	english
-urč	ur		3	NULL
-Čet	et		3	french
 LOV	LOV	LOV	3	english
 Než	Než		3	slovenian
 akr	akr	akr	3	english
+čkov	kov		3	lithuanian
 káv	káv		3	czech
 Kři	Kři		3	czech
 omu	omu		3	french
 ▁Ču	▁Ču		3	czech
 Mam	Mam		3	polish
 šin	šin		3	slovenian
-čne	ne		3	NULL
 Něm	Nm	Nm	3	english
 sva	sva		3	swedish
 baj	baj		3	hungarian
@@ -34204,16 +34230,13 @@ tob	tob	tob	3	english
 fak	fak	fak	3	english
 ZAR	ZAR	ZAR	3	english
 ▁Dž	▁Dž		3	slovenian
-čes	es		3	spanish
 Zem	Zem	Zem	3	english
 něj	nj	nj	3	english
 Tlu	Tlu	Tlu	3	english
 vár	vár		3	hungarian
-ČTK	TK	TK	3	english
 Hus	Hus	Hus	3	english
 ▁Té	▁Té	▁Té	3	english
 dům	dům		3	czech
-čaj	aj		3	russian
 ▁oš	▁oš	▁oš	3	english
 liz	liz	liz	3	english
 vno	vno		3	slovenian
@@ -34225,7 +34248,6 @@ bné	bné		3	french
 mál	mál	mál	3	english
 tlu	tlu		3	german
 ▁Šk	▁Šk		3	slovenian
-čle	le		3	french
 ▁Vé	▁Vé	▁Vé	3	english
 Kot	Kot	Kot	3	english
 Boj	Boj		3	NULL
@@ -34265,8 +34287,7 @@ zik	zik		3	dutch
 otá	otá		3	spanish
 dků	dků		3	czech
 cik	cik	cik	3	english
-čar	ar		3	NULL
-nVi	nVi		3	swedish
+nVi	nVi		3	code
 CHI	CHI	CHI	3	english
 icí	icí		3	czech
 cau	cau		3	NULL
@@ -34279,7 +34300,6 @@ ctu	ctu		3	italian
 sík	sík		3	hungarian
 sni	sni	sni	3	english
 jec	jec		3	polish
-čic	ic		3	NULL
 smí	smí		3	spanish
 bna	bna		3	NULL
 váš	váš		3	czech
@@ -34293,7 +34313,6 @@ zpě	zp		3	german
 uky	uky	uky	3	english
 kaj	kaj		3	NULL
 kve	kve	kve	3	english
-lič	li		3	NULL
 skl	skl		3	slovenian
 Dvo	Dvo	Dvo	3	english
 ZDA	ZDA		3	slovenian
@@ -34313,17 +34332,18 @@ sám	sám		3	czech
 ryt	ryt		3	polish
 ▁čr	▁čr		3	slovenian
 Buď	Bu	Bu	3	english
-Poč	Po	Po	3	english
 eze	eze		3	hungarian
 kev	kev		3	slovenian
 Pob	Pob	Pob	3	english
 než	než		3	slovenian
 hto	hto	hto	3	english
+proč	pro		3	german
 Sma	Sma	Sma	3	english
 Naj	Naj		3	polish
 obr	obr		3	slovak
 Běh	Bh	Bh	3	english
 nož	nož		3	NULL
+Čech	ech	ech	3	english
 žda	žda		3	czech
 Glo	Glo	Glo	3	english
 bku	bku	bku	3	english
@@ -34500,7 +34520,7 @@ kék	kék		3	hungarian
 íti	íti		3	NULL
 écs	écs		3	french
 ttó	ttó		3	spanish
-nAz	nAz		3	hungarian
+nAz	nAz		3	code
 Kér	Kér		3	hungarian
 öny	öny		3	hungarian
 óra	óra		3	hungarian
@@ -34652,7 +34672,7 @@ Két	Két		3	hungarian
 aik	aik		3	finnish
 süt	süt		3	estonian
 Áru	Áru		3	spanish
-nSz	nSz		3	hungarian
+nSz	nSz		3	code
 ▁ÉS	▁ÉS		3	french
 pót	pót		3	polish
 Vég	Vég		3	hungarian
@@ -34839,7 +34859,7 @@ yán	yán		3	spanish
 Táv	Táv		3	czech
 Jól	Jól		3	hungarian
 yén	yén		3	french
-nCs	nCs		3	hungarian
+nCs	nCs		3	code
 iót	iót		3	spanish
 nők	nők		3	hungarian
 lős	lős		3	hungarian
@@ -34925,7 +34945,7 @@ sáv	sáv		3	czech
 túr	túr		3	hungarian
 bbá	bbá		3	czech
 dai	dai		3	italian
-nKi	nKi	nKi	3	english
+nKi	nKi		3	code
 Láb	Láb		3	hungarian
 Rák	Rák		3	hungarian
 vén	vén		3	french
@@ -34939,7 +34959,7 @@ alv	alv	alv	3	english
 uál	uál		3	hungarian
 zél	zél		3	hungarian
 ugy	ugy		3	hungarian
-nGy	nGy		3	hungarian
+nGy	nGy		3	code
 ikr	ikr		3	NULL
 Bék	Bék		3	hungarian
 Sza	Sza		3	hungarian
@@ -37102,7 +37122,6 @@ nta	nta		3	persian
 kao	kao		3	croatian
 шти	шти		3	russian
 ▁ће	▁ће		3	russian
-čki	ki	ki	3	english
 tno	tno	tno	3	english
 nti	nti		3	italian
 rni	rni	rni	3	english
@@ -37114,7 +37133,6 @@ jom	jom		3	NULL
 vje	vje		3	croatian
 joj	joj		3	NULL
 ▁ње	▁ње		3	russian
-čke	ke		3	NULL
 lni	lni		3	serbian
 vao	vao	vao	3	english
 rži	rži		3	czech
@@ -37136,6 +37154,7 @@ tua	tua		3	italian
 sre	sre	sre	3	english
 ▁њи	▁њи		3	russian
 bno	bno	bno	3	english
+čkog	kog		3	NULL
 ▁вр	▁вр		3	russian
 lne	lne		3	polish
 бог	бог		3	russian
@@ -37155,10 +37174,10 @@ vši	vši		3	czech
 јом	јом		3	russian
 sao	sao		3	russian
 ▁Је	▁Је		3	russian
-čni	ni		3	NULL
 кљу	кљу		3	russian
 вој	вој		3	russian
 вог	вог		3	russian
+čija	ija		3	slovenian
 њем	њем		3	russian
 рни	рни		3	russian
 ški	ški		3	slovenian
@@ -37171,11 +37190,15 @@ nke	nke	nke	3	english
 ▁Јо	▁Јо		3	russian
 MAH	MAH	MAH	3	english
 вао	вао		3	russian
+čkih	kih		3	NULL
 руч	руч		3	russian
+čima	ima		3	serbian
+čkom	kom		3	swedish
 рхи	рхи		3	russian
 mpa	mpa		3	NULL
 лно	лно		3	russian
 твр	твр		3	russian
+čkim	kim	kim	3	english
 ▁Ју	▁Ју		3	russian
 шњи	шњи		3	russian
 узе	узе		3	russian
@@ -37183,6 +37206,7 @@ mpa	mpa		3	NULL
 ▁бр	▁бр		3	russian
 јем	јем		3	russian
 cij	cij		3	NULL
+čkoj	koj		3	NULL
 zbe	zbe	zbe	3	english
 rvi	rvi	rvi	3	english
 риј	риј		3	russian
@@ -37205,10 +37229,10 @@ hva	hva		3	norwegian
 sje	sje		3	NULL
 kav	kav	kav	3	english
 ▁Đo	▁Đo		3	vietnamese
-čnu	nu		3	NULL
 ▁ću	▁ću		3	serbian
 јан	јан		3	russian
 rva	rva	rva	3	english
+čnih	nih		3	NULL
 дња	дња		3	russian
 вде	вде		3	russian
 ове	ове		3	russian
@@ -37225,10 +37249,12 @@ bje	bje		3	NULL
 мпа	мпа		3	russian
 рна	рна		3	russian
 чар	чар		3	russian
+čnog	nog		3	dutch
 нси	нси		3	russian
 дње	дње		3	russian
+čnim	nim		3	finnish
 ома	ома		3	russian
-čak	ak	ak	3	english
+čnom	nom		3	french
 шња	шња		3	russian
 ћем	ћем		3	russian
 мје	мје		3	russian
@@ -37281,6 +37307,7 @@ RTV	RTV	RTV	3	english
 sve	sve		3	serbian
 рао	рао		3	russian
 Ова	Ова		3	russian
+čnoj	noj		3	NULL
 đan	an	an	3	english
 ћег	ћег		3	russian
 вну	вну		3	russian
@@ -37368,7 +37395,7 @@ mbi	mbi	mbi	3	english
 kih	kih		3	NULL
 тео	тео		3	russian
 Kad	Kad		3	NULL
-BiH	BiH	BiH	3	english
+BiH	BiH		3	croatian
 ▁Џе	▁Џе		3	russian
 ▁Тр	▁Тр		3	russian
 jno	jno		3	serbian
@@ -37391,11 +37418,9 @@ tih	tih		3	malay
 мац	мац		3	russian
 ▁Žu	▁Žu		3	slovenian
 гог	гог		3	russian
-čim	im		3	german
 нај	нај		3	russian
 ког	ког		3	russian
 Što	Što		3	croatian
-čla	la		3	NULL
 мај	мај		3	russian
 ▁Ел	▁Ел		3	russian
 њим	њим		3	russian
@@ -37466,6 +37491,7 @@ uče	ue	ue	3	english
 тје	тје		3	russian
 raž	raž		3	czech
 ngu	ngu	ngu	3	english
+čini	ini		3	indonesian
 тпу	тпу		3	russian
 Taj	Taj		3	polish
 ▁ЈП	▁ЈП		3	russian
@@ -37510,6 +37536,7 @@ dvo	dvo		3	czech
 Кад	Кад		3	russian
 dnj	dnj		3	NULL
 нел	нел		3	russian
+čiji	iji	iji	3	english
 лте	лте		3	russian
 Мај	Мај		3	russian
 vlj	vlj		3	slovenian
@@ -37674,6 +37701,7 @@ ghe	ghe	ghe	3	english
 цха	цха		3	russian
 гње	гње		3	russian
 гес	гес		3	russian
+čeka	eka		3	NULL
 ПОС	ПОС		3	russian
 нса	нса		3	russian
 оби	оби		3	russian
@@ -37741,6 +37769,7 @@ uči	ui	ui	3	english
 Трг	Трг		3	russian
 реш	реш		3	russian
 још	још		3	russian
+čega	ega		3	german
 виц	виц		3	russian
 уте	уте		3	russian
 оце	оце		3	russian
@@ -40242,7 +40271,7 @@ mua	mua	mua	3	english
 ▁xà	▁xà		3	thai
 ▁Vệ	▁Vệ		3	vietnamese
 ▁ĐỊ	▁ĐỊ		3	NULL
-nTr	nTr	nTr	3	english
+nTr	nTr		3	code
 ▁xí	▁xí		3	NULL
 ẩm	ẩm	ẩm	3	english
 Rất	Rất		3	vietnamese
@@ -40745,7 +40774,7 @@ Lập	Lập		3	vietnamese
 Đời	Đời		3	vietnamese
 Rồi	Rồi		3	vietnamese
 ▁Vẻ	▁Vẻ	▁Vẻ	3	english
-nNg	nNg	nNg	3	english
+nNg	nNg		3	code
 Chợ	Chợ		3	vietnamese
 Gió	Gió		3	NULL
 ▁Đổ	▁Đổ		3	NULL
@@ -40844,7 +40873,7 @@ Nồi	Nồi		3	vietnamese
 ▁Ơn	▁Ơn	▁Ơn	3	english
 ަން	ަން		3	NULL
 ▁Cự	▁Cự		3	vietnamese
-nKh	nKh	nKh	3	english
+nKh	nKh		3	code
 thế	thế		3	vietnamese
 BÁN	BÁN		3	hungarian
 ▁vớ	▁vớ		3	vietnamese
@@ -40903,7 +40932,7 @@ tuy	tuy		3	NULL
 xay	xay	xay	3	english
 mẫu	mẫu	mẫu	3	english
 bất	bất		3	vietnamese
-nXe	nXe	nXe	3	english
+nXe	nXe		3	code
 ▁BĐ	▁BĐ		3	finnish
 Nổi	Nổi		3	vietnamese
 Đau	au	au	3	english
@@ -40991,7 +41020,7 @@ nCô	nCô		3	vietnamese
 Bút	Bút		3	bulgarian
 Mấy	Mấy	Mấy	3	english
 Sắc	Sắc		3	vietnamese
-nNh	nNh		3	vietnamese
+nNh	nNh		3	code
 ▁Ổn	▁Ổn	▁Ổn	3	english
 PGS	PGS	PGS	3	english
 quý	quý		3	czech
@@ -41270,7 +41299,7 @@ Phá	Phá		3	vietnamese
 Hữu	Hữu	Hữu	3	english
 đau	au	au	3	english
 ẫn	ẫn	ẫn	3	english
-nCa	nCa	nCa	3	english
+nCa	nCa		3	code
 Núi	Núi		3	vietnamese
 ▁mụ	▁mụ		3	vietnamese
 ĐỔI	ĐỔI		3	vietnamese
@@ -41332,7 +41361,7 @@ Vạn	Vạn		3	vietnamese
 ▁cở	▁cở		3	vietnamese
 ▁sà	▁sà		3	NULL
 Mãi	Mãi	Mãi	3	english
-nTu	nTu		3	french
+nTu	nTu		3	code
 ▁lừ	▁lừ		3	vietnamese
 Sâm	Sâm		3	portuguese
 HỘI	HỘI	HỘI	3	english
@@ -41411,7 +41440,7 @@ nct	nct	nct	3	english
 ▁ỦY	▁ỦY	▁ỦY	3	english
 Hà	Hà	Hà	3	english
 QUÀ	QUÀ	QUÀ	3	english
-nGi	nGi	nGi	3	english
+nGi	nGi		3	code
 váy	váy		3	NULL
 ▁Lồ	▁Lồ	▁Lồ	3	english
 ▁sỏ	▁sỏ		3	vietnamese
@@ -44069,7 +44098,7 @@ Than	Than	Than	4	english
 ▁Sur	▁Sur		4	spanish
 Shar	Shar	Shar	4	english
 ▁dry	▁dry	▁dry	4	english
-toBe	toBe		4	NULL
+toBe	toBe		4	code
 Disp	Disp	Disp	4	english
 ▁как	▁как		4	russian
 Well	Well	Well	4	english
@@ -45508,7 +45537,7 @@ Chem	Chem	Chem	4	english
 ▁TOP	▁TOP	▁TOP	4	english
 Coll	Coll	Coll	4	english
 ▁Len	▁Len	▁Len	4	english
-nThe	nThe	nThe	4	english
+nThe	nThe		4	code
 nary	nary	nary	4	english
 ▁glu	▁glu	▁glu	4	english
 ▁Mul	▁Mul		4	estonian
@@ -46165,7 +46194,7 @@ OOOO	OOOO	OOOO	4	english
 enci	enci		4	spanish
 abba	abba	abba	4	english
 ▁($(	▁($(		4	NULL
-isIn	isIn	isIn	4	english
+isIn	isIn		4	code
 Love	Love	Love	4	english
 Iron	Iron	Iron	4	english
 ▁Esc	▁Esc	▁Esc	4	english
@@ -46935,7 +46964,7 @@ wash	wash	wash	4	english
 }^{-	}^{-		4	NULL
 ▁kal	▁kal	▁kal	4	english
 akin	akin	akin	4	english
-iPad	iPad	iPad	4	english
+iPad	iPad		4	code
 ▁prz	▁prz		4	polish
 ▁Mol	▁Mol	▁Mol	4	english
 ▁bic	▁bic	▁bic	4	english
@@ -53314,7 +53343,7 @@ eite	eite		4	lithuanian
 ▁hin	▁hin		4	NULL
 hnen	hnen	hnen	4	english
 führ	führ		4	german
-nDie	nDie		4	german
+nDie	nDie		4	code
 ▁bek	▁bek		4	turkish
 stag	stag	stag	4	english
 ▁Bei	▁Bei		4	german
@@ -53354,7 +53383,7 @@ dung	dung		4	german
 fern	fern	fern	4	english
 euch	euch		4	german
 laub	laub		4	german
-nDer	nDer	nDer	4	english
+nDer	nDer		4	code
 ▁Bür	▁Bür		4	german
 kauf	kauf		4	german
 schn	schn		4	NULL
@@ -53366,7 +53395,7 @@ immt	immt		4	NULL
 ilfe	ilfe		4	german
 wahl	wahl		4	german
 unst	unst		4	german
-nDas	nDas		4	german
+nDas	nDas		4	code
 ritt	ritt	ritt	4	english
 ▁ihn	▁ihn		4	german
 chte	chte		4	german
@@ -53424,8 +53453,8 @@ rück	rück		4	german
 wehr	wehr	wehr	4	english
 zieh	zieh		4	dutch
 hein	hein	hein	4	english
-nEin	nEin		4	polish
-nIch	nIch		4	german
+nEin	nEin		4	code
+nIch	nIch		4	code
 Nach	Nach		4	german
 eier	eier		4	norwegian
 werb	werb	werb	4	english
@@ -53466,13 +53495,13 @@ izin	izin		4	turkish
 ontr	ontr		4	dutch
 läss	läss		4	swedish
 wegs	wegs		4	NULL
-nWir	nWir		4	german
+nWir	nWir		4	code
 ▁hei	▁hei	▁hei	4	english
 ▁Maß	▁Maß		4	german
 ösen	ösen		4	german
 äude	äude		4	NULL
-nMit	nMit		4	german
-nSch	nSch	nSch	4	english
+nMit	nMit		4	code
+nSch	nSch		4	code
 flug	flug		4	german
 Eine	Eine		4	german
 ▁zul	▁zul		4	german
@@ -53480,7 +53509,7 @@ reuz	reuz		4	german
 ▁Pfl	▁Pfl	▁Pfl	4	english
 ohnt	ohnt		4	german
 ▁ähn	▁ähn		4	german
-nWie	nWie		4	german
+nWie	nWie		4	code
 klei	klei		4	german
 ▁fot	▁fot		4	swedish
 ▁erw	▁erw	▁erw	4	english
@@ -53491,8 +53520,8 @@ udem	udem		4	danish
 geld	geld		4	turkish
 acke	acke	acke	4	english
 mehr	mehr		4	german
-nSie	nSie		4	german
-nBei	nBei		4	german
+nSie	nSie		4	code
+nBei	nBei		4	code
 nFür	nFür		4	german
 üsse	üsse		4	german
 emal	emal		4	NULL
@@ -53522,8 +53551,8 @@ dass	dass		4	german
 elte	elte		4	german
 ▁heu	▁heu		4	french
 Hier	Hier		4	german
-nAuf	nAuf		4	german
-nWas	nWas	nWas	4	english
+nAuf	nAuf		4	code
+nWas	nWas		4	code
 ▁dau	▁dau		4	german
 ▁daß	▁daß		4	german
 Bild	Bild		4	german
@@ -53553,7 +53582,7 @@ oben	oben	oben	4	english
 leit	leit		4	german
 kont	kont		4	polish
 schm	schm		4	german
-nVer	nVer		4	spanish
+nVer	nVer		4	code
 zehn	zehn		4	german
 ▁Zür	▁Zür		4	german
 ▁CDU	▁CDU	▁CDU	4	english
@@ -53564,8 +53593,8 @@ itär	itär		4	german
 ▁kre	▁kre		4	NULL
 ernt	ernt	ernt	4	english
 eige	eige		4	german
-nUnd	nUnd		4	NULL
-nVor	nVor		4	german
+nUnd	nUnd		4	code
+nVor	nVor		4	code
 sich	sich		4	german
 weiß	weiß	weiß	4	english
 ▁Abl	▁Abl	▁Abl	4	english
@@ -53579,8 +53608,8 @@ kord	kord		4	german
 ▁usw	▁usw	▁usw	4	english
 höhe	höhe		4	german
 arif	arif	arif	4	english
-nAls	nAls		4	german
-nWer	nWer	nWer	4	english
+nAls	nAls		4	code
+nWer	nWer		4	code
 iefe	iefe		4	spanish
 ▁Bef	▁Bef	▁Bef	4	english
 Fahr	Fahr		4	german
@@ -53604,7 +53633,7 @@ sack	sack	sack	4	english
 dien	dien		4	french
 ▁lok	▁lok		4	romanian
 anze	anze		4	polish
-nVon	nVon	nVon	4	english
+nVon	nVon		4	code
 geht	geht		4	german
 Seit	Seit		4	german
 Aktu	Aktu		4	NULL
@@ -53618,7 +53647,7 @@ erei	erei		4	german
 wege	wege		4	german
 komp	komp		4	german
 ▁Vom	▁Vom	▁Vom	4	english
-nAus	nAus	nAus	4	english
+nAus	nAus		4	code
 merz	merz		4	german
 reif	reif	reif	4	english
 nahm	nahm		4	german
@@ -53679,7 +53708,7 @@ komm	komm		4	swedish
 afel	afel		4	spanish
 ▁kap	▁kap		4	NULL
 nich	nich		4	NULL
-nZum	nZum	nZum	4	english
+nZum	nZum		4	code
 ohne	ohne		4	german
 kost	kost		4	german
 ▁wär	▁wär		4	german
@@ -53697,7 +53726,7 @@ päck	päck		4	swedish
 Teil	Teil		4	german
 ▁fün	▁fün		4	german
 gelt	gelt		4	german
-nDen	nDen		4	swedish
+nDen	nDen		4	code
 Flug	Flug		4	german
 läuf	läuf		4	german
 Dann	Dann	Dann	4	english
@@ -53720,10 +53749,10 @@ sehr	sehr		4	german
 brig	brig		4	dutch
 ehin	ehin		4	german
 ▁Ero	▁Ero		4	italian
-nMan	nMan	nMan	4	english
+nMan	nMan		4	code
 ▁ohn	▁ohn	▁ohn	4	english
 Ihre	Ihre		4	german
-nEnt	nEnt	nEnt	4	english
+nEnt	nEnt		4	code
 Netz	Netz	Netz	4	english
 ahrt	ahrt		4	german
 dige	dige		4	dutch
@@ -53735,7 +53764,7 @@ reue	reue	reue	4	english
 lech	lech		4	spanish
 sprä	sprä		4	german
 grau	grau	grau	4	english
-nZur	nZur	nZur	4	english
+nZur	nZur		4	code
 Kann	Kann	Kann	4	english
 ▁Jog	▁Jog	▁Jog	4	english
 denk	denk		4	german
@@ -53795,9 +53824,9 @@ zwei	zwei		4	german
 schä	schä		4	slovenian
 habe	habe		4	german
 ▁jen	▁jen		4	NULL
-nIhr	nIhr	nIhr	4	english
+nIhr	nIhr		4	code
 nten	nten	nten	4	english
-nBes	nBes	nBes	4	english
+nBes	nBes		4	code
 Werk	Werk	Werk	4	english
 üche	üche		4	estonian
 Fach	Fach		4	german
@@ -53889,7 +53918,7 @@ Schm	Schm	Schm	4	english
 kenn	kenn		4	NULL
 Gute	Gute	Gute	4	english
 ▁:)\	▁:)\		4	NULL
-nDes	nDes	nDes	4	english
+nDes	nDes		4	code
 ▁ert	▁ert	▁ert	4	english
 Kopf	Kopf	Kopf	4	english
 Baum	Baum	Baum	4	english
@@ -53904,7 +53933,7 @@ iegt	iegt		4	dutch
 Beit	Beit		4	german
 Wein	Wein	Wein	4	english
 enke	enke		4	german
-nGes	nGes	nGes	4	english
+nGes	nGes		4	code
 menü	menü		4	turkish
 Maße	Maße		4	german
 hrer	hrer		4	german
@@ -53912,7 +53941,7 @@ fett	fett		4	italian
 ▁Akt	▁Akt		4	german
 ▁Völ	▁Völ	▁Völ	4	english
 ▁weh	▁weh	▁weh	4	english
-nWel	nWel		4	french
+nWel	nWel		4	code
 Ziel	Ziel		4	german
 getr	getr		4	NULL
 zins	zins		4	NULL
@@ -53940,11 +53969,11 @@ Koch	Koch	Koch	4	english
 neue	neue	neue	4	english
 ▁AUS	▁AUS	▁AUS	4	english
 ▁sog	▁sog	▁sog	4	english
-nSte	nSte	nSte	4	english
+nSte	nSte		4	code
 lück	lück		4	german
 Orts	Orts		4	german
 Nike	Nike	Nike	4	english
-nPro	nPro	nPro	4	english
+nPro	nPro		4	code
 gelb	gelb		4	turkish
 Gibt	Gibt		4	german
 vorm	vorm		4	dutch
@@ -53953,7 +53982,7 @@ krei	krei		4	german
 Abst	Abst	Abst	4	english
 Dein	Dein	Dein	4	english
 Lage	Lage	Lage	4	english
-nMar	nMar	nMar	4	english
+nMar	nMar		4	code
 Dort	Dort	Dort	4	english
 ▁leb	▁leb	▁leb	4	english
 ▁Anf	▁Anf	▁Anf	4	english
@@ -54016,7 +54045,7 @@ wird	wird		4	german
 Lade	Lade	Lade	4	english
 ▁erb	▁erb	▁erb	4	english
 ▁Feu	▁Feu		4	NULL
-nAll	nAll	nAll	4	english
+nAll	nAll		4	code
 Köln	Köln	Köln	4	english
 öner	öner		4	turkish
 Heil	Heil	Heil	4	english
@@ -54028,7 +54057,7 @@ Rang	Rang		4	german
 uckt	uckt		4	german
 euen	euen	euen	4	english
 März	März		4	german
-nBet	nBet	nBet	4	english
+nBet	nBet		4	code
 ▁Trü	▁Trü		4	german
 kreu	kreu		4	NULL
 drei	drei		4	german
@@ -54053,7 +54082,7 @@ trat	trat	trat	4	english
 Gott	Gott	Gott	4	english
 Dach	Dach	Dach	4	english
 hilf	hilf		4	german
-nKon	nKon	nKon	4	english
+nKon	nKon		4	code
 akon	akon		4	NULL
 Sein	Sein		4	french
 unft	unft	unft	4	english
@@ -54079,7 +54108,7 @@ Wort	Wort	Wort	4	english
 mich	mich		4	german
 Renn	Renn		4	NULL
 Haar	Haar		4	dutch
-nGeb	nGeb		4	german
+nGeb	nGeb		4	code
 onat	onat	onat	4	english
 Grat	Grat	Grat	4	english
 fuer	fuer		4	spanish
@@ -54089,7 +54118,7 @@ sind	sind		4	german
 tief	tief		4	dutch
 kurz	kurz		4	german
 Alte	Alte		4	german
-nPer	nPer	nPer	4	english
+nPer	nPer		4	code
 ▁Beu	▁Beu		4	NULL
 ▁eck	▁eck	▁eck	4	english
 begr	begr		4	dutch
@@ -54103,7 +54132,7 @@ Paar	Paar		4	dutch
 ▁alp	▁alp	▁alp	4	english
 ▁Gif	▁Gif	▁Gif	4	english
 Tief	Tief	Tief	4	english
-nTag	nTag	nTag	4	english
+nTag	nTag		4	code
 schr	schr		4	german
 renn	renn		4	NULL
 ▁umk	▁umk	▁umk	4	english
@@ -54140,7 +54169,7 @@ gute	gute		4	german
 Loch	Loch	Loch	4	english
 Dreh	Dreh		4	german
 cara	cara		4	NULL
-▁hPa	▁hPa	▁hPa	4	english
+▁hPa	▁hPa		4	code
 Trau	Trau	Trau	4	english
 WLAN	WLAN	WLAN	4	english
 fehl	fehl		4	german
@@ -54267,14 +54296,14 @@ tett	tett		4	hungarian
 utte	utte		4	norwegian
 erth	erth	erth	4	english
 ▁Abz	▁Abz	▁Abz	4	english
-nWen	nWen	nWen	4	english
+nWen	nWen		4	code
 ▁anh	▁anh		4	vietnamese
 Eier	Eier		4	french
 Idee	Idee	Idee	4	english
 ▁Auß	▁Auß		4	german
 ichl	ichl	ichl	4	english
 rufs	rufs		4	german
-eBay	eBay		4	serbian
+eBay	eBay		4	code
 tums	tums		4	NULL
 ▁Akk	▁Akk		4	norwegian
 ▁Tho	▁Tho	▁Tho	4	english
@@ -54374,7 +54403,7 @@ dame	dame	dame	4	english
 mmer	mmer	mmer	4	english
 bude	bude		4	czech
 aspe	aspe	aspe	4	english
-nGef	nGef	nGef	4	english
+nGef	nGef		4	code
 fünf	fünf		4	german
 Eure	Eure	Eure	4	english
 Taxi	Taxi	Taxi	4	english
@@ -54583,6 +54612,7 @@ zace	zace		4	czech
 šich	šich		4	lithuanian
 ▁hle	▁hle	▁hle	4	english
 ▁tím	▁tím		4	slovak
+četně	etn		4	NULL
 kách	kách		4	czech
 prac	prac		4	german
 jení	jení		4	czech
@@ -54834,7 +54864,6 @@ ckém	ckém		4	czech
 čeká	čeká		4	czech
 ▁ště	▁ště		4	czech
 rych	rych		4	polish
-čuje	uje		4	czech
 novu	novu		4	polish
 ▁fak	▁fak	▁fak	4	english
 ▁vál	▁vál		4	hungarian
@@ -54902,14 +54931,13 @@ zeno	zeno		4	NULL
 nodu	nodu		4	turkish
 jíma	jíma		4	czech
 ▁Bře	▁Bře		4	czech
-čast	ast	ast	4	english
 ▁úno	▁úno		4	czech
 ▁peč	▁peč		4	czech
-čeno	eno	eno	4	english
 Druh	Druh		4	slovak
 ▁nev	▁nev	▁nev	4	english
 ▁mou	▁mou	▁mou	4	english
 ▁čes	▁čes		4	czech
+čnost	nost		4	czech
 chov	chov		4	czech
 mali	mali	mali	4	english
 kraj	kraj		4	NULL
@@ -54942,7 +54970,6 @@ vané	vané		4	czech
 slav	slav	slav	4	english
 enka	enka	enka	4	english
 ▁pět	▁pět		4	czech
-ovač	ova		4	japanese
 nové	nové		4	czech
 bývá	bývá		4	czech
 ▁drá	▁drá		4	portuguese
@@ -54956,7 +54983,6 @@ akou	akou		4	NULL
 ▁nau	▁nau	▁nau	4	english
 tách	tách		4	hungarian
 ▁ním	▁ním		4	czech
-čnou	nou		4	NULL
 řská	řská		4	czech
 nací	nací		4	czech
 ▁zlo	▁zlo		4	czech
@@ -55033,7 +55059,6 @@ vaný	vaný		4	slovak
 jích	jích		4	czech
 ▁uži	▁uži		4	slovenian
 ▁čaj	▁čaj		4	czech
-Proč	Pro	Pro	4	english
 skyt	skyt		4	swedish
 ▁Ště	▁Ště		4	czech
 teré	teré		4	czech
@@ -55146,7 +55171,6 @@ itní	itní		4	czech
 ▁PSČ	▁PSČ		4	czech
 Nový	Nový		4	czech
 ▁lží	▁lží		4	czech
-čena	ena		4	spanish
 hite	hite	hite	4	english
 ▁Prů	▁Prů		4	czech
 nový	nový		4	czech
@@ -55164,7 +55188,6 @@ slat	slat	slat	4	english
 ▁žeb	▁žeb		4	czech
 ▁Tím	▁Tím		4	czech
 nior	nior	nior	4	english
-čice	ice	ice	4	english
 Toto	Toto	Toto	4	english
 tská	tská		4	czech
 Kraj	Kraj	Kraj	4	english
@@ -55331,7 +55354,6 @@ stoj	stoj		4	NULL
 těch	tch		4	swedish
 ▁Kde	▁Kde		4	czech
 ▁dvo	▁dvo		4	czech
-člen	len		4	russian
 vými	vými		4	czech
 ▁Sko	▁Sko	▁Sko	4	english
 inek	inek		4	hungarian
@@ -55354,7 +55376,7 @@ klop	klop		4	german
 ▁zvě	▁zvě		4	czech
 těže	těže		4	czech
 ▁ona	▁ona		4	turkish
-nJak	nJak		4	czech
+nJak	nJak		4	code
 ▁oka	▁oka		4	NULL
 enek	enek		4	polish
 ▁Kři	▁Kři		4	czech
@@ -55362,6 +55384,7 @@ gion	gion	gion	4	english
 řich	řich		4	czech
 ▁utr	▁utr		4	norwegian
 ňové	ňové		4	czech
+Česko	esko		4	slovak
 jede	jede		4	german
 Jsou	Jsou		4	czech
 bílá	bílá		4	czech
@@ -55421,7 +55444,6 @@ idla	idla		4	czech
 ▁Zav	▁Zav	▁Zav	4	english
 ▁brz	▁brz		4	czech
 ▁sme	▁sme	▁sme	4	english
-Člen	len		4	russian
 ▁Obě	▁Obě		4	czech
 zové	zové		4	czech
 nalo	nalo	nalo	4	english
@@ -55604,7 +55626,7 @@ může	může		4	czech
 ▁Tlu	▁Tlu	▁Tlu	4	english
 Úřad	Úřad		4	czech
 ▁zně	▁zně		4	czech
-nNej	nNej		4	slovak
+nNej	nNej		4	code
 ▁zře	▁zře		4	czech
 dělo	dlo	dlo	4	english
 jový	jový		4	slovak
@@ -55734,6 +55756,7 @@ dnou	dnou	dnou	4	english
 Nepo	Nepo	Nepo	4	english
 mezi	mezi		4	czech
 vati	vati	vati	4	english
+savač	sava	sava	4	english
 bale	bale	bale	4	english
 koru	koru	koru	4	english
 bílé	bílé		4	czech
@@ -55797,7 +55820,6 @@ orní	orní		4	czech
 Vina	Vina	Vina	4	english
 krok	krok	krok	4	english
 Ubyt	Ubyt		4	finnish
-čkov	kov		4	lithuanian
 sách	sách		4	czech
 vány	vány		4	hungarian
 šina	šina		4	slovenian
@@ -55896,6 +55918,7 @@ seni	seni		4	turkish
 ▁Vrá	▁Vrá		4	portuguese
 ▁zák	▁zák		4	czech
 Spor	Spor	Spor	4	english
+Černo	erno	erno	4	english
 ▁Vyd	▁Vyd	▁Vyd	4	english
 átní	átní		4	czech
 Byli	Byli		4	czech
@@ -56050,7 +56073,6 @@ ivně	ivn	ivn	4	english
 rman	rman	rman	4	english
 rádi	rádi		4	czech
 ▁dél	▁dél		4	hungarian
-proč	pro		4	german
 ▁tát	▁tát		4	hungarian
 droj	droj		4	NULL
 malý	malý		4	czech
@@ -56060,7 +56082,6 @@ malo	malo		4	french
 ▁vam	▁vam		4	turkish
 ▁Žal	▁Žal		4	slovenian
 malá	malá		4	spanish
-Čech	ech	ech	4	english
 ▁kaz	▁kaz	▁kaz	4	english
 tady	tady		4	turkish
 ▁Tém	▁Tém		4	portuguese
@@ -56765,7 +56786,7 @@ onya	onya	onya	4	english
 lése	lése		4	hungarian
 jába	jába		4	hungarian
 ▁elb	▁elb	▁elb	4	english
-nEgy	nEgy		4	hungarian
+nEgy	nEgy		4	code
 Első	Első		4	hungarian
 ▁mél	▁mél		4	hungarian
 ▁Áll	▁Áll		4	hungarian
@@ -56884,7 +56905,7 @@ Adat	Adat		4	dutch
 köny	köny		4	hungarian
 ▁Lég	▁Lég		4	hungarian
 észe	észe		4	hungarian
-nNem	nNem		4	hungarian
+nNem	nNem		4	code
 idej	idej		4	hungarian
 ▁Gép	▁Gép		4	hungarian
 ▁Hid	▁Hid	▁Hid	4	english
@@ -56971,7 +56992,7 @@ négy	négy		4	hungarian
 ▁ősi	▁ősi		4	hungarian
 ▁Fém	▁Fém		4	portuguese
 Régi	Régi		4	french
-nMeg	nMeg	nMeg	4	english
+nMeg	nMeg		4	code
 ▁Tűz	▁Tűz		4	hungarian
 Föld	Föld		4	hungarian
 akás	akás		4	hungarian
@@ -57577,7 +57598,7 @@ nter	nter		4	persian
 cncn	cncn		4	french
 OCCc	OCCc	OCCc	4	english
 -].?	-].?		4	NULL
-BrCc	BrCc	BrCc	4	english
+BrCc	BrCc		4	NULL
 ▁OCc	▁OCc	▁OCc	4	english
 ▁CCn	▁CCn	▁CCn	4	english
 tolu	tolu		4	polish
@@ -60136,7 +60157,6 @@ skim	skim	skim	4	english
 ▁mre	▁mre	▁mre	4	english
 vodi	vodi		4	slovenian
 ▁Срп	▁Срп		4	russian
-čkog	kog		4	NULL
 kada	kada		4	serbian
 ▁чла	▁чла		4	russian
 нија	нија		4	russian
@@ -60145,14 +60165,13 @@ kada	kada		4	serbian
 јући	јући		4	russian
 штво	штво		4	russian
 изво	изво		4	russian
-▁BiH	▁BiH	▁BiH	4	english
+▁BiH	▁BiH		4	croatian
 riji	riji		4	croatian
 лија	лија		4	russian
 vnog	vnog		4	NULL
 drža	drža		4	croatian
 vnom	vnom		4	serbian
 ▁rea	▁rea	▁rea	4	english
-čija	ija		4	slovenian
 мбар	мбар		4	russian
 штва	штва		4	russian
 više	više		4	NULL
@@ -60165,15 +60184,12 @@ Napo	Napo	Napo	4	english
 ▁фил	▁фил		4	russian
 ▁јер	▁јер		4	russian
 сије	сије		4	russian
-čkih	kih		4	NULL
 вају	вају		4	russian
 ▁вој	▁вој		4	russian
 годи	годи		4	russian
 фија	фија		4	russian
 ▁већ	▁већ		4	russian
 dnje	dnje		4	NULL
-čima	ima		4	serbian
-čkom	kom		4	swedish
 чког	чког		4	russian
 ▁иза	▁иза		4	russian
 Kako	Kako		4	serbian
@@ -60184,7 +60200,6 @@ Kako	Kako		4	serbian
 ▁deo	▁deo	▁deo	4	english
 ▁čla	▁čla		4	slovenian
 ▁ume	▁ume		4	indonesian
-čkim	kim	kim	4	english
 viru	viru		4	polish
 рима	рима		4	russian
 nske	nske		4	danish
@@ -60194,7 +60209,6 @@ nske	nske		4	danish
 сија	сија		4	russian
 мбра	мбра		4	russian
 нска	нска		4	russian
-čkoj	koj		4	NULL
 нске	нске		4	russian
 dnja	dnja		4	NULL
 vnih	vnih		4	NULL
@@ -60209,6 +60223,7 @@ raju	raju	raju	4	english
 ▁odu	▁odu		4	polish
 чких	чких		4	russian
 вању	вању		4	russian
+čitaj	itaj		4	NULL
 mogu	mogu		4	serbian
 ▁vje	▁vje		4	croatian
 воји	воји		4	russian
@@ -60235,7 +60250,6 @@ jske	jske		4	slovenian
 žimo	žimo		4	lithuanian
 ▁сај	▁сај		4	russian
 ntar	ntar		4	persian
-čnih	nih		4	NULL
 ▁мај	▁мај		4	russian
 lnih	lnih		4	serbian
 ▁upu	▁upu	▁upu	4	english
@@ -60254,15 +60268,12 @@ vnim	vnim		4	NULL
 njen	njen		4	serbian
 нтар	нтар		4	russian
 лазе	лазе		4	russian
-čnog	nog		4	dutch
 жење	жење		4	russian
 лије	лије		4	russian
-čnim	nim		4	finnish
 више	више		4	russian
 tkom	tkom	tkom	4	english
 ђења	ђења		4	russian
 вије	вије		4	russian
-čnom	nom		4	french
 ▁тај	▁тај		4	russian
 вним	вним		4	russian
 ▁еко	▁еко		4	russian
@@ -60358,7 +60369,6 @@ Iako	Iako		4	NULL
 Како	Како		4	russian
 мија	мија		4	russian
 шења	шења		4	russian
-čnoj	noj		4	NULL
 jima	jima	jima	4	english
 лном	лном		4	russian
 gori	gori		4	italian
@@ -60691,7 +60701,6 @@ budu	budu	budu	4	english
 број	број		4	russian
 већа	већа		4	russian
 кохо	кохо		4	russian
-čini	ini		4	indonesian
 шким	шким		4	russian
 ▁кућ	▁кућ		4	russian
 стог	стог		4	russian
@@ -60727,6 +60736,7 @@ toli	toli	toli	4	english
 рада	рада		4	russian
 вачи	вачи		4	russian
 ▁дин	▁дин		4	russian
+činje	inje	inje	4	english
 pore	pore	pore	4	english
 чији	чији		4	russian
 чују	чују		4	russian
@@ -60767,7 +60777,6 @@ Nove	Nove	Nove	4	english
 ▁мом	▁мом		4	russian
 жемо	жемо		4	russian
 мско	мско		4	russian
-čiji	iji	iji	4	english
 ▁рет	▁рет		4	russian
 вате	вате		4	russian
 међу	међу		4	russian
@@ -61027,7 +61036,6 @@ zane	zane		4	dutch
 виши	виши		4	russian
 ауто	ауто		4	russian
 која	која		4	russian
-čeka	eka		4	NULL
 ▁веш	▁веш		4	russian
 тими	тими		4	russian
 стих	стих		4	russian
@@ -61098,6 +61106,7 @@ ovih	ovih		4	malay
 dnos	dnos		4	NULL
 Дија	Дија		4	russian
 ovoj	ovoj		4	serbian
+člana	lana	lana	4	english
 ▁Бој	▁Бој		4	russian
 vrlo	vrlo	vrlo	4	english
 Мили	Мили		4	russian
@@ -61129,7 +61138,6 @@ moja	moja		4	polish
 ▁окр	▁окр		4	russian
 ▁кај	▁кај		4	russian
 ▁Đan	▁Đan		4	vietnamese
-čega	ega		4	german
 почи	почи		4	russian
 обја	обја		4	russian
 ▁пеш	▁пеш		4	russian
@@ -63688,7 +63696,7 @@ Kính	Kính		4	vietnamese
 Tiện	Tiện		4	vietnamese
 ▁Đảo	▁Đảo		4	vietnamese
 Cuộc	Cuộc		4	vietnamese
-nSau	nSau	nSau	4	english
+nSau	nSau		4	code
 ▁Phù	▁Phù		4	NULL
 ▁Phủ	▁Phủ		4	vietnamese
 ▁lứa	▁lứa		4	dutch
@@ -63905,7 +63913,7 @@ Hoặc	Hoặc		4	vietnamese
 ▁đạc	▁đạc		4	vietnamese
 ▁CẦU	▁CẦU	▁CẦU	4	english
 ▁Nằm	▁Nằm	▁Nằm	4	english
-nThứ	nThứ		4	vietnamese
+nThứ	nThứ		4	code
 iểm	iểm		4	vietnamese
 Hiệu	Hiệu		4	vietnamese
 Truy	Truy	Truy	4	english
@@ -63927,7 +63935,7 @@ bóng	bóng	bóng	4	english
 ▁Cực	▁Cực		4	vietnamese
 ▁bạt	▁bạt	▁bạt	4	english
 ▁ngự	▁ngự		4	vietnamese
-nKhi	nKhi	nKhi	4	english
+nKhi	nKhi		4	code
 Nhật	Nhật		4	vietnamese
 Nhìn	Nhìn		4	vietnamese
 ▁Gọi	▁Gọi	▁Gọi	4	english
@@ -64060,7 +64068,7 @@ Ngọc	Ngọc		4	vietnamese
 Đúng	Đúng		4	vietnamese
 ▁băm	▁băm		4	vietnamese
 ▁đạm	▁đạm		4	vietnamese
-nTuy	nTuy	nTuy	4	english
+nTuy	nTuy		4	code
 ▁đòn	▁đòn		4	vietnamese
 ▁BẢN	▁BẢN		4	german
 ▁lặn	▁lặn	▁lặn	4	english
@@ -64117,7 +64125,7 @@ nhat	nhat		4	french
 ▁QUẢ	▁QUẢ	▁QUẢ	4	english
 ▁Sát	▁Sát		4	hungarian
 ▁TỐT	▁TỐT		4	spanish
-nXem	nXem	nXem	4	english
+nXem	nXem		4	code
 ▁lột	▁lột		4	vietnamese
 ▁wap	▁wap	▁wap	4	english
 Chân	Chân		4	vietnamese
@@ -64168,7 +64176,7 @@ Thân	Thân		4	vietnamese
 giao	giao		4	italian
 ▁Tóc	▁Tóc		4	spanish
 ▁tồi	▁tồi		4	czech
-nGiá	nGiá		4	czech
+nGiá	nGiá		4	code
 Trời	Trời		4	vietnamese
 ▁THỂ	▁THỂ	▁THỂ	4	english
 ▁Nhớ	▁Nhớ		4	vietnamese
@@ -64569,7 +64577,7 @@ giảm	giảm		4	vietnamese
 ▁HTX	▁HTX	▁HTX	4	english
 Băng	Bng		4	hungarian
 hien	hien		4	german
-nNhư	nNhư		4	vietnamese
+nNhư	nNhư		4	code
 ▁Tôm	▁Tôm		4	french
 GIAO	GIAO		4	german
 tổng	tổng	tổng	4	english
@@ -64823,7 +64831,7 @@ Thảm	Thảm		4	vietnamese
 ▁Sưu	▁Sưu	▁Sưu	4	english
 kiem	kiem		4	dutch
 ▁CHẾ	▁CHẾ	▁CHẾ	4	english
-nCho	nCho	nCho	4	english
+nCho	nCho		4	code
 ▁Doi	▁Doi	▁Doi	4	english
 ▁hộ	▁hộ		4	french
 Phúc	Phúc		4	vietnamese
@@ -65024,7 +65032,7 @@ Sông	Sông		4	vietnamese
 ▁Nêu	▁Nêu		4	vietnamese
 ▁Đak	▁Đak		4	vietnamese
 ▁LỜI	▁LỜI	▁LỜI	4	english
-nChi	nChi		4	italian
+nChi	nChi		4	code
 ▁HỎI	▁HỎI	▁HỎI	4	english
 Ngồi	Ngồi		4	vietnamese
 ▁hèn	▁hèn		4	NULL
@@ -65115,7 +65123,7 @@ Dinh	Dinh	Dinh	4	english
 Phật	Phật		4	vietnamese
 toàn	toàn		4	vietnamese
 ▁Đà	▁Đà		4	vietnamese
-nGia	nGia	nGia	4	english
+nGia	nGia		4	code
 ▁Có	▁Có		4	russian
 doan	doan	doan	4	english
 Kiều	Kiều		4	vietnamese
@@ -66756,7 +66764,7 @@ cover	cover	cover	5	english
 Files	Files	Files	5	english
 ▁feed	▁feed	▁feed	5	english
 async	async		5	NULL
-spNet	spNet	spNet	5	english
+spNet	spNet		5	code
 fetch	fetch	fetch	5	english
 ▁role	▁role	▁role	5	english
 ▁arch	▁arch	▁arch	5	english
@@ -67302,7 +67310,7 @@ gamma	gamma	gamma	5	english
 cimal	cimal		5	italian
 ▁Free	▁Free	▁Free	5	english
 there	there	there	5	english
-getId	getId		5	dutch
+getId	getId		5	code
 Which	Which	Which	5	english
 paper	paper	paper	5	english
 erved	erved	erved	5	english
@@ -68344,7 +68352,7 @@ usual	usual	usual	5	english
 Raise	Raise	Raise	5	english
 ▁Clip	▁Clip	▁Clip	5	english
 "/></	"/></		5	NULL
-▁iPad	▁iPad	▁iPad	5	english
+▁iPad	▁iPad		5	code
 ▁warp	▁warp	▁warp	5	english
 ▁Land	▁Land	▁Land	5	english
 ▁eine	▁eine		5	german
@@ -68500,7 +68508,7 @@ Earth	Earth	Earth	5	english
 Hotel	Hotel	Hotel	5	english
 Happy	Happy	Happy	5	english
 ▁Mage	▁Mage	▁Mage	5	english
-setOn	setOn	setOn	5	english
+setOn	setOn		5	code
 ▁Flex	▁Flex	▁Flex	5	english
 Solid	Solid	Solid	5	english
 ▁fear	▁fear	▁fear	5	english
@@ -68532,7 +68540,7 @@ liner	liner	liner	5	english
 swift	swift	swift	5	english
 Serve	Serve	Serve	5	english
 Later	Later	Later	5	english
-setUp	setUp	setUp	5	english
+setUp	setUp		5	code
 ▁perf	▁perf		5	french
 ▁hurt	▁hurt	▁hurt	5	english
 ▁knot	▁knot	▁knot	5	english
@@ -69243,7 +69251,7 @@ shade	shade	shade	5	english
 ▁rude	▁rude	▁rude	5	english
 Atten	Atten	Atten	5	english
 among	among	among	5	english
-▁iPod	▁iPod	▁iPod	5	english
+▁iPod	▁iPod		5	code
 court	court	court	5	english
 ▁beef	▁beef	▁beef	5	english
 ▁bent	▁bent		5	dutch
@@ -69412,7 +69420,7 @@ antly	antly	antly	5	english
 ▁Mile	▁Mile	▁Mile	5	english
 aleph	aleph	aleph	5	english
 ▁Wang	▁Wang	▁Wang	5	english
-sList	sList	sList	5	english
+sList	sList		5	code
 Brief	Brief		5	german
 quadr	quadr		5	italian
 ▁euro	▁euro	▁euro	5	english
@@ -69554,7 +69562,7 @@ rando	rando	rando	5	english
 ▁Pour	▁Pour		5	french
 прави	прави		5	russian
 ▁getB	▁getB	▁getB	5	english
-getIn	getIn	getIn	5	english
+getIn	getIn		5	code
 rvert	rvert	rvert	5	english
 ▁Insp	▁Insp	▁Insp	5	english
 Scott	Scott	Scott	5	english
@@ -70321,7 +70329,7 @@ inche	inche	inche	5	english
 ▁Noel	▁Noel	▁Noel	5	english
 ▁spun	▁spun		5	norwegian
 ▁chic	▁chic	▁chic	5	english
-▁eBay	▁eBay		5	serbian
+▁eBay	▁eBay		5	code
 ▁glor	▁glor	▁glor	5	english
 ophys	ophys	ophys	5	english
 ▁unim	▁unim	▁unim	5	english
@@ -70873,7 +70881,7 @@ ielle	ielle		5	latvian
 ▁Spit	▁Spit	▁Spit	5	english
 ▁Sond	▁Sond		5	german
 ▁Isla	▁Isla		5	spanish
-▁NaCl	▁NaCl	▁NaCl	5	english
+▁NaCl	▁NaCl		5	spanish
 ▁bale	▁bale	▁bale	5	english
 ▁fron	▁fron	▁fron	5	english
 liced	liced	liced	5	english
@@ -71093,14 +71101,14 @@ cfrac	cfrac	cfrac	5	english
 assum	assum	assum	5	english
 olumn	olumn		5	turkish
 ▁$$(\	▁$$(\		5	NULL
-arXiv	arXiv	arXiv	5	english
+arXiv	arXiv		5	code
 ▁elli	▁elli		5	french
 }}}{\	}}}{\		5	NULL
 widet	widet	widet	5	english
 bolev	bolev	bolev	5	english
 }}^{\	}}^{\		5	NULL
 pears	pears	pears	5	english
-lVert	lVert	lVert	5	english
+lVert	lVert		5	code
 ▁kine	▁kine	▁kine	5	english
 ▁Weyl	▁Weyl	▁Weyl	5	english
 }{,}{	}{,}{		5	NULL
@@ -74389,14 +74397,14 @@ mlich	mlich		5	NULL
 ▁hält	▁hält		5	german
 karte	karte		5	german
 ▁Idee	▁Idee	▁Idee	5	english
-nNach	nNach		5	german
+nNach	nNach		5	code
 ▁nahe	▁nahe		5	german
 ▁tats	▁tats		5	NULL
 ▁Städ	▁Städ		5	german
 hause	hause		5	german
 ▁hohe	▁hohe	▁hohe	5	english
 ▁Dazu	▁Dazu	▁Dazu	5	english
-nWenn	nWenn		5	NULL
+nWenn	nWenn		5	code
 ▁dank	▁dank		5	german
 ▁Krit	▁Krit	▁Krit	5	english
 ▁Allt	▁Allt		5	NULL
@@ -74445,7 +74453,7 @@ ligen	ligen	ligen	5	english
 ▁Blau	▁Blau		5	german
 ▁Leip	▁Leip	▁Leip	5	english
 ▁acht	▁acht		5	dutch
-nEine	nEine		5	polish
+nEine	nEine		5	code
 ölker	ölker		5	turkish
 ▁Dein	▁Dein	▁Dein	5	english
 ▁Beim	▁Beim	▁Beim	5	english
@@ -74458,7 +74466,7 @@ Spiel	Spiel		5	german
 ▁Kühl	▁Kühl		5	german
 istik	istik		5	german
 swert	swert		5	german
-nAuch	nAuch	nAuch	5	english
+nAuch	nAuch		5	code
 ▁Euch	▁Euch	▁Euch	5	english
 Gesch	Gesch		5	german
 illig	illig		5	norwegian
@@ -74579,7 +74587,7 @@ lager	lager		5	german
 ▁lieb	▁lieb		5	french
 sucht	sucht		5	german
 hnung	hnung		5	german
-nHier	nHier		5	french
+nHier	nHier		5	code
 ▁Prüf	▁Prüf		5	german
 ▁eins	▁eins		5	german
 ▁haus	▁haus		5	german
@@ -74642,14 +74650,14 @@ Heute	Heute		5	german
 ▁kauf	▁kauf		5	german
 Kreis	Kreis		5	german
 ▁trau	▁trau	▁trau	5	english
-nAber	nAber	nAber	5	english
+nAber	nAber		5	code
 ▁Nerv	▁Nerv	▁Nerv	5	english
 ▁häuf	▁häuf		5	german
 Bitte	Bitte		5	german
 Nicht	Nicht		5	german
 Daten	Daten		5	german
 ▁unge	▁unge		5	german
-nSeit	nSeit		5	german
+nSeit	nSeit		5	code
 ▁Duft	▁Duft	▁Duft	5	english
 schuh	schuh		5	german
 ▁Tore	▁Tore		5	german
@@ -74662,7 +74670,7 @@ Meine	Meine	Meine	5	english
 ▁halb	▁halb		5	german
 ▁Fehl	▁Fehl	▁Fehl	5	english
 feuer	feuer		5	german
-nAlle	nAlle	nAlle	5	english
+nAlle	nAlle		5	code
 ▁Kons	▁Kons	▁Kons	5	english
 waren	waren		5	german
 ▁spät	▁spät		5	german
@@ -74753,7 +74761,7 @@ endel	endel	endel	5	english
 ▁Brau	▁Brau	▁Brau	5	english
 Farbe	Farbe		5	german
 Größe	Größe		5	german
-nHome	nHome	nHome	5	english
+nHome	nHome		5	code
 Leben	Leben		5	german
 ▁dick	▁dick		5	NULL
 ▁Jede	▁Jede		5	danish
@@ -74770,11 +74778,11 @@ ehend	ehend		5	german
 ▁Jörg	▁Jörg		5	german
 sagen	sagen		5	german
 ▁buch	▁buch	▁buch	5	english
-nAlso	nAlso	nAlso	5	english
+nAlso	nAlso		5	code
 ietet	ietet		5	dutch
 ▁gelb	▁gelb		5	turkish
 Damen	Damen	Damen	5	english
-nBeim	nBeim	nBeim	5	english
+nBeim	nBeim		5	code
 genau	genau	genau	5	english
 ierst	ierst		5	italian
 menge	menge		5	malay
@@ -74828,13 +74836,13 @@ regal	regal	regal	5	english
 ▁seri	▁seri	▁seri	5	english
 ▁Akte	▁Akte		5	german
 ▁lern	▁lern		5	NULL
-nMein	nMein	nMein	5	english
+nMein	nMein		5	code
 Frage	Frage		5	german
 ▁komm	▁komm		5	swedish
 Hilfe	Hilfe		5	german
 atien	atien		5	dutch
 Suche	Suche	Suche	5	english
-nViel	nViel		5	german
+nViel	nViel		5	code
 werde	werde		5	german
 Natur	Natur		5	german
 itäts	itäts		5	german
@@ -74846,7 +74854,7 @@ Fotos	Fotos		5	german
 ▁Zell	▁Zell	▁Zell	5	english
 wirkt	wirkt		5	german
 ▁Begr	▁Begr		5	german
-nDann	nDann	nDann	5	english
+nDann	nDann		5	code
 Marke	Marke	Marke	5	english
 ▁Kalk	▁Kalk		5	german
 ▁entz	▁entz	▁entz	5	english
@@ -74903,7 +74911,7 @@ Trotz	Trotz	Trotz	5	english
 Klass	Klass		5	german
 schüt	schüt		5	german
 andin	andin	andin	5	english
-nSehr	nSehr	nSehr	5	english
+nSehr	nSehr		5	code
 ▁Glei	▁Glei	▁Glei	5	english
 Gegen	Gegen	Gegen	5	english
 ▁zust	▁zust		5	german
@@ -74930,7 +74938,7 @@ Licht	Licht		5	german
 echte	echte		5	german
 terte	terte	terte	5	english
 mögen	mögen		5	german
-nDies	nDies	nDies	5	english
+nDies	nDies		5	code
 Schau	Schau	Schau	5	english
 etwas	etwas		5	german
 swahl	swahl		5	german
@@ -74943,9 +74951,9 @@ elekt	elekt		5	norwegian
 ▁Pfle	▁Pfle	▁Pfle	5	english
 iesen	iesen		5	dutch
 Falls	Falls	Falls	5	english
-nBild	nBild		5	german
+nBild	nBild		5	code
 ▁stol	▁stol	▁stol	5	english
-nZwei	nZwei		5	german
+nZwei	nZwei		5	code
 fekte	fekte		5	german
 Außen	Außen		5	german
 ▁haar	▁haar		5	dutch
@@ -75018,7 +75026,7 @@ emand	emand		5	NULL
 ▁Hirn	▁Hirn	▁Hirn	5	english
 ▁luft	▁luft		5	norwegian
 ▁Prax	▁Prax	▁Prax	5	english
-nTags	nTags	nTags	5	english
+nTags	nTags		5	code
 große	große		5	german
 ▁Laub	▁Laub	▁Laub	5	english
 ▁Dopp	▁Dopp		5	german
@@ -75211,7 +75219,7 @@ unser	unser	unser	5	english
 ▁Saug	▁Saug	▁Saug	5	english
 Tarif	Tarif	Tarif	5	english
 ▁Leut	▁Leut		5	french
-nVers	nVers	nVers	5	english
+nVers	nVers		5	code
 ▁blut	▁blut	▁blut	5	english
 weste	weste	weste	5	english
 Grill	Grill	Grill	5	english
@@ -75361,7 +75369,7 @@ Lokal	Lokal		5	german
 trieb	trieb		5	german
 ▁Hebe	▁Hebe	▁Hebe	5	english
 egion	egion		5	NULL
-nSchl	nSchl	nSchl	5	english
+nSchl	nSchl		5	code
 Sturm	Sturm		5	german
 jeden	jeden		5	german
 Bühne	Bühne		5	german
@@ -75401,7 +75409,7 @@ Grenz	Grenz	Grenz	5	english
 ▁auft	▁auft		5	german
 knapp	knapp		5	german
 Angst	Angst		5	dutch
-nSchw	nSchw	nSchw	5	english
+nSchw	nSchw		5	code
 sstra	sstra		5	german
 ▁Gele	▁Gele	▁Gele	5	english
 klare	klare		5	german
@@ -75530,7 +75538,7 @@ werbs	werbs		5	german
 Regal	Regal	Regal	5	english
 eschw	eschw		5	spanish
 deine	deine		5	german
-nMiet	nMiet	nMiet	5	english
+nMiet	nMiet		5	code
 Masse	Masse	Masse	5	english
 linke	linke	linke	5	english
 Zweck	Zweck		5	dutch
@@ -75632,7 +75640,6 @@ ující	ující		5	czech
 ujeme	ujeme		5	slovak
 ▁zdra	▁zdra		5	german
 ▁celé	▁celé		5	hungarian
-četně	etn		5	NULL
 ▁mají	▁mají		5	czech
 ▁obje	▁obje		5	czech
 ▁nové	▁nové		5	czech
@@ -75925,6 +75932,7 @@ ináší	ináší		5	czech
 ▁doby	▁doby		5	hungarian
 ▁času	▁času		5	czech
 ▁typu	▁typu		5	polish
+bezpeč	bezpe		5	NULL
 ▁nová	▁nová		5	czech
 ▁vaši	▁vaši		5	slovenian
 ▁přij	▁přij		5	czech
@@ -75955,7 +75963,6 @@ nline	nline	nline	5	english
 ▁sice	▁sice		5	german
 ▁méně	▁méně		5	czech
 ▁popu	▁popu		5	turkish
-čnost	nost		5	czech
 ▁řady	▁řady		5	czech
 ▁voda	▁voda		5	slovenian
 ▁týmu	▁týmu		5	czech
@@ -76316,6 +76323,7 @@ entní	entní		5	czech
 ▁třet	▁třet		5	czech
 Město	Msto		5	spanish
 ▁Děti	▁Děti		5	czech
+čnosti	nosti		5	czech
 ▁cíle	▁cíle		5	czech
 ▁daně	▁daně		5	czech
 Český	Český		5	czech
@@ -76463,7 +76471,6 @@ skopi	skopi		5	indonesian
 ▁nevz	▁nevz		5	russian
 ▁Člen	▁Člen		5	croatian
 ▁daný	▁daný		5	slovak
-Česko	esko		5	slovak
 ▁únor	▁únor		5	czech
 měrně	mrn	mrn	5	english
 pouze	pouze		5	french
@@ -76625,6 +76632,7 @@ Milan	Milan		5	italian
 ▁záně	▁záně		5	czech
 ▁mali	▁mali	▁mali	5	english
 ▁chov	▁chov		5	czech
+čujeme	ujeme		5	slovak
 Velký	Velký		5	czech
 ▁Téma	▁Téma		5	french
 ▁CENA	▁CENA	▁CENA	5	english
@@ -76693,6 +76701,7 @@ modrá	modrá		5	portuguese
 ▁smys	▁smys	▁smys	5	english
 knihy	knihy		5	czech
 stojí	stojí		5	czech
+červen	erven	erven	5	english
 ▁Slev	▁Slev		5	NULL
 ▁Chrá	▁Chrá		5	slovak
 čníku	čníku		5	czech
@@ -76831,13 +76840,13 @@ dosti	dosti		5	czech
 nejen	nejen		5	danish
 třída	třída		5	czech
 Zákon	Zákon		5	czech
-savač	sava	sava	5	english
 rávně	rávně		5	czech
 škola	škola		5	slovak
 Zadat	Zadat		5	french
 herní	herní		5	czech
 komen	komen		5	NULL
 ▁kous	▁kous		5	czech
+společ	spole		5	czech
 ▁Nemo	▁Nemo		5	NULL
 Sokol	Sokol		5	french
 název	název		5	czech
@@ -76937,7 +76946,6 @@ města	msta	msta	5	english
 zápas	zápas		5	czech
 Recen	Recen		5	french
 kurzy	kurzy		5	polish
-Černo	erno	erno	5	english
 ▁Žele	▁Žele		5	slovenian
 možná	možná		5	czech
 ▁vyta	▁vyta		5	swedish
@@ -77088,6 +77096,7 @@ cyklo	cyklo		5	czech
 ▁Poko	▁Poko		5	malay
 ▁pení	▁pení		5	czech
 práci	práci		5	czech
+června	ervna		5	czech
 ▁prům	▁prům		5	czech
 komat	komat		5	lithuanian
 ▁Vali	▁Vali	▁Vali	5	english
@@ -78762,7 +78771,7 @@ CCOCc	CCOCc	CCOCc	5	english
 enoxy	enoxy	enoxy	5	english
 -[[[(	-[[[(		5	NULL
 COCOc	COCOc	COCOc	5	english
-▁BrCc	▁BrCc	▁BrCc	5	english
+▁BrCc	▁BrCc		5	NULL
 aceto	aceto	aceto	5	english
 CCCCn	CCCCn	CCCCn	5	english
 CCCNc	CCCNc	CCCNc	5	english
@@ -80701,6 +80710,7 @@ Danas	Danas	Danas	5	english
 ▁njih	▁njih		5	slovenian
 vanju	vanju		5	croatian
 ▁виси	▁виси		5	russian
+članak	lanak		5	malay
 ▁onda	▁onda		5	dutch
 ▁дода	▁дода		5	russian
 Према	Према		5	russian
@@ -80739,7 +80749,6 @@ Posle	Posle	Posle	5	english
 ▁tada	▁tada		5	german
 ▁vode	▁vode		5	croatian
 време	време		5	russian
-čitaj	itaj		5	NULL
 ▁овај	▁овај		5	russian
 ▁čega	▁čega		5	czech
 ▁буде	▁буде		5	russian
@@ -81081,6 +81090,7 @@ bolji	bolji		5	serbian
 ▁дете	▁дете		5	russian
 рства	рства		5	russian
 ▁Вучи	▁Вучи		5	russian
+čekuje	ekuje		5	polish
 Posla	Posla	Posla	5	english
 лужбе	лужбе		5	russian
 ▁селу	▁селу		5	russian
@@ -81288,7 +81298,6 @@ Treba	Treba		5	serbian
 ▁чува	▁чува		5	russian
 ▁неку	▁неку		5	russian
 stite	stite		5	german
-činje	inje	inje	5	english
 ▁њена	▁њена		5	russian
 Назив	Назив		5	russian
 Хвала	Хвала		5	russian
@@ -81621,7 +81630,6 @@ rekao	rekao		5	serbian
 Затим	Затим		5	russian
 ▁пета	▁пета		5	russian
 dalje	dalje		5	norwegian
-člana	lana	lana	5	english
 ▁заје	▁заје		5	russian
 хрони	хрони		5	russian
 ▁Deli	▁Deli	▁Deli	5	english
@@ -83384,7 +83392,7 @@ Tuyển	Tuyển		5	vietnamese
 ▁Kiến	▁Kiến		5	vietnamese
 ▁Bạch	▁Bạch		5	japanese
 ▁trộm	▁trộm		5	lithuanian
-nTheo	nTheo	nTheo	5	english
+nTheo	nTheo		5	code
 Đường	Đường		5	vietnamese
 ▁chùa	▁chùa		5	vietnamese
 ▁Thụy	▁Thụy	▁Thụy	5	english
@@ -83494,7 +83502,7 @@ Quảng	Quảng		5	vietnamese
 ▁vắng	▁vắng		5	vietnamese
 ▁THCS	▁THCS	▁THCS	5	english
 ▁Đừng	▁Đừng		5	vietnamese
-hipTo	hipTo	hipTo	5	english
+hipTo	hipTo		5	code
 ▁Dược	▁Dược		5	vietnamese
 ▁cống	▁cống		5	vietnamese
 ▁ngơi	▁ngơi		5	vietnamese
@@ -83726,7 +83734,7 @@ TLINE	TLINE		5	japanese
 Chiếc	Chiếc		5	vietnamese
 ▁đắng	▁đắng		5	vietnamese
 ▁hoài	▁hoài		5	vietnamese
-nNgày	nNgày		5	vietnamese
+nNgày	nNgày		5	code
 ▁Viễn	▁Viễn		5	vietnamese
 ▁Nhìn	▁Nhìn		5	vietnamese
 ▁thon	▁thon	▁thon	5	english
@@ -83978,7 +83986,7 @@ Chuẩn	Chuẩn	Chuẩn	5	english
 ▁Dinh	▁Dinh	▁Dinh	5	english
 ▁ghen	▁ghen	▁ghen	5	english
 ▁ngài	▁ngài		5	vietnamese
-nTrên	nTrên		5	vietnamese
+nTrên	nTrên		5	code
 ▁khít	▁khít		5	hungarian
 ▁Trạm	▁Trạm	▁Trạm	5	english
 ▁Thìn	▁Thìn		5	vietnamese
@@ -85642,7 +85650,7 @@ pename	pename	pen ame	6	english
 socket	socket	socket	6	english
 center	center	center	6	english
 ▁pixel	▁pixel	▁pixel	6	english
-ignKey	ignKey	ign Key	6	english
+ignKey	ignKey		6	code
 ▁activ	▁activ		6	NULL
 ▁thing	▁thing	▁thing	6	english
 ▁divis	▁divis		6	french
@@ -85770,7 +85778,7 @@ plugin	plugin	plugin	6	english
 Matrix	Matrix	Matrix	6	english
 ▁alpha	▁alpha	▁alpha	6	english
 ▁usage	▁usage	▁usage	6	english
-pTypes	pTypes	p Types	6	english
+pTypes	pTypes		6	code
 unique	unique		6	french
 equals	equals	equals	6	english
 ▁later	▁later	▁later	6	english
@@ -86124,7 +86132,7 @@ Runner	Runner	Runner	6	english
 ▁demon	▁demon	▁demon	6	english
 ▁crate	▁crate	▁crate	6	english
 ▁curve	▁curve	▁curve	6	english
-▁setUp	▁setUp	▁setUp	6	english
+▁setUp	▁setUp		6	code
 ▁comma	▁comma	▁comma	6	english
 ▁story	▁story	▁story	6	english
 before	before	before	6	english
@@ -86442,7 +86450,7 @@ CSharp	CSharp	C Sharp	6	english
 epochs	epochs	epochs	6	english
 ▁Price	▁Price	▁Price	6	english
 Circle	Circle	Circle	6	english
-▁NumPy	▁NumPy	▁NumPy	6	english
+▁NumPy	▁NumPy		6	NULL
 selves	selves	selves	6	english
 ▁Ident	▁Ident	▁Ident	6	english
 market	market	market	6	english
@@ -86911,7 +86919,7 @@ female	female	female	6	english
 ▁будет	▁будет		6	russian
 ▁alien	▁alien	▁alien	6	english
 ▁Guide	▁Guide	▁Guide	6	english
-getInt	getInt	get Int	6	english
+getInt	getInt		6	code
 ateral	ateral		6	NULL
 ▁sorry	▁sorry	▁sorry	6	english
 ▁climb	▁climb	▁climb	6	english
@@ -86977,7 +86985,7 @@ notice	notice		6	french
 Ensure	Ensure	Ensure	6	english
 ▁north	▁north	▁north	6	english
 cannot	cannot	cannot	6	english
-▁MySql	▁MySql	▁MySql	6	english
+▁MySql	▁MySql		6	japanese
 ▁loose	▁loose	▁loose	6	english
 LOGGER	LOGGER	LOGGER	6	english
 ▁young	▁young	▁young	6	english
@@ -87128,7 +87136,7 @@ Assume	Assume	Ass ume	6	english
 ▁Grade	▁Grade	▁Grade	6	english
 ▁verse	▁verse	▁verse	6	english
 ▁relat	▁relat	▁relat	6	english
-ItemId	ItemId	Item Id	6	english
+ItemId	ItemId		6	dutch
 ▁Organ	▁Organ	▁Organ	6	english
 ▁Proto	▁Proto	▁Proto	6	english
 steady	steady	steady	6	english
@@ -87153,7 +87161,7 @@ Newton	Newton	Newton	6	english
 ▁stair	▁stair		6	french
 Retrie	Retrie	Retr ie	6	english
 seller	seller	seller	6	english
-iPhone	iPhone	i Phone	6	english
+iPhone	iPhone		6	code
 fusion	fusion	fusion	6	english
 ▁curly	▁curly	▁curly	6	english
 ▁Genre	▁Genre	▁Genre	6	english
@@ -87323,7 +87331,7 @@ remain	remain	remain	6	english
 ▁flood	▁flood	▁flood	6	english
 ▁Serve	▁Serve	▁Serve	6	english
 ▁instr	▁instr	▁instr	6	english
-▁ImGui	▁ImGui	▁ImGui	6	english
+▁ImGui	▁ImGui		6	NULL
 ▁faith	▁faith		6	french
 ▁Sorry	▁Sorry	▁Sorry	6	english
 ▁civil	▁civil	▁civil	6	english
@@ -87941,7 +87949,7 @@ servic	servic	serv ic	6	english
 rypton	rypton	rypton	6	english
 ▁перед	▁перед		6	russian
 ▁acces	▁acces	▁acces	6	english
-▁arXiv	▁arXiv	▁arXiv	6	english
+▁arXiv	▁arXiv		6	code
 ▁psych	▁psych		6	polish
 ▁исход	▁исход		6	russian
 ▁crude	▁crude	▁crude	6	english
@@ -87982,7 +87990,7 @@ lative	lative	l ative	6	english
 multic	multic	mult ic	6	english
 ontrol	ontrol		6	dutch
 narrow	narrow	n arrow	6	english
-getLog	getLog	get Log	6	english
+getLog	getLog		6	code
 ▁вывод	▁вывод		6	russian
 erving	erving	erving	6	english
 Contro	Contro	Cont ro	6	english
@@ -91457,7 +91465,7 @@ Kunden	Kunden	K unden	6	english
 ▁Umzug	▁Umzug		6	german
 ▁Täter	▁Täter		6	german
 ▁wirst	▁wirst		6	german
-nDiese	nDiese		6	german
+nDiese	nDiese		6	code
 modell	modell		6	german
 tasche	tasche		6	italian
 ▁Wärme	▁Wärme		6	NULL
@@ -91589,7 +91597,7 @@ Ferien	Ferien		6	german
 schrau	schrau		6	german
 ▁relev	▁relev	▁relev	6	english
 ▁Kapit	▁Kapit	▁Kapit	6	english
-nHallo	nHallo	n Hallo	6	english
+nHallo	nHallo		6	code
 ▁Trink	▁Trink	▁Trink	6	english
 ▁zentr	▁zentr		6	french
 ▁Hitze	▁Hitze		6	german
@@ -91630,7 +91638,7 @@ Bilder	Bilder		6	german
 Archiv	Archiv		6	german
 ▁vorzu	▁vorzu		6	german
 ▁Rasen	▁Rasen		6	german
-nUnser	nUnser	n Unser	6	english
+nUnser	nUnser		6	code
 ▁Zweit	▁Zweit		6	german
 ▁Fremd	▁Fremd		6	dutch
 ▁Lokal	▁Lokal		6	german
@@ -91647,7 +91655,7 @@ freien	freien		6	german
 ▁Stift	▁Stift		6	german
 ▁schul	▁schul		6	german
 ▁Kamin	▁Kamin	▁Kamin	6	english
-nUnter	nUnter	n Unter	6	english
+nUnter	nUnter		6	code
 ▁Verbr	▁Verbr		6	german
 ▁Uhren	▁Uhren		6	german
 ▁Magen	▁Magen		6	german
@@ -91749,7 +91757,7 @@ Leider	Leider		6	german
 ▁Regal	▁Regal	▁Regal	6	english
 Letzte	Letzte		6	german
 Garten	Garten	G arten	6	english
-nViele	nViele		6	german
+nViele	nViele		6	code
 ▁Kette	▁Kette		6	german
 ▁Absch	▁Absch		6	french
 ▁Kohle	▁Kohle	▁Kohle	6	english
@@ -91801,7 +91809,7 @@ anisch	anisch		6	german
 ▁Lehre	▁Lehre		6	german
 Inhalt	Inhalt		6	german
 Landes	Landes		6	german
-nMeine	nMeine	n Meine	6	english
+nMeine	nMeine		6	code
 ▁Gummi	▁Gummi	▁Gummi	6	english
 ktions	ktions		6	german
 ▁Brems	▁Brems	▁Brems	6	english
@@ -91816,7 +91824,7 @@ Themen	Themen		6	french
 ▁Davon	▁Davon	▁Davon	6	english
 ▁Nebel	▁Nebel		6	german
 ▁Sucht	▁Sucht		6	german
-nBitte	nBitte	n Bitte	6	english
+nBitte	nBitte		6	code
 ▁übers	▁übers		6	german
 ▁zuges	▁zuges		6	german
 Wochen	Wochen		6	german
@@ -91852,7 +91860,7 @@ Doppel	Doppel		6	german
 ▁harte	▁harte	▁harte	6	english
 Schwei	Schwei		6	german
 Nummer	Nummer		6	german
-nGesch	nGesch		6	german
+nGesch	nGesch		6	code
 ▁Letzt	▁Letzt		6	german
 ▁Onlin	▁Onlin	▁Onlin	6	english
 ▁korre	▁korre		6	estonian
@@ -92216,7 +92224,7 @@ Langen	Langen	L angen	6	english
 Schade	Schade	Sch ade	6	english
 ▁Masch	▁Masch		6	german
 ▁treff	▁treff		6	german
-nErste	nErste		6	german
+nErste	nErste		6	code
 umwelt	umwelt		6	german
 Aufbau	Aufbau		6	german
 ▁Minis	▁Minis	▁Minis	6	english
@@ -92666,7 +92674,6 @@ dělení	dělení		6	czech
 ▁mohli	▁mohli	▁mohli	6	english
 ▁nutné	▁nutné		6	french
 ▁Prahy	▁Prahy		6	czech
-bezpeč	bezpe		6	NULL
 ▁knihu	▁knihu		6	czech
 ▁měsíc	▁měsíc		6	czech
 ▁evrop	▁evrop		6	serbian
@@ -93076,7 +93083,6 @@ tickou	tickou	tick ou	6	english
 ▁Kateř	▁Kateř		6	czech
 stický	stický		6	czech
 ▁tmavě	▁tmavě		6	czech
-čnosti	nosti		6	czech
 ▁každá	▁každá		6	NULL
 ▁lžíce	▁lžíce		6	czech
 ▁úklid	▁úklid		6	czech
@@ -93346,7 +93352,6 @@ dělání	dělání		6	czech
 ▁jasno	▁jasno	▁jasno	6	english
 Vysoké	Vysoké		6	italian
 ▁Stráž	▁Stráž		6	czech
-čujeme	ujeme		6	slovak
 Středo	Středo		6	czech
 nových	nových		6	slovak
 ▁Černé	▁Černé		6	czech
@@ -93386,7 +93391,6 @@ nového	nového		6	czech
 ▁pravo	▁pravo		6	czech
 ▁Kolik	▁Kolik		6	malay
 ▁Denní	▁Denní		6	czech
-červen	erven	erven	6	english
 ▁užívá	▁užívá		6	czech
 ▁Beneš	▁Beneš		6	serbian
 školní	školní		6	czech
@@ -93462,7 +93466,6 @@ přední	přední		6	czech
 ▁Původ	▁Původ		6	czech
 ▁dolar	▁dolar		6	italian
 můžete	můžete		6	czech
-společ	spole		6	czech
 Kerami	Kerami	Ker ami	6	english
 telské	telské		6	czech
 ▁nepla	▁nepla	▁nepla	6	english
@@ -93626,7 +93629,6 @@ odstra	odstra		6	serbian
 soubor	soubor		6	czech
 ▁prosí	▁prosí		6	spanish
 převod	převod		6	czech
-června	ervna		6	czech
 ituaci	ituaci		6	russian
 tional	tional		6	NULL
 značka	znaka		6	serbian
@@ -96582,7 +96584,6 @@ zovano	zovano		6	croatian
 ▁ručno	▁ručno		6	croatian
 verski	verski		6	polish
 ▁ODMAH	▁ODMAH	▁ODMAH	6	english
-članak	lanak		6	malay
 ▁zašti	▁zašti		6	czech
 ▁svoju	▁svoju		6	serbian
 ▁priča	▁priča		6	slovenian
@@ -96951,7 +96952,6 @@ Banned	Banned	B anned	6	english
 ▁позив	▁позив		6	russian
 Srpski	Srpski	Sr ps ki	6	english
 ▁руски	▁руски		6	russian
-čekuje	ekuje		6	polish
 ▁класи	▁класи		6	russian
 ▁јесте	▁јесте		6	russian
 ▁неста	▁неста		6	russian
@@ -97175,6 +97175,7 @@ stavno	stavno		6	slovenian
 lanovi	lanovi		6	croatian
 ▁Време	▁Време		6	russian
 ▁јавни	▁јавни		6	russian
+članjen	lanjen		6	slovenian
 ▁--><!	▁--><!		6	NULL
 Srpska	Srpska	Sr ps ka	6	english
 ▁лакше	▁лакше		6	russian
@@ -98729,7 +98730,7 @@ Nguyên	Nguyên		6	vietnamese
 ▁Huyền	▁Huyền		6	vietnamese
 ▁khoác	▁khoác		6	vietnamese
 ▁thạch	▁thạch		6	vietnamese
-nTrong	nTrong	n Trong	6	english
+nTrong	nTrong		6	code
 ▁Trinh	▁Trinh	▁Trinh	6	english
 ▁Nhiệt	▁Nhiệt		6	vietnamese
 Phương	Phương	Phương	6	english
@@ -98797,7 +98798,7 @@ Phường	Phường		6	NULL
 ▁NGHIỆ	▁NGHIỆ	▁NGHIỆ	6	english
 ▁THÀNH	▁THÀNH	▁THÀNH	6	english
 ▁Khang	▁Khang	▁Khang	6	english
-nNhững	nNhững		6	vietnamese
+nNhững	nNhững		6	code
 ▁chênh	▁chênh		6	vietnamese
 ▁THUẬT	▁THUẬT	▁THUẬT	6	english
 ▁phiền	▁phiền		6	vietnamese
@@ -98858,9 +98859,9 @@ Khoảng	Khoảng		6	vietnamese
 ▁quãng	▁quãng	▁quãng	6	english
 ▁hoành	▁hoành		6	vietnamese
 ▁triều	▁triều		6	vietnamese
-nTrước	nTrước		6	vietnamese
+nTrước	nTrước		6	code
 ▁LƯỢNG	▁LƯỢNG	▁LƯỢNG	6	english
-nNgoài	nNgoài		6	vietnamese
+nNgoài	nNgoài		6	code
 ▁Phùng	▁Phùng		6	vietnamese
 ▁nghiê	▁nghiê		6	vietnamese
 ▁trừng	▁trừng	▁trừng	6	english
@@ -98877,11 +98878,11 @@ nNgoài	nNgoài		6	vietnamese
 Chuyển	Chuyển		6	vietnamese
 ShipTo	ShipTo	Ship To	6	english
 ▁cũng	▁cũng	▁cũng	6	english
-nKhông	nKhông		6	vietnamese
+nKhông	nKhông		6	code
 ▁nhuộm	▁nhuộm		6	vietnamese
 khoảng	khoảng		6	vietnamese
 ▁vượng	▁vượng		6	vietnamese
-nTrang	nTrang	n Trang	6	english
+nTrang	nTrang		6	code
 ▁khuấy	▁khuấy	▁khuấy	6	english
 ▁THỐNG	▁THỐNG	▁THỐNG	6	english
 ▁khong	▁khong	▁khong	6	english
@@ -98918,7 +98919,7 @@ Truyện	Truyện		6	vietnamese
 ▁Chẳng	▁Chẳng	▁Chẳng	6	english
 ▁Mường	▁Mường		6	vietnamese
 ▁nhiếp	▁nhiếp		6	vietnamese
-nNgười	nNgười		6	vietnamese
+nNgười	nNgười		6	code
 ▁Thuột	▁Thuột		6	vietnamese
 ▁DOANH	▁DOANH	▁DOANH	6	english
 ▁Giảng	▁Giảng		6	vietnamese
@@ -99088,7 +99089,7 @@ thường	thường		6	vietnamese
 trường	trường		6	vietnamese
 ▁nghệ	▁nghệ		6	vietnamese
 ▁trực	▁trực		6	NULL
-nTháng	nTháng		6	vietnamese
+nTháng	nTháng		6	code
 ▁CHỐNG	▁CHỐNG	▁CHỐNG	6	english
 ▁phục	▁phục	▁phục	6	english
 ▁giảm	▁giảm		6	italian
@@ -99869,7 +99870,7 @@ subject	subject	subject	7	english
 ▁asking	▁asking	▁asking	7	english
 ▁Handle	▁Handle	▁Handle	7	english
 ▁affect	▁affect	▁affect	7	english
-getName	getName		7	german
+getName	getName		7	code
 ▁comput	▁comput	▁comput	7	english
 Returns	Returns	Returns	7	english
 ▁sealed	▁sealed	▁sealed	7	english
@@ -99935,7 +99936,7 @@ Visible	Visible		7	swedish
 Desktop	Desktop		7	swedish
 NonNull	NonNull	Non Null	7	english
 indices	indices		7	italian
-setText	setText	set Text	7	english
+setText	setText		7	code
 ▁degree	▁degree	▁degree	7	english
 ▁health	▁health	▁health	7	english
 ▁Double	▁Double	▁Double	7	english
@@ -99974,10 +99975,10 @@ HashMap	HashMap	Hash Map	7	english
 ▁equals	▁equals	▁equals	7	english
 ▁bounds	▁bounds	▁bounds	7	english
 ampling	ampling	ampling	7	english
-▁jQuery	▁jQuery	▁jQuery	7	english
+▁jQuery	▁jQuery		7	code
 findall	findall		7	german
 ▁rotate	▁rotate	▁rotate	7	english
-forEach	forEach	for Each	7	english
+forEach	forEach		7	code
 Testing	Testing	Testing	7	english
 ▁cookie	▁cookie	▁cookie	7	english
 backend	backend	backend	7	english
@@ -100304,7 +100305,7 @@ Regular	Regular	Regular	7	english
 ▁Submit	▁Submit	▁Submit	7	english
 ▁forget	▁forget	▁forget	7	english
 General	General	General	7	english
-▁iPhone	▁iPhone	▁iPhone	7	english
+▁iPhone	▁iPhone		7	code
 arently	arently	arently	7	english
 ▁bullet	▁bullet	▁bullet	7	english
 ▁extern	▁extern	▁extern	7	english
@@ -100656,7 +100657,7 @@ provide	provide	provide	7	english
 circuit	circuit	c ircuit	7	english
 ▁killed	▁killed	▁killed	7	english
 ▁covers	▁covers	▁covers	7	english
-onClick	onClick	on Click	7	english
+onClick	onClick		7	code
 ▁discus	▁discus		7	french
 ▁mainly	▁mainly	▁mainly	7	english
 getattr	getattr		7	german
@@ -100670,7 +100671,7 @@ Nothing	Nothing	Nothing	7	english
 ▁stress	▁stress		7	french
 ▁pushed	▁pushed	▁pushed	7	english
 closest	closest	closest	7	english
-groupId	groupId		7	finnish
+groupId	groupId		7	code
 upytext	upytext	upy text	7	english
 inplace	inplace	in place	7	english
 ▁triple	▁triple	▁triple	7	english
@@ -101010,7 +101011,7 @@ Capital	Capital	Capital	7	english
 haskell	haskell		7	german
 closure	closure	closure	7	english
 ativity	ativity	ativity	7	english
-textBox	textBox	text Box	7	english
+textBox	textBox		7	code
 ▁Galaxy	▁Galaxy	▁Galaxy	7	english
 ▁pounds	▁pounds	▁pounds	7	english
 ▁taught	▁taught	▁taught	7	english
@@ -101082,7 +101083,7 @@ hundred	hundred	hund red	7	english
 ▁copper	▁copper		7	german
 ▁Travel	▁Travel	▁Travel	7	english
 diagram	diagram	diagram	7	english
-setFont	setFont	set Font	7	english
+setFont	setFont		7	code
 ▁victim	▁victim	▁victim	7	english
 ▁dashed	▁dashed	▁dashed	7	english
 ▁baking	▁baking	▁baking	7	english
@@ -102992,7 +102993,7 @@ viscous	viscous	vis c ous	7	english
 ديكورات	ديكورات		7	arabic
 ▁أخصائي	▁أخصائي		7	arabic
 ▁منوعات	▁منوعات		7	arabic
-hatsApp	hatsApp	h ats App	7	english
+hatsApp	hatsApp		7	code
 ▁اقتباس	▁اقتباس		7	arabic
 المساحة	المساحة		7	arabic
 ▁والمسا	▁والمسا		7	arabic
@@ -103698,7 +103699,7 @@ istisch	istisch		7	german
 fassung	fassung		7	german
 ▁kurzen	▁kurzen		7	german
 ▁bilden	▁bilden		7	german
-nWeiter	nWeiter		7	german
+nWeiter	nWeiter		7	code
 ▁Jungen	▁Jungen		7	german
 ▁Grafik	▁Grafik		7	polish
 ▁ausgeb	▁ausgeb		7	german
@@ -103790,7 +103791,7 @@ Komment	Komment		7	german
 ▁Pferde	▁Pferde		7	german
 ▁brauch	▁brauch		7	german
 ▁Absatz	▁Absatz		7	german
-nUnsere	nUnsere	n Unsere	7	english
+nUnsere	nUnsere		7	code
 ▁Formel	▁Formel	▁Formel	7	english
 ünstige	ünstige		7	turkish
 ▁Messer	▁Messer		7	italian
@@ -103878,7 +103879,7 @@ gemacht	gemacht		7	german
 ▁Letzte	▁Letzte		7	german
 ▁Schles	▁Schles	▁Schles	7	english
 ▁Nächte	▁Nächte		7	german
-nDieser	nDieser		7	german
+nDieser	nDieser		7	code
 ▁Diesen	▁Diesen		7	german
 ▁Decken	▁Decken	▁Decken	7	english
 ▁breite	▁breite		7	german
@@ -103909,7 +103910,7 @@ anzeige	anzeige		7	german
 ▁Großen	▁Großen		7	german
 Bereich	Bereich		7	german
 ▁billig	▁billig		7	norwegian
-nDieses	nDieses		7	german
+nDieses	nDieses		7	code
 atische	atische		7	german
 ▁Ebenso	▁Ebenso	▁Ebenso	7	english
 ▁genaue	▁genaue		7	german
@@ -103951,7 +103952,7 @@ schicht	schicht		7	german
 ▁Schuld	▁Schuld		7	german
 ▁Konsum	▁Konsum		7	german
 Löschen	Löschen		7	german
-nWelche	nWelche		7	french
+nWelche	nWelche		7	code
 ▁keinem	▁keinem		7	german
 ▁nachge	▁nachge		7	german
 ▁Benzin	▁Benzin	▁Benzin	7	english
@@ -105988,7 +105989,7 @@ kormány	kormány		7	hungarian
 energia	energia		7	portuguese
 Csoport	Csoport		7	hungarian
 ▁Állami	▁Állami		7	hungarian
-nHogyan	nHogyan		7	hungarian
+nHogyan	nHogyan		7	code
 ▁sertés	▁sertés		7	french
 rendező	rendező		7	hungarian
 ▁kanyar	▁kanyar	▁kanyar	7	english
@@ -107923,7 +107924,6 @@ desetak	desetak		7	malay
 ▁похађа	▁похађа		7	russian
 ▁утицај	▁утицај		7	russian
 ▁њихови	▁њихови		7	russian
-članjen	lanjen		7	slovenian
 ▁Бранко	▁Бранко		7	russian
 Уколико	Уколико		7	russian
 ▁сасвим	▁сасвим		7	russian
@@ -109105,7 +109105,7 @@ ollagen	ollagen		7	german
 ▁KHUYẾN	▁KHUYẾN	▁KHUYẾN	7	english
 ▁triển	▁triển		7	vietnamese
 ▁TRUYỀN	▁TRUYỀN		7	lithuanian
-nChương	nChương		7	norwegian
+nChương	nChương		7	code
 ▁NGHIỆM	▁NGHIỆM	▁NGHIỆM	7	english
 ▁Chuyến	▁Chuyến		7	vietnamese
 ▁hướng	▁hướng		7	vietnamese
@@ -109307,7 +109307,7 @@ location	location	location	8	english
 ▁Returns	▁Returns	▁Returns	8	english
 settings	settings	settings	8	english
 ▁headers	▁headers	▁headers	8	english
-DateTime	DateTime	Date Time	8	english
+DateTime	DateTime		8	german
 Function	Function	Function	8	english
 Document	Document	Document	8	english
 Argument	Argument		8	spanish
@@ -109393,7 +109393,7 @@ Variable	Variable	Variable	8	english
 typename	typename		8	german
 ▁general	▁general	▁general	8	english
 ▁depends	▁depends	▁depends	8	english
-toString	toString	to String	8	english
+toString	toString		8	code
 ▁letters	▁letters		8	slovenian
 ▁contact	▁contact	▁contact	8	english
 ▁changed	▁changed	▁changed	8	english
@@ -109576,7 +109576,7 @@ messages	messages		8	italian
 ▁achieve	▁achieve	▁achieve	8	english
 ▁compile	▁compile	▁compile	8	english
 ▁vectors	▁vectors	▁vectors	8	english
-▁onClick	▁onClick	▁onClick	8	english
+▁onClick	▁onClick		8	code
 ▁further	▁further	▁further	8	english
 ▁located	▁located	▁located	8	english
 ▁Student	▁Student	▁Student	8	english
@@ -109677,7 +109677,7 @@ datasets	datasets		8	italian
 ▁cancell	▁cancell	▁cancell	8	english
 AddField	AddField	Add Field	8	english
 ▁showing	▁showing	▁showing	8	english
-GetValue	GetValue	Get Value	8	english
+GetValue	GetValue		8	german
 Redirect	Redirect	Redirect	8	english
 deletion	deletion	de letion	8	english
 Encoding	Encoding	Encoding	8	english
@@ -109694,7 +109694,7 @@ Standard	Standard	Standard	8	english
 ▁attempt	▁attempt	▁attempt	8	english
 ▁println	▁println	▁println	8	english
 linspace	linspace	lin space	8	english
-ViewById	ViewById	View By Id	8	english
+ViewById	ViewById		8	dutch
 ▁voltage	▁voltage	▁voltage	8	english
 ▁getchar	▁getchar	▁getchar	8	english
 ▁applies	▁applies	▁applies	8	english
@@ -109715,7 +109715,7 @@ geometry	geometry	geometry	8	english
 ▁failure	▁failure	▁failure	8	english
 specific	specific	specific	8	english
 ikipedia	ikipedia		8	turkish
-fileName	fileName	file Name	8	english
+fileName	fileName		8	code
 ▁playing	▁playing	▁playing	8	english
 ListView	ListView	List View	8	english
 examples	examples	examples	8	english
@@ -109870,7 +109870,7 @@ Modified	Modified	Modified	8	english
 ▁Whether	▁Whether	▁Whether	8	english
 ▁charset	▁charset	▁charset	8	english
 vertices	vertices	vertices	8	english
-cvtColor	cvtColor	c vt Color	8	english
+cvtColor	cvtColor		8	code
 ▁Company	▁Company	▁Company	8	english
 ▁belongs	▁belongs	▁belongs	8	english
 ▁Feature	▁Feature	▁Feature	8	english
@@ -109980,7 +109980,7 @@ multiply	multiply	multiply	8	english
 ▁suspect	▁suspect	▁suspect	8	english
 queryset	queryset	query set	8	english
 gradient	gradient		8	spanish
-TypeName	TypeName	Type Name	8	english
+TypeName	TypeName		8	german
 ▁regions	▁regions	▁regions	8	english
 ▁protect	▁protect		8	spanish
 triangle	triangle	triangle	8	english
@@ -110107,13 +110107,13 @@ NSString	NSString	NSString	8	english
 ListNode	ListNode	List Node	8	english
 ▁joining	▁joining	▁joining	8	english
 ▁knowing	▁knowing	▁knowing	8	english
-numberOf	numberOf	number Of	8	english
+numberOf	numberOf		8	code
 ▁protein	▁protein	▁protein	8	english
 fraction	fraction	fraction	8	english
 ▁careful	▁careful	▁careful	8	english
 ▁totally	▁totally	▁totally	8	english
 ▁rewrite	▁rewrite	▁rewrite	8	english
-GridView	GridView	Grid View	8	english
+GridView	GridView		8	NULL
 ▁Average	▁Average	▁Average	8	english
 building	building	building	8	english
 ▁curious	▁curious	▁curious	8	english
@@ -110148,7 +110148,7 @@ delegate	delegate	delegate	8	english
 ▁satisfy	▁satisfy	▁satisfy	8	english
 ▁conduct	▁conduct	▁conduct	8	english
 ▁Details	▁Details	▁Details	8	english
-rcParams	rcParams	rc Params	8	english
+rcParams	rcParams		8	code
 TimeSpan	TimeSpan	Time Span	8	english
 ▁History	▁History	▁History	8	english
 ▁Forward	▁Forward	▁Forward	8	english
@@ -110324,7 +110324,7 @@ behavior	behavior	behavior	8	english
 ▁hitting	▁hitting	▁hitting	8	english
 official	official	official	8	english
 overline	overline	over line	8	english
-onChange	onChange	on Change	8	english
+onChange	onChange		8	code
 ▁reality	▁reality	▁reality	8	english
 ▁maximal	▁maximal	▁maximal	8	english
 ▁sliding	▁sliding	▁sliding	8	english
@@ -110610,7 +110610,7 @@ Licensed	Licensed	Licensed	8	english
 ▁fiction	▁fiction	▁fiction	8	english
 circular	circular	c ircular	8	english
 ▁feeding	▁feeding	▁feeding	8	english
-useState	useState	use State	8	english
+useState	useState		8	code
 actually	actually	actually	8	english
 ▁infinit	▁infinit	▁infinit	8	english
 ▁claimed	▁claimed	▁claimed	8	english
@@ -110740,7 +110740,7 @@ molecule	molecule	m olecule	8	english
 ▁distant	▁distant	▁distant	8	english
 ▁соответ	▁соответ		8	russian
 ▁Richard	▁Richard	▁Richard	8	english
-comboBox	comboBox	combo Box	8	english
+comboBox	comboBox		8	code
 ▁shadows	▁shadows	▁shadows	8	english
 ▁Privacy	▁Privacy	▁Privacy	8	english
 chemical	chemical	chemical	8	english
@@ -110807,7 +110807,7 @@ localize	localize	local ize	8	english
 replaced	replaced	re placed	8	english
 ▁federal	▁federal	▁federal	8	english
 ████████	████████		8	NULL
-checkBox	checkBox	check Box	8	english
+checkBox	checkBox		8	code
 ▁Besides	▁Besides	▁Besides	8	english
 analytic	analytic	analytic	8	english
 ▁halfway	▁halfway	▁halfway	8	english
@@ -112473,7 +112473,7 @@ Angebote	Angebote		8	german
 ▁Flasche	▁Flasche		8	german
 ▁Kapitel	▁Kapitel		8	german
 ▁sichere	▁sichere		8	german
-nWeitere	nWeitere		8	german
+nWeitere	nWeitere		8	code
 ▁gewisse	▁gewisse		8	german
 ▁Treppen	▁Treppen		8	german
 ▁lokalen	▁lokalen		8	german
@@ -112524,7 +112524,7 @@ verkehrs	verkehrs		8	german
 ▁riesige	▁riesige		8	german
 ▁Alltags	▁Alltags		8	german
 ▁aktiven	▁aktiven		8	german
-nBeitrag	nBeitrag		8	NULL
+nBeitrag	nBeitrag		8	code
 ▁konkret	▁konkret		8	german
 gekommen	gekommen		8	german
 ▁heutige	▁heutige		8	german
@@ -116089,10 +116089,10 @@ Showroom	Showroom	Show room	8	english
 ▁trường	▁trường	▁trường	8	english
 ▁viettel	▁viettel		8	lithuanian
 ▁nghiệp	▁nghiệp		8	vietnamese
-▁VietSub	▁VietSub	▁VietSub	8	english
+▁VietSub	▁VietSub		8	NULL
 ▁VinFast	▁VinFast	▁VinFast	8	english
 ▁HOTLINE	▁HOTLINE		8	japanese
-▁VietNam	▁VietNam	▁VietNam	8	english
+▁VietNam	▁VietNam		8	vietnamese
 ▁chuyển	▁chuyển		8	russian
 ▁thường	▁thường		8	vietnamese
 ▁Exciter	▁Exciter	▁Exciter	8	english
@@ -116191,7 +116191,7 @@ WriteLine	WriteLine	Write Line	9	english
 ▁sentence	▁sentence	▁sentence	9	english
 ▁creating	▁creating	▁creating	9	english
 ▁software	▁software	▁software	9	english
-▁DateTime	▁DateTime	▁DateTime	9	english
+▁DateTime	▁DateTime		9	german
 ▁Generate	▁Generate	▁Generate	9	english
 ▁consider	▁consider	▁consider	9	english
 ▁category	▁category	▁category	9	english
@@ -116333,7 +116333,7 @@ component	component	component	9	english
 ▁material	▁material	▁material	9	english
 ▁designed	▁designed	▁designed	9	english
 ▁activity	▁activity	▁activity	9	english
-getLogger	getLogger	get Logger	9	english
+getLogger	getLogger		9	code
 ▁terminal	▁terminal	▁terminal	9	english
 ▁subtract	▁subtract	▁subtract	9	english
 ▁equation	▁equation	▁equation	9	english
@@ -116407,7 +116407,7 @@ velopment	velopment	velopment	9	english
 ▁vertical	▁vertical	▁vertical	9	english
 ▁replaced	▁replaced	▁replaced	9	english
 OrDefault	OrDefault	Or Default	9	english
-DbContext	DbContext	Db Context	9	english
+DbContext	DbContext		9	russian
 minecraft	minecraft	minecraft	9	english
 ▁remember	▁remember	▁remember	9	english
 Animation	Animation	Animation	9	english
@@ -116424,7 +116424,7 @@ dimension	dimension	dimension	9	english
 ▁demonstr	▁demonstr	▁demonstr	9	english
 ▁capacity	▁capacity	▁capacity	9	english
 ▁Customer	▁Customer	▁Customer	9	english
-▁fileName	▁fileName	▁fileName	9	english
+▁fileName	▁fileName		9	code
 Namespace	Namespace		9	NULL
 Microsoft	Microsoft	Microsoft	9	english
 ▁Retrieve	▁Retrieve	▁Retrieve	9	english
@@ -116434,7 +116434,7 @@ serialize	serialize	serialize	9	english
 variables	variables	variables	9	english
 ▁yourself	▁yourself	▁yourself	9	english
 translate	translate		9	german
-▁useState	▁useState	▁useState	9	english
+▁useState	▁useState		9	code
 ▁articles	▁articles	▁articles	9	english
 extension	extension	extension	9	english
 ▁repeated	▁repeated	▁repeated	9	english
@@ -116502,7 +116502,7 @@ arguments	arguments		9	danish
 prototype	prototype	prototype	9	english
 ▁adjacent	▁adjacent	▁adjacent	9	english
 ▁personal	▁personal	▁personal	9	english
-getString	getString	get String	9	english
+getString	getString		9	code
 ▁Assembly	▁Assembly	▁Assembly	9	english
 ▁fraction	▁fraction	▁fraction	9	english
 ▁pressure	▁pressure	▁pressure	9	english
@@ -116549,7 +116549,7 @@ rocessing	rocessing	rocessing	9	english
 ▁simulate	▁simulate	▁simulate	9	english
 ▁whenever	▁whenever	▁whenever	9	english
 ▁possibly	▁possibly	▁possibly	9	english
-▁onChange	▁onChange	▁onChange	9	english
+▁onChange	▁onChange		9	code
 ▁Security	▁Security	▁Security	9	english
 ▁Required	▁Required	▁Required	9	english
 something	something	something	9	english
@@ -116597,7 +116597,7 @@ rectangle	rectangle	rectangle	9	english
 ▁sections	▁sections	▁sections	9	english
 validator	validator		9	spanish
 Connector	Connector	Connector	9	english
-▁numberOf	▁numberOf	▁numberOf	9	english
+▁numberOf	▁numberOf		9	code
 ▁everyone	▁everyone	▁everyone	9	english
 optimizer	optimizer		9	russian
 ▁counting	▁counting	▁counting	9	english
@@ -116624,7 +116624,7 @@ Variables	Variables	Variables	9	english
 ▁Logistic	▁Logistic	▁Logistic	9	english
 ▁WARRANTY	▁WARRANTY	▁WARRANTY	9	english
 ▁notation	▁notation	▁notation	9	english
-▁onCreate	▁onCreate	▁onCreate	9	english
+▁onCreate	▁onCreate		9	code
 ▁opposite	▁opposite	▁opposite	9	english
 ▁consists	▁consists	▁consists	9	english
 implement	implement	implement	9	english
@@ -116639,7 +116639,7 @@ necessary	necessary		9	spanish
 Copyright	Copyright	Copyright	9	english
 ▁Multiply	▁Multiply	▁Multiply	9	english
 undefined	undefined	undefined	9	english
-DateField	DateField	Date Field	9	english
+DateField	DateField		9	german
 tablename	tablename	tablename	9	english
 ▁involved	▁involved	▁involved	9	english
 constexpr	constexpr	constexpr	9	english
@@ -116665,7 +116665,7 @@ Frequency	Frequency	Frequency	9	english
 ▁Examples	▁Examples	▁Examples	9	english
 ▁greatest	▁greatest		9	german
 ▁Callback	▁Callback	▁Callback	9	english
-▁hashCode	▁hashCode	▁hashCode	9	english
+▁hashCode	▁hashCode		9	code
 ▁produced	▁produced	▁produced	9	english
 ▁critical	▁critical	▁critical	9	english
 ▁creature	▁creature	▁creature	9	english
@@ -116690,7 +116690,7 @@ Regressor	Regressor	Reg ressor	9	english
 ▁Learning	▁Learning	▁Learning	9	english
 ▁commonly	▁commonly	▁commonly	9	english
 ▁infinity	▁infinity	▁infinity	9	english
-className	className	class Name	9	english
+className	className		9	code
 community	community	community	9	english
 ▁accurate	▁accurate	▁accurate	9	english
 ▁circular	▁circular	▁circular	9	english
@@ -116726,7 +116726,7 @@ Collector	Collector	Collector	9	english
 ▁majority	▁majority	▁majority	9	english
 ▁Overflow	▁Overflow	▁Overflow	9	english
 ▁diameter	▁diameter	▁diameter	9	english
-addWidget	addWidget	add Widget	9	english
+addWidget	addWidget		9	code
 ▁Duration	▁Duration	▁Duration	9	english
 ▁evidence	▁evidence	▁evidence	9	english
 recursive	recursive	recursive	9	english
@@ -117091,7 +117091,7 @@ reduction	reduction	re duction	9	english
 numerical	numerical		9	spanish
 ▁finitely	▁finitely	▁finitely	9	english
 triangles	triangles	tri angles	9	english
-▁glVertex	▁glVertex	▁glVertex	9	english
+▁glVertex	▁glVertex		9	code
 deviation	deviation	de viation	9	english
 ▁emission	▁emission	▁emission	9	english
 ▁Circular	▁Circular	▁Circular	9	english
@@ -117110,7 +117110,7 @@ setlength	setlength	set length	9	english
 ▁Revision	▁Revision	▁Revision	9	english
 ferential	ferential	fer ential	9	english
 computing	computing	comput ing	9	english
-ElementAt	ElementAt	Element At	9	english
+ElementAt	ElementAt		9	german
 ▁calculus	▁calculus	▁calculus	9	english
 ▁arranged	▁arranged	▁arranged	9	english
 ▁carriage	▁carriage	▁carriage	9	english
@@ -117329,7 +117329,7 @@ described	described	des cribed	9	english
 ▁страницы	▁страницы		9	russian
 ▁########	▁########		9	NULL
 classical	classical	class ical	9	english
-AppCompat	AppCompat	App Compat	9	english
+AppCompat	AppCompat		9	indonesian
 PageIndex	PageIndex	Page Index	9	english
 ▁judgment	▁judgment	▁judgment	9	english
 ▁pleasant	▁pleasant	▁pleasant	9	english
@@ -118257,7 +118257,7 @@ rechtlich	rechtlich		9	german
 ▁Schweine	▁Schweine		9	german
 ▁empfehle	▁empfehle		9	german
 ▁Ausgangs	▁Ausgangs		9	german
-nVerfasst	nVerfasst		9	german
+nVerfasst	nVerfasst		9	code
 ▁Meinungs	▁Meinungs		9	german
 ▁Buchungs	▁Buchungs		9	german
 Vergleich	Vergleich		9	german
@@ -120653,7 +120653,7 @@ Repository	Repository	Repository	10	english
 ▁available	▁available	▁available	10	english
 ▁operation	▁operation	▁operation	10	english
 ▁correspon	▁correspon		10	portuguese
-▁className	▁className	▁className	10	english
+▁className	▁className		10	code
 Connection	Connection	Connection	10	english
 Serializer	Serializer	Serializer	10	english
 ▁DataFrame	▁DataFrame	▁DataFrame	10	english
@@ -120698,7 +120698,7 @@ controller	controller	controller	10	english
 ▁instances	▁instances	▁instances	10	english
 ▁Construct	▁Construct	▁Construct	10	english
 Definition	Definition	Definition	10	english
-ationToken	ationToken	ation Token	10	english
+ationToken	ationToken		10	code
 ▁framework	▁framework	▁framework	10	english
 ▁displayed	▁displayed		10	NULL
 ▁determine	▁determine	▁determine	10	english
@@ -120793,7 +120793,7 @@ startswith	startswith	startswith	10	english
 ▁signature	▁signature	▁signature	10	english
 ▁animation	▁animation	▁animation	10	english
 Dependency	Dependency	Dependency	10	english
-assertTrue	assertTrue	assert True	10	english
+assertTrue	assertTrue		10	code
 ategorical	ategorical		10	NULL
 ▁returning	▁returning	▁returning	10	english
 Permission	Permission	Permission	10	english
@@ -120803,7 +120803,7 @@ exceptions	exceptions	exceptions	10	english
 ▁completed	▁completed	▁completed	10	english
 ▁candidate	▁candidate	▁candidate	10	english
 ▁sentences	▁sentences	▁sentences	10	english
-StatusCode	StatusCode	Status Code	10	english
+StatusCode	StatusCode		10	french
 ▁wondering	▁wondering	▁wondering	10	english
 categories	categories	categories	10	english
 ▁sometimes	▁sometimes	▁sometimes	10	english
@@ -120812,7 +120812,7 @@ categories	categories	categories	10	english
 ▁published	▁published	▁published	10	english
 ▁histogram	▁histogram	▁histogram	10	english
 ▁precision	▁precision		10	NULL
-gameObject	gameObject	game Object	10	english
+gameObject	gameObject		10	code
 ▁languages	▁languages	▁languages	10	english
 Regression	Regression	Regression	10	english
 ▁generally	▁generally	▁generally	10	english
@@ -120877,7 +120877,7 @@ matplotlib	matplotlib		10	arabic
 ▁Therefore	▁Therefore	▁Therefore	10	english
 ▁regarding	▁regarding	▁regarding	10	english
 permission	permission	permission	10	english
-InlineData	InlineData	Inline Data	10	english
+InlineData	InlineData		10	german
 ▁executing	▁executing	▁executing	10	english
 ▁arbitrary	▁arbitrary		10	portuguese
 ▁behaviour	▁behaviour	▁behaviour	10	english
@@ -120931,7 +120931,7 @@ MainWindow	MainWindow	Main Window	10	english
 validators	validators		10	spanish
 ▁secondary	▁secondary	▁secondary	10	english
 ▁linewidth	▁linewidth	▁linewidth	10	english
-▁useEffect	▁useEffect	▁useEffect	10	english
+▁useEffect	▁useEffect		10	code
 JavaScript	JavaScript	Java Script	10	english
 ▁mechanism	▁mechanism	▁mechanism	10	english
 decorators	decorators	decor ators	10	english
@@ -120955,7 +120955,7 @@ transition	transition	transition	10	english
 ▁providing	▁providing	▁providing	10	english
 ▁evaluated	▁evaluated	▁evaluated	10	english
 ▁unordered	▁unordered		10	spanish
-XmlElement	XmlElement	Xml Element	10	english
+XmlElement	XmlElement		10	german
 population	population		10	NULL
 dependency	dependency	dependency	10	english
 resolution	resolution	resolution	10	english
@@ -121021,7 +121021,7 @@ Convention	Convention	Convention	10	english
 ▁expecting	▁expecting	▁expecting	10	english
 Department	Department	Department	10	english
 regression	regression	reg ression	10	english
-assertThat	assertThat	assert That	10	english
+assertThat	assertThat		10	code
 ▁inference	▁inference	▁inference	10	english
 ▁principle	▁principle	▁principle	10	english
 ▁increased	▁increased	▁increased	10	english
@@ -121079,7 +121079,7 @@ calculator	calculator	calculator	10	english
 simulation	simulation	simulation	10	english
 ▁Dimension	▁Dimension	▁Dimension	10	english
 additional	additional	additional	10	english
-▁PartialEq	▁PartialEq	▁PartialEq	10	english
+▁PartialEq	▁PartialEq		10	german
 ▁expressed	▁expressed	▁expressed	10	english
 ▁dedicated	▁dedicated	▁dedicated	10	english
 ▁satisfies	▁satisfies	▁satisfies	10	english
@@ -121126,7 +121126,7 @@ experience	experience	experience	10	english
 ▁AutoField	▁AutoField	▁AutoField	10	english
 confidence	confidence	confidence	10	english
 ▁discussed	▁discussed	▁discussed	10	english
-artifactId	artifactId		10	dutch
+artifactId	artifactId		10	code
 ▁agreement	▁agreement	▁agreement	10	english
 ▁partially	▁partially	▁partially	10	english
 ▁furnished	▁furnished	▁furnished	10	english
@@ -121213,7 +121213,7 @@ statements	statements	stat ements	10	english
 ▁Automatic	▁Automatic	▁Automatic	10	english
 ▁Principal	▁Principal	▁Principal	10	english
 clustering	clustering	cl ustering	10	english
-pushButton	pushButton	push Button	10	english
+pushButton	pushButton		10	code
 ▁apartment	▁apartment	▁apartment	10	english
 ▁Computing	▁Computing	▁Computing	10	english
 ▁spherical	▁spherical	▁spherical	10	english
@@ -121379,7 +121379,7 @@ efficiency	efficiency	eff iciency	10	english
 ▁Quadratic	▁Quadratic	▁Quadratic	10	english
 ▁abandoned	▁abandoned	▁abandoned	10	english
 estimation	estimation		10	spanish
-gridLayout	gridLayout	grid Layout	10	english
+gridLayout	gridLayout		10	code
 ▁spacetime	▁spacetime	▁spacetime	10	english
 ▁vibration	▁vibration	▁vibration	10	english
 converting	converting	con verting	10	english
@@ -123178,7 +123178,7 @@ predsednik	predsednik		10	serbian
 เกี่ยวข้อง	เกี่ยวข้อง		10	thai
 ท่องเที่ยว	ท่องเที่ยว		10	thai
 ประสบการณ์	ประสบการณ์		10	thai
-ripAdvisor	ripAdvisor	rip Advisor	10	english
+ripAdvisor	ripAdvisor		10	code
 ▁พฤศจิกายน	▁พฤศจิกายน		10	thai
 จองห้องพัก	จองห้องพัก		10	thai
 ต่างประเทศ	ต่างประเทศ		10	thai
@@ -123480,7 +123480,7 @@ Collections	Collections	Collections	11	english
 ▁expression	▁expression	▁expression	11	english
 ▁matplotlib	▁matplotlib		11	arabic
 Application	Application	Application	11	english
-assertEqual	assertEqual	assert Equal	11	english
+assertEqual	assertEqual		11	code
 description	description	description	11	english
 ▁represents	▁represents	▁represents	11	english
 hentication	hentication	h entication	11	english
@@ -123507,7 +123507,7 @@ application	application	application	11	english
 ▁serializer	▁serializer	▁serializer	11	english
 ▁calculated	▁calculated	▁calculated	11	english
 ▁repository	▁repository	▁repository	11	english
-autifulSoup	autifulSoup	aut iful Soup	11	english
+autifulSoup	autifulSoup		11	code
 ▁subprocess	▁subprocess	▁subprocess	11	english
 ▁activation	▁activation	▁activation	11	english
 ▁conditions	▁conditions	▁conditions	11	english
@@ -123608,7 +123608,7 @@ destination	destination	destination	11	english
 ▁algorithms	▁algorithms	▁algorithms	11	english
 ▁TensorFlow	▁TensorFlow	▁TensorFlow	11	english
 Deserialize	Deserialize	Deserialize	11	english
-▁assertThat	▁assertThat	▁assertThat	11	english
+▁assertThat	▁assertThat		11	code
 coordinates	coordinates		11	persian
 ▁respective	▁respective	▁respective	11	english
 environment	environment	environment	11	english
@@ -123649,7 +123649,7 @@ Integration	Integration	Integration	11	english
 ▁impossible	▁impossible	▁impossible	11	english
 collections	collections	collections	11	english
 ▁convention	▁convention	▁convention	11	english
-edException	edException	ed Exception	11	english
+edException	edException		11	code
 ▁functional	▁functional	▁functional	11	english
 ▁Sequential	▁Sequential	▁Sequential	11	english
 Certificate	Certificate	Certificate	11	english
@@ -123677,7 +123677,7 @@ initializer	initializer	initializer	11	english
 ▁eventually	▁eventually	▁eventually	11	english
 ▁Quaternion	▁Quaternion	▁Quaternion	11	english
 ▁Regression	▁Regression	▁Regression	11	english
-basicConfig	basicConfig	basic Config	11	english
+basicConfig	basicConfig		11	code
 constraints	constraints	constraints	11	english
 Instruction	Instruction	Instruction	11	english
 ▁discussion	▁discussion	▁discussion	11	english
@@ -123698,7 +123698,7 @@ Declaration	Declaration	Declaration	11	english
 ▁limitation	▁limitation	▁limitation	11	english
 ▁sequential	▁sequential	▁sequential	11	english
 ▁Management	▁Management	▁Management	11	english
-TryGetValue	TryGetValue	Try Get Value	11	english
+TryGetValue	TryGetValue		11	german
 ▁describing	▁describing	▁describing	11	english
 orientation	orientation	orientation	11	english
 ▁protection	▁protection	▁protection	11	english
@@ -123818,7 +123818,7 @@ transformed	transformed	trans formed	11	english
 ▁References	▁References	▁References	11	english
 ▁guidelines	▁guidelines	▁guidelines	11	english
 ▁classified	▁classified	▁classified	11	english
-setGeometry	setGeometry	set Geometry	11	english
+setGeometry	setGeometry		11	code
 ▁atmosphere	▁atmosphere	▁atmosphere	11	english
 ▁Technology	▁Technology	▁Technology	11	english
 ▁fractional	▁fractional	▁fractional	11	english
@@ -125261,7 +125261,7 @@ Vietcombank	Vietcombank		11	indonesian
 ▁UnityEngine	▁UnityEngine	▁UnityEngine	12	english
 ------------	------------		12	NULL
 ▁collections	▁collections	▁collections	12	english
-JsonProperty	JsonProperty	Json Property	12	english
+JsonProperty	JsonProperty		12	czech
 ▁permissions	▁permissions	▁permissions	12	english
 ▁transaction	▁transaction	▁transaction	12	english
 ▁IEnumerable	▁IEnumerable		12	polish
@@ -125333,10 +125333,10 @@ BooleanField	BooleanField	Boolean Field	12	english
 ▁corresponds	▁corresponds	▁corresponds	12	english
 ▁urlpatterns	▁urlpatterns	▁urlpatterns	12	english
 ▁frequencies	▁frequencies	▁frequencies	12	english
-PropertyName	PropertyName	Property Name	12	english
+PropertyName	PropertyName		12	german
 ▁observation	▁observation	▁observation	12	english
 ▁interacting	▁interacting	▁interacting	12	english
-findViewById	findViewById	find View By Id	12	english
+findViewById	findViewById		12	code
 ▁calculating	▁calculating	▁calculating	12	english
 ▁subtracting	▁subtracting	▁subtracting	12	english
 ▁computation	▁computation	▁computation	12	english
@@ -125370,10 +125370,10 @@ Organization	Organization	Organization	12	english
 intersection	intersection	intersection	12	english
 ▁potentially	▁potentially	▁potentially	12	english
 Distribution	Distribution	Distribution	12	english
-assertRaises	assertRaises	assert Raises	12	english
+assertRaises	assertRaises		12	code
 ▁torchvision	▁torchvision	▁torchvision	12	english
 ▁Programming	▁Programming	▁Programming	12	english
-HttpResponse	HttpResponse	Http Response	12	english
+HttpResponse	HttpResponse	HttpResponse	12	chinese
 ▁Explanation	▁Explanation	▁Explanation	12	english
 ▁substantial	▁substantial	▁substantial	12	english
 ▁established	▁established	▁established	12	english
@@ -125386,7 +125386,7 @@ applications	applications	applications	12	english
 Transactions	Transactions	Transactions	12	english
 RequestParam	RequestParam	Request Param	12	english
 ▁composition	▁composition	▁composition	12	english
-DefaultValue	DefaultValue	Default Value	12	english
+DefaultValue	DefaultValue		12	german
 ▁subtraction	▁subtraction	▁subtraction	12	english
 crossentropy	crossentropy	cross entropy	12	english
 DecimalField	DecimalField	Decimal Field	12	english
@@ -125470,7 +125470,7 @@ Optimization	Optimization	Optimization	12	english
 ▁generalized	▁generalized	▁generalized	12	english
 measurements	measurements	measure ments	12	english
 ▁acknowledge	▁acknowledge	▁acknowledge	12	english
-▁assertEqual	▁assertEqual	▁assertEqual	12	english
+▁assertEqual	▁assertEqual		12	code
 ▁irreducible	▁irreducible	▁irreducible	12	english
 ▁investigate	▁investigate	▁investigate	12	english
 ▁cardinality	▁cardinality	▁cardinality	12	english
@@ -125515,7 +125515,7 @@ transmission	transmission	trans mission	12	english
 ▁methodology	▁methodology	▁methodology	12	english
 multivariate	multivariate	mult ivariate	12	english
 ▁atmospheric	▁atmospheric	▁atmospheric	12	english
-DataGridView	DataGridView	Data Grid View	12	english
+DataGridView	DataGridView		12	NULL
 ▁researchers	▁researchers	▁researchers	12	english
 specifically	specifically	spec ifically	12	english
 ▁competitive	▁competitive	▁competitive	12	english
@@ -126307,7 +126307,7 @@ Ministarstvo	Ministarstvo		12	NULL
 เป็นตัวเลือก	เป็นตัวเลือก		12	thai
 ักท่องเที่ยว	ักท่องเที่ยว		12	thai
 ▁Vietcombank	▁Vietcombank		12	indonesian
-supportLists	supportLists	support Lists	12	english
+supportLists	supportLists		12	code
 ………………………………	………………………………		12	NULL
 Vietnamobile	Vietnamobile	Vietnam obile	12	english
 <|im_start|>	<|im_start|>		12	NULL
@@ -126318,13 +126318,13 @@ stackoverflow	stackoverflow	stackoverflow	13	english
 ▁distribution	▁distribution	▁distribution	13	english
 stackexchange	stackexchange	stack exchange	13	english
 ▁representing	▁representing	▁representing	13	english
-▁HttpResponse	▁HttpResponse	▁HttpResponse	13	english
+▁HttpResponse	▁HttpResponse	▁ HttpResponse	13	chinese
 ▁relationship	▁relationship	▁relationship	13	english
 ▁successfully	▁successfully	▁successfully	13	english
 Serialization	Serialization	Serialization	13	english
 configuration	configuration	configuration	13	english
 ▁applications	▁applications	▁applications	13	english
-DateTimeField	DateTimeField	Date Time Field	13	english
+DateTimeField	DateTimeField		13	german
 ▁dictionaries	▁dictionaries	▁dictionaries	13	english
 NullException	NullException	Null Exception	13	english
 ▁instructions	▁instructions	▁instructions	13	english
@@ -126332,9 +126332,9 @@ Authorization	Authorization	Authorization	13	english
 ▁respectively	▁respectively	▁respectively	13	english
 ▁requirements	▁requirements	▁requirements	13	english
 ▁notification	▁notification	▁notification	13	english
-▁assertEquals	▁assertEquals	▁assertEquals	13	english
+▁assertEquals	▁assertEquals		13	code
 ▁registration	▁registration	▁registration	13	english
-IsNullOrEmpty	IsNullOrEmpty	Is Null Or Empty	13	english
+IsNullOrEmpty	IsNullOrEmpty		13	NULL
 ▁intersection	▁intersection	▁intersection	13	english
 preprocessing	preprocessing	pre processing	13	english
 ▁specifically	▁specifically	▁specifically	13	english
@@ -126358,7 +126358,7 @@ documentation	documentation		13	czech
 ▁particularly	▁particularly	▁particularly	13	english
 ▁observations	▁observations	▁observations	13	english
 ▁conversation	▁conversation	▁conversation	13	english
-▁findViewById	▁findViewById	▁findViewById	13	english
+▁findViewById	▁findViewById		13	code
 ▁intermediate	▁intermediate	▁intermediate	13	english
 ▁redistribute	▁redistribute	▁redistribute	13	english
 Unfortunately	Unfortunately	Unfortunately	13	english
@@ -126369,11 +126369,11 @@ ValueHandling	ValueHandling	Value Handling	13	english
 StringBuilder	StringBuilder	String Builder	13	english
 ▁temperatures	▁temperatures	▁temperatures	13	english
 ▁differential	▁differential	▁differential	13	english
-▁BindingFlags	▁BindingFlags	▁BindingFlags	13	english
+▁BindingFlags	▁BindingFlags		13	german
 ▁substitution	▁substitution	▁substitution	13	english
 ▁interactions	▁interactions	▁interactions	13	english
 ▁professional	▁professional	▁professional	13	english
-setObjectName	setObjectName	set Object Name	13	english
+setObjectName	setObjectName		13	code
 ▁introduction	▁introduction	▁introduction	13	english
 ▁computations	▁computations	▁computations	13	english
 ▁transmission	▁transmission	▁transmission	13	english
@@ -126399,7 +126399,7 @@ SelectedIndex	SelectedIndex	Selected Index	13	english
 ▁sufficiently	▁sufficiently	▁sufficiently	13	english
 ▁manipulating	▁manipulating	▁manipulating	13	english
 ▁использовать	▁использовать		13	russian
-UnmanagedType	UnmanagedType	Un managed Type	13	english
+UnmanagedType	UnmanagedType		13	french
 BeautifulSoup	BeautifulSoup	Beautiful Soup	13	english
 distributions	distributions	dis tributions	13	english
 communication	communication	communication	13	english
@@ -126428,7 +126428,7 @@ understanding	understanding	under standing	13	english
 ▁conservation	▁conservation	▁conservation	13	english
 ▁homomorphism	▁homomorphism	▁homomorphism	13	english
 ▁Mathematical	▁Mathematical	▁Mathematical	13	english
-▁dataGridView	▁dataGridView	▁dataGridView	13	english
+▁dataGridView	▁dataGridView		13	code
 automatically	automatically		13	NULL
 ▁------------	▁------------		13	NULL
 ▁considerable	▁considerable	▁considerable	13	english
@@ -126907,13 +126907,13 @@ cungquanghang	cungquanghang	c ung qu ang hang	13	english
 ▁BeautifulSoup	▁BeautifulSoup	▁BeautifulSoup	14	english
 ▁functionality	▁functionality	▁functionality	14	english
 Authentication	Authentication	Authentication	14	english
-▁MonoBehaviour	▁MonoBehaviour	▁MonoBehaviour	14	english
+▁MonoBehaviour	▁MonoBehaviour		14	NULL
 ▁Configuration	▁Configuration	▁Configuration	14	english
 ComponentModel	ComponentModel	Component Model	14	english
 ▁StringBuilder	▁StringBuilder	▁StringBuilder	14	english
 SerializeField	SerializeField	Serialize Field	14	english
-ArgumentParser	ArgumentParser	Argument Parser	14	english
-getElementById	getElementById		14	german
+ArgumentParser	ArgumentParser		14	spanish
+getElementById	getElementById		14	code
 --------------	--------------		14	NULL
 ▁understanding	▁understanding	▁understanding	14	english
 FirstOrDefault	FirstOrDefault	First Or Default	14	english
@@ -126921,7 +126921,7 @@ FirstOrDefault	FirstOrDefault	First Or Default	14	english
 ▁authenticated	▁authenticated	▁authenticated	14	english
 ▁communication	▁communication	▁communication	14	english
 ▁compatibility	▁compatibility	▁compatibility	14	english
-▁DateTimeField	▁DateTimeField	▁DateTimeField	14	english
+▁DateTimeField	▁DateTimeField		14	german
 authentication	authentication	authentication	14	english
 ▁interpolation	▁interpolation	▁interpolation	14	english
 ▁convolutional	▁convolutional	▁convolutional	14	english
@@ -126966,7 +126966,7 @@ NativeTypeName	NativeTypeName	Native Type Name	14	english
 multiplication	multiplication	multip lication	14	english
 ▁environmental	▁environmental	▁environmental	14	english
 ▁complementary	▁complementary	▁complementary	14	english
-verticalLayout	verticalLayout	vertical Layout	14	english
+verticalLayout	verticalLayout		14	code
 ▁reinforcement	▁reinforcement	▁reinforcement	14	english
 ▁exponentially	▁exponentially	▁exponentially	14	english
 ▁substantially	▁substantially	▁substantially	14	english
@@ -127392,7 +127392,7 @@ trifluoroacetic	trifluoroacetic	tr if lu oro ac etic	15	english
 ****************	****************		16	NULL
 ################	################		16	NULL
 ////////////////	////////////////		16	NULL
-ancellationToken	ancellationToken	ancellation Token	16	english
+ancellationToken	ancellationToken		16	code
 ________________	________________		16	NULL
 ▁MERCHANTABILITY	▁MERCHANTABILITY		16	german
 ................	................		16	NULL
@@ -127434,7 +127434,7 @@ AAAAAAAAAAAAAAAA	AAAAAAAAAAAAAAAA	AAAAAAAA AAAAAAAA	16	english
 ▁Wissenschaftler	▁Wissenschaftler		16	german
 ▁verschiedensten	▁verschiedensten		16	german
 ▁personenbezogen	▁personenbezogen		16	polish
-AntwortenLöschen	AntwortenLöschen	AntwortenLöschen	16	english
+AntwortenLöschen	AntwortenLöschen		16	german
 ▁wirtschaftliche	▁wirtschaftliche		16	german
 ▁Internationalen	▁Internationalen		16	italian
 ▁österreichische	▁österreichische		16	german

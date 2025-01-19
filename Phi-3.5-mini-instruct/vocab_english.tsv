@@ -1,4 +1,3 @@
-addEventListener	16
 ▁implementations	16
 ▁straightforward	16
 ▁characteristics	16
@@ -24,11 +23,9 @@ OnClickListener	15
 ▁responsibility	15
 ▁Classification	15
 ▁Administration	15
-▁setContentView	15
 ▁Authentication	15
 PropertyChanged	15
 ▁recommendation	15
-backgroundColor	15
 ▁identification	15
 ▁International	14
 ▁configuration	14
@@ -61,7 +58,6 @@ disambiguation	14
 implementation	14
 ▁relationships	14
 ▁specification	14
-preventDefault	14
 ▁investigation	14
 Longrightarrow	14
 authentication	14
@@ -78,7 +74,6 @@ longrightarrow	14
 ▁notifications	14
 ▁decomposition	14
 ▁modifications	14
-LayoutInflater	14
 RelativeLayout	14
 CollectionView	14
 ▁concentration	14
@@ -124,7 +119,6 @@ configuration	13
 ▁Pennsylvania	13
 ▁differential	13
 ▁constitution	13
-▁findViewById	13
 ▁calculations	13
 ▁subsequently	13
 ▁intersection	13
@@ -136,7 +130,6 @@ documentclass	13
 ▁neighborhood	13
 ▁sufficiently	13
 ▁introduction	13
-querySelector	13
 ▁informations	13
 ▁mathematical	13
 ▁intermediate	13
@@ -152,7 +145,6 @@ querySelector	13
 ▁independence	13
 ▁interactions	13
 ▁transactions	13
-getElementsBy	13
 ▁championship	13
 ▁registration	13
 ▁transmission	13
@@ -259,10 +251,8 @@ plementation	12
 ▁opportunity	12
 ▁composition	12
 ▁instruction	12
-findViewById	12
 ▁association	12
 ▁observation	12
-LinearLayout	12
 displaystyle	12
 ▁individuals	12
 ▁experiments	12
@@ -627,7 +617,6 @@ ClassLoader	11
 environment	11
 ▁duplicates	11
 ▁encryption	11
-getInstance	11
 ▁constantly	11
 ▁Republican	11
 ▁conference	11
@@ -667,13 +656,11 @@ UITableView	11
 ▁integrated	11
 ▁disappoint	11
 ▁documented	11
-▁setTimeout	11
 ▁partitions	11
 ▁separation	11
 ▁typescript	11
 ▁substitute	11
 destination	11
-appendChild	11
 ▁indicating	11
 ▁kilometres	11
 ▁satisfying	11
@@ -700,11 +687,9 @@ development	11
 ▁advantages	11
 ▁Portuguese	11
 ▁powershell	11
-removeClass	11
 ▁provincial	11
 ▁succession	11
 ▁leadership	11
-HttpRequest	11
 ▁tensorflow	11
 ▁conception	11
 ▁activation	11
@@ -772,7 +757,6 @@ collections	11
 ▁threatened	11
 ▁monitoring	11
 ▁Petersburg	11
-AtIndexPath	11
 ▁discipline	11
 ▁different	10
 blockquote	10
@@ -995,7 +979,6 @@ Definition	10
 ▁replacing	10
 ▁generator	10
 ▁detection	10
-StackTrace	10
 ▁Currently	10
 navigation	10
 DataSource	10
@@ -1153,7 +1136,6 @@ categories	10
 ▁remainder	10
 ▁filtering	10
 ▁databases	10
-▁tableView	10
 ▁switching	10
 ▁Municipal	10
 ▁EventArgs	10
@@ -1177,7 +1159,6 @@ management	10
 ▁permitted	10
 Annotation	10
 ▁gradually	10
-▁className	10
 ▁Champions	10
 ▁partially	10
 ▁commander	10
@@ -1378,7 +1359,6 @@ visibility	10
 Completion	10
 ▁registers	10
 ▁Athletics	10
-getMessage	10
 ▁Jefferson	10
 ▁criticism	10
 tensorflow	10
@@ -1396,7 +1376,6 @@ coordinate	10
 ▁semantics	10
 ▁deviation	10
 ▁scattered	10
-DateFormat	10
 ▁function	9
 ▁Question	9
 ▁question	9
@@ -1701,7 +1680,6 @@ functions	9
 ▁indicate	9
 ▁province	9
 ▁neighbor	9
-▁DateTime	9
 directory	9
 ▁Hamilton	9
 ▁combined	9
@@ -1765,7 +1743,6 @@ Animation	9
 ▁industry	9
 ▁strategy	9
 ▁marriage	9
-getString	9
 ▁composed	9
 ▁rendered	9
 Resources	9
@@ -1807,7 +1784,6 @@ Alignment	9
 ▁suggests	9
 ▁quantity	9
 ▁attempts	9
-▁onCreate	9
 ▁southern	9
 ▁magazine	9
 ▁clicking	9
@@ -1938,7 +1914,6 @@ connected	9
 ▁challeng	9
 ▁externas	9
 ▁warnings	9
-tableView	9
 ▁Santiago	9
 ▁channels	9
 ▁Mountain	9
@@ -1997,7 +1972,6 @@ subscribe	9
 ▁misunder	9
 ▁reaction	9
 ▁universe	9
-yclerView	9
 ▁receiver	9
 ▁preserve	9
 ▁Atlantic	9
@@ -2307,13 +2281,11 @@ Transport	9
 ▁releases	9
 ▁Identity	9
 ▁Medicine	9
-className	9
 ▁promises	9
 Available	9
 ▁reducing	9
 ▁medieval	9
 ▁educated	9
-IndexPath	9
 ▁phenomen	9
 readsheet	9
 ▁Oklahoma	9
@@ -2372,17 +2344,14 @@ highlight	9
 ▁converts	9
 ▁splendid	9
 ▁imprison	9
-FirstName	9
 ▁periodic	9
 ▁Muhammad	9
 ▁simulate	9
 ▁listened	9
 ▁searches	9
 ▁Oriental	9
-▁AllMovie	9
 ▁successo	9
 ▁Airlines	9
-▁fileName	9
 ▁sympathy	9
 webdriver	9
 ▁Alliance	9
@@ -2633,7 +2602,6 @@ internal	8
 ▁greater	8
 ▁picture	8
 ▁partial	8
-toString	8
 ▁produce	8
 ▁suppose	8
 ▁Society	8
@@ -2733,7 +2701,6 @@ register	8
 Settings	8
 ▁reasons	8
 ▁declare	8
-ViewById	8
 ▁algebra	8
 ▁Current	8
 ▁Antonio	8
@@ -2835,7 +2802,6 @@ standing	8
 ▁disable	8
 ▁Control	8
 ▁circuit	8
-DateTime	8
 ▁elected	8
 gression	8
 ▁clicked	8
@@ -2985,7 +2951,6 @@ selector	8
 ▁instant	8
 products	8
 Progress	8
-▁onClick	8
 ▁degrees	8
 ▁telling	8
 ▁Leipzig	8
@@ -3105,7 +3070,6 @@ sequence	8
 ▁retired	8
 ▁Account	8
 ▁sorting	8
-GridView	8
 abstract	8
 ▁attacks	8
 notation	8
@@ -3173,7 +3137,6 @@ Controls	8
 Protocol	8
 ▁Islands	8
 catalina	8
-onCreate	8
 redirect	8
 ▁artists	8
 ▁equally	8
@@ -3283,7 +3246,6 @@ football	8
 ▁charged	8
 ▁Twitter	8
 ▁termine	8
-addClass	8
 ▁consent	8
 Username	8
 ▁leaders	8
@@ -3506,7 +3468,6 @@ ordinary	8
 ▁webpage	8
 ▁wanting	8
 ▁theatre	8
-setState	8
 includes	8
 ▁devoted	8
 ▁moderne	8
@@ -3566,7 +3527,6 @@ avigator	8
 Endpoint	8
 ▁Mediter	8
 ▁speaker	8
-parseInt	8
 ▁profess	8
 ▁Updated	8
 ▁seeking	8
@@ -3590,7 +3550,6 @@ listener	8
 Original	8
 ▁Affairs	8
 ▁liberal	8
-makeText	8
 romagnet	8
 versions	8
 ▁looping	8
@@ -3665,7 +3624,6 @@ ortheast	8
 ▁compose	8
 ▁backing	8
 Distance	8
-ListItem	8
 ▁lengths	8
 ▁Fourier	8
 uclidean	8
@@ -3718,7 +3676,6 @@ CheckBox	8
 stelling	8
 ▁Correct	8
 ▁readily	8
-doFilter	8
 ▁reconoc	8
 ▁Musical	8
 multirow	8
@@ -3735,7 +3692,6 @@ multirow	8
 ▁Limited	8
 ▁accused	8
 ▁Picture	8
-fileName	8
 ▁cabinet	8
 ▁cutting	8
 ▁stepped	8
@@ -4077,7 +4033,6 @@ Command	7
 present	7
 ▁scroll	7
 ▁theory	7
-▁jQuery	7
 ▁indust	7
 ▁career	7
 ▁coming	7
@@ -4458,7 +4413,6 @@ rollers	7
 ▁thrown	7
 ▁speech	7
 ▁Design	7
-setText	7
 ▁routes	7
 picture	7
 ▁Boston	7
@@ -4587,7 +4541,6 @@ Support	7
 release	7
 Constra	7
 ▁coding	7
-forEach	7
 details	7
 Unknown	7
 ▁Record	7
@@ -4868,8 +4821,6 @@ history	7
 ▁namely	7
 Convert	7
 ▁covers	7
-▁iPhone	7
-getText	7
 erdings	7
 ▁buried	7
 ▁vision	7
@@ -4937,7 +4888,6 @@ variant	7
 ▁clicks	7
 ▁parish	7
 ▁devant	7
-indexOf	7
 ▁doesnt	7
 ▁merged	7
 ▁scores	7
@@ -5379,7 +5329,6 @@ dirname	7
 ▁portal	7
 ▁Moscow	7
 ▁shapes	7
-valueOf	7
 ▁Hudson	7
 ▁Unless	7
 ▁deeper	7
@@ -5630,7 +5579,6 @@ Updated	7
 ▁Guinea	7
 ▁Bright	7
 getting	7
-TagName	7
 ▁Handle	7
 ▁relate	7
 bounded	7
@@ -7225,7 +7173,6 @@ riften	6
 licity	6
 Border	6
 ▁Track	6
-jQuery	6
 ▁conna	6
 Static	6
 ▁rival	6
@@ -8182,7 +8129,6 @@ westen	6
 ▁Crime	6
 ughing	6
 brains	6
-userId	6
 ▁Congo	6
 ▁sheep	6
 rating	6
@@ -9985,7 +9931,6 @@ stock	5
 ▁Bird	5
 ousin	5
 ▁bean	5
-boBox	5
 extra	5
 oport	5
 icked	5
@@ -11657,7 +11602,6 @@ lege	4
 ▁ill	4
 ▁sal	4
 elen	4
-ById	4
 atos	4
 reet	4
 ▁Log	4
@@ -15622,7 +15566,6 @@ obb	3
 Ben	3
 kim	3
 dup	3
-sBy	3
 hex	3
 ▁SR	3
 ▁ah	3
@@ -16473,7 +16416,6 @@ Wh	2
 km	2
 WE	2
 OK	2
-i	2
 TF	2
 IB	2
 p	2
@@ -16606,7 +16548,6 @@ OB	2
 DU	2
 HS	2
 fb	2
-e	2
 YY	2
 BR	2
 tl	2
@@ -16745,7 +16686,6 @@ Lu	2
 VB	2
 TI	2
 pb	2
-i	2
 CM	2
 TD	2
 i	2
@@ -16828,10 +16768,10 @@ EF	2
 JB	2
 WF	2
 Cy	2
+i	1
 e	1
 t	1
 a	1
-i	1
 n	1
 o	1
 r	1

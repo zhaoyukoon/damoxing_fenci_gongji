@@ -1,3 +1,36 @@
+			0	NULL
+			0	NULL
+č			0	NULL
+Č			0	NULL
+ 			0	NULL
+ğ			0	NULL
+ 			0	NULL
+　			0	NULL
+			0	NULL
+			0	NULL
+			0	NULL
+			0	NULL
+ 			0	NULL
+			0	NULL
+			0	NULL
+			0	NULL
+ĝ			0	NULL
+;	;		1	NULL
+▁	▁		1	NULL
+}	}		1	NULL
+)	)		1	NULL
+>	>		1	NULL
+{	{		1	NULL
+,	,		1	NULL
+.	.		1	NULL
+:	:		1	NULL
+"	"		1	NULL
+ič	i	i	1	english
+*	*		1	NULL
+(	(		1	NULL
+]	]		1	NULL
+če	e	e	1	english
+'	'		1	NULL
 ▁	▁		1	NULL
 e	e	e	1	english
 t	t	t	1	english
@@ -94,7 +127,6 @@ K	K	K	1	english
 J	J	J	1	english
 д	д		1	russian
 &	&		1	NULL
-			1	NULL
 Y	Y		1	turkish
 м	м		1	russian
 ?	?		1	NULL
@@ -155,7 +187,6 @@ Z	Z	Z	1	english
 Н	Н		1	russian
 Р	Р		1	russian
 Б	Б		1	russian
-č			1	NULL
 ú	ú		1	NULL
 ę			1	NULL
 ã	ã		1	NULL
@@ -258,7 +289,6 @@ Z	Z	Z	1	english
 و	و		1	arabic
 用	用	用	1	chinese
 À	À		1	NULL
-Č			1	NULL
 Š	Š		1	NULL
 ت	ت		1	arabic
 د	د		1	arabic
@@ -293,7 +323,6 @@ Z	Z	Z	1	english
 ρ	ρ		1	greek
 有	有	有	1	chinese
 Ä	Ä		1	NULL
- 	 		1	NULL
 ī	ī		1	NULL
 ©	©		1	NULL
 为	为	为	1	chinese
@@ -381,7 +410,6 @@ Z	Z	Z	1	english
 点	点	点	1	chinese
 人	人	人	1	chinese
 前	前	前	1	chinese
-ğ			1	NULL
 作	作	作	1	chinese
 ═	═		1	NULL
 ↘	↘		1	NULL
@@ -442,7 +470,6 @@ Z	Z	Z	1	english
 地	地	地	1	chinese
 位	位	位	1	chinese
 에	에		1	korean
- 	 		1	NULL
 列	列	列	1	chinese
 수	수		1	korean
 β	β		1	greek
@@ -644,7 +671,6 @@ Z	Z	Z	1	english
 询	询	询	1	chinese
 创	创	创	1	chinese
 该	该	该	1	chinese
-　	　		1	NULL
 元	元	元	1	chinese
 第	第	第	1	chinese
 天	天	天	1	chinese
@@ -976,7 +1002,6 @@ Z	Z	Z	1	english
 南	南	南	1	chinese
 整	整	整	1	chinese
 订	订	订	1	chinese
-			1	NULL
 ט	ט		1	hebrew
 マ	マ		1	japanese
 ্	্		1	NULL
@@ -1931,7 +1956,6 @@ Z	Z	Z	1	english
 座	座	座	1	chinese
 ˌ	ˌ		1	NULL
 均	均	均	1	chinese
-			1	NULL
 官	官	官	1	chinese
 适	适	适	1	chinese
 护	护	护	1	chinese
@@ -2427,7 +2451,6 @@ Z	Z	Z	1	english
 府	府	府	1	chinese
 외	외		1	korean
 盖	盖	盖	1	chinese
-			1	NULL
 ษ	ษ		1	thai
 佛	佛	佛	1	chinese
 概	概	概	1	chinese
@@ -2443,7 +2466,6 @@ Z	Z	Z	1	english
 葛	葛	葛	1	chinese
 べ	べ		1	japanese
 ろ	ろ		1	japanese
-			1	NULL
 ।	।		1	NULL
 ေ	ေ		1	NULL
 ᴏ	ᴏ		1	NULL
@@ -2477,7 +2499,6 @@ Z	Z	Z	1	english
 ．	．		1	NULL
 吃	吃	吃	1	chinese
 남	남		1	korean
- 	 		1	NULL
 ར	ར		1	NULL
 帮	帮	帮	1	chinese
 毛	毛	毛	1	chinese
@@ -2510,7 +2531,6 @@ Z	Z	Z	1	english
 拼	拼	拼	1	chinese
 ↵	↵		1	NULL
 ⅓	⅓		1	NULL
-			1	NULL
 မ	မ		1	NULL
 叫	叫	叫	1	chinese
 জ	জ		1	NULL
@@ -2529,7 +2549,6 @@ Z	Z	Z	1	english
 ỏ	ỏ		1	NULL
 ヤ	ヤ		1	japanese
 ὰ	ὰ		1	NULL
-			1	NULL
 ◆	◆		1	NULL
 ដ	ដ		1	NULL
 材	材	材	1	chinese
@@ -2656,7 +2675,6 @@ Z	Z	Z	1	english
 施	施	施	1	chinese
 泰	泰	泰	1	chinese
 載	載	載	1	chinese
-			1	NULL
 笑	笑	笑	1	chinese
 華	華	華	1	chinese
 迎	迎	迎	1	chinese
@@ -3013,7 +3031,6 @@ Z	Z	Z	1	english
 順	順	順	1	chinese
 며	며		1	korean
 累	累	累	1	chinese
-ĝ			1	NULL
 ˇ	ˇ		1	NULL
 覧	覧	覧	1	chinese
 এ	এ		1	NULL
@@ -3626,10 +3643,8 @@ UL	UL		2	russian
 AN	AN	AN	2	english
 sk	sk	sk	2	english
 ":	":		2	NULL
-;	;		2	NULL
 ▁б	▁б		2	russian
 ▁à	▁à		2	NULL
-▁	▁		2	NULL
 ió	ió		2	NULL
 It	It	It	2	english
 ▁x	▁x	▁x	2	english
@@ -3711,6 +3726,7 @@ Un	Un		2	french
 rm	rm	rm	2	english
 bb	bb	bb	2	english
 mb	mb	mb	2	english
+);	);		2	NULL
 LO	LO	LO	2	english
 UT	UT	UT	2	english
 ▁·	▁·		2	NULL
@@ -3744,6 +3760,7 @@ By	By	By	2	english
 ся	ся		2	russian
 ля	ля		2	russian
 ча	ча		2	russian
+▁{	▁{		2	NULL
 ня	ня		2	russian
 сь	сь		2	russian
 Se	Se		2	spanish
@@ -3838,7 +3855,6 @@ No	No	No	2	english
 ga	ga	ga	2	english
 ás	ás		2	NULL
 ту	ту		2	russian
-}	}		2	NULL
 *)	*)		2	NULL
 ""	""		2	NULL
 fs	fs	fs	2	english
@@ -3932,7 +3948,6 @@ TH	TH	TH	2	english
 ér	ér		2	hungarian
 At	At	At	2	english
 ги	ги		2	russian
-)	)		2	NULL
 ba	ba	ba	2	english
 Fl	Fl	Fl	2	english
 rl	rl	rl	2	english
@@ -3968,6 +3983,7 @@ Pr	Pr	Pr	2	english
 PO	PO	PO	2	english
 ><	><		2	NULL
 pm	pm	pm	2	english
+▁}	▁}		2	NULL
 ki	ki	ki	2	english
 )}	)}		2	NULL
 он	он		2	russian
@@ -3993,7 +4009,6 @@ ji	ji	ji	2	english
 HT	HT	HT	2	english
 ds	ds		2	french
 oe	oe	oe	2	english
->	>		2	NULL
 ▁•	▁•		2	NULL
 SP	SP	SP	2	english
 пе	пе		2	russian
@@ -4076,7 +4091,6 @@ PR	PR	PR	2	english
 ZE	ZE	ZE	2	english
 IO	IO	IO	2	english
 лю	лю		2	russian
-{	{		2	NULL
 KE	KE	KE	2	english
 aa	aa		2	finnish
 yt	yt		2	swedish
@@ -4090,7 +4104,6 @@ uy	uy		2	turkish
 rs	rs		2	portuguese
 ▁î	▁î		2	NULL
 IR	IR	IR	2	english
-,	,		2	NULL
 $-	$-		2	NULL
 ae	ae	ae	2	english
 éd	éd		2	french
@@ -4181,7 +4194,6 @@ Sl	Sl	Sl	2	english
 ▁Ч	▁Ч		2	russian
 мі	мі		2	russian
 ▁ш	▁ш		2	russian
-.	.		2	NULL
 Us	Us	Us	2	english
 бу	бу		2	russian
 SA	SA	SA	2	english
@@ -4388,7 +4400,6 @@ BL	BL	BL	2	english
 :%	:%		2	NULL
 !(	!(		2	NULL
 ге	ге		2	russian
-:	:		2	NULL
 ті	ті		2	russian
 km	km	km	2	english
 !\	!\		2	NULL
@@ -4516,6 +4527,7 @@ FR	FR	FR	2	english
 tv	tv	tv	2	english
 tk	tk	tk	2	english
 {-	{-		2	NULL
+*/	*/		2	NULL
 cn	cn	cn	2	english
 RX	RX	RX	2	english
 SW	SW	SW	2	english
@@ -4527,6 +4539,7 @@ pd	pd	pd	2	english
 :\	:\		2	NULL
 ré	ré		2	french
 öl	öl		2	turkish
+()	()		2	NULL
 }+	}+		2	NULL
 pf	pf	pf	2	english
 ▁Я	▁Я		2	russian
@@ -4545,6 +4558,7 @@ Sn	Sn	Sn	2	english
 гі	гі		2	russian
 >;	>;		2	NULL
 Sm	Sm	Sm	2	english
+',	',		2	NULL
 VD	VD	VD	2	english
 vs	vs	vs	2	english
 тя	тя		2	russian
@@ -4576,6 +4590,7 @@ dk	dk	dk	2	english
 OF	OF	OF	2	english
 )[	)[		2	NULL
 дя	дя		2	russian
+",	",		2	NULL
 lg	lg	lg	2	chinese
 CB	CB	CB	2	english
 fb	fb	fb	2	english
@@ -4618,7 +4633,6 @@ nr	nr		2	polish
 pb	pb	pb	2	english
 PY	PY	PY	2	english
 TL	TL	TL	2	english
-"	"		2	NULL
 %)	%)		2	NULL
 ▁ю	▁ю		2	russian
 ży	ży		2	polish
@@ -4637,6 +4651,7 @@ DU	DU	DU	2	english
 FD	FD	FD	2	english
 ]=	]=		2	NULL
 \{	\{		2	NULL
+";	";		2	NULL
 iw	iw		2	danish
 mg	mg	mg	2	english
 ós	ós		2	portuguese
@@ -4702,7 +4717,6 @@ zw	zw		2	polish
 mc	mc	mc	2	english
 >)	>)		2	NULL
 Ty	Ty	Ty	2	english
-ič	i	i	2	english
 bh	bh	bh	2	english
 ▁Ü	▁Ü		2	NULL
 рь	рь		2	russian
@@ -4732,7 +4746,6 @@ zu	zu		2	german
 bn	bn	bn	2	english
 {$	{$		2	NULL
 fw	fw	fw	2	english
-*	*		2	NULL
 ▁Š	▁Š		2	NULL
 AK	AK	AK	2	english
 *-	*-		2	NULL
@@ -4775,6 +4788,7 @@ Pi	Pi	Pi	2	english
 óg	óg		2	spanish
 !=	!=		2	NULL
 cx	cx	cx	2	english
+];	];		2	NULL
 nl	nl	nl	2	english
 жу	жу		2	russian
 _)	_)		2	NULL
@@ -4788,8 +4802,10 @@ wy	wy	wy	2	english
 ов	ов		2	russian
 дь	дь		2	russian
 EB	EB	EB	2	english
+▁)	▁)		2	NULL
 им	им		2	russian
 ]<	]<		2	NULL
+))	))		2	NULL
 ]$	]$		2	NULL
 ёт	ёт		2	russian
 öd	öd		2	turkish
@@ -4805,6 +4821,7 @@ nc	nc	nc	2	english
 зь	зь		2	russian
 nm	nm	nm	2	english
 GT	GT	GT	2	english
+">	">		2	NULL
 ал	ал		2	russian
 ?)	?)		2	NULL
 ▁є	▁є		2	russian
@@ -4908,6 +4925,7 @@ ję	j	j	2	english
 hm	hm	hm	2	english
 \[	\[		2	NULL
 lb	lb	lb	2	english
+")	")		2	NULL
 Nd	Nd	Nd	2	english
 GM	GM	GM	2	english
 kc	kc	kc	2	english
@@ -4923,7 +4941,6 @@ NG	NG		2	french
 "—	"—		2	NULL
 vd	vd	vd	2	english
 EY	EY	EY	2	english
-(	(		2	NULL
 ёл	ёл		2	russian
 Du	Du	Du	2	english
 ei	ei		2	finnish
@@ -4939,6 +4956,7 @@ Na	Na	Na	2	english
 GS	GS	GS	2	english
 ню	ню		2	russian
 ,&	,&		2	NULL
+},	},		2	NULL
 SB	SB	SB	2	english
 /"	/"		2	NULL
 чо	чо		2	russian
@@ -4954,6 +4972,7 @@ AW	AW	AW	2	english
 ’,	’,		2	NULL
 kö	kö		2	finnish
 ?!	?!		2	NULL
+){	){		2	NULL
 ’.	’.		2	NULL
 ^-	^-		2	NULL
 xA	xA		2	vietnamese
@@ -4985,8 +5004,8 @@ xB	xB	xB	2	english
 Lo	Lo		2	italian
 :-	:-		2	NULL
 ▁Ś	▁Ś		2	NULL
+';	';		2	NULL
 že	že		2	czech
-]	]		2	NULL
 EA	EA	EA	2	english
 êt	êt		2	french
 Cr	Cr	Cr	2	english
@@ -5040,6 +5059,7 @@ kk	kk	kk	2	english
 ші	ші		2	russian
 hc	hc	hc	2	english
 Qt	Qt	Qt	2	english
+):	):		2	NULL
 NR	NR	NR	2	english
 rz	rz		2	german
 Ut	Ut	Ut	2	english
@@ -5075,7 +5095,6 @@ Bu	Bu		2	turkish
 +=	+=		2	NULL
 '"	'"		2	NULL
 '*	'*		2	NULL
-			2	NULL
 fu	fu		2	italian
 ља	ља		2	russian
 UV	UV	UV	2	english
@@ -5096,6 +5115,7 @@ cé	cé	cé	2	english
 ▁й	▁й		2	russian
 HP	HP	HP	2	english
 Ка	Ка		2	russian
+')	')		2	NULL
 /%	/%		2	NULL
 WW	WW	WW	2	english
 ▁È	▁È		2	NULL
@@ -5140,6 +5160,7 @@ mv	mv	mv	2	english
 qt	qt	qt	2	english
 рю	рю		2	russian
 WD	WD	WD	2	english
+),	),		2	NULL
 wq	wq	wq	2	english
 /$	/$		2	NULL
 VL	VL		2	NULL
@@ -5270,6 +5291,7 @@ Pt	Pt	Pt	2	english
 /:	/:		2	NULL
 чё	чё		2	russian
 %;	%;		2	NULL
+};	};		2	NULL
 ié	ié		2	french
 _-	_-		2	NULL
 MX	MX	MX	2	english
@@ -5297,7 +5319,6 @@ Ps	Ps	Ps	2	chinese
 "?	"?		2	NULL
 HY	HY	HY	2	english
 -)	-)		2	NULL
-če	e	e	2	english
 )>	)>		2	NULL
 Bi	Bi	Bi	2	english
 &#	&#		2	NULL
@@ -5312,7 +5333,6 @@ Li	Li		2	NULL
 ,.	,.		2	NULL
 Da	Da	Da	2	english
 \-	\-		2	NULL
-'	'		2	NULL
 uo	uo		2	italian
 ══	══		2	NULL
 =_	=_		2	NULL
@@ -5341,6 +5361,7 @@ RP	RP	RP	2	english
 ит	ит		2	russian
 VB	VB	VB	2	english
 RW	RW	RW	2	english
+čen	en		2	spanish
 GN	GN	GN	2	english
 Mc	Mc	Mc	2	english
 <>	<>		2	NULL
@@ -5802,7 +5823,6 @@ ape	ape		3	italian
 ava	ava		3	portuguese
 hor	hor	hor	3	english
 fun	fun		3	german
-);	);		3	NULL
 ión	ión		3	spanish
 off	off	off	3	english
 ▁No	▁No	▁No	3	english
@@ -5855,7 +5875,6 @@ ohn	ohn	ohn	3	english
 Ind	Ind	Ind	3	english
 ium	ium		3	russian
 ▁Ad	▁Ad	▁Ad	3	english
-▁{	▁{		3	NULL
 ▁Ph	▁Ph	▁Ph	3	english
 ped	ped	ped	3	english
 You	You	You	3	english
@@ -6130,7 +6149,6 @@ ief	ief		3	latvian
 pan	pan		3	polish
 igr	igr		3	croatian
 ▁om	▁om		3	swedish
-▁}	▁}		3	NULL
 ora	ora		3	italian
 aid	aid	aid	3	english
 agn	agn	agn	3	english
@@ -6299,6 +6317,7 @@ ela	ela		3	portuguese
 uit	uit		3	dutch
 sim	sim	sim	3	english
 chi	chi		3	italian
+();	();		3	NULL
 ady	ady	ady	3	english
 Net	Net	Net	3	english
 Cur	Cur		3	NULL
@@ -6707,6 +6726,7 @@ uan	uan	uan	3	english
 ▁*(	▁*(		3	NULL
 tor	tor	tor	3	english
 ▁př	▁př		3	czech
+");	");		3	NULL
 ред	ред		3	russian
 ▁"/	▁"/		3	NULL
 oma	oma		3	estonian
@@ -6818,6 +6838,7 @@ nab	nab	nab	3	english
 Enc	Enc	Enc	3	english
 ▁db	▁db	▁db	3	english
 äng	äng		3	swedish
+▁*/	▁*/		3	NULL
 ums	ums	ums	3	english
 Cal	Cal		3	NULL
 ▁ле	▁ле		3	russian
@@ -7168,7 +7189,6 @@ yes	yes	yes	3	english
 FUN	FUN	FUN	3	english
 вод	вод		3	russian
 NUM	NUM	NUM	3	english
-*/	*/		3	NULL
 ▁{"	▁{"		3	NULL
 Tim	Tim	Tim	3	english
 PUT	PUT	PUT	3	english
@@ -7192,7 +7212,6 @@ Xml	Xml	Xml	3	english
 ▁ko	▁ko		3	NULL
 Cap	Cap		3	french
 atr	atr		3	polish
-()	()		3	NULL
 lad	lad	lad	3	english
 Sch	Sch	Sch	3	english
 ▁NE	▁NE	▁NE	3	english
@@ -7241,7 +7260,6 @@ soc	soc	soc	3	english
 aki	aki	aki	3	english
 ifi	ifi	ifi	3	english
 Did	Did	Did	3	english
-',	',		3	NULL
 aro	aro	aro	3	english
 ▁Rh	▁Rh	▁Rh	3	english
 (()	(()		3	NULL
@@ -7339,7 +7357,7 @@ rug	rug	rug	3	english
 sky	sky		3	german
 adv	adv	adv	3	english
 UND	UND	UND	3	english
-",	",		3	NULL
+));	));		3	NULL
 ▁Bu	▁Bu		3	turkish
 gie	gie	gie	3	english
 ONG	ONG		3	japanese
@@ -7478,7 +7496,6 @@ ILL	ILL	ILL	3	english
 ▁Fu	▁Fu	▁Fu	3	english
 Mut	Mut	Mut	3	english
 igs	igs	igs	3	english
-";	";		3	NULL
 ▁];	▁];		3	NULL
 cop	cop	cop	3	english
 pal	pal	pal	3	english
@@ -7520,6 +7537,7 @@ Idx	Idx	Idx	3	english
 ▁EU	▁EU	▁EU	3	english
 etr	etr		3	spanish
 zes	zes		3	dutch
+▁);	▁);		3	NULL
 ▁HO	▁HO	▁HO	3	english
 ▁OK	▁OK	▁OK	3	english
 mus	mus	mus	3	english
@@ -7849,7 +7867,6 @@ Pal	Pal	Pal	3	english
 ▁vl	▁vl	▁vl	3	english
 ▁hö	▁hö		3	swedish
 vid	vid		3	swedish
-];	];		3	NULL
 ват	ват		3	russian
 .),	.),		3	NULL
 )}{	)}{		3	NULL
@@ -7882,13 +7899,11 @@ ICK	ICK	ICK	3	english
 pel	pel		3	NULL
 ють	ють		3	russian
 ▁tf	▁tf	▁tf	3	english
-▁)	▁)		3	NULL
 för	för		3	swedish
 ást	ást		3	NULL
 Est	Est		3	french
 WIN	WIN	WIN	3	english
 pio	pio		3	spanish
-))	))		3	NULL
 сла	сла		3	russian
 pot	pot		3	NULL
 ▁\|	▁\|		3	NULL
@@ -7905,6 +7920,7 @@ CLK	CLK	CLK	3	english
 ▁dz	▁dz	▁dz	3	english
 zem	zem		3	slovenian
 Mag	Mag	Mag	3	english
+/**	/**		3	NULL
 wig	wig	wig	3	english
 ▁ye	▁ye		3	NULL
 ▁AG	▁AG	▁AG	3	english
@@ -7930,7 +7946,6 @@ usk	usk		3	NULL
 ▁(%	▁(%		3	NULL
 dbg	dbg	dbg	3	english
 LAY	LAY	LAY	3	english
-">	">		3	NULL
 тин	тин		3	russian
 uty	uty		3	NULL
 lar	lar	lar	3	english
@@ -8188,7 +8203,7 @@ SED	SED	SED	3	english
 ITH	ITH	ITH	3	english
 fen	fen	fen	3	english
 ▁ng	▁ng		3	NULL
-")	")		3	NULL
+');	');		3	NULL
 rud	rud	rud	3	english
 POS	POS	POS	3	english
 jes	jes		3	NULL
@@ -8295,7 +8310,6 @@ Try	Try	Try	3	english
 ▁TX	▁TX	▁TX	3	english
 dog	dog	dog	3	english
 ovi	ovi		3	croatian
-},	},		3	NULL
 ▁Nu	▁Nu		3	romanian
 ▁Ts	▁Ts	▁Ts	3	english
 ijk	ijk		3	dutch
@@ -8343,7 +8357,6 @@ cli	cli	cli	3	english
 ▁Ав	▁Ав		3	russian
 DIO	DIO	DIO	3	english
 Den	Den		3	swedish
-){	){		3	NULL
 mov	mov	mov	3	english
 AIN	AIN	AIN	3	english
 "])	"])		3	NULL
@@ -8436,7 +8449,6 @@ cke	cke	cke	3	english
 ▁dx	▁dx	▁dx	3	english
 SYS	SYS	SYS	3	english
 ▁MY	▁MY	▁MY	3	english
-';	';		3	NULL
 iov	iov	iov	3	english
 ▁DJ	▁DJ	▁DJ	3	english
 nde	nde	nde	3	english
@@ -8670,7 +8682,6 @@ Adv	Adv	Adv	3	english
 ENC	ENC	ENC	3	english
 LES	LES	LES	3	english
 ALE	ALE	ALE	3	english
-):	):		3	NULL
 gos	gos	gos	3	english
 liv	liv	liv	3	english
 ulu	ulu	ulu	3	english
@@ -8725,6 +8736,7 @@ vez	vez		3	spanish
 Dao	Dao	Dao	3	english
 Mal	Mal	Mal	3	english
 ITS	ITS	ITS	3	english
+▁},	▁},		3	NULL
 ▁*"	▁*"		3	NULL
 bio	bio	bio	3	english
 lle	lle		3	spanish
@@ -8905,7 +8917,6 @@ cip	cip		3	italian
 cro	cro	cro	3	english
 ▁há	▁há		3	portuguese
 лич	лич		3	russian
-')	')		3	NULL
 еди	еди		3	russian
 rub	rub	rub	3	english
 rès	rès		3	french
@@ -9039,6 +9050,7 @@ ató	ató		3	spanish
 ▁UP	▁UP	▁UP	3	english
 ▁фе	▁фе		3	russian
 лок	лок		3	russian
+▁};	▁};		3	NULL
 чин	чин		3	russian
 kim	kim	kim	3	english
 хра	хра		3	russian
@@ -9077,7 +9089,6 @@ isy	isy	isy	3	english
 рія	рія		3	russian
 ▁DL	▁DL	▁DL	3	english
 SPI	SPI	SPI	3	english
-),	),		3	NULL
 tit	tit		3	french
 xfe	xfe	xfe	3	english
 REC	REC	REC	3	english
@@ -9379,6 +9390,7 @@ Sir	Sir	Sir	3	english
 ▁uz	▁uz		3	latvian
 ▁MR	▁MR	▁MR	3	english
 )((	)((		3	NULL
+▁//	▁//		3	NULL
 hid	hid	hid	3	english
 Los	Los		3	spanish
 ört	ört		3	hungarian
@@ -9420,7 +9432,6 @@ Mix	Mix	Mix	3	english
 NOP	NOP	NOP	3	english
 ANK	ANK	ANK	3	english
 zin	zin		3	NULL
-};	};		3	NULL
 ."_	."_		3	NULL
 куп	куп		3	russian
 dsi	dsi	dsi	3	english
@@ -9449,6 +9460,7 @@ LIB	LIB	LIB	3	english
 Arm	Arm	Arm	3	english
 zas	zas		3	polish
 odd	odd		3	polish
+});	});		3	NULL
 GBT	GBT	GBT	3	english
 fee	fee	fee	3	english
 цер	цер		3	russian
@@ -9641,6 +9653,7 @@ vir	vir		3	NULL
 ▁ES	▁ES	▁ES	3	english
 tom	tom	tom	3	english
 ikk	ikk		3	norwegian
+]);	]);		3	NULL
 тие	тие		3	russian
 пей	пей		3	russian
 dao	dao	dao	3	english
@@ -9694,7 +9707,6 @@ FMT	FMT	FMT	3	english
 Hol	Hol		3	hungarian
 ▁ji	▁ji	▁ji	3	english
 ▁%,	▁%,		3	NULL
-čen	en		3	spanish
 xit	xit	xit	3	english
 ách	ách		3	vietnamese
 mmc	mmc	mmc	3	english
@@ -10636,7 +10648,6 @@ func	func		4	hindi
 ford	ford		4	swedish
 ▁har	▁har		4	danish
 ▁dru	▁dru		4	romanian
-();	();		4	NULL
 irit	irit	irit	4	english
 тель	тель		4	russian
 more	more	more	4	english
@@ -11159,7 +11170,6 @@ wait	wait		4	french
 ▁FOR	▁FOR	▁FOR	4	english
 ▁Vis	▁Vis	▁Vis	4	english
 uses	uses	uses	4	english
-");	");		4	NULL
 urop	urop	urop	4	english
 ▁sac	▁sac	▁sac	4	english
 ▁Sum	▁Sum	▁Sum	4	english
@@ -11307,7 +11317,6 @@ orph	orph	orph	4	english
 ENSE	ENSE	ENSE	4	english
 ▁был	▁был		4	russian
 mbox	mbox	mbox	4	english
-▁*/	▁*/		4	NULL
 IGHT	IGHT		4	japanese
 ifer	ifer	ifer	4	english
 java	java	java	4	english
@@ -11345,7 +11354,7 @@ here	here	here	4	english
 ▁Atl	▁Atl	▁Atl	4	english
 inet	inet	inet	4	english
 ▁dut	▁dut		4	NULL
-ById	ById	ById	4	english
+ById	ById		4	dutch
 anti	anti	anti	4	english
 ▁sle	▁sle	▁sle	4	english
 ▁kne	▁kne	▁kne	4	english
@@ -11949,7 +11958,6 @@ coll	coll	coll	4	english
 hide	hide	hide	4	english
 .");	.");		4	NULL
 TION	TION	TION	4	english
-));	));		4	NULL
 beit	beit		4	german
 ▁[],	▁[],		4	NULL
 ▁Mah	▁Mah	▁Mah	4	english
@@ -12202,7 +12210,6 @@ UEST	UEST	UEST	4	english
 prés	prés		4	french
 ▁Pas	▁Pas		4	NULL
 Arch	Arch	Arch	4	english
-▁);	▁);		4	NULL
 ▁sql	▁sql		4	japanese
 Yeah	Yeah	Yeah	4	english
 Note	Note	Note	4	english
@@ -12263,7 +12270,7 @@ exec	exec	exec	4	english
 стви	стви		4	russian
 WARE	WARE	WARE	4	english
 ▁Saf	▁Saf	▁Saf	4	english
-toBe	toBe		4	NULL
+toBe	toBe		4	code
 weet	weet		4	dutch
 HTTP	HTTP	HTTP	4	english
 lass	lass	lass	4	english
@@ -12676,7 +12683,6 @@ Html	Html		4	slovak
 ▁Tar	▁Tar	▁Tar	4	english
 vard	vard	vard	4	english
 ▁Kan	▁Kan		4	swedish
-/**	/**		4	NULL
 Star	Star	Star	4	english
 Rele	Rele	Rele	4	english
 oses	oses		4	persian
@@ -12733,6 +12739,7 @@ otto	otto		4	german
 ▁Dol	▁Dol	▁Dol	4	english
 anni	anni		4	italian
 roit	roit		4	french
+());	());		4	NULL
 ▁gan	▁gan		4	NULL
 ване	ване		4	russian
 nung	nung		4	german
@@ -13062,7 +13069,6 @@ velt	velt	velt	4	english
 Appe	Appe	Appe	4	english
 prot	prot	prot	4	english
 мени	мени		4	russian
-');	');		4	NULL
 esty	esty		4	spanish
 Fill	Fill	Fill	4	english
 ▁Кон	▁Кон		4	russian
@@ -13667,6 +13673,7 @@ niej	niej		4	polish
 ▁muj	▁muj	▁muj	4	english
 ▁Rah	▁Rah	▁Rah	4	english
 nels	nels		4	italian
+▁/**	▁/**		4	NULL
 ▁ese	▁ese		4	spanish
 kill	kill		4	french
 CTOR	CTOR	CTOR	4	english
@@ -13710,7 +13717,6 @@ poon	poon	poon	4	english
 PACK	PACK	PACK	4	english
 hire	hire	hire	4	english
 ▁bek	▁bek		4	turkish
-▁},	▁},		4	NULL
 gres	gres	gres	4	english
 ▁Ori	▁Ori	▁Ori	4	english
 ▁(**	▁(**		4	NULL
@@ -14144,7 +14150,6 @@ calc	calc		4	french
 ▁Liv	▁Liv	▁Liv	4	english
 ▁när	▁när		4	swedish
 yect	yect		4	spanish
-▁};	▁};		4	NULL
 ▁roi	▁roi		4	french
 ▁бри	▁бри		4	russian
 IBUT	IBUT		4	french
@@ -14636,7 +14641,6 @@ itte	itte		4	hungarian
 otos	otos	otos	4	english
 ▁Ach	▁Ach	▁Ach	4	english
 ▁ONE	▁ONE		4	japanese
-▁//	▁//		4	NULL
 "><?	"><?		4	NULL
 ▁exh	▁exh	▁exh	4	english
 ▁wsp	▁wsp	▁wsp	4	english
@@ -14690,6 +14694,7 @@ PRIV	PRIV	PRIV	4	english
 ▁*/,	▁*/,		4	NULL
 ▁pam	▁pam	▁pam	4	english
 midt	midt	midt	4	english
+▁});	▁});		4	NULL
 ▁fus	▁fus	▁fus	4	english
 ▁BSD	▁BSD	▁BSD	4	english
 Pars	Pars	Pars	4	english
@@ -14726,7 +14731,6 @@ oden	oden		4	german
 ▁wax	▁wax		4	NULL
 usch	usch	usch	4	english
 cias	cias		4	spanish
-});	});		4	NULL
 ▁För	▁För		4	swedish
 Mass	Mass	Mass	4	english
 ▁CNN	▁CNN	▁CNN	4	english
@@ -14965,7 +14969,6 @@ FREE	FREE		4	greek
 ▁Zag	▁Zag	▁Zag	4	english
 SEQU	SEQU	SEQU	4	english
 ▁són	▁són		4	NULL
-]);	]);		4	NULL
 ▁уби	▁уби		4	russian
 ▁zaj	▁zaj		4	hungarian
 ▁Bun	▁Bun	▁Bun	4	english
@@ -17452,7 +17455,6 @@ party	party	party	5	english
 rupal	rupal	rupal	5	english
 ▁dirt	▁dirt	▁dirt	5	english
 ▁très	▁très		5	french
-());	());		5	NULL
 ▁bulk	▁bulk	▁bulk	5	english
 Black	Black	Black	5	english
 ▁Gard	▁Gard	▁Gard	5	english
@@ -17569,7 +17571,7 @@ apore	apore	apore	5	english
 ▁Nich	▁Nich	▁Nich	5	english
 Shell	Shell	Shell	5	english
 ▁gall	▁gall	▁gall	5	english
-getId	getId		5	dutch
+getId	getId		5	code
 ▁боль	▁боль		5	russian
 ▁glob	▁glob	▁glob	5	english
 ▁soll	▁soll		5	german
@@ -18320,7 +18322,6 @@ ucker	ucker	ucker	5	english
 oning	oning	oning	5	english
 ▁Cruz	▁Cruz	▁Cruz	5	english
 ▁août	▁août		5	french
-▁/**	▁/**		5	NULL
 polit	polit	polit	5	english
 ▁barr	▁barr	▁barr	5	english
 ▁aest	▁aest	▁aest	5	english
@@ -18825,7 +18826,7 @@ Autom	Autom	Autom	5	english
 ▁Root	▁Root	▁Root	5	english
 platz	platz		5	german
 athol	athol	athol	5	english
-sWith	sWith	sWith	5	english
+sWith	sWith		5	code
 ▁abol	▁abol	▁abol	5	english
 anten	anten	anten	5	english
 retry	retry	retry	5	english
@@ -19188,7 +19189,7 @@ resse	resse	resse	5	english
 antal	antal		5	danish
 ▁preg	▁preg		5	portuguese
 ▁Reyn	▁Reyn	▁Reyn	5	english
-iNdEx	iNdEx	iNdEx	5	english
+iNdEx	iNdEx		5	code
 photo	photo	photo	5	english
 ▁rhet	▁rhet		5	romanian
 шения	шения		5	russian
@@ -19261,7 +19262,6 @@ icion	icion		5	spanish
 ▁Wire	▁Wire	▁Wire	5	english
 ALIGN	ALIGN		5	italian
 \+\_\	\+\_\		5	NULL
-▁});	▁});		5	NULL
 ▁Tips	▁Tips	▁Tips	5	english
 ática	ática		5	portuguese
 ▁Leip	▁Leip	▁Leip	5	english
@@ -19636,7 +19636,7 @@ faced	faced	faced	5	english
 ▁Mend	▁Mend	▁Mend	5	english
 ▁Glad	▁Glad	▁Glad	5	english
 œuvre	œuvre		5	french
-▁iPad	▁iPad	▁iPad	5	english
+▁iPad	▁iPad		5	code
 ▁FIFA	▁FIFA	▁FIFA	5	english
 [INST]	[INST]		6	NULL
 <0x00>	<0x00>	<0x00>	6	english
@@ -21698,7 +21698,7 @@ ingham	ingham		6	italian
 ▁Treat	▁Treat	▁Treat	6	english
 ▁Imper	▁Imper	▁Imper	6	english
 ▁Label	▁Label	▁Label	6	english
-jQuery	jQuery	j Query	6	english
+jQuery	jQuery		6	code
 Origin	Origin	Origin	6	english
 Expect	Expect		6	italian
 Remote	Remote	Remote	6	english
@@ -22482,7 +22482,7 @@ ehicle	ehicle		6	german
 Comput	Comput	Comput	6	english
 derive	derive	derive	6	english
 ▁более	▁более		6	russian
-▁ImGui	▁ImGui	▁ImGui	6	english
+▁ImGui	▁ImGui		6	NULL
 Shadow	Shadow	Shadow	6	english
 PREFIX	PREFIX		6	spanish
 ▁embod	▁embod	▁embod	6	english
@@ -22731,7 +22731,7 @@ atrice	atrice		6	NULL
 CLIENT	CLIENT	CLIENT	6	english
 ▁Apply	▁Apply	▁Apply	6	english
 Scheme	Scheme	Scheme	6	english
-ByName	ByName	By Name	6	english
+ByName	ByName		6	german
 ▁orden	▁orden		6	spanish
 ▁Coord	▁Coord	▁Coord	6	english
 TARGET	TARGET	TARGET	6	english
@@ -22785,7 +22785,7 @@ Adjust	Adjust	Adjust	6	english
 ▁Bloom	▁Bloom	▁Bloom	6	english
 isches	isches		6	NULL
 ▁caval	▁caval	▁caval	6	english
-userId	userId	user Id	6	english
+userId	userId		6	code
 ▁bland	▁bland		6	swedish
 umeric	umeric		6	indonesian
 smithy	smithy	smith y	6	english
@@ -23398,7 +23398,7 @@ SYSTEM	SYSTEM	SYSTEM	6	english
 iliary	iliary		6	NULL
 ▁Panel	▁Panel	▁Panel	6	english
 Linked	Linked	Linked	6	english
-getInt	getInt	get Int	6	english
+getInt	getInt		6	code
 ▁socks	▁socks	▁socks	6	english
 ▁imped	▁imped	▁imped	6	english
 ▁teens	▁teens		6	finnish
@@ -23452,7 +23452,7 @@ riages	riages	riages	6	english
 ▁Admin	▁Admin	▁Admin	6	english
 Fatalf	Fatalf	Fatal f	6	english
 ▁homem	▁homem		6	portuguese
-getKey	getKey	get Key	6	english
+getKey	getKey		6	code
 issant	issant	issant	6	english
 ▁Might	▁Might	▁Might	6	english
 ▁Wrest	▁Wrest	▁Wrest	6	english
@@ -24343,7 +24343,7 @@ Mapping	Mapping		7	italian
 liament	liament	liament	7	english
 ▁league	▁league	▁league	7	english
 ▁guitar	▁guitar	▁guitar	7	english
-getName	getName		7	german
+getName	getName		7	code
 invalid	invalid	invalid	7	english
 ▁owners	▁owners	▁owners	7	english
 ▁Family	▁Family	▁Family	7	english
@@ -24508,7 +24508,7 @@ riteria	riteria	riteria	7	english
 ishment	ishment	ishment	7	english
 comfort	comfort	comfort	7	english
 ▁decade	▁decade	▁decade	7	english
-▁jQuery	▁jQuery	▁jQuery	7	english
+▁jQuery	▁jQuery		7	code
 ultural	ultural	ultural	7	english
 ▁состав	▁состав		7	russian
 ▁upload	▁upload	▁upload	7	english
@@ -24609,7 +24609,7 @@ Literal	Literal		7	german
 ▁shares	▁shares	▁shares	7	english
 ▁casual	▁casual	▁casual	7	english
 program	program	program	7	english
-isEmpty	isEmpty		7	NULL
+isEmpty	isEmpty		7	code
 ▁Select	▁Select	▁Select	7	english
 classes	classes	classes	7	english
 ▁worden	▁worden		7	dutch
@@ -24698,7 +24698,7 @@ Operand	Operand	Operand	7	english
 console	console	console	7	english
 ▁dining	▁dining	▁dining	7	english
 ▁Jordan	▁Jordan	▁Jordan	7	english
-forEach	forEach	for Each	7	english
+forEach	forEach		7	code
 ▁vertex	▁vertex	▁vertex	7	english
 ylvania	ylvania		7	finnish
 ▁engage	▁engage	▁engage	7	english
@@ -24723,7 +24723,7 @@ Program	Program	Program	7	english
 ▁scenes	▁scenes	▁scenes	7	english
 ▁spoken	▁spoken	▁spoken	7	english
 ▁inputs	▁inputs	▁inputs	7	english
-indexOf	indexOf	index Of	7	english
+indexOf	indexOf		7	code
 ▁scores	▁scores	▁scores	7	english
 ▁######	▁######		7	NULL
 ▁nights	▁nights	▁nights	7	english
@@ -24800,7 +24800,7 @@ Machine	Machine	Machine	7	english
 columns	columns	columns	7	english
 ▁frozen	▁frozen	▁frozen	7	english
 history	history	history	7	english
-setText	setText	set Text	7	english
+setText	setText		7	code
 ******/	******/		7	NULL
 Setting	Setting	Setting	7	english
 Android	Android		7	french
@@ -24904,7 +24904,7 @@ Browser	Browser		7	NULL
 Loading	Loading	Loading	7	english
 ▁priest	▁priest	▁priest	7	english
 unknown	unknown	unknown	7	english
-getType	getType	get Type	7	english
+getType	getType		7	code
 collect	collect	collect	7	english
 ▁sensor	▁sensor	▁sensor	7	english
 ▁myster	▁myster	▁myster	7	english
@@ -25049,7 +25049,7 @@ SUPPORT	SUPPORT	SUP PORT	7	english
 ▁Unlike	▁Unlike	▁Unlike	7	english
 ▁stones	▁stones		7	spanish
 ICATION	ICATION	ICATION	7	english
-▁iPhone	▁iPhone	▁iPhone	7	english
+▁iPhone	▁iPhone		7	code
 ▁Korean	▁Korean	▁Korean	7	english
 ▁duties	▁duties	▁duties	7	english
 ▁legacy	▁legacy	▁legacy	7	english
@@ -25183,7 +25183,7 @@ cussion	cussion	cussion	7	english
 ▁rounds	▁rounds	▁rounds	7	english
 ▁babies	▁babies	▁babies	7	english
 ▁libert	▁libert	▁libert	7	english
-toEqual	toEqual	to Equal	7	english
+toEqual	toEqual		7	code
 ▁Nelson	▁Nelson	▁Nelson	7	english
 ografía	ografía		7	spanish
 ▁exempl	▁exempl		7	NULL
@@ -25333,7 +25333,7 @@ backend	backend	backend	7	english
 ▁eleven	▁eleven	▁eleven	7	english
 ▁Nobody	▁Nobody	▁Nobody	7	english
 ▁strlen	▁strlen	▁strlen	7	english
-valueOf	valueOf	value Of	7	english
+valueOf	valueOf		7	code
 mercial	mercial	mercial	7	english
 ▁rhythm	▁rhythm	▁rhythm	7	english
 Payment	Payment	Payment	7	english
@@ -25450,7 +25450,7 @@ encoder	encoder	encoder	7	english
 ▁vocals	▁vocals	▁vocals	7	english
 without	without	without	7	english
 ▁Claire	▁Claire		7	french
-getText	getText	get Text	7	english
+getText	getText		7	code
 osexual	osexual		7	spanish
 ▁strain	▁strain	▁strain	7	english
 ▁notify	▁notify	▁notify	7	english
@@ -25786,7 +25786,7 @@ ENABLED	ENABLED	EN ABLED	7	english
 Running	Running	Running	7	english
 ▁penetr	▁penetr		7	polish
 fprintf	fprintf	fprintf	7	chinese
-▁userId	▁userId	▁userId	7	english
+▁userId	▁userId		7	code
 ▁районе	▁районе		7	russian
 tooltip	tooltip		7	danish
 ▁Intent	▁Intent	▁Intent	7	english
@@ -25998,7 +25998,7 @@ ynamics	ynamics		7	NULL
 ▁garlic	▁garlic	▁garlic	7	english
 ▁prints	▁prints	▁prints	7	english
 ▁proves	▁proves	▁proves	7	english
-getData	getData		7	german
+getData	getData		7	code
 ▁comune	▁comune		7	italian
 literal	literal	literal	7	english
 ▁Maggie	▁Maggie	▁Maggie	7	english
@@ -26009,7 +26009,7 @@ Install	Install	Install	7	english
 ▁pillow	▁pillow	▁pillow	7	english
 ▁grades	▁grades	▁grades	7	english
 ▁numero	▁numero		7	italian
-getNode	getNode	get Node	7	english
+getNode	getNode		7	code
 ▁wholes	▁wholes	▁wholes	7	english
 ▁Chrome	▁Chrome	▁Chrome	7	english
 ▁advise	▁advise	▁advise	7	english
@@ -26046,7 +26046,7 @@ Emitter	Emitter	Emitter	7	english
 ▁призна	▁призна		7	russian
 ▁Reagan	▁Reagan	▁Reagan	7	english
 ▁tribes	▁tribes	▁tribes	7	english
-getItem	getItem	get Item	7	english
+getItem	getItem		7	code
 ▁Answer	▁Answer	▁Answer	7	english
 ardless	ardless	ardless	7	english
 ulously	ulously	ul ously	7	english
@@ -26267,7 +26267,7 @@ However	However	However	7	english
 Unicode	Unicode		7	NULL
 Collect	Collect	Collect	7	english
 ▁Hockey	▁Hockey	▁Hockey	7	english
-isArray	isArray	is Array	7	english
+isArray	isArray		7	code
 ▁loudly	▁loudly	▁loudly	7	english
 inement	inement		7	french
 ▁bitmap	▁bitmap		7	russian
@@ -26321,7 +26321,7 @@ perform	perform	perform	7	english
 ▁постро	▁постро		7	russian
 berries	berries	berries	7	english
 Modules	Modules		7	french
-isValid	isValid	is Valid	7	english
+isValid	isValid		7	code
 ▁LIABLE	▁LIABLE	▁LIABLE	7	english
 agation	agation	agation	7	english
 ▁archae	▁archae	▁archae	7	english
@@ -26661,7 +26661,7 @@ internal	internal	internal	8	english
 ▁produce	▁produce	▁produce	8	english
 ▁storage	▁storage	▁storage	8	english
 ▁telling	▁telling	▁telling	8	english
-toString	toString	to String	8	english
+toString	toString		8	code
 ▁digital	▁digital	▁digital	8	english
 ▁Version	▁Version	▁Version	8	english
 ▁carried	▁carried	▁carried	8	english
@@ -27022,7 +27022,7 @@ Registry	Registry	Registry	8	english
 Constant	Constant	Constant	8	english
 ▁Command	▁Command	▁Command	8	english
 notation	notation	notation	8	english
-DateTime	DateTime	Date Time	8	english
+DateTime	DateTime		8	german
 ▁closely	▁closely	▁closely	8	english
 ▁Federal	▁Federal	▁Federal	8	english
 ▁trading	▁trading	▁trading	8	english
@@ -27088,7 +27088,7 @@ Identity	Identity	Identity	8	english
 ▁convent	▁convent	▁convent	8	english
 ▁compact	▁compact	▁compact	8	english
 ▁hanging	▁hanging	▁hanging	8	english
-getValue	getValue		8	german
+getValue	getValue		8	code
 services	services	services	8	english
 ▁dressed	▁dressed	▁dressed	8	english
 ▁reprodu	▁reprodu		8	norwegian
@@ -27473,7 +27473,7 @@ FileName	FileName	File Name	8	english
 ibraries	ibraries	ibraries	8	english
 ▁Foreign	▁Foreign	▁Foreign	8	english
 ▁disturb	▁disturb	▁disturb	8	english
-▁onClick	▁onClick	▁onClick	8	english
+▁onClick	▁onClick		8	code
 ▁shadows	▁shadows	▁shadows	8	english
 iversary	iversary	iversary	8	english
 ▁Systems	▁Systems	▁Systems	8	english
@@ -27545,7 +27545,7 @@ Observer	Observer	Observer	8	english
 friendly	friendly	friendly	8	english
 ▁Germans	▁Germans	▁Germans	8	english
 distance	distance	distance	8	english
-addClass	addClass	add Class	8	english
+addClass	addClass		8	code
 precated	precated	precated	8	english
 zeichnet	zeichnet		8	german
 ▁enables	▁enables		8	spanish
@@ -27826,7 +27826,7 @@ Disabled	Disabled	Disabled	8	english
 ▁thereby	▁thereby	▁thereby	8	english
 ▁induced	▁induced	▁induced	8	english
 ▁Februar	▁Februar		8	german
-ViewById	ViewById	View By Id	8	english
+ViewById	ViewById		8	dutch
 ▁Kitchen	▁Kitchen	▁Kitchen	8	english
 relation	relation	relation	8	english
 ▁ratings	▁ratings	▁ratings	8	english
@@ -27853,7 +27853,7 @@ PyObject	PyObject	Py Object	8	english
 ▁seguito	▁seguito		8	italian
 ▁ranking	▁ranking	▁ranking	8	english
 ▁shallow	▁shallow	▁shallow	8	english
-getClass	getClass	get Class	8	english
+getClass	getClass		8	code
 ▁secured	▁secured	▁secured	8	english
 ▁romance	▁romance	▁romance	8	english
 ▁traject	▁traject		8	spanish
@@ -28092,7 +28092,7 @@ iseconds	iseconds		8	italian
 liminary	liminary	liminary	8	english
 ▁Hamburg	▁Hamburg	▁Hamburg	8	english
 ▁diamond	▁diamond		8	italian
-setState	setState	set State	8	english
+setState	setState		8	code
 Vertical	Vertical	Vertical	8	english
 ▁voltage	▁voltage	▁voltage	8	english
 ▁casting	▁casting	▁casting	8	english
@@ -28145,7 +28145,7 @@ ließlich	ließlich		8	german
 ▁farming	▁farming	▁farming	8	english
 ▁gaining	▁gaining	▁gaining	8	english
 ▁Blockly	▁Blockly	▁Blockly	8	english
-parseInt	parseInt	parse Int	8	english
+parseInt	parseInt		8	code
 Modifier	Modifier	Modifier	8	english
 ▁resting	▁resting	▁resting	8	english
 ▁earning	▁earning	▁earning	8	english
@@ -28190,7 +28190,7 @@ Redirect	Redirect	Redirect	8	english
 ▁reminds	▁reminds	▁reminds	8	english
 ▁seventh	▁seventh	▁seventh	8	english
 ▁asshole	▁asshole	▁asshole	8	english
-fileName	fileName	file Name	8	english
+fileName	fileName		8	code
 ReadOnly	ReadOnly	Read Only	8	english
 cosystem	cosystem	cos ystem	8	english
 training	training	training	8	english
@@ -28271,7 +28271,7 @@ Relative	Relative	Relative	8	english
 ▁октября	▁октября		8	russian
 ▁immense	▁immense	▁immense	8	english
 ▁Players	▁Players	▁Players	8	english
-setValue	setValue	set Value	8	english
+setValue	setValue		8	code
 ▁Wallace	▁Wallace	▁Wallace	8	english
 ▁footage	▁footage	▁footage	8	english
 Parallel	Parallel	Parallel	8	english
@@ -28814,7 +28814,7 @@ ibilities	ibilities	ibilities	9	english
 ▁launched	▁launched		9	russian
 ▁interior	▁interior	▁interior	9	english
 ▁shopping	▁shopping	▁shopping	9	english
-ityEngine	ityEngine	ity Engine	9	english
+ityEngine	ityEngine		9	code
 ▁affected	▁affected	▁affected	9	english
 ▁metadata	▁metadata		9	spanish
 ▁accurate	▁accurate	▁accurate	9	english
@@ -28852,7 +28852,7 @@ Constants	Constants	Constants	9	english
 ▁channels	▁channels	▁channels	9	english
 ▁estimate	▁estimate	▁estimate	9	english
 ▁darkness	▁darkness	▁darkness	9	english
-AppCompat	AppCompat	App Compat	9	english
+AppCompat	AppCompat		9	indonesian
 ▁universe	▁universe	▁universe	9	english
 ▁distingu	▁distingu	▁distingu	9	english
 ▁shooting	▁shooting	▁shooting	9	english
@@ -28987,7 +28987,7 @@ Animation	Animation	Animation	9	english
 ▁momentum	▁momentum	▁momentum	9	english
 ▁electron	▁electron	▁electron	9	english
 ▁Jahrhund	▁Jahrhund		9	german
-getString	getString	get String	9	english
+getString	getString		9	code
 ▁listener	▁listener	▁listener	9	english
 ▁première	▁première		9	french
 ▁interact	▁interact	▁interact	9	english
@@ -29134,7 +29134,7 @@ Character	Character	Character	9	english
 ▁Atlantic	▁Atlantic	▁Atlantic	9	english
 ▁assuming	▁assuming	▁assuming	9	english
 ▁imagined	▁imagined		9	romanian
-GroupName	GroupName	Group Name	9	english
+GroupName	GroupName		9	german
 ▁Lawrence	▁Lawrence	▁Lawrence	9	english
 ▁occupied	▁occupied	▁occupied	9	english
 ▁romantic	▁romantic	▁romantic	9	english
@@ -29148,7 +29148,7 @@ GroupName	GroupName	Group Name	9	english
 ▁Governor	▁Governor	▁Governor	9	english
 arguments	arguments		9	danish
 ▁determin	▁determin		9	italian
-tagHelper	tagHelper		9	NULL
+tagHelper	tagHelper		9	code
 Validator	Validator		9	spanish
 ▁survived	▁survived	▁survived	9	english
 interpret	interpret		9	italian
@@ -29187,11 +29187,11 @@ criptions	criptions	criptions	9	english
 placement	placement	placement	9	english
 ▁episodes	▁episodes	▁episodes	9	english
 ▁biologie	▁biologie	▁biologie	9	english
-▁useState	▁useState	▁useState	9	english
+▁useState	▁useState		9	code
 ▁mistakes	▁mistakes	▁mistakes	9	english
 ▁Margaret	▁Margaret	▁Margaret	9	english
 ▁stopping	▁stopping	▁stopping	9	english
-className	className	class Name	9	english
+className	className		9	code
 ▁Champion	▁Champion	▁Champion	9	english
 ▁theories	▁theories	▁theories	9	english
 ▁disaster	▁disaster	▁disaster	9	english
@@ -29387,7 +29387,7 @@ TagHelper	TagHelper	Tag Helper	9	english
 Structure	Structure	Structure	9	english
 ▁Features	▁Features	▁Features	9	english
 ▁pressing	▁pressing	▁pressing	9	english
-▁DateTime	▁DateTime	▁DateTime	9	english
+▁DateTime	▁DateTime		9	german
 ▁artistic	▁artistic	▁artistic	9	english
 ▁Institut	▁Institut		9	german
 ▁defaults	▁defaults		9	NULL
@@ -29606,7 +29606,7 @@ variables	variables	variables	9	english
 ▁чемпиона	▁чемпиона		9	russian
 ▁Gaussian	▁Gaussian	▁Gaussian	9	english
 ▁stagione	▁stagione		9	italian
-classList	classList	class List	9	english
+classList	classList		9	code
 ▁Fernando	▁Fernando		9	spanish
 ▁nouvelle	▁nouvelle		9	french
 ▁Broadway	▁Broadway	▁Broadway	9	english
@@ -29707,7 +29707,7 @@ TextField	TextField	Text Field	9	english
 ▁сентября	▁сентября		9	russian
 ▁youngest	▁youngest	▁youngest	9	english
 ▁courtesy	▁courtesy	▁courtesy	9	english
-▁fileName	▁fileName	▁fileName	9	english
+▁fileName	▁fileName		9	code
 ▁Schedule	▁Schedule	▁Schedule	9	english
 ▁peculiar	▁peculiar	▁peculiar	9	english
 ▁supplier	▁supplier	▁supplier	9	english
@@ -29730,7 +29730,7 @@ fortunate	fortunate	fortunate	9	english
 Autowired	Autowired	Autowired	9	english
 ▁Budapest	▁Budapest		9	hungarian
 ▁welcomed	▁welcomed	▁welcomed	9	english
-▁parseInt	▁parseInt	▁parseInt	9	english
+▁parseInt	▁parseInt		9	code
 ▁squeezed	▁squeezed	▁squeezed	9	english
 ▁alliance	▁alliance	▁alliance	9	english
 ▁Richmond	▁Richmond	▁Richmond	9	english
@@ -29741,7 +29741,7 @@ PARAMETER	PARAMETER	PARAM ETER	9	english
 ▁организа	▁организа		9	russian
 ▁Examples	▁Examples	▁Examples	9	english
 ▁homework	▁homework	▁homework	9	english
-▁toString	▁toString	▁toString	9	english
+▁toString	▁toString		9	code
 GetString	GetString	Get String	9	english
 ▁portable	▁portable	▁portable	9	english
 ▁Official	▁Official	▁Official	9	english
@@ -29839,7 +29839,7 @@ Workspace	Workspace	Workspace	9	english
 ▁astronom	▁astronom	▁astronom	9	english
 ▁variance	▁variance	▁variance	9	english
 ▁advances	▁advances	▁advances	9	english
-▁onChange	▁onChange	▁onChange	9	english
+▁onChange	▁onChange		9	code
 ▁Commerce	▁Commerce	▁Commerce	9	english
 Connector	Connector	Connector	9	english
 ▁película	▁película		9	spanish
@@ -29943,7 +29943,7 @@ efficient	efficient		9	french
 ▁companies	▁companies	▁companies	10	english
 ▁implement	▁implement	▁implement	10	english
 ▁necessary	▁necessary		10	spanish
-▁className	▁className	▁className	10	english
+▁className	▁className		10	code
 ▁contribut	▁contribut	▁contribut	10	english
 ▁president	▁president	▁president	10	english
 ▁interface	▁interface	▁interface	10	english
@@ -30189,7 +30189,7 @@ plications	plications		10	polish
 ailability	ailability	ailability	10	english
 ▁permanent	▁permanent	▁permanent	10	english
 ▁introduce	▁introduce	▁introduce	10	english
-getElement	getElement		10	german
+getElement	getElement		10	code
 ▁childhood	▁childhood	▁childhood	10	english
 ▁Something	▁Something	▁Something	10	english
 ▁instances	▁instances	▁instances	10	english
@@ -30334,7 +30334,7 @@ Annotation	Annotation	Annotation	10	english
 ▁reflected	▁reflected	▁reflected	10	english
 ▁gathering	▁gathering	▁gathering	10	english
 ▁Friedrich	▁Friedrich	▁Friedrich	10	english
-ationToken	ationToken	ation Token	10	english
+ationToken	ationToken		10	code
 descriptor	descriptor		10	NULL
 ▁desperate	▁desperate		10	spanish
 ▁Singapore	▁Singapore	▁Singapore	10	english
@@ -30365,7 +30365,7 @@ Constraint	Constraint	Constraint	10	english
 ▁boyfriend	▁boyfriend	▁boyfriend	10	english
 ▁infection	▁infection	▁infection	10	english
 ▁timestamp	▁timestamp	▁timestamp	10	english
-getMessage	getMessage	get Message	10	english
+getMessage	getMessage		10	code
 Comparator	Comparator	Comparator	10	english
 ▁authentic	▁authentic	▁authentic	10	english
 ▁Available	▁Available	▁Available	10	english
@@ -30377,7 +30377,7 @@ Comparator	Comparator	Comparator	10	english
 ▁stretched	▁stretched	▁stretched	10	english
 ▁variation	▁variation	▁variation	10	english
 ▁paragraph	▁paragraph	▁paragraph	10	english
-assertTrue	assertTrue	assert True	10	english
+assertTrue	assertTrue		10	code
 ▁Jefferson	▁Jefferson	▁Jefferson	10	english
 ▁computers	▁computers	▁computers	10	english
 ▁associate	▁associate	▁associate	10	english
@@ -30424,7 +30424,7 @@ transition	transition	transition	10	english
 ▁classroom	▁classroom	▁classroom	10	english
 ▁attending	▁attending	▁attending	10	english
 ▁Tennessee	▁Tennessee	▁Tennessee	10	english
-StatusCode	StatusCode	Status Code	10	english
+StatusCode	StatusCode		10	french
 ▁cigarette	▁cigarette	▁cigarette	10	english
 ▁politique	▁politique		10	french
 ▁campaigns	▁campaigns	▁campaigns	10	english
@@ -30445,7 +30445,7 @@ javascript	javascript	javascript	10	english
 ▁invisible	▁invisible	▁invisible	10	english
 ▁notamment	▁notamment		10	french
 Illuminate	Illuminate	Illuminate	10	english
-StackTrace	StackTrace	Stack Trace	10	english
+StackTrace	StackTrace		10	russian
 ▁replacing	▁replacing	▁replacing	10	english
 ▁sophistic	▁sophistic	▁sophistic	10	english
 ▁Nederland	▁Nederland		10	dutch
@@ -30747,7 +30747,7 @@ authorized	authorized	authorized	10	english
 ▁rectangle	▁rectangle	▁rectangle	10	english
 ▁Selection	▁Selection	▁Selection	10	english
 ▁diciembre	▁diciembre		10	spanish
-getContext	getContext		10	russian
+getContext	getContext		10	code
 Generation	Generation	Generation	10	english
 Completion	Completion	Completion	10	english
 ▁breakdown	▁breakdown	▁breakdown	10	english
@@ -30761,7 +30761,7 @@ deprecated	deprecated	deprecated	10	english
 ▁Caribbean	▁Caribbean	▁Caribbean	10	english
 ▁incidents	▁incidents	▁incidents	10	english
 constraint	constraint	constraint	10	english
-parentNode	parentNode		10	NULL
+parentNode	parentNode		10	code
 ▁Biography	▁Biography	▁Biography	10	english
 ▁appealing	▁appealing	▁appealing	10	english
 ▁nominated	▁nominated	▁nominated	10	english
@@ -30792,7 +30792,7 @@ horizontal	horizontal	horizontal	10	english
 ▁ebenfalls	▁ebenfalls		10	german
 ▁Companies	▁Companies	▁Companies	10	english
 ▁corrected	▁corrected	▁corrected	10	english
-getOperand	getOperand	get Operand	10	english
+getOperand	getOperand		10	code
 ▁suspicion	▁suspicion		10	spanish
 ▁touchdown	▁touchdown	▁touchdown	10	english
 Comparison	Comparison	Comparison	10	english
@@ -30802,7 +30802,7 @@ Comparison	Comparison	Comparison	10	english
 Assignment	Assignment		10	italian
 ▁Halloween	▁Halloween	▁Halloween	10	english
 ▁thickness	▁thickness	▁thickness	10	english
-getCurrent	getCurrent	get Current	10	english
+getCurrent	getCurrent		10	code
 ▁Statement	▁Statement	▁Statement	10	english
 ▁Orchestra	▁Orchestra	▁Orchestra	10	english
 ▁initiated	▁initiated	▁initiated	10	english
@@ -30815,7 +30815,7 @@ attachment	attachment	attachment	10	english
 ▁ambitious	▁ambitious	▁ambitious	10	english
 ▁Condition	▁Condition	▁Condition	10	english
 ▁occurring	▁occurring	▁occurring	10	english
-getDefault	getDefault	get Default	10	english
+getDefault	getDefault		10	code
 ▁injection	▁injection	▁injection	10	english
 ▁considers	▁considers	▁considers	10	english
 ▁contacted	▁contacted	▁contacted	10	english
@@ -30956,7 +30956,7 @@ Collections	Collections	Collections	11	english
 ▁resolution	▁resolution	▁resolution	11	english
 ▁registered	▁registered	▁registered	11	english
 ▁revolution	▁revolution	▁revolution	11	english
-assertEqual	assertEqual	assert Equal	11	english
+assertEqual	assertEqual		11	code
 ▁frequently	▁frequently	▁frequently	11	english
 ▁structures	▁structures	▁structures	11	english
 ▁reasonable	▁reasonable	▁reasonable	11	english
@@ -31063,12 +31063,12 @@ Constructor	Constructor		11	spanish
 InputStream	InputStream	Input Stream	11	english
 ▁Geschichte	▁Geschichte		11	german
 ▁physically	▁physically	▁physically	11	english
-▁assertThat	▁assertThat	▁assertThat	11	english
+▁assertThat	▁assertThat		11	code
 Information	Information	Information	11	english
 ▁identifier	▁identifier	▁identifier	11	english
 ▁basketball	▁basketball	▁basketball	11	english
 ▁girlfriend	▁girlfriend	▁girlfriend	11	english
-getInstance	getInstance	get Instance	11	english
+getInstance	getInstance		11	code
 issenschaft	issenschaft		11	german
 ▁affordable	▁affordable	▁affordable	11	english
 ▁complement	▁complement	▁complement	11	english
@@ -31198,7 +31198,7 @@ information	information	information	11	english
 ▁Protection	▁Protection	▁Protection	11	english
 ▁beneficial	▁beneficial	▁beneficial	11	english
 ▁repository	▁repository	▁repository	11	english
-toLowerCase	toLowerCase	to Lower Case	11	english
+toLowerCase	toLowerCase		11	code
 ▁mysterious	▁mysterious	▁mysterious	11	english
 ▁purchasing	▁purchasing	▁purchasing	11	english
 ▁altogether	▁altogether	▁altogether	11	english
@@ -31215,10 +31215,10 @@ environment	environment	environment	11	english
 ▁traditions	▁traditions	▁traditions	11	english
 ▁quantities	▁quantities	▁quantities	11	english
 ▁underneath	▁underneath	▁underneath	11	english
-▁assertTrue	▁assertTrue	▁assertTrue	11	english
+▁assertTrue	▁assertTrue		11	code
 ▁inevitable	▁inevitable	▁inevitable	11	english
 ▁comparable	▁comparable	▁comparable	11	english
-GroupLayout	GroupLayout	Group Layout	11	english
+GroupLayout	GroupLayout		11	german
 ▁delivering	▁delivering	▁delivering	11	english
 ▁objectives	▁objectives	▁objectives	11	english
 ▁occupation	▁occupation	▁occupation	11	english
@@ -31238,7 +31238,7 @@ GroupLayout	GroupLayout	Group Layout	11	english
 ▁correction	▁correction	▁correction	11	english
 ▁habitantes	▁habitantes		11	spanish
 ▁Illuminate	▁Illuminate	▁Illuminate	11	english
-removeClass	removeClass	remove Class	11	english
+removeClass	removeClass		11	code
 ▁Television	▁Television	▁Television	11	english
 OwnProperty	OwnProperty	Own Property	11	english
 ▁productive	▁productive	▁productive	11	english
@@ -31246,7 +31246,7 @@ OwnProperty	OwnProperty	Own Property	11	english
 ▁collecting	▁collecting	▁collecting	11	english
 ▁polynomial	▁polynomial	▁polynomial	11	english
 ▁presidente	▁presidente		11	italian
-appendChild	appendChild	append Child	11	english
+appendChild	appendChild		11	code
 ▁administer	▁administer	▁administer	11	english
 ▁deployment	▁deployment	▁deployment	11	english
 ▁compliment	▁compliment		11	italian
@@ -31324,7 +31324,7 @@ Preferences	Preferences	Preferences	11	english
 ▁containers	▁containers	▁containers	11	english
 ▁septiembre	▁septiembre		11	spanish
 ▁compromise	▁compromise	▁compromise	11	english
-HttpServlet	HttpServlet	Http Servlet	11	english
+HttpServlet	HttpServlet	HttpServlet	11	chinese
 ▁disclaimer	▁disclaimer	▁disclaimer	11	english
 ▁frustrated	▁frustrated	▁frustrated	11	english
 ▁Pittsburgh	▁Pittsburgh	▁Pittsburgh	11	english
@@ -31370,7 +31370,7 @@ proposition	proposition	pro position	11	english
 ▁absorption	▁absorption	▁absorption	11	english
 ▁Publishing	▁Publishing	▁Publishing	11	english
 ▁Enterprise	▁Enterprise	▁Enterprise	11	english
-getProperty	getProperty	get Property	11	english
+getProperty	getProperty		11	code
 ▁migrations	▁migrations	▁migrations	11	english
 ▁Portuguese	▁Portuguese	▁Portuguese	11	english
 ▁withdrawal	▁withdrawal	▁withdrawal	11	english
@@ -31394,7 +31394,7 @@ getProperty	getProperty	get Property	11	english
 ▁Statistics	▁Statistics	▁Statistics	11	english
 öffentlicht	öffentlicht		11	german
 ▁apartments	▁apartments	▁apartments	11	english
-▁setTimeout	▁setTimeout	▁setTimeout	11	english
+▁setTimeout	▁setTimeout		11	code
 ▁practicing	▁practicing	▁practicing	11	english
 ▁positioned	▁positioned	▁positioned	11	english
 ▁priorities	▁priorities	▁priorities	11	english
@@ -31547,7 +31547,7 @@ initialized	initialized	initialized	11	english
 ▁necessarily	▁necessarily		12	spanish
 frastructure	frastructure	frastructure	12	english
 ▁surrounding	▁surrounding	▁surrounding	12	english
-assertEquals	assertEquals	assert Equals	12	english
+assertEquals	assertEquals		12	code
 ▁connections	▁connections	▁connections	12	english
 ▁maintenance	▁maintenance	▁maintenance	12	english
 ▁Corporation	▁Corporation	▁Corporation	12	english
@@ -31668,7 +31668,7 @@ subscription	subscription	subscription	12	english
 ▁convenience	▁convenience		12	spanish
 ▁acknowledge	▁acknowledge	▁acknowledge	12	english
 ▁exceptional	▁exceptional	▁exceptional	12	english
-getAttribute	getAttribute		12	italian
+getAttribute	getAttribute		12	code
 ▁definitions	▁definitions	▁definitions	12	english
 ▁Independent	▁Independent	▁Independent	12	english
 ▁involvement	▁involvement	▁involvement	12	english
@@ -31678,7 +31678,7 @@ notification	notification	notification	12	english
 ▁Netherlands	▁Netherlands	▁Netherlands	12	english
 ▁predictions	▁predictions	▁predictions	12	english
 OutputStream	OutputStream	Output Stream	12	english
-setAttribute	setAttribute		12	italian
+setAttribute	setAttribute		12	code
 ▁distinction	▁distinction	▁distinction	12	english
 ▁celebration	▁celebration	▁celebration	12	english
 ▁investments	▁investments	▁investments	12	english
@@ -32488,7 +32488,7 @@ Configuration	Configuration	Configuration	13	english
 ▁Championship	▁Championship	▁Championship	13	english
 ▁specifically	▁specifically	▁specifically	13	english
 ▁successfully	▁successfully	▁successfully	13	english
-▁assertEquals	▁assertEquals	▁assertEquals	13	english
+▁assertEquals	▁assertEquals		13	code
 ▁neighborhood	▁neighborhood	▁neighborhood	13	english
 ▁intelligence	▁intelligence	▁intelligence	13	english
 ▁instructions	▁instructions	▁instructions	13	english
@@ -32529,10 +32529,10 @@ EventListener	EventListener	Event Listener	13	english
 ▁Additionally	▁Additionally	▁Additionally	13	english
 ▁capabilities	▁capabilities	▁capabilities	13	english
 ▁championship	▁championship	▁championship	13	english
-createElement	createElement		13	german
+createElement	createElement		13	code
 ▁restrictions	▁restrictions	▁restrictions	13	english
 ▁conventional	▁conventional	▁conventional	13	english
-querySelector	querySelector	query Selector	13	english
+querySelector	querySelector		13	code
 ▁independence	▁independence	▁independence	13	english
 ▁performances	▁performances	▁performances	13	english
 ▁manufacturer	▁manufacturer	▁manufacturer	13	english
@@ -32665,7 +32665,7 @@ elasticsearch	elasticsearch		13	hungarian
 ERCHANTABILITY	ERCHANTABILITY		14	german
 ▁Unfortunately	▁Unfortunately	▁Unfortunately	14	english
 ▁contributions	▁contributions	▁contributions	14	english
-getElementById	getElementById		14	german
+getElementById	getElementById		14	code
 ▁entertainment	▁entertainment	▁entertainment	14	english
 ▁manufacturing	▁manufacturing	▁manufacturing	14	english
 ▁consideration	▁consideration	▁consideration	14	english
@@ -32704,7 +32704,7 @@ Authentication	Authentication	Authentication	14	english
 ComponentModel	ComponentModel	Component Model	14	english
 ▁revolutionary	▁revolutionary	▁revolutionary	14	english
 ▁controversial	▁controversial	▁controversial	14	english
-preventDefault	preventDefault	prevent Default	14	english
+preventDefault	preventDefault		14	code
 ▁certification	▁certification	▁certification	14	english
 ▁accommodation	▁accommodation	▁accommodation	14	english
 ▁compatibility	▁compatibility	▁compatibility	14	english
@@ -32737,7 +32737,7 @@ springframework	springframework	spring framework	15	english
 ▁identification	▁identification	▁identification	15	english
 ▁authentication	▁authentication	▁authentication	15	english
 ▁discrimination	▁discrimination	▁discrimination	15	english
-printStackTrace	printStackTrace		15	russian
+printStackTrace	printStackTrace		15	code
 ▁correspondence	▁correspondence	▁correspondence	15	english
 ▁configurations	▁configurations	▁configurations	15	english
 ▁constitutional	▁constitutional	▁constitutional	15	english
@@ -32759,10 +32759,10 @@ ________________	________________		16	NULL
 ▁straightforward	▁straightforward	▁straightforward	16	english
 ▁representatives	▁representatives	▁representatives	16	english
 ExecutionContext	ExecutionContext	Execution Context	16	english
-addEventListener	addEventListener	add Event Listener	16	english
+addEventListener	addEventListener		16	code
 ................	................		16	NULL
 ▁representations	▁representations	▁representations	16	english
-▁IllegalArgument	▁IllegalArgument	▁IllegalArgument	16	english
-ancellationToken	ancellationToken	ancellation Token	16	english
+▁IllegalArgument	▁IllegalArgument		16	NULL
+ancellationToken	ancellationToken		16	code
 [AVAILABLE_TOOLS]	[AVAILABLE_TOOLS]		17	vietnamese
 [/AVAILABLE_TOOLS]	[/AVAILABLE_TOOLS]	[/AVAILABLE_TOOLS]	18	english
