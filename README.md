@@ -20,7 +20,7 @@
 
 ## 记录
 
-2025/01/17: 增加了 [RWKV](https://raw.githubusercontent.com/BlinkDL/RWKV-LM/refs/heads/main/RWKV-v4neo/20B_tokenizer.json) ，词表一共`50254`， 非常精简。中文词表数量只有`313`，是迄今为止最少的。
+2025/01/17: 增加了 [RWKV](https://raw.githubusercontent.com/BlinkDL/RWKV-LM/refs/heads/main/RWKV-v4neo/20B_tokenizer.json) ，词表一共`65529`， 非常精简。中文词表数量只有`8244`，而且全是汉字，没有任何超过一个字的词。这是一个很有意思的尝试。
 
 2025/01/19: 增加了基于模型的语言分类，发现针对这种短词汇，目前的模型效果都不太好。另外，现在模型还区分不了人类和计算机语言。
 
