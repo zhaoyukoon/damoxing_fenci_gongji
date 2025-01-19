@@ -214,7 +214,7 @@ def main():
         plot_length_distribution(pairs, models)
         write_lang_count_markdown(model_to_lang_count)
     else:
-        all_lens, chinese_lens = process_vocab(args.tok_path)
+        all_lens, chinese_lens, lang_count = process_vocab(args.tok_path)
         plot_length_distribution([(all_lens, chinese_lens)], [args.tok_path])
 
 if __name__ == '__main__':

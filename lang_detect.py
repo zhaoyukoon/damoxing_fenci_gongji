@@ -135,7 +135,11 @@ def refine_english_lang(s, pure=False):
     if code_camel.match(s) or code_pattern.match(s):
         return 'code'
     lang = lang_model.predict(s, k=1)
-    lang = lang[0][0].replace('__label__', '')
+    score = lang[1][0]
+
+    lang = lang[0][0].replace('__label__', '') if score > 0.15 else 'english'
+    if lang in ['zh', 'jp', 'th', 'kr', 'gr']:
+        lang = 'english'
 
     if len(s) > 8 and lang.lower() == 'vietnamese':
         return 'english'
