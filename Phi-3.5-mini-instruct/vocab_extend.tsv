@@ -2159,7 +2159,7 @@ an	an	an	2	english
 is	is	is	2	english
 re	re	re	2	english
 it	it	it	2	english
-ar	ar		2	NULL
+ar	ar	ar	2	english
 le	le		2	french
 ▁w	▁w	▁w	2	english
 ▁p	▁p	▁p	2	english
@@ -2171,7 +2171,7 @@ ed	ed	ed	2	english
 ▁o	▁o	▁o	2	english
 ▁b	▁b	▁b	2	english
 om	om		2	swedish
-ic	ic		2	NULL
+ic	ic	ic	2	english
 as	as	as	2	english
 el	el		2	spanish
 ▁h	▁h	▁h	2	english
@@ -2200,16 +2200,16 @@ ol	ol	ol	2	english
 im	im		2	german
 ot	ot	ot	2	english
 ad	ad		2	italian
-ut	ut		2	NULL
+ut	ut	ut	2	english
 ▁g	▁g	▁g	2	english
 em	em		2	portuguese
-ur	ur		2	NULL
+ur	ur	ur	2	english
 id	id	id	2	english
 ▁*	▁*		2	NULL
 ig	ig	ig	2	english
-ra	ra		2	NULL
+ra	ra	ra	2	english
 qu	qu		2	french
-ow	ow		2	NULL
+ow	ow	ow	2	english
 ▁M	▁M	▁M	2	english
 ▁y	▁y		2	spanish
 se	se		2	french
@@ -2231,7 +2231,7 @@ if	if	if	2	english
 ly	ly	ly	2	english
 ab	ab	ab	2	english
 te	te	te	2	english
-ri	ri		2	NULL
+ri	ri	ri	2	english
 us	us	us	2	english
 ▁"	▁"		2	NULL
 ▁H	▁H	▁H	2	english
@@ -2241,7 +2241,7 @@ ir	ir		2	lithuanian
 ck	ck	ck	2	english
 th	th	th	2	english
 eg	eg	eg	2	english
-ay	ay		2	NULL
+ay	ay	ay	2	english
 ▁R	▁R	▁R	2	english
 ▁$	▁$		2	NULL
 ▁#	▁#		2	NULL
@@ -2256,25 +2256,25 @@ pe	pe		2	romanian
 ▁k	▁k	▁k	2	english
 pt	pt	pt	2	english
 );	);		2	NULL
-lo	lo		2	NULL
+lo	lo	lo	2	english
 ▁`	▁`		2	NULL
 ia	ia	ia	2	english
 ▁{	▁{		2	NULL
 ld	ld	ld	2	english
 ub	ub		2	dutch
 ▁j	▁j	▁j	2	english
-la	la		2	NULL
+la	la	la	2	english
 ue	ue	ue	2	english
 ▁J	▁J	▁J	2	english
 ▁O	▁O		2	portuguese
 iv	iv	iv	2	english
-ke	ke		2	NULL
+ke	ke	ke	2	english
 ▁-	▁-		2	NULL
 ci	ci		2	italian
 //	//		2	NULL
 op	op		2	dutch
 ст	ст		2	russian
-iz	iz		2	NULL
+iz	iz	iz	2	english
 ).	).		2	NULL
 og	og		2	norwegian
 ▁п	▁п		2	russian
@@ -2284,12 +2284,12 @@ og	og		2	norwegian
 ▁V	▁V	▁V	2	english
 ge	ge	ge	2	english
 ap	ap	ap	2	english
-ne	ne		2	NULL
+ne	ne	ne	2	english
 av	av		2	norwegian
 xt	xt	xt	2	english
 --	--		2	NULL
 ▁в	▁в		2	russian
-li	li		2	NULL
+li	li	li	2	english
 ра	ра		2	russian
 ▁}	▁}		2	NULL
 ▁U	▁U	▁U	2	english
@@ -2326,7 +2326,7 @@ ov	ov		2	german
 го	го		2	russian
 nt	nt		2	persian
 ff	ff	ff	2	english
-io	io		2	NULL
+io	io	io	2	english
 ▁и	▁и		2	russian
 ▁Y	▁Y		2	turkish
 ",	",		2	NULL
@@ -2350,7 +2350,7 @@ ip	ip	ip	2	english
 та	та		2	russian
 ла	ла		2	russian
 ec	ec	ec	2	english
-ug	ug		2	NULL
+ug	ug	ug	2	english
 ль	ль		2	russian
 cl	cl	cl	2	english
 tt	tt		2	french
@@ -2387,7 +2387,7 @@ ew	ew		2	german
 ▁à	▁à		2	NULL
 не	не		2	russian
 ij	ij		2	german
-wo	wo		2	NULL
+wo	wo	wo	2	english
 ml	ml	ml	2	english
 </	</		2	NULL
 bo	bo	bo	2	english
@@ -2404,7 +2404,7 @@ St	St	St	2	english
 ▁«	▁«		2	NULL
 ix	ix	ix	2	english
 ▁у	▁у		2	russian
-ng	ng		2	NULL
+ng	ng	ng	2	english
 ▁.	▁.		2	NULL
 ))	))		2	NULL
 ('	('		2	NULL
@@ -2420,7 +2420,7 @@ be	be	be	2	english
 ны	ны		2	russian
 ▁В	▁В		2	russian
 ta	ta	ta	2	english
-yn	yn		2	NULL
+yn	yn	yn	2	english
 ys	ys	ys	2	english
 ди	ди		2	russian
 ym	ym		2	hindi
@@ -2457,7 +2457,7 @@ ca	ca	ca	2	english
 Re	Re	Re	2	english
 ):	):		2	NULL
 po	po	po	2	english
-uf	uf		2	NULL
+uf	uf	uf	2	english
 ци	ци		2	russian
 ▁М	▁М		2	russian
 oh	oh	oh	2	english
@@ -2468,7 +2468,7 @@ ON	ON	ON	2	english
 ax	ax	ax	2	english
 aj	aj		2	russian
 IN	IN	IN	2	english
-fo	fo		2	NULL
+fo	fo	fo	2	english
 br	br	br	2	english
 ▁к	▁к		2	russian
 kt	kt	kt	2	english
@@ -2485,7 +2485,7 @@ no	no	no	2	english
 ви	ви		2	russian
 ля	ля		2	russian
 wn	wn	wn	2	english
-ni	ni		2	NULL
+ni	ni	ni	2	english
 ho	ho		2	italian
 Ex	Ex	Ex	2	english
 ST	ST	ST	2	english
@@ -2507,7 +2507,7 @@ je	je		2	serbian
 си	си		2	russian
 bb	bb	bb	2	english
 wh	wh	wh	2	english
-ka	ka		2	NULL
+ka	ka	ka	2	english
 ör	ör		2	swedish
 fr	fr	fr	2	english
 ▁“	▁“		2	NULL
@@ -2515,7 +2515,7 @@ Th	Th		2	finnish
 my	my	my	2	english
 ==	==		2	NULL
 za	za		2	slovenian
-vo	vo		2	NULL
+vo	vo	vo	2	english
 ID	ID	ID	2	english
 ão	ão		2	portuguese
 ts	ts		2	slovenian
@@ -2526,11 +2526,11 @@ da	da		2	portuguese
 ef	ef		2	japanese
 ▁Н	▁Н		2	russian
 ],	],		2	NULL
-vi	vi		2	NULL
+vi	vi	vi	2	english
 ▁>	▁>		2	NULL
 `.	`.		2	NULL
 ть	ть		2	russian
-ek	ek		2	NULL
+ek	ek	ek	2	english
 ор	ор		2	russian
 ні	ні		2	russian
 EN	EN	EN	2	english
@@ -2538,7 +2538,7 @@ Ar	Ar		2	lithuanian
 aw	aw	aw	2	english
 Ch	Ch	Ch	2	english
 ▁Д	▁Д		2	russian
-ny	ny		2	NULL
+ny	ny	ny	2	english
 yp	yp	yp	2	english
 ui	ui		2	german
 ▁Р	▁Р		2	russian
@@ -2559,10 +2559,10 @@ ql	ql		2	japanese
 RE	RE	RE	2	english
 mp	mp	mp	2	english
 MA	MA	MA	2	english
-zy	zy		2	NULL
+zy	zy	zy	2	english
 ía	ía		2	NULL
 sc	sc	sc	2	english
-va	va		2	NULL
+va	va	va	2	english
 ($	($		2	NULL
 ás	ás		2	NULL
 ▁?	▁?		2	NULL
@@ -2617,7 +2617,7 @@ IT	IT	IT	2	english
 ++	++		2	NULL
 ].	].		2	NULL
 }.	}.		2	NULL
-eq	eq		2	NULL
+eq	eq	eq	2	english
 ['	['		2	NULL
 па	па		2	russian
 лу	лу		2	russian
@@ -2653,7 +2653,7 @@ Se	Se		2	spanish
 са	са		2	russian
 он	он		2	russian
 ']	']		2	NULL
-ti	ti		2	NULL
+ti	ti	ti	2	english
 ks	ks	ks	2	english
 ▁»	▁»		2	NULL
 ,\	,\		2	NULL
@@ -2676,7 +2676,7 @@ af	af		2	danish
 su	su		2	italian
 ów	ów		2	polish
 df	df		2	french
-Qu	Qu		2	NULL
+Qu	Qu	Qu	2	english
 AN	AN	AN	2	english
 bl	bl	bl	2	english
 LL	LL		2	indonesian
@@ -2703,7 +2703,7 @@ ba	ba	ba	2	english
 ME	ME	ME	2	english
 Tr	Tr	Tr	2	english
 ])	])		2	NULL
-ha	ha		2	NULL
+ha	ha	ha	2	english
 ▁э	▁э		2	russian
 ря	ря		2	russian
 En	En		2	spanish
@@ -2718,7 +2718,7 @@ ji	ji	ji	2	english
 bu	bu		2	turkish
 ='	='		2	NULL
 ég	ég		2	NULL
-mi	mi		2	NULL
+mi	mi	mi	2	english
 ál	ál		2	hungarian
 ít	ít		2	hungarian
 ке	ке		2	russian
@@ -2726,7 +2726,7 @@ AC	AC	AC	2	english
 éd	éd		2	french
 ▁ч	▁ч		2	russian
 Al	Al	Al	2	english
-zo	zo		2	NULL
+zo	zo	zo	2	english
 ▁ü	▁ü		2	NULL
 ▁Ф	▁Ф		2	russian
 Un	Un		2	french
@@ -2749,7 +2749,7 @@ UT	UT	UT	2	english
 жа	жа		2	russian
 Sh	Sh	Sh	2	english
 An	An	An	2	english
-wa	wa		2	NULL
+wa	wa	wa	2	english
 De	De	De	2	english
 sw	sw	sw	2	english
 Of	Of	Of	2	english
@@ -2762,7 +2762,7 @@ AB	AB	AB	2	english
 As	As	As	2	english
 ES	ES	ES	2	english
 OT	OT	OT	2	english
-ko	ko		2	NULL
+ko	ko	ko	2	english
 yl	yl		2	finnish
 )}	)}		2	NULL
 hi	hi	hi	2	english
@@ -2811,7 +2811,7 @@ OS	OS	OS	2	english
 мі	мі		2	russian
 pa	pa	pa	2	english
 AS	AS	AS	2	english
-AP	AP		2	NULL
+AP	AP	AP	2	english
 US	US	US	2	english
 ({	({		2	NULL
 гу	гу		2	russian
@@ -2837,7 +2837,7 @@ Lo	Lo		2	italian
 My	My	My	2	english
 ді	ді		2	russian
 ца	ца		2	russian
-nu	nu		2	NULL
+nu	nu	nu	2	english
 ві	ві		2	russian
 ky	ky	ky	2	english
 md	md	md	2	english
@@ -2869,10 +2869,10 @@ ae	ae	ae	2	english
 ▁ú	▁ú		2	NULL
 Bu	Bu		2	turkish
 FI	FI	FI	2	english
-pu	pu		2	NULL
+pu	pu	pu	2	english
 zn	zn		2	russian
 бе	бе		2	russian
-ya	ya		2	NULL
+ya	ya	ya	2	english
 />	/>		2	NULL
 No	No	No	2	english
 ={	={		2	NULL
@@ -2881,7 +2881,7 @@ No	No	No	2	english
 gl	gl	gl	2	english
 ^\	^\		2	NULL
 sm	sm	sm	2	english
-oj	oj		2	NULL
+oj	oj	oj	2	english
 !"	!"		2	NULL
 Ed	Ed	Ed	2	english
 :}	:}		2	NULL
@@ -2914,7 +2914,7 @@ pg	pg	pg	2	english
 ág	ág		2	hungarian
 ła	ła		2	NULL
 uv	uv	uv	2	english
-ye	ye		2	NULL
+ye	ye	ye	2	english
 ▁Ш	▁Ш		2	russian
 gt	gt		2	german
 PE	PE	PE	2	english
@@ -2932,8 +2932,8 @@ yr	yr	yr	2	english
 mm	mm	mm	2	english
 TE	TE	TE	2	english
 MS	MS	MS	2	english
-mo	mo		2	NULL
-wi	wi		2	NULL
+mo	mo	mo	2	english
+wi	wi	wi	2	english
 ▁х	▁х		2	russian
 LA	LA	LA	2	english
 mt	mt	mt	2	english
@@ -2989,8 +2989,8 @@ Ab	Ab	Ab	2	english
 sd	sd	sd	2	english
 вы	вы		2	russian
 ▁}	▁}		2	NULL
-sa	sa		2	NULL
-cu	cu		2	NULL
+sa	sa	sa	2	english
+cu	cu	cu	2	english
 ák	ák		2	hungarian
 TO	TO	TO	2	english
 uß	uß		2	german
@@ -3017,7 +3017,7 @@ LI	LI	LI	2	english
 ><	><		2	NULL
 ${	${		2	NULL
 sg	sg	sg	2	english
-bi	bi		2	NULL
+bi	bi	bi	2	english
 }=	}=		2	NULL
 BC	BC	BC	2	english
 ]:	]:		2	NULL
@@ -3063,13 +3063,13 @@ zá	zá		2	czech
 Om	Om		2	swedish
 BA	BA	BA	2	english
 IP	IP	IP	2	english
-yw	yw		2	NULL
+yw	yw	yw	2	english
 EX	EX	EX	2	english
-ev	ev		2	NULL
+ev	ev	ev	2	english
 MD	MD	MD	2	english
 кі	кі		2	russian
 FO	FO	FO	2	english
-hy	hy		2	NULL
+hy	hy	hy	2	english
 ун	ун		2	russian
 bs	bs	bs	2	english
 ße	ße		2	german
@@ -3078,7 +3078,7 @@ bm	bm	bm	2	english
 fs	fs	fs	2	english
 LT	LT	LT	2	english
 ék	ék		2	hungarian
-iu	iu		2	NULL
+iu	iu	iu	2	english
 öl	öl		2	turkish
 év	év		2	hungarian
 :(	:(		2	NULL
@@ -3102,7 +3102,7 @@ KE	KE	KE	2	english
 ▁Я	▁Я		2	russian
 );	);		2	NULL
 =$	=$		2	NULL
-lu	lu		2	NULL
+lu	lu	lu	2	english
 ez	ez		2	hungarian
 dp	dp	dp	2	english
 ço	ço		2	turkish
@@ -3216,7 +3216,7 @@ GL	GL	GL	2	english
 fi	fi	fi	2	english
 \)	\)		2	NULL
 ▁Á	▁Á		2	NULL
-uw	uw		2	NULL
+uw	uw	uw	2	english
 ▁й	▁й		2	russian
 cr	cr	cr	2	english
 oe	oe	oe	2	english
@@ -3286,7 +3286,7 @@ yy	yy	yy	2	english
 Go	Go	Go	2	english
 SA	SA	SA	2	english
 (:	(:		2	NULL
-Ne	Ne		2	NULL
+Ne	Ne	Ne	2	english
 ół	ół		2	NULL
 <?	<?		2	NULL
 dk	dk	dk	2	english
@@ -3355,7 +3355,7 @@ IB	IB	IB	2	english
 ęp	p	p	2	english
 фі	фі		2	russian
 PC	PC	PC	2	english
-yo	yo		2	NULL
+yo	yo	yo	2	english
 ▁Š	▁Š		2	NULL
 Oh	Oh	Oh	2	english
 цу	цу		2	russian
@@ -3619,7 +3619,7 @@ hö	hö		2	swedish
 nę	n	n	2	english
 tf	tf	tf	2	english
 EY	EY	EY	2	english
-vy	vy		2	NULL
+vy	vy	vy	2	english
 UL	UL		2	russian
 !(	!(		2	NULL
 /$	/$		2	NULL
@@ -3746,7 +3746,7 @@ PN	PN	PN	2	english
 HA	HA	HA	2	english
 nn	nn		2	russian
 -,	-,		2	NULL
-UD	UD		2	NULL
+UD	UD	UD	2	english
 ój	ój		2	polish
 Sk	Sk	Sk	2	english
 -)	-)		2	NULL
@@ -3791,7 +3791,7 @@ ný	ný		2	czech
 NR	NR	NR	2	english
 /`	/`		2	NULL
 щу	щу		2	russian
-sn	sn		2	NULL
+sn	sn	sn	2	english
 зд	зд		2	russian
 jà	jà		2	NULL
 ~$	~$		2	NULL
@@ -3924,7 +3924,7 @@ PH	PH	PH	2	english
 Py	Py	Py	2	english
 *{	*{		2	NULL
 dj	dj	dj	2	english
-oa	oa		2	NULL
+oa	oa	oa	2	english
 ią	i	i	2	english
 hé	hé	hé	2	english
 iy	iy	iy	2	english
@@ -3958,7 +3958,7 @@ VA	VA	VA	2	english
 `'	`'		2	NULL
 Bi	Bi	Bi	2	english
 üb	üb		2	german
-pk	pk		2	NULL
+pk	pk	pk	2	english
 rà	rà		2	italian
 *"	*"		2	NULL
 èg	èg		2	NULL
@@ -4053,7 +4053,7 @@ Tu	Tu		2	french
 wx	wx	wx	2	english
 IK	IK		2	swedish
 UG	UG	UG	2	english
-Li	Li		2	NULL
+Li	Li	Li	2	english
 ők	ők		2	hungarian
 mn	mn	mn	2	english
 _(	_(		2	NULL
@@ -4105,7 +4105,7 @@ yó	yó		2	spanish
 Os	Os		2	portuguese
 fm	fm	fm	2	english
 šč	šč		2	NULL
-vu	vu		2	NULL
+vu	vu	vu	2	english
 юр	юр		2	russian
 TB	TB	TB	2	english
 VO	VO	VO	2	english
@@ -4126,7 +4126,7 @@ bp	bp		2	polish
 MW	MW	MW	2	english
 шь	шь		2	russian
 @@	@@		2	NULL
-čka	ka		2	NULL
+čka	ka	ka	2	english
 hh	hh	hh	2	english
 jk	jk	jk	2	english
 Js	Js		2	czech
@@ -4154,7 +4154,7 @@ AU	AU	AU	2	english
 jd	jd		2	japanese
 SG	SG	SG	2	english
 Ко	Ко		2	russian
-KB	KB		2	NULL
+KB	KB	KB	2	english
 ,]	,]		2	NULL
 Gi	Gi	Gi	2	english
 kę	k	k	2	english
@@ -4167,7 +4167,7 @@ Ca	Ca	Ca	2	english
 ел	ел		2	russian
 gb	gb	gb	2	english
 ��	��		2	NULL
-Hy	Hy		2	NULL
+Hy	Hy	Hy	2	english
 xp	xp	xp	2	english
 FP	FP	FP	2	english
 `}	`}		2	NULL
@@ -4289,8 +4289,8 @@ Cy	Cy	Cy	2	english
 ĉ	\t		2	control
 <s>	<s>	<s>	3	english
 ▁th	▁th	▁th	3	english
-ion	ion		3	NULL
-ing	ing		3	NULL
+ion	ion	ion	3	english
+ing	ing	ing	3	english
 ent	ent	ent	3	english
 ▁in	▁in	▁in	3	english
 ▁to	▁to	▁to	3	english
@@ -4309,18 +4309,18 @@ ver	ver		3	japanese
 ▁wh	▁wh	▁wh	3	english
 ▁st	▁st	▁st	3	english
 ▁an	▁an	▁an	3	english
-ith	ith		3	NULL
+ith	ith	ith	3	english
 ist	ist		3	german
 and	and	and	3	english
 ▁al	▁al		3	spanish
 ate	ate	ate	3	english
-ess	ess		3	NULL
-ere	ere		3	NULL
+ess	ess	ess	3	english
+ere	ere	ere	3	english
 ▁as	▁as	▁as	3	english
 ▁se	▁se		3	french
 ers	ers		3	german
 ame	ame	ame	3	english
-ant	ant		3	NULL
+ant	ant	ant	3	english
 ▁la	▁la		3	NULL
 ▁en	▁en		3	spanish
 ▁ex	▁ex		3	italian
@@ -4338,7 +4338,7 @@ ill	ill	ill	3	english
 ▁le	▁le		3	french
 rom	rom	rom	3	english
 ine	ine	ine	3	english
-ass	ass		3	NULL
+ass	ass	ass	3	english
 ▁or	▁or	▁or	3	english
 ▁at	▁at	▁at	3	english
 our	our	our	3	english
@@ -4360,15 +4360,15 @@ lic	lic	lic	3	english
 com	com		3	portuguese
 ▁In	▁In	▁In	3	english
 ind	ind	ind	3	english
-ell	ell		3	NULL
+ell	ell	ell	3	english
 ost	ost		3	german
 ▁ch	▁ch	▁ch	3	english
-ect	ect		3	NULL
+ect	ect	ect	3	english
 int	int	int	3	english
 ▁im	▁im		3	german
 ▁sh	▁sh	▁sh	3	english
 ▁An	▁An	▁An	3	english
-ata	ata		3	NULL
+ata	ata	ata	3	english
 ire	ire	ire	3	english
 ▁tr	▁tr	▁tr	3	english
 con	con		3	spanish
@@ -4392,9 +4392,9 @@ ase	ase		3	finnish
 ▁if	▁if	▁if	3	english
 ite	ite		3	dutch
 ble	ble		3	norwegian
-fer	fer		3	NULL
+fer	fer	fer	3	english
 ive	ive	ive	3	english
-ang	ang		3	NULL
+ang	ang	ang	3	english
 ens	ens		3	portuguese
 ▁so	▁so	▁so	3	english
 ast	ast	ast	3	english
@@ -4421,20 +4421,20 @@ act	act	act	3	english
 ier	ier		3	italian
 ▁ab	▁ab	▁ab	3	english
 ▁et	▁et		3	french
-ser	ser		3	NULL
+ser	ser	ser	3	english
 iew	iew		3	latvian
 ign	ign	ign	3	english
 put	put	put	3	english
 one	one	one	3	english
 ▁di	▁di		3	italian
-ary	ary		3	NULL
+ary	ary	ary	3	english
 get	get	get	3	english
 ▁lo	▁lo		3	NULL
 ran	ran	ran	3	english
 ▁на	▁на		3	russian
 ype	ype	ype	3	english
 der	der		3	german
-ize	ize		3	NULL
+ize	ize	ize	3	english
 low	low	low	3	english
 ▁Ch	▁Ch	▁Ch	3	english
 ide	ide	ide	3	chinese
@@ -4486,7 +4486,7 @@ ank	ank	ank	3	english
 ▁sp	▁sp	▁sp	3	english
 ▁Wh	▁Wh	▁Wh	3	english
 ags	ags	ags	3	english
-ann	ann		3	NULL
+ann	ann	ann	3	english
 ert	ert	ert	3	english
 ace	ace	ace	3	english
 sch	sch		3	german
@@ -4537,7 +4537,7 @@ rac	rac	rac	3	english
 ual	ual	ual	3	english
 ▁Le	▁Le		3	french
 ▁em	▁em		3	portuguese
-vel	vel		3	NULL
+vel	vel	vel	3	english
 ▁If	▁If		3	spanish
 ese	ese		3	spanish
 ▁il	▁il		3	italian
@@ -4576,12 +4576,12 @@ ute	ute		3	italian
 ner	ner	ner	3	english
 rib	rib		3	french
 ▁As	▁As	▁As	3	english
-ina	ina		3	NULL
+ina	ina	ina	3	english
 son	son		3	french
 ▁So	▁So	▁So	3	english
 pon	pon	pon	3	english
 ada	ada		3	indonesian
-amb	amb		3	NULL
+amb	amb	amb	3	english
 red	red	red	3	english
 ско	ско		3	russian
 att	att		3	swedish
@@ -4604,7 +4604,7 @@ che	che		3	italian
 ▁En	▁En		3	spanish
 ▁id	▁id	▁id	3	english
 Pro	Pro	Pro	3	english
-eta	eta		3	NULL
+eta	eta	eta	3	english
 log	log	log	3	english
 arg	arg	arg	3	english
 ▁--	▁--		3	NULL
@@ -4649,7 +4649,7 @@ tem	tem		3	portuguese
 ler	ler		3	portuguese
 ▁ph	▁ph	▁ph	3	english
 til	til		3	norwegian
-els	els		3	NULL
+els	els	els	3	english
 ▁Sh	▁Sh	▁Sh	3	english
 any	any	any	3	english
 dex	dex	dex	3	english
@@ -4668,7 +4668,7 @@ Val	Val	Val	3	english
 ats	ats		3	lithuanian
 ▁до	▁до		3	russian
 for	for	for	3	english
-pre	pre		3	NULL
+pre	pre	pre	3	english
 ida	ida		3	german
 air	air	air	3	english
 rol	rol		3	spanish
@@ -4683,7 +4683,7 @@ sub	sub	sub	3	english
 ott	ott		3	italian
 ars	ars	ars	3	english
 ▁br	▁br	▁br	3	english
-ool	ool		3	NULL
+ool	ool	ool	3	english
 yle	yle		3	finnish
 use	use	use	3	english
 cia	cia	cia	3	english
@@ -4758,7 +4758,7 @@ rem	rem	rem	3	english
 Ser	Ser		3	swedish
 def	def	def	3	english
 ние	ние		3	russian
-ais	ais		3	NULL
+ais	ais	ais	3	english
 ▁To	▁To	▁To	3	english
 ▁Br	▁Br	▁Br	3	english
 ole	ole		3	finnish
@@ -4784,7 +4784,7 @@ gen	gen		3	italian
 ère	ère		3	french
 ▁ре	▁ре		3	russian
 ▁Am	▁Am	▁Am	3	english
-lin	lin		3	NULL
+lin	lin	lin	3	english
 ▁Te	▁Te	▁Te	3	english
 ▁um	▁um		3	portuguese
 ови	ови		3	russian
@@ -4824,18 +4824,18 @@ ita	ita		3	italian
 loc	loc		3	romanian
 iet	iet		3	latvian
 ▁$$	▁$$		3	NULL
-ito	ito		3	NULL
+ito	ito	ito	3	english
 aft	aft	aft	3	english
 App	App	App	3	english
 ▁sk	▁sk	▁sk	3	english
 irc	irc	irc	3	english
 ной	ной		3	russian
-sum	sum		3	NULL
+sum	sum	sum	3	english
 ▁Ad	▁Ad	▁Ad	3	english
 ▁Gu	▁Gu	▁Gu	3	english
 ▁ст	▁ст		3	russian
-ood	ood		3	NULL
-bol	bol		3	NULL
+ood	ood	ood	3	english
+bol	bol	bol	3	english
 enn	enn		3	portuguese
 bin	bin	bin	3	english
 Mod	Mod	Mod	3	english
@@ -4876,13 +4876,13 @@ alk	alk		3	hungarian
 pen	pen	pen	3	english
 cel	cel		3	romanian
 ▁sl	▁sl	▁sl	3	english
-zen	zen		3	NULL
+zen	zen	zen	3	english
 ▁ce	▁ce	▁ce	3	english
 ▁fa	▁fa		3	italian
 IMA	IMA	IMA	3	english
 ▁де	▁де		3	russian
 cer	cer	cer	3	english
-ret	ret		3	NULL
+ret	ret	ret	3	english
 ▁sz	▁sz		3	hungarian
 opy	opy	opy	3	english
 url	url	url	3	english
@@ -4909,11 +4909,11 @@ ena	ena		3	spanish
 rap	rap	rap	3	english
 ▁ма	▁ма		3	russian
 ▁те	▁те		3	russian
-bum	bum		3	NULL
-vir	vir		3	NULL
+bum	bum	bum	3	english
+vir	vir	vir	3	english
 ées	ées		3	french
 lem	lem	lem	3	english
-ego	ego		3	NULL
+ego	ego	ego	3	english
 ▁od	▁od		3	polish
 mit	mit		3	german
 ▁$(	▁$(		3	NULL
@@ -4967,7 +4967,7 @@ bed	bed	bed	3	english
 ▁Je	▁Je		3	french
 ony	ony	ony	3	english
 iff	iff	iff	3	english
-ema	ema		3	NULL
+ema	ema	ema	3	english
 ali	ali	ali	3	english
 ▁&&	▁&&		3	NULL
 lev	lev		3	swedish
@@ -4975,7 +4975,7 @@ cor	cor		3	portuguese
 ció	ció		3	NULL
 ▁Pa	▁Pa	▁Pa	3	english
 bra	bra		3	swedish
-ili	ili		3	NULL
+ili	ili	ili	3	english
 ▁By	▁By	▁By	3	english
 ete	ete		3	french
 ▁pu	▁pu		3	NULL
@@ -4994,7 +4994,7 @@ ges	ges		3	german
 dep	dep	dep	3	english
 ▁Li	▁Li		3	NULL
 ils	ils		3	french
-ync	ync		3	NULL
+ync	ync	ync	3	english
 ▁то	▁то		3	russian
 ▁cu	▁cu		3	NULL
 ION	ION	ION	3	english
@@ -5021,7 +5021,7 @@ uth	uth		3	norwegian
 ном	ном		3	russian
 arm	arm	arm	3	english
 ').	').		3	NULL
-iam	iam		3	NULL
+iam	iam	iam	3	english
 For	For	For	3	english
 нов	нов		3	russian
 sel	sel	sel	3	english
@@ -5044,7 +5044,7 @@ ala	ala		3	finnish
 ров	ров		3	russian
 ▁/>	▁/>		3	NULL
 ▁Go	▁Go	▁Go	3	english
-mat	mat		3	NULL
+mat	mat	mat	3	english
 Int	Int	Int	3	english
 sol	sol		3	vietnamese
 ▁pi	▁pi	▁pi	3	english
@@ -5081,7 +5081,7 @@ ela	ela		3	portuguese
 ())	())		3	NULL
 lag	lag		3	norwegian
 uit	uit		3	dutch
-err	err		3	NULL
+err	err	err	3	english
 dom	dom	dom	3	english
 alf	alf	alf	3	english
 xml	xml	xml	3	english
@@ -5090,7 +5090,7 @@ pec	pec	pec	3	english
 ▁gl	▁gl	▁gl	3	english
 ▁US	▁US	▁US	3	english
 ▁HT	▁HT	▁HT	3	english
-oot	oot		3	NULL
+oot	oot	oot	3	english
 ная	ная		3	russian
 ▁Bl	▁Bl	▁Bl	3	english
 hen	hen	hen	3	english
@@ -5117,10 +5117,10 @@ ani	ani		3	romanian
 ","	","		3	NULL
 (),	(),		3	NULL
 ▁од	▁од		3	russian
-zer	zer		3	NULL
+zer	zer	zer	3	english
 ULL	ULL		3	russian
 ▁pa	▁pa	▁pa	3	english
-ama	ama		3	NULL
+ama	ama	ama	3	english
 ety	ety	ety	3	english
 ^{\	^{\		3	NULL
 fty	fty	fty	3	english
@@ -5151,7 +5151,7 @@ ras	ras	ras	3	english
 jor	jor		3	spanish
 ▁бо	▁бо		3	russian
 ▁Es	▁Es		3	spanish
-omb	omb		3	NULL
+omb	omb	omb	3	english
 ^{-	^{-		3	NULL
 ump	ump	ump	3	english
 ▁ok	▁ok	▁ok	3	english
@@ -5195,12 +5195,12 @@ irm	irm	irm	3	english
 ▁да	▁да		3	russian
 ▁**	▁**		3	NULL
 yes	yes	yes	3	english
-adt	adt		3	NULL
+adt	adt	adt	3	english
 All	All	All	3	english
 sim	sim	sim	3	english
 rat	rat	rat	3	english
 ▁»,	▁»,		3	NULL
-Web	Web		3	NULL
+Web	Web	Web	3	english
 ▁ju	▁ju	▁ju	3	english
 tri	tri		3	serbian
 osa	osa		3	finnish
@@ -5248,7 +5248,7 @@ ogn	ogn		3	italian
 ▁||	▁||		3	NULL
 uen	uen	uen	3	english
 ▁Ко	▁Ко		3	russian
-vin	vin		3	NULL
+vin	vin	vin	3	english
 нии	нии		3	russian
 ▁()	▁()		3	NULL
 ▁NS	▁NS		3	german
@@ -5257,12 +5257,12 @@ gra	gra		3	polish
 ▁mu	▁mu	▁mu	3	english
 tab	tab		3	french
 ▁ос	▁ос		3	russian
-ynt	ynt		3	NULL
+ynt	ynt	ynt	3	english
 ▁"$	▁"$		3	NULL
 uni	uni	uni	3	english
 zie	zie		3	dutch
-nia	nia		3	NULL
-ENT	ENT		3	NULL
+nia	nia	nia	3	english
+ENT	ENT	ENT	3	english
 ▁Sw	▁Sw	▁Sw	3	english
 ▁Po	▁Po	▁Po	3	english
 cio	cio	cio	3	english
@@ -5299,17 +5299,17 @@ ape	ape		3	italian
 bor	bor		3	danish
 anz	anz		3	polish
 atz	atz	atz	3	english
-ika	ika		3	NULL
-kre	kre		3	NULL
+ika	ika	ika	3	english
+kre	kre	kre	3	english
 lav	lav		3	italian
 ril	ril	ril	3	english
 ▁Sm	▁Sm	▁Sm	3	english
 cat	cat	cat	3	english
 oma	oma		3	estonian
-dat	dat		3	NULL
+dat	dat	dat	3	english
 acy	acy	acy	3	english
 ▁př	▁př		3	czech
-jen	jen		3	NULL
+jen	jen	jen	3	english
 see	see	see	3	english
 ▁ми	▁ми		3	russian
 chi	chi		3	italian
@@ -5328,7 +5328,7 @@ Dis	Dis	Dis	3	english
 agn	agn	agn	3	english
 ING	ING	ING	3	english
 URL	URL		3	japanese
-urt	urt		3	NULL
+urt	urt	urt	3	english
 ▁но	▁но		3	russian
 }}\	}}\		3	NULL
 ila	ila	ila	3	english
@@ -5369,10 +5369,10 @@ vas	vas		3	french
 }$,	}$,		3	NULL
 ▁жи	▁жи		3	russian
 rak	rak		3	finnish
-iar	iar		3	NULL
+iar	iar	iar	3	english
 HER	HER	HER	3	english
 лан	лан		3	russian
-lia	lia		3	NULL
+lia	lia	lia	3	english
 ▁Na	▁Na	▁Na	3	english
 ден	ден		3	russian
 mes	mes		3	french
@@ -5396,15 +5396,15 @@ exp	exp	exp	3	english
 ▁па	▁па		3	russian
 div	div		3	french
 anc	anc		3	spanish
-nen	nen		3	NULL
+nen	nen	nen	3	english
 ▁ci	▁ci		3	italian
 ▁Of	▁Of	▁Of	3	english
 Reg	Reg	Reg	3	english
 yal	yal	yal	3	english
-ako	ako		3	NULL
+ako	ako	ako	3	english
 ota	ota		3	french
 ▁+=	▁+=		3	NULL
-lac	lac		3	NULL
+lac	lac	lac	3	english
 ska	ska		3	swedish
 ibr	ibr	ibr	3	english
 лся	лся		3	russian
@@ -5447,9 +5447,9 @@ ppe	ppe	ppe	3	english
 det	det		3	danish
 ▁CO	▁CO	▁CO	3	english
 ▁мі	▁мі		3	russian
-iti	iti		3	NULL
+iti	iti	iti	3	english
 ▁Ke	▁Ke	▁Ke	3	english
-enu	enu		3	NULL
+enu	enu	enu	3	english
 том	том		3	russian
 тов	тов		3	russian
 ▁db	▁db	▁db	3	english
@@ -5496,7 +5496,7 @@ Str	Str	Str	3	english
 ▁Up	▁Up	▁Up	3	english
 ▁`$	▁`$		3	NULL
 ▁Ré	▁Ré	▁Ré	3	english
-cap	cap		3	NULL
+cap	cap	cap	3	english
 pat	pat	pat	3	english
 eli	eli		3	finnish
 End	End	End	3	english
@@ -5512,7 +5512,7 @@ gex	gex	gex	3	english
 ▁ho	▁ho		3	italian
 ême	ême		3	french
 ▁cy	▁cy	▁cy	3	english
-lor	lor		3	NULL
+lor	lor	lor	3	english
 ▁>>	▁>>		3	NULL
 бли	бли		3	russian
 ▁Во	▁Во		3	russian
@@ -5542,7 +5542,7 @@ cup	cup	cup	3	english
 ých	ých		3	slovak
 ▁zw	▁zw		3	polish
 vor	vor		3	german
-oni	oni		3	NULL
+oni	oni	oni	3	english
 ▁né	▁né		3	french
 ция	ция		3	russian
 ▁<=	▁<=		3	NULL
@@ -5576,7 +5576,7 @@ rio	rio	rio	3	english
 ▁Па	▁Па		3	russian
 hol	hol		3	hungarian
 gar	gar	gar	3	english
-han	han		3	NULL
+han	han	han	3	english
 ▁фи	▁фи		3	russian
 los	los		3	spanish
 eur	eur		3	french
@@ -5598,10 +5598,10 @@ pub	pub		3	serbian
 ▁[[	▁[[		3	NULL
 bal	bal	bal	3	english
 igt	igt		3	danish
-igu	igu		3	NULL
+igu	igu	igu	3	english
 ▁\[	▁\[		3	NULL
 бря	бря		3	russian
-pes	pes		3	NULL
+pes	pes	pes	3	english
 cil	cil		3	italian
 git	git		3	german
 дар	дар		3	russian
@@ -5649,14 +5649,14 @@ mys	mys	mys	3	english
 ▁ru	▁ru		3	russian
 ▁що	▁що		3	russian
 oro	oro		3	italian
-rei	rei		3	NULL
+rei	rei	rei	3	english
 ▁sn	▁sn		3	NULL
 ▁ko	▁ko		3	NULL
-cha	cha		3	NULL
+cha	cha	cha	3	english
 enk	enk	enk	3	english
 rum	rum		3	italian
 ▁же	▁же		3	russian
-akt	akt		3	NULL
+akt	akt	akt	3	english
 ▁CH	▁CH	▁CH	3	english
 ieg	ieg		3	latvian
 fix	fix	fix	3	english
@@ -5669,7 +5669,7 @@ pid	pid	pid	3	english
 про	про		3	russian
 ▁iz	▁iz		3	NULL
 ▁Ha	▁Ha	▁Ha	3	english
-unn	unn		3	NULL
+unn	unn	unn	3	english
 rod	rod		3	slovak
 spe	spe	spe	3	english
 erk	erk		3	turkish
@@ -5700,7 +5700,7 @@ del	del		3	spanish
 ele	ele		3	portuguese
 Aut	Aut	Aut	3	english
 mut	mut	mut	3	english
-oon	oon		3	NULL
+oon	oon	oon	3	english
 asc	asc		3	romanian
 bug	bug	bug	3	english
 оло	оло		3	russian
@@ -5710,7 +5710,7 @@ jpg	jpg		3	russian
 Dec	Dec	Dec	3	english
 лей	лей		3	russian
 ▁Ан	▁Ан		3	russian
-uda	uda		3	NULL
+uda	uda	uda	3	english
 ▁XX	▁XX	▁XX	3	english
 nej	nej		3	slovak
 ▁Ap	▁Ap	▁Ap	3	english
@@ -5720,7 +5720,7 @@ gle	gle	gle	3	english
 oco	oco		3	portuguese
 кан	кан		3	russian
 But	But	But	3	english
-gan	gan		3	NULL
+gan	gan	gan	3	english
 .).	.).		3	NULL
 ßen	ßen		3	german
 erc	erc	erc	3	english
@@ -5750,7 +5750,7 @@ oca	oca	oca	3	english
 ▁Oh	▁Oh	▁Oh	3	english
 ющи	ющи		3	russian
 ▁Op	▁Op		3	dutch
-lan	lan		3	NULL
+lan	lan	lan	3	english
 тур	тур		3	russian
 rip	rip		3	italian
 agy	agy		3	hungarian
@@ -5777,7 +5777,7 @@ bel	bel	bel	3	english
 ▁IV	▁IV	▁IV	3	english
 ▁Ir	▁Ir	▁Ir	3	english
 etz	etz	etz	3	english
-iza	iza		3	NULL
+iza	iza	iza	3	english
 дер	дер		3	russian
 zon	zon	zon	3	english
 ную	ную		3	russian
@@ -5810,7 +5810,7 @@ bro	bro		3	portuguese
 ued	ued	ued	3	english
 ▁Ки	▁Ки		3	russian
 ції	ції		3	russian
-nek	nek		3	NULL
+nek	nek	nek	3	english
 ▁ок	▁ок		3	russian
 ums	ums	ums	3	english
 emy	emy	emy	3	english
@@ -5828,7 +5828,7 @@ asi	asi		3	czech
 jer	jer	jer	3	english
 ▁ST	▁ST	▁ST	3	english
 hör	hör		3	swedish
-bet	bet		3	NULL
+bet	bet	bet	3	english
 Off	Off	Off	3	english
 рон	рон		3	russian
 ovi	ovi		3	croatian
@@ -5836,11 +5836,11 @@ abs	abs	abs	3	english
 czy	czy		3	polish
 ску	ску		3	russian
 ogy	ogy		3	hungarian
-oke	oke		3	NULL
+oke	oke	oke	3	english
 éra	éra		3	hungarian
 uns	uns		3	german
 vey	vey		3	turkish
-mem	mem		3	NULL
+mem	mem	mem	3	english
 ycz	ycz		3	polish
 YPE	YPE	YPE	3	english
 ovo	ovo		3	serbian
@@ -5889,7 +5889,7 @@ Mon	Mon	Mon	3	english
 ▁vs	▁vs	▁vs	3	english
 inf	inf	inf	3	english
 GET	GET	GET	3	english
-ulo	ulo		3	NULL
+ulo	ulo	ulo	3	english
 ▁Се	▁Се		3	russian
 kom	kom		3	swedish
 ▁Ре	▁Ре		3	russian
@@ -5920,7 +5920,7 @@ kit	kit	kit	3	english
 ptr	ptr	ptr	3	english
 utz	utz		3	norwegian
 ▁np	▁np	▁np	3	english
-bot	bot		3	NULL
+bot	bot	bot	3	english
 '],	'],		3	NULL
 gel	gel		3	turkish
 ▁ai	▁ai		3	italian
@@ -5945,7 +5945,7 @@ zip	zip	zip	3	english
 cut	cut	cut	3	english
 edy	edy	edy	3	english
 }}{	}}{		3	NULL
-eqn	eqn		3	NULL
+eqn	eqn	eqn	3	english
 вля	вля		3	russian
 yer	yer		3	turkish
 sur	sur		3	french
@@ -5961,7 +5961,7 @@ Hel	Hel	Hel	3	english
 ▁ww	▁ww	▁ww	3	english
 бор	бор		3	russian
 три	три		3	russian
-mos	mos		3	NULL
+mos	mos	mos	3	english
 }).	}).		3	NULL
 fun	fun		3	german
 .--	.--		3	NULL
@@ -5984,11 +5984,11 @@ pal	pal	pal	3	english
 xsl	xsl	xsl	3	english
 ály	ály		3	hungarian
 ,--	,--		3	NULL
-Cal	Cal		3	NULL
+Cal	Cal	Cal	3	english
 ▁Rh	▁Rh	▁Rh	3	english
 sto	sto		3	italian
 weg	weg		3	dutch
-ket	ket		3	NULL
+ket	ket	ket	3	english
 ▁fn	▁fn	▁fn	3	english
 ▁él	▁él		3	spanish
 ▁&=	▁&=		3	NULL
@@ -6014,7 +6014,7 @@ gre	gre	gre	3	english
 uje	uje		3	czech
 ▁ye	▁ye		3	NULL
 hem	hem		3	dutch
-Num	Num		3	NULL
+Num	Num	Num	3	english
 Ret	Ret	Ret	3	english
 DER	DER	DER	3	english
 amt	amt		3	german
@@ -6103,8 +6103,8 @@ ocr	ocr		3	dutch
 ORT	ORT	ORT	3	english
 ław	ław		3	NULL
 ają	aj		3	polish
-sed	sed		3	NULL
-esk	esk		3	NULL
+sed	sed	sed	3	english
+esk	esk	esk	3	english
 PDF	PDF		3	german
 Dep	Dep	Dep	3	english
 ▁Би	▁Би		3	russian
@@ -6173,7 +6173,7 @@ cyc	cyc	cyc	3	english
 aml	aml	aml	3	english
 kbd	kbd	kbd	3	english
 ▁це	▁це		3	russian
-idi	idi		3	NULL
+idi	idi	idi	3	english
 пра	пра		3	russian
 zte	zte		3	hungarian
 nil	nil	nil	3	english
@@ -6264,7 +6264,7 @@ ibt	ibt		3	german
 ють	ють		3	russian
 ▁FI	▁FI	▁FI	3	english
 ▁ya	▁ya		3	NULL
-ike	ike		3	NULL
+ike	ike	ike	3	english
 tim	tim	tim	3	english
 opp	opp		3	dutch
 ▁ep	▁ep	▁ep	3	english
@@ -6291,7 +6291,7 @@ jav	jav	jav	3	english
 Bas	Bas	Bas	3	english
 raz	raz		3	polish
 élé	élé		3	french
-ikz	ikz		3	NULL
+ikz	ikz	ikz	3	english
 пол	пол		3	russian
 цій	цій		3	russian
 ieu	ieu		3	french
@@ -6351,7 +6351,7 @@ Rad	Rad	Rad	3	english
 ▁рі	▁рі		3	russian
 aja	aja		3	estonian
 ▁ba	▁ba	▁ba	3	english
-Ang	Ang		3	NULL
+Ang	Ang	Ang	3	english
 Obj	Obj	Obj	3	english
 нен	нен		3	russian
 тро	тро		3	russian
@@ -6377,7 +6377,7 @@ awa	awa	awa	3	english
 ++,	++,		3	NULL
 kol	kol		3	polish
 пад	пад		3	russian
-neg	neg		3	NULL
+neg	neg	neg	3	english
 ▁ус	▁ус		3	russian
 cke	cke	cke	3	english
 iki	iki		3	turkish
@@ -6408,11 +6408,11 @@ roc	roc	roc	3	english
 seg	seg		3	vietnamese
 }^\	}^\		3	NULL
 пов	пов		3	russian
-bat	bat		3	NULL
+bat	bat	bat	3	english
 хід	хід		3	russian
-imi	imi		3	NULL
+imi	imi	imi	3	english
 ése	ése		3	hungarian
-jes	jes		3	NULL
+jes	jes	jes	3	english
 ▁`"	▁`"		3	NULL
 Deb	Deb	Deb	3	english
 ▁UK	▁UK	▁UK	3	english
@@ -6431,7 +6431,7 @@ aks	aks	aks	3	english
 ohl	ohl	ohl	3	english
 ▁`[	▁`[		3	NULL
 ▁ге	▁ге		3	russian
-iko	iko		3	NULL
+iko	iko	iko	3	english
 ▁),	▁),		3	NULL
 UNT	UNT	UNT	3	english
 ▁ga	▁ga	▁ga	3	english
@@ -6494,7 +6494,7 @@ iso	iso	iso	3	english
 ="{	="{		3	NULL
 omo	omo		3	spanish
 abc	abc	abc	3	english
-neq	neq		3	NULL
+neq	neq	neq	3	english
 ▁Те	▁Те		3	russian
 fre	fre	fre	3	english
 ské	ské		3	czech
@@ -6523,7 +6523,7 @@ uma	uma		3	portuguese
 ССР	ССР		3	russian
 ▁ms	▁ms	▁ms	3	english
 ▁MS	▁MS	▁MS	3	english
-eto	eto		3	NULL
+eto	eto	eto	3	english
 удо	удо		3	russian
 ält	ält		3	swedish
 ▁kv	▁kv	▁kv	3	english
@@ -6582,7 +6582,7 @@ aty	aty		3	german
 aco	aco		3	portuguese
 рук	рук		3	russian
 ('/	('/		3	NULL
-hin	hin		3	NULL
+hin	hin	hin	3	english
 fah	fah	fah	3	english
 ▁их	▁их		3	russian
 чки	чки		3	russian
@@ -6631,7 +6631,7 @@ uba	uba	uba	3	english
 neo	neo	neo	3	english
 xis	xis	xis	3	english
 URE	URE	URE	3	english
-ois	ois		3	NULL
+ois	ois	ois	3	english
 nom	nom		3	french
 ▁;;	▁;;		3	NULL
 ACE	ACE	ACE	3	english
@@ -6687,7 +6687,7 @@ lez	lez	lez	3	english
 zek	zek	zek	3	english
 fte	fte		3	german
 ген	ген		3	russian
-isp	isp		3	NULL
+isp	isp	isp	3	english
 ITY	ITY	ITY	3	english
 ший	ший		3	russian
 роб	роб		3	russian
@@ -6708,7 +6708,7 @@ OUT	OUT	OUT	3	english
 Let	Let	Let	3	english
 __(	__(		3	NULL
 ▁Kl	▁Kl	▁Kl	3	english
-ymn	ymn		3	NULL
+ymn	ymn	ymn	3	english
 gie	gie	gie	3	english
 ORM	ORM	ORM	3	english
 Ptr	Ptr	Ptr	3	english
@@ -6760,7 +6760,7 @@ bad	bad	bad	3	english
 ▁Ти	▁Ти		3	russian
 uan	uan	uan	3	english
 сла	сла		3	russian
-ocs	ocs		3	NULL
+ocs	ocs	ocs	3	english
 ;">	;">		3	NULL
 PUT	PUT	PUT	3	english
 ▁ja	▁ja		3	finnish
@@ -6817,7 +6817,7 @@ jem	jem		3	slovenian
 May	May	May	3	english
 ees	ees		3	estonian
 ▁GL	▁GL	▁GL	3	english
-iri	iri		3	NULL
+iri	iri	iri	3	english
 Day	Day	Day	3	english
 thm	thm	thm	3	english
 ▁CA	▁CA	▁CA	3	english
@@ -6848,7 +6848,7 @@ mvc	mvc	mvc	3	english
 ktr	ktr		3	indonesian
 ▁oc	▁oc	▁oc	3	english
 lon	lon	lon	3	english
-fan	fan		3	NULL
+fan	fan	fan	3	english
 ▁Ор	▁Ор		3	russian
 ète	ète		3	french
 ▁(«	▁(«		3	NULL
@@ -6878,7 +6878,7 @@ Fig	Fig	Fig	3	english
 pip	pip	pip	3	english
 --+	--+		3	NULL
 ▁vä	▁vä		3	finnish
-pel	pel		3	NULL
+pel	pel	pel	3	english
 Kit	Kit	Kit	3	english
 kor	kor		3	norwegian
 чна	чна		3	russian
@@ -6900,7 +6900,7 @@ hes	hes		3	malay
 нва	нва		3	russian
 eca	eca	eca	3	english
 цев	цев		3	russian
-fel	fel		3	NULL
+fel	fel	fel	3	english
 ▁că	▁că		3	romanian
 Sol	Sol	Sol	3	english
 cep	cep	cep	3	english
@@ -6922,7 +6922,7 @@ See	See	See	3	english
 ppa	ppa		3	italian
 ▁',	▁',		3	NULL
 ▁ха	▁ха		3	russian
-nih	nih		3	NULL
+nih	nih	nih	3	english
 SSN	SSN	SSN	3	english
 sam	sam		3	serbian
 owi	owi		3	polish
@@ -6949,7 +6949,7 @@ iac	iac	iac	3	english
 тет	тет		3	russian
 ała	ała		3	polish
 ANT	ANT	ANT	3	english
-pag	pag		3	NULL
+pag	pag	pag	3	english
 ▁"'	▁"'		3	NULL
 azu	azu	azu	3	english
 цию	цию		3	russian
@@ -6963,13 +6963,13 @@ hew	hew	hew	3	english
 сса	сса		3	russian
 ▁Ри	▁Ри		3	russian
 ({\	({\		3	NULL
-rar	rar		3	NULL
+rar	rar	rar	3	english
 ▁Ka	▁Ka	▁Ka	3	english
 ▁DC	▁DC	▁DC	3	english
 cdn	cdn	cdn	3	english
 зер	зер		3	russian
 uur	uur		3	dutch
-nan	nan		3	NULL
+nan	nan	nan	3	english
 Tim	Tim	Tim	3	english
 nov	nov	nov	3	english
 rob	rob	rob	3	english
@@ -6989,7 +6989,7 @@ wor	wor		3	slovenian
 ане	ане		3	russian
 ="/	="/		3	NULL
 ată	at	at	3	english
-vex	vex		3	NULL
+vex	vex	vex	3	english
 нее	нее		3	russian
 wad	wad	wad	3	english
 ниш	ниш		3	russian
@@ -6998,7 +6998,7 @@ ECT	ECT	ECT	3	english
 ▁cv	▁cv	▁cv	3	english
 ▁ло	▁ло		3	russian
 ▁AM	▁AM	▁AM	3	english
-NER	NER		3	NULL
+NER	NER	NER	3	english
 --"	--"		3	NULL
 ▁Пе	▁Пе		3	russian
 CLA	CLA	CLA	3	english
@@ -7081,7 +7081,7 @@ Has	Has	Has	3	english
 Doc	Doc	Doc	3	english
 ześ	ześ		3	polish
 eau	eau		3	french
-eks	eks		3	NULL
+eks	eks	eks	3	english
 ▁cô	▁cô		3	vietnamese
 ▁(.	▁(.		3	NULL
 uli	uli		3	slovenian
@@ -7136,7 +7136,7 @@ Lib	Lib	Lib	3	english
 upp	upp		3	swedish
 oga	oga		3	french
 ▁dv	▁dv		3	czech
-iom	iom		3	NULL
+iom	iom	iom	3	english
 pgf	pgf	pgf	3	english
 ▁ek	▁ek		3	NULL
 ▁Vé	▁Vé	▁Vé	3	english
@@ -7165,7 +7165,7 @@ PRE	PRE		3	spanish
 öst	öst		3	swedish
 spr	spr	spr	3	english
 -->	-->		3	NULL
-yll	yll		3	NULL
+yll	yll	yll	3	english
 svg	svg		3	swedish
 clo	clo	clo	3	english
 чин	чин		3	russian
@@ -7200,11 +7200,11 @@ jel	jel		3	hungarian
 ▁že	▁že		3	czech
 ▁Gé	▁Gé	▁Gé	3	english
 tei	tei		3	estonian
-dia	dia		3	NULL
+dia	dia	dia	3	english
 ulp	ulp	ulp	3	english
 шки	шки		3	russian
 bez	bez		3	czech
-oba	oba		3	NULL
+oba	oba	oba	3	english
 pod	pod		3	polish
 èle	èle		3	french
 nem	nem		3	hungarian
@@ -7218,7 +7218,7 @@ ków	ków		3	polish
 áll	áll		3	hungarian
 зом	зом		3	russian
 ▁Лю	▁Лю		3	russian
-tha	tha		3	NULL
+tha	tha	tha	3	english
 nor	nor	nor	3	english
 Gen	Gen	Gen	3	english
 Pay	Pay	Pay	3	english
@@ -7246,11 +7246,11 @@ wen	wen	wen	3	english
 ▁CR	▁CR	▁CR	3	english
 )}$	)}$		3	NULL
 }}_	}}_		3	NULL
-anu	anu		3	NULL
+anu	anu	anu	3	english
 тах	тах		3	russian
 ▁Ло	▁Ло		3	russian
 far	far	far	3	english
-obi	obi		3	NULL
+obi	obi	obi	3	english
 hos	hos		3	norwegian
 hui	hui	hui	3	english
 ▁Iz	▁Iz	▁Iz	3	english
@@ -7282,7 +7282,7 @@ edi	edi	edi	3	english
 ▁Ay	▁Ay	▁Ay	3	english
 ▁{$	▁{$		3	NULL
 }}%	}}%		3	NULL
-pkg	pkg		3	NULL
+pkg	pkg	pkg	3	english
 Try	Try	Try	3	english
 ▁tf	▁tf	▁tf	3	english
 ovy	ovy	ovy	3	english
@@ -7354,7 +7354,7 @@ Die	Die		3	german
 ▁AG	▁AG	▁AG	3	english
 ▁MP	▁MP	▁MP	3	english
 cin	cin	cin	3	english
-Dat	Dat		3	NULL
+Dat	Dat	Dat	3	english
 ▁Ша	▁Ша		3	russian
 cla	cla	cla	3	english
 isz	isz		3	polish
@@ -7425,7 +7425,7 @@ acs	acs	acs	3	english
 ▁ша	▁ша		3	russian
 dam	dam	dam	3	english
 кор	кор		3	russian
-cfg	cfg		3	NULL
+cfg	cfg	cfg	3	english
 нах	нах		3	russian
 "].	"].		3	NULL
 bek	bek		3	turkish
@@ -7440,7 +7440,7 @@ iba	iba		3	spanish
 ugs	ugs	ugs	3	english
 ▁Ky	▁Ky	▁Ky	3	english
 obe	obe	obe	3	english
-oor	oor		3	NULL
+oor	oor	oor	3	english
 ctl	ctl	ctl	3	english
 спе	спе		3	russian
 maz	maz	maz	3	english
@@ -7451,7 +7451,7 @@ ARD	ARD	ARD	3	english
 rai	rai	rai	3	english
 пен	пен		3	russian
 бом	бом		3	russian
-oka	oka		3	NULL
+oka	oka	oka	3	english
 ało	ało		3	polish
 ská	ská		3	czech
 зня	зня		3	russian
@@ -7495,13 +7495,13 @@ IGN	IGN	IGN	3	english
 UST	UST	UST	3	english
 ▁CL	▁CL	▁CL	3	english
 ▁já	▁já		3	portuguese
-awt	awt		3	NULL
+awt	awt	awt	3	english
 avi	avi	avi	3	english
 (".	(".		3	NULL
 das	das		3	german
 )--	)--		3	NULL
 соб	соб		3	russian
-usk	usk		3	NULL
+usk	usk	usk	3	english
 пло	пло		3	russian
 ▁BC	▁BC	▁BC	3	english
 гом	гом		3	russian
@@ -7532,7 +7532,7 @@ cji	cji		3	polish
 cca	cca	cca	3	english
 ply	ply	ply	3	english
 ütt	ütt		3	NULL
-nos	nos		3	NULL
+nos	nos	nos	3	english
 fly	fly	fly	3	english
 шим	шим		3	russian
 Seg	Seg	Seg	3	english
@@ -7554,7 +7554,7 @@ bow	bow	bow	3	english
 Win	Win	Win	3	english
 ADD	ADD	ADD	3	english
 aso	aso	aso	3	english
-pot	pot		3	NULL
+pot	pot	pot	3	english
 ▁фо	▁фо		3	russian
 мом	мом		3	russian
 gem	gem		3	portuguese
@@ -7614,7 +7614,7 @@ urd	urd	urd	3	english
 тии	тии		3	russian
 fal	fal	fal	3	english
 ▁ву	▁ву		3	russian
-iku	iku		3	NULL
+iku	iku	iku	3	english
 ▁|\	▁|\		3	NULL
 вал	вал		3	russian
 ▁uk	▁uk	▁uk	3	english
@@ -7640,9 +7640,9 @@ uca	uca	uca	3	english
 ▁Ti	▁Ti	▁Ti	3	english
 rys	rys		3	swedish
 }](	}](		3	NULL
-aqu	aqu		3	NULL
+aqu	aqu	aqu	3	english
 IVE	IVE	IVE	3	english
-yna	yna		3	NULL
+yna	yna	yna	3	english
 пла	пла		3	russian
 ▁XI	▁XI	▁XI	3	english
 Sur	Sur		3	spanish
@@ -7663,7 +7663,7 @@ jus	jus		3	lithuanian
 SSL	SSL	SSL	3	english
 voy	voy		3	spanish
 Her	Her	Her	3	english
-ymi	ymi		3	NULL
+ymi	ymi	ymi	3	english
 gif	gif	gif	3	english
 FIG	FIG	FIG	3	english
 ▁sf	▁sf	▁sf	3	english
@@ -7753,7 +7753,7 @@ WID	WID	WID	3	english
 AMP	AMP	AMP	3	english
 Med	Med		3	swedish
 žen	žen		3	czech
-cem	cem		3	NULL
+cem	cem	cem	3	english
 aju	aju		3	romanian
 égl	égl		3	french
 bij	bij		3	dutch
@@ -7780,7 +7780,7 @@ zug	zug		3	german
 ▁Фе	▁Фе		3	russian
 "=>	"=>		3	NULL
 щая	щая		3	russian
-kie	kie		3	NULL
+kie	kie	kie	3	english
 ▁ты	▁ты		3	russian
 ▁MY	▁MY	▁MY	3	english
 ▁ti	▁ti		3	NULL
@@ -7821,7 +7821,7 @@ zia	zia		3	italian
 пли	пли		3	russian
 rah	rah	rah	3	english
 ixa	ixa	ixa	3	english
-aza	aza		3	NULL
+aza	aza	aza	3	english
 ARY	ARY	ARY	3	english
 ▁зі	▁зі		3	russian
 ▁ць	▁ць		3	russian
@@ -7909,7 +7909,7 @@ clk	clk	clk	3	english
 ▁FM	▁FM	▁FM	3	english
 ]],	]],		3	NULL
 ▁(+	▁(+		3	NULL
-jou	jou		3	NULL
+jou	jou	jou	3	english
 Lou	Lou	Lou	3	english
 LED	LED	LED	3	english
 APP	APP	APP	3	english
@@ -7984,7 +7984,7 @@ lês	lês		3	portuguese
 ▁äl	▁äl		3	swedish
 ▁VB	▁VB	▁VB	3	english
 laz	laz	laz	3	english
-yml	yml		3	NULL
+yml	yml	yml	3	english
 cmp	cmp	cmp	3	english
 ört	ört		3	hungarian
 ▁[-	▁[-		3	NULL
@@ -8038,15 +8038,15 @@ ieß	ieß		3	german
 мец	мец		3	russian
 ▁{-	▁{-		3	NULL
 niu	niu		3	spanish
-qua	qua		3	NULL
+qua	qua	qua	3	english
 сни	сни		3	russian
 agt	agt		3	danish
 ')`	')`		3	NULL
 ▁!!	▁!!		3	NULL
 ▁cp	▁cp		3	spanish
 ▁pů	▁pů		3	czech
-kap	kap		3	NULL
-eus	eus		3	NULL
+kap	kap	kap	3	english
+eus	eus	eus	3	english
 лян	лян		3	russian
 бен	бен		3	russian
 ôme	ôme		3	french
@@ -8058,7 +8058,7 @@ ulu	ulu	ulu	3	english
 чня	чня		3	russian
 ]{\	]{\		3	NULL
 ühl	ühl		3	estonian
-ajn	ajn		3	NULL
+ajn	ajn	ajn	3	english
 гер	гер		3	russian
 Bit	Bit	Bit	3	english
 Tom	Tom	Tom	3	english
@@ -8090,7 +8090,7 @@ gef	gef	gef	3	english
 Rob	Rob	Rob	3	english
 équ	équ		3	french
 Mad	Mad	Mad	3	english
-kem	kem		3	NULL
+kem	kem	kem	3	english
 нії	нії		3	russian
 ▁må	▁må		3	danish
 ępu	pu		3	estonian
@@ -8113,7 +8113,7 @@ zat	zat		3	arabic
 SEE	SEE	SEE	3	english
 Bad	Bad	Bad	3	english
 FOR	FOR	FOR	3	english
-acu	acu		3	NULL
+acu	acu	acu	3	english
 sty	sty		3	polish
 ▁їх	▁їх		3	russian
 bey	bey	bey	3	english
@@ -8137,7 +8137,7 @@ usc	usc		3	japanese
 rek	rek		3	slovenian
 öll	öll		3	NULL
 nig	nig	nig	3	english
-eor	eor		3	NULL
+eor	eor	eor	3	english
 ▁Io	▁Io		3	NULL
 CRE	CRE	CRE	3	english
 зви	зви		3	russian
@@ -8145,7 +8145,7 @@ CRE	CRE	CRE	3	english
 IND	IND	IND	3	english
 зма	зма		3	russian
 ▁EF	▁EF	▁EF	3	english
-kih	kih		3	NULL
+kih	kih	kih	3	english
 :\\	:\\		3	NULL
 )}(	)}(		3	NULL
 ▁(?	▁(?		3	NULL
@@ -8163,7 +8163,7 @@ Age	Age	Age	3	english
 ▁vm	▁vm	▁vm	3	english
 äck	äck		3	swedish
 typ	typ		3	german
-odn	odn		3	NULL
+odn	odn	odn	3	english
 Alg	Alg		3	russian
 ▁DI	▁DI	▁DI	3	english
 CUR	CUR	CUR	3	english
@@ -8182,7 +8182,7 @@ ceu	ceu		3	portuguese
 ▁Wa	▁Wa	▁Wa	3	english
 лер	лер		3	russian
 ▁`%	▁`%		3	NULL
-dor	dor		3	NULL
+dor	dor	dor	3	english
 чей	чей		3	russian
 ▁td	▁td	▁td	3	english
 ▁Ад	▁Ад		3	russian
@@ -8228,7 +8228,7 @@ his	his	his	3	english
 ▁Aw	▁Aw	▁Aw	3	english
 ▁hu	▁hu		3	hungarian
 ▁ря	▁ря		3	russian
-nou	nou		3	NULL
+nou	nou	nou	3	english
 Put	Put	Put	3	english
 nas	nas		3	portuguese
 hez	hez	hez	3	english
@@ -8237,7 +8237,7 @@ ASS	ASS	ASS	3	english
 kup	kup	kup	3	english
 łuż	łuż		3	polish
 нос	нос		3	russian
-ipo	ipo		3	NULL
+ipo	ipo	ipo	3	english
 Sam	Sam	Sam	3	english
 koz	koz	koz	3	english
 OUR	OUR	OUR	3	english
@@ -8245,7 +8245,7 @@ uka	uka	uka	3	english
 кая	кая		3	russian
 ▁ME	▁ME	▁ME	3	english
 Leg	Leg	Leg	3	english
-olg	olg		3	NULL
+olg	olg	olg	3	english
 dst	dst		3	norwegian
 Mal	Mal	Mal	3	english
 ctu	ctu		3	italian
@@ -8254,7 +8254,7 @@ gal	gal	gal	3	english
 чне	чне		3	russian
 )-\	)-\		3	NULL
 }$-	}$-		3	NULL
-gow	gow		3	NULL
+gow	gow	gow	3	english
 [])	[])		3	NULL
 ▁Ль	▁Ль		3	russian
 ftp	ftp	ftp	3	english
@@ -8267,7 +8267,7 @@ bag	bag	bag	3	english
 .")	.")		3	NULL
 ▁ML	▁ML	▁ML	3	english
 ▁[_	▁[_		3	NULL
-edo	edo		3	NULL
+edo	edo	edo	3	english
 зии	зии		3	russian
 мах	мах		3	russian
 )](	)](		3	NULL
@@ -8275,7 +8275,7 @@ edo	edo		3	NULL
 жан	жан		3	russian
 ▁`{	▁`{		3	NULL
 eil	eil		3	french
-lej	lej		3	NULL
+lej	lej	lej	3	english
 дже	дже		3	russian
 ▁IR	▁IR	▁IR	3	english
 hov	hov		3	norwegian
@@ -8290,9 +8290,9 @@ onk	onk	onk	3	english
 сей	сей		3	russian
 ▁DJ	▁DJ	▁DJ	3	english
 \",	\",		3	NULL
-zin	zin		3	NULL
+zin	zin	zin	3	english
 igs	igs	igs	3	english
-iae	iae		3	NULL
+iae	iae	iae	3	english
 jub	jub	jub	3	english
 lis	lis		3	polish
 fmt	fmt	fmt	3	english
@@ -8302,7 +8302,7 @@ SHA	SHA	SHA	3	english
 ▁rá	▁rá		3	slovak
 ▁pł	▁pł		3	polish
 ▁тя	▁тя		3	russian
-vos	vos		3	NULL
+vos	vos	vos	3	english
 ▁NY	▁NY	▁NY	3	english
 hai	hai		3	italian
 ева	ева		3	russian
@@ -8333,7 +8333,7 @@ ppy	ppy	ppy	3	english
 Seq	Seq	Seq	3	english
 цов	цов		3	russian
 IAB	IAB	IAB	3	english
-chy	chy		3	NULL
+chy	chy	chy	3	english
 мії	мії		3	russian
 ▁FR	▁FR	▁FR	3	english
 rut	rut	rut	3	english
@@ -8350,7 +8350,7 @@ AXI	AXI	AXI	3	english
 bid	bid	bid	3	english
 ási	ási		3	NULL
 кур	кур		3	russian
-Cur	Cur		3	NULL
+Cur	Cur	Cur	3	english
 Fre	Fre	Fre	3	english
 erb	erb	erb	3	english
 ubs	ubs	ubs	3	english
@@ -8365,7 +8365,7 @@ hod	hod	hod	3	english
 ▁wł	▁wł		3	polish
 URN	URN	URN	3	english
 кли	кли		3	russian
-egu	egu		3	NULL
+egu	egu	egu	3	english
 Hen	Hen	Hen	3	english
 ала	ала		3	russian
 ▁#{	▁#{		3	NULL
@@ -8468,7 +8468,7 @@ ząt	zt	zt	3	english
 bio	bio	bio	3	english
 бин	бин		3	russian
 ▁ще	▁ще		3	russian
-reu	reu		3	NULL
+reu	reu	reu	3	english
 кта	кта		3	russian
 jör	jör		3	swedish
 сан	сан		3	russian
@@ -8514,7 +8514,7 @@ aum	aum		3	portuguese
 Nov	Nov	Nov	3	english
 Oct	Oct	Oct	3	english
 Fun	Fun	Fun	3	english
-yme	yme		3	NULL
+yme	yme	yme	3	english
 éon	éon		3	french
 Inf	Inf	Inf	3	english
 ▁Ши	▁Ши		3	russian
@@ -8525,7 +8525,7 @@ gas	gas	gas	3	english
 Img	Img	Img	3	english
 ▁Rö	▁Rö		3	swedish
 там	там		3	russian
-Sym	Sym		3	NULL
+Sym	Sym	Sym	3	english
 ▁tx	▁tx	▁tx	3	english
 łów	łów	łów	3	english
 sil	sil	sil	3	english
@@ -8588,9 +8588,9 @@ ske	ske		3	norwegian
 ifa	ifa	ifa	3	english
 ▁Ej	▁Ej	▁Ej	3	english
 oci	oci	oci	3	english
-ege	ege		3	NULL
+ege	ege	ege	3	english
 ▁ór	▁ór		3	hungarian
-nit	nit		3	NULL
+nit	nit	nit	3	english
 ▁зу	▁зу		3	russian
 ází	ází		3	czech
 ▁Lö	▁Lö		3	swedish
@@ -8658,7 +8658,7 @@ mis	mis		3	spanish
 тил	тил		3	russian
 vim	vim	vim	3	english
 ▁Dí	▁Dí		3	czech
-oop	oop		3	NULL
+oop	oop	oop	3	english
 ruf	ruf		3	german
 axy	axy	axy	3	english
 вър	вър		3	russian
@@ -8673,7 +8673,7 @@ VAR	VAR	VAR	3	english
 zef	zef	zef	3	english
 Tex	Tex	Tex	3	english
 ▁DR	▁DR	▁DR	3	english
-ciu	ciu		3	NULL
+ciu	ciu	ciu	3	english
 ▁мы	▁мы		3	russian
 ](/	](/		3	NULL
 SDK	SDK	SDK	3	english
@@ -8790,7 +8790,7 @@ jna	jna		3	czech
 LOW	LOW	LOW	3	english
 %).	%).		3	NULL
 vés	vés		3	french
-fir	fir		3	NULL
+fir	fir	fir	3	english
 urz	urz		3	german
 afé	afé		3	dutch
 beg	beg	beg	3	english
@@ -8818,7 +8818,7 @@ oin	oin	oin	3	english
 кам	кам		3	russian
 ()}	()}		3	NULL
 ína	ína		3	hungarian
-isu	isu		3	NULL
+isu	isu	isu	3	english
 six	six	six	3	english
 aze	aze	aze	3	english
 ște	ște		3	romanian
@@ -8835,15 +8835,15 @@ olk	olk	olk	3	english
 ├──	├──		3	NULL
 san	san	san	3	english
 !("	!("		3	NULL
-ikh	ikh		3	NULL
+ikh	ikh	ikh	3	english
 ués	ués		3	spanish
 nad	nad		3	german
 fif	fif	fif	3	english
 ={{	={{		3	NULL
-tel	tel		3	NULL
+tel	tel	tel	3	english
 нім	нім		3	russian
 ▁CP	▁CP	▁CP	3	english
-lek	lek		3	NULL
+lek	lek	lek	3	english
 Sem	Sem	Sem	3	english
 gon	gon	gon	3	english
 zeg	zeg		3	dutch
@@ -8920,7 +8920,7 @@ ahu	ahu	ahu	3	english
 Sdk	Sdk	Sdk	3	english
 ací	ací		3	czech
 оні	оні		3	russian
-ouc	ouc		3	NULL
+ouc	ouc	ouc	3	english
 IES	IES	IES	3	english
 dfs	dfs	dfs	3	english
 ▁ат	▁ат		3	russian
@@ -8929,7 +8929,7 @@ dfs	dfs	dfs	3	english
 ISO	ISO	ISO	3	english
 ▁aa	▁aa		3	finnish
 zak	zak	zak	3	english
-veg	veg		3	NULL
+veg	veg	veg	3	english
 due	due		3	italian
 UMN	UMN	UMN	3	english
 ▁RC	▁RC	▁RC	3	english
@@ -8945,7 +8945,7 @@ sdl	sdl	sdl	3	english
 zew	zew	zew	3	english
 âge	âge	âge	3	english
 Los	Los		3	spanish
-iks	iks		3	NULL
+iks	iks	iks	3	english
 arf	arf	arf	3	english
 xty	xty	xty	3	english
 ▁$,	▁$,		3	NULL
@@ -8955,14 +8955,14 @@ Mil	Mil	Mil	3	english
 ▁ју	▁ју		3	russian
 жет	жет		3	russian
 Bob	Bob	Bob	3	english
-ROP	ROP		3	NULL
+ROP	ROP	ROP	3	english
 сии	сии		3	russian
 '):	'):		3	NULL
 дви	дви		3	russian
 туа	туа		3	russian
 ▁Ке	▁Ке		3	russian
 ▁És	▁És		3	NULL
-lua	lua		3	NULL
+lua	lua	lua	3	english
 ▁BB	▁BB	▁BB	3	english
 ént	ént		3	hungarian
 éső	éső		3	hungarian
@@ -8989,13 +8989,13 @@ urk	urk	urk	3	english
 iao	iao	iao	3	english
 édé	édé		3	french
 шее	шее		3	russian
-oom	oom		3	NULL
+oom	oom	oom	3	english
 ibm	ibm	ibm	3	english
 ▁fá	▁fá		3	portuguese
 ▁*/	▁*/		3	NULL
 ▁"`	▁"`		3	NULL
 ▁Ib	▁Ib	▁Ib	3	english
-aho	aho		3	NULL
+aho	aho	aho	3	english
 ▁MR	▁MR	▁MR	3	english
 ▁Фо	▁Фо		3	russian
 ▁Од	▁Од		3	russian
@@ -9026,7 +9026,7 @@ code	code	code	4	english
 ▁Com	▁Com		4	portuguese
 ▁The	▁The	▁The	4	english
 ▁not	▁not	▁not	4	english
-egin	egin		4	NULL
+egin	egin	egin	4	english
 ▁was	▁was	▁was	4	english
 ould	ould	ould	4	english
 ▁can	▁can	▁can	4	english
@@ -9052,7 +9052,7 @@ port	port	port	4	english
 ▁per	▁per		4	italian
 ▁val	▁val	▁val	4	english
 ence	ence		4	spanish
-item	item		4	NULL
+item	item	item	4	english
 ▁his	▁his	▁his	4	english
 ▁use	▁use	▁use	4	english
 ▁get	▁get	▁get	4	english
@@ -9081,7 +9081,7 @@ irst	irst	irst	4	english
 ▁dis	▁dis		4	german
 ▁man	▁man		4	german
 lect	lect		4	spanish
-isch	isch		4	NULL
+isch	isch	isch	4	english
 ▁col	▁col	▁col	4	english
 ▁add	▁add		4	russian
 ount	ount	ount	4	english
@@ -9127,7 +9127,7 @@ cess	cess		4	croatian
 ient	ient		4	latvian
 ▁von	▁von		4	german
 roid	roid		4	french
-ater	ater		4	NULL
+ater	ater	ater	4	english
 ▁bet	▁bet		4	NULL
 ▁ein	▁ein		4	german
 ▁sub	▁sub	▁sub	4	english
@@ -9152,8 +9152,8 @@ ause	ause		4	german
 ▁reg	▁reg	▁reg	4	english
 ▁see	▁see	▁see	4	english
 ▁him	▁him	▁him	4	english
-ning	ning		4	NULL
-ates	ates		4	NULL
+ning	ning	ning	4	english
+ates	ates	ates	4	english
 fore	fore	fore	4	english
 ions	ions		4	russian
 ▁hel	▁hel	▁hel	4	english
@@ -9232,7 +9232,7 @@ atur	atur		4	portuguese
 ▁bel	▁bel	▁bel	4	english
 amil	amil		4	french
 ▁tem	▁tem		4	portuguese
-imes	imes		4	NULL
+imes	imes	imes	4	english
 load	load	load	4	english
 ▁sch	▁sch		4	german
 this	this	this	4	english
@@ -9358,12 +9358,12 @@ type	type	type	4	english
 ager	ager	ager	4	english
 ogle	ogle	ogle	4	english
 ▁ste	▁ste	▁ste	4	english
-ized	ized		4	NULL
+ized	ized	ized	4	english
 ▁Ind	▁Ind	▁Ind	4	english
 ▁och	▁och		4	swedish
 ques	ques		4	italian
 ▁own	▁own	▁own	4	english
-ille	ille		4	NULL
+ille	ille	ille	4	english
 ▁put	▁put	▁put	4	english
 ativ	ativ		4	norwegian
 ▁div	▁div		4	french
@@ -9375,40 +9375,40 @@ ense	ense		4	portuguese
 ▁row	▁row	▁row	4	english
 ▁ide	▁ide	▁ ide	4	chinese
 ared	ared	ared	4	english
-esch	esch		4	NULL
+esch	esch	esch	4	english
 ures	ures	ures	4	english
 ends	ends	ends	4	english
 ople	ople	ople	4	english
 ways	ways	ways	4	english
 ▁vis	▁vis		4	norwegian
 Item	Item	Item	4	english
-ente	ente		4	NULL
+ente	ente	ente	4	english
 ▁why	▁why	▁why	4	english
 rist	rist	rist	4	english
 ▁...	▁...		4	NULL
 ▁tot	▁tot		4	dutch
 ▁old	▁old	▁old	4	english
 ▁nel	▁nel		4	italian
-cite	cite		4	NULL
+cite	cite	cite	4	english
 ▁Pol	▁Pol	▁Pol	4	english
 comm	comm	comm	4	english
 orth	orth		4	german
-atal	atal		4	NULL
+atal	atal	atal	4	english
 ▁bre	▁bre		4	french
-ista	ista		4	NULL
+ista	ista	ista	4	english
 path	path	path	4	english
 ▁too	▁too	▁too	4	english
 ▁fun	▁fun		4	german
 ▁enc	▁enc		4	spanish
 igen	igen		4	danish
 ▁пре	▁пре		4	russian
-itor	itor		4	NULL
+itor	itor	itor	4	english
 ▁won	▁won	▁won	4	english
 ▁cap	▁cap		4	NULL
 ales	ales		4	spanish
 ross	ross	ross	4	english
 ases	ases		4	finnish
-istr	istr		4	NULL
+istr	istr	istr	4	english
 ball	ball	ball	4	english
 ▁mak	▁mak		4	turkish
 serv	serv	serv	4	english
@@ -9454,15 +9454,15 @@ size	size	size	4	english
 ▁Man	▁Man	▁Man	4	english
 ▁mil	▁mil		4	portuguese
 ▁mag	▁mag		4	italian
-link	link		4	NULL
+link	link	link	4	english
 ▁ear	▁ear	▁ear	4	english
-ilar	ilar		4	NULL
+ilar	ilar	ilar	4	english
 ****	****		4	NULL
 ▁fix	▁fix	▁fix	4	english
 ▁pas	▁pas		4	french
 itch	itch	itch	4	english
 ▁Jah	▁Jah	▁Jah	4	english
-init	init		4	NULL
+init	init	init	4	english
 ived	ived	ived	4	english
 ▁ing	▁ing		4	NULL
 ▁mov	▁mov	▁mov	4	english
@@ -9508,7 +9508,7 @@ cies	cies	cies	4	english
 oman	oman	oman	4	english
 Time	Time	Time	4	english
 ▁lim	▁lim	▁lim	4	english
-iste	iste		4	NULL
+iste	iste	iste	4	english
 post	post	post	4	english
 pper	pper	pper	4	english
 Form	Form	Form	4	english
@@ -9535,7 +9535,7 @@ ival	ival	ival	4	english
 ▁Web	▁Web		4	NULL
 ▁Now	▁Now	▁Now	4	english
 ▁tre	▁tre		4	italian
-aten	aten		4	NULL
+aten	aten	aten	4	english
 тель	тель		4	russian
 ▁bit	▁bit	▁bit	4	english
 body	body	body	4	english
@@ -9554,7 +9554,7 @@ ided	ided	ided	4	english
 ario	ario		4	spanish
 ▁Val	▁Val	▁Val	4	english
 odes	odes		4	german
-docs	docs		4	NULL
+docs	docs	docs	4	english
 ской	ской		4	russian
 ▁gra	▁gra		4	polish
 ▁bis	▁bis		4	german
@@ -9597,7 +9597,7 @@ head	head	head	4	english
 ▁leg	▁leg		4	italian
 pond	pond	pond	4	english
 ▁See	▁See	▁See	4	english
-plit	plit		4	NULL
+plit	plit	plit	4	english
 soci	soci	soci	4	english
 ▁few	▁few	▁few	4	english
 ▁sus	▁sus		4	spanish
@@ -9615,8 +9615,8 @@ ourn	ourn		4	portuguese
 ▁dev	▁dev	▁dev	4	english
 book	book	book	4	english
 ▁map	▁map	▁map	4	english
-illa	illa		4	NULL
-ynam	ynam		4	NULL
+illa	illa	illa	4	english
+ynam	ynam	ynam	4	english
 igma	igma	igma	4	english
 ties	ties	ties	4	english
 ▁wer	▁wer		4	dutch
@@ -9653,7 +9653,7 @@ Test	Test	Test	4	english
 host	host	host	4	english
 loat	loat	loat	4	english
 burg	burg		4	german
-ades	ades		4	NULL
+ades	ades	ades	4	english
 ▁Mus	▁Mus	▁Mus	4	english
 ▁Min	▁Min		4	czech
 ungs	ungs		4	german
@@ -9696,7 +9696,7 @@ ebru	ebru		4	norwegian
 ufen	ufen		4	italian
 ▁Ang	▁Ang		4	NULL
 core	core	core	4	english
-ouch	ouch		4	NULL
+ouch	ouch	ouch	4	english
 vern	vern	vern	4	english
 ▁ret	▁ret		4	NULL
 most	most	most	4	english
@@ -9728,7 +9728,7 @@ Inst	Inst	Inst	4	english
 ▁Mod	▁Mod	▁Mod	4	english
 ▁Den	▁Den		4	swedish
 main	main	main	4	english
-Code	Code		4	NULL
+Code	Code	Code	4	english
 Info	Info	Info	4	english
 ▁lat	▁lat	▁lat	4	english
 utor	utor		4	hungarian
@@ -9763,7 +9763,7 @@ rodu	rodu		4	norwegian
 cket	cket	cket	4	english
 ▁opt	▁opt		4	russian
 ship	ship	ship	4	english
-iene	iene		4	NULL
+iene	iene	iene	4	english
 pace	pace	pace	4	english
 ▁Har	▁Har		4	swedish
 iten	iten		4	dutch
@@ -9862,7 +9862,7 @@ skie	skie	skie	4	english
 ceed	ceed		4	vietnamese
 ▁arr	▁arr	▁arr	4	english
 ▁cam	▁cam	▁cam	4	english
-izer	izer		4	NULL
+izer	izer	izer	4	english
 ▁Dan	▁Dan	▁Dan	4	english
 iler	iler		4	turkish
 ▁Sal	▁Sal	▁Sal	4	english
@@ -9921,7 +9921,7 @@ ande	ande	ande	4	english
 amer	amer	amer	4	english
 ▁Nor	▁Nor	▁Nor	4	english
 ▁lik	▁lik	▁lik	4	english
-imer	imer		4	NULL
+imer	imer	imer	4	english
 este	este		4	romanian
 ться	ться		4	russian
 each	each	each	4	english
@@ -9978,7 +9978,7 @@ mann	mann	mann	4	english
 esta	esta		4	spanish
 ▁Jap	▁Jap	▁Jap	4	english
 oups	oups	oups	4	english
-ismo	ismo		4	NULL
+ismo	ismo	ismo	4	english
 util	util		4	french
 lege	lege	lege	4	english
 abil	abil		4	italian
@@ -9991,7 +9991,7 @@ abil	abil		4	italian
 ▁Out	▁Out	▁Out	4	english
 ▁sin	▁sin		4	spanish
 ▁пра	▁пра		4	russian
-oken	oken		4	NULL
+oken	oken	oken	4	english
 ▁low	▁low	▁low	4	english
 ских	ских		4	russian
 ская	ская		4	russian
@@ -10019,8 +10019,8 @@ pres	pres	pres	4	english
 ▁Mit	▁Mit		4	german
 ▁opp	▁opp		4	dutch
 ▁sql	▁sql		4	japanese
-eren	eren		4	NULL
-emat	emat		4	NULL
+eren	eren	eren	4	english
+emat	emat	emat	4	english
 enne	enne	enne	4	english
 ▁err	▁err		4	NULL
 From	From	From	4	english
@@ -10133,10 +10133,10 @@ chan	chan	chan	4	english
 args	args	args	4	english
 торы	торы		4	russian
 ▁Fig	▁Fig	▁Fig	4	english
-grad	grad		4	NULL
+grad	grad	grad	4	english
 ▁pal	▁pal	▁pal	4	english
 ares	ares	ares	4	english
-isto	isto		4	NULL
+isto	isto	isto	4	english
 ▁dup	▁dup	▁dup	4	english
 just	just	just	4	english
 ▁pay	▁pay	▁pay	4	english
@@ -10179,7 +10179,7 @@ plot	plot	plot	4	english
 ▁ign	▁ign	▁ign	4	english
 ▁led	▁led	▁led	4	english
 ▁tim	▁tim	▁tim	4	english
-esse	esse		4	NULL
+esse	esse	esse	4	english
 ivil	ivil	ivil	4	english
 ▁vel	▁vel		4	NULL
 ▁Mat	▁Mat	▁Mat	4	english
@@ -10200,7 +10200,7 @@ Task	Task	Task	4	english
 void	void		4	russian
 ▁как	▁как		4	russian
 ying	ying	ying	4	english
-ocus	ocus		4	NULL
+ocus	ocus	ocus	4	english
 ▁dar	▁dar		4	lithuanian
 long	long		4	swedish
 asta	asta	asta	4	english
@@ -10241,7 +10241,7 @@ inct	inct	inct	4	english
 True	True	True	4	english
 yles	yles		4	finnish
 isse	isse	isse	4	english
-fill	fill		4	NULL
+fill	fill	fill	4	english
 ▁Air	▁Air	▁Air	4	english
 Call	Call	Call	4	english
 ▁nur	▁nur		4	german
@@ -10256,7 +10256,7 @@ edit	edit	edit	4	english
 ▁prz	▁prz		4	polish
 ▁Sci	▁Sci	▁Sci	4	english
 ▁ple	▁ple	▁ple	4	english
-font	font		4	NULL
+font	font	font	4	english
 ▁ens	▁ens		4	portuguese
 ▁Sil	▁Sil	▁Sil	4	english
 ▁roz	▁roz		4	polish
@@ -10277,7 +10277,7 @@ oted	oted	oted	4	english
 dist	dist	dist	4	english
 enza	enza		4	italian
 ▁роз	▁роз		4	russian
-rows	rows		4	NULL
+rows	rows	rows	4	english
 ▁Nel	▁Nel		4	italian
 ▁rot	▁rot	▁rot	4	english
 cape	cape	cape	4	english
@@ -10360,7 +10360,7 @@ ills	ills	ills	4	english
 ▁THE	▁THE	▁THE	4	english
 ▁gén	▁gén		4	spanish
 ▁ful	▁ful	▁ful	4	english
-then	then		4	NULL
+then	then	then	4	english
 Edit	Edit	Edit	4	english
 stat	stat	stat	4	english
 wood	wood	wood	4	english
@@ -10402,7 +10402,7 @@ eten	eten		4	french
 aspx	aspx		4	arabic
 ▁Afr	▁Afr	▁Afr	4	english
 ▁dit	▁dit		4	french
-wrap	wrap		4	NULL
+wrap	wrap	wrap	4	english
 ▁Bet	▁Bet	▁Bet	4	english
 ▁git	▁git		4	german
 ▁vie	▁vie	▁vie	4	english
@@ -10429,7 +10429,7 @@ chni	chni		4	french
 heim	heim	heim	4	english
 rian	rian	rian	4	english
 uses	uses	uses	4	english
-onia	onia		4	NULL
+onia	onia	onia	4	english
 ▁это	▁это		4	russian
 огра	огра		4	russian
 ▁bal	▁bal	▁bal	4	english
@@ -10486,7 +10486,7 @@ rage	rage	rage	4	english
 Init	Init	Init	4	english
 Impl	Impl		4	indonesian
 oupe	oupe		4	french
-esis	esis		4	NULL
+esis	esis	esis	4	english
 ▁feb	▁feb	▁feb	4	english
 ▁-->	▁-->		4	NULL
 foot	foot	foot	4	english
@@ -10510,7 +10510,7 @@ loss	loss	loss	4	english
 Down	Down	Down	4	english
 pers	pers	pers	4	english
 ▁cos	▁cos	▁cos	4	english
-esso	esso		4	NULL
+esso	esso	esso	4	english
 ▁Bor	▁Bor	▁Bor	4	english
 ▁CSS	▁CSS		4	italian
 ▁Tem	▁Tem		4	portuguese
@@ -10522,7 +10522,7 @@ hard	hard	hard	4	english
 ▁уча	▁уча		4	russian
 note	note	note	4	english
 Mode	Mode	Mode	4	english
-Menu	Menu		4	NULL
+Menu	Menu	Menu	4	english
 sequ	sequ	sequ	4	english
 ▁mix	▁mix	▁mix	4	english
 ▁kan	▁kan		4	swedish
@@ -10581,7 +10581,7 @@ That	That	That	4	english
 ▁Dur	▁Dur	▁Dur	4	english
 ▁или	▁или		4	russian
 ▁Deb	▁Deb	▁Deb	4	english
-izes	izes		4	NULL
+izes	izes	izes	4	english
 Oper	Oper	Oper	4	english
 ▁Por	▁Por		4	portuguese
 ▁Kom	▁Kom		4	swedish
@@ -10648,7 +10648,7 @@ icks	icks	icks	4	english
 ▁Emp	▁Emp	▁Emp	4	english
 ▁Pen	▁Pen	▁Pen	4	english
 Rect	Rect	Rect	4	english
-itat	itat		4	NULL
+itat	itat	itat	4	english
 eler	eler	eler	4	english
 ября	ября		4	russian
 itet	itet		4	swedish
@@ -10719,7 +10719,7 @@ ____	____		4	NULL
 ▁ber	▁ber	▁ber	4	english
 orie	orie		4	german
 task	task	task	4	english
-anno	anno		4	NULL
+anno	anno	anno	4	english
 ▁ook	▁ook		4	dutch
 ▁Key	▁Key	▁Key	4	english
 isen	isen		4	german
@@ -10736,7 +10736,7 @@ prop	prop	prop	4	english
 ▁Rod	▁Rod		4	croatian
 рово	рово		4	russian
 ▁odd	▁odd		4	polish
-ribu	ribu		4	NULL
+ribu	ribu	ribu	4	english
 ▁Sar	▁Sar	▁Sar	4	english
 osen	osen		4	persian
 ▁Fer	▁Fer	▁Fer	4	english
@@ -10759,7 +10759,7 @@ quer	quer		4	portuguese
 ▁Dom	▁Dom	▁Dom	4	english
 ▁nos	▁nos		4	NULL
 ícul	ícul		4	spanish
-atro	atro		4	NULL
+atro	atro	atro	4	english
 ▁www	▁www	▁www	4	english
 писа	писа		4	russian
 ▁vid	▁vid		4	swedish
@@ -10944,7 +10944,7 @@ ISBN	ISBN		4	german
 ▁Lud	▁Lud	▁Lud	4	english
 ▁Pod	▁Pod	▁Pod	4	english
 ▁Tri	▁Tri	▁Tri	4	english
-emas	emas		4	NULL
+emas	emas	emas	4	english
 ▁Aud	▁Aud	▁Aud	4	english
 iska	iska		4	french
 ▁bud	▁bud	▁bud	4	english
@@ -10979,7 +10979,7 @@ eria	eria	eria	4	english
 ▁ihn	▁ihn		4	german
 ▁Cro	▁Cro	▁Cro	4	english
 fold	fold	fold	4	english
-ools	ools		4	NULL
+ools	ools	ools	4	english
 sect	sect	sect	4	english
 idas	idas		4	german
 ▁tax	▁tax	▁tax	4	english
@@ -11006,7 +11006,7 @@ cken	cken	cken	4	english
 unda	unda	unda	4	english
 ▁Atl	▁Atl	▁Atl	4	english
 ▁Bol	▁Bol	▁Bol	4	english
-onic	onic		4	NULL
+onic	onic	onic	4	english
 ▁pes	▁pes		4	NULL
 itan	itan		4	italian
 bold	bold	bold	4	english
@@ -11017,7 +11017,7 @@ hold	hold		4	danish
 shot	shot	shot	4	english
 Show	Show	Show	4	english
 iour	iour	iour	4	english
-dict	dict		4	NULL
+dict	dict	dict	4	english
 "));	"));		4	NULL
 axis	axis	axis	4	english
 ▁Sun	▁Sun	▁Sun	4	english
@@ -11027,14 +11027,14 @@ axis	axis	axis	4	english
 ▁vot	▁vot		4	french
 ▁bin	▁bin	▁bin	4	english
 plan	plan	plan	4	english
-free	free		4	NULL
+free	free	free	4	english
 ▁Egy	▁Egy		4	hungarian
 ▁riv	▁riv	▁riv	4	english
-rael	rael		4	NULL
+rael	rael	rael	4	english
 ▁hun	▁hun		4	danish
 illo	illo	illo	4	english
 enth	enth	enth	4	english
-amin	amin		4	NULL
+amin	amin	amin	4	english
 ▁Мар	▁Мар		4	russian
 Vert	Vert	Vert	4	english
 ▁fle	▁fle	▁fle	4	english
@@ -11046,7 +11046,7 @@ skim	skim	skim	4	english
 iele	iele		4	latvian
 bank	bank	bank	4	english
 ▁gep	▁gep	▁gep	4	english
-zero	zero		4	NULL
+zero	zero	zero	4	english
 ▁Kal	▁Kal	▁Kal	4	english
 ▁Bad	▁Bad	▁Bad	4	english
 ским	ским		4	russian
@@ -11076,15 +11076,15 @@ rito	rito	rito	4	english
 essa	essa		4	portuguese
 лько	лько		4	russian
 ▁Von	▁Von	▁Von	4	english
-ielt	ielt		4	NULL
-lers	lers		4	NULL
+ielt	ielt	ielt	4	english
+lers	lers	lers	4	english
 redu	redu	redu	4	english
 rial	rial	rial	4	english
 ▁Ern	▁Ern	▁Ern	4	english
 ▁cli	▁cli	▁cli	4	english
 ▁lem	▁lem	▁lem	4	english
 umes	umes		4	indonesian
-vere	vere		4	NULL
+vere	vere	vere	4	english
 ▁viv	▁viv		4	spanish
 ▁erh	▁erh		4	german
 ▁Lee	▁Lee	▁Lee	4	english
@@ -11121,7 +11121,7 @@ rand	rand	rand	4	english
 ▁btn	▁btn	▁btn	4	english
 ▁pul	▁pul		4	romanian
 ▁Sus	▁Sus		4	spanish
-Stat	Stat		4	NULL
+Stat	Stat	Stat	4	english
 ▁sta	▁sta		4	italian
 Some	Some	Some	4	english
 blue	blue	blue	4	english
@@ -11136,7 +11136,7 @@ onte	onte		4	dutch
 ▁Sav	▁Sav	▁Sav	4	english
 ▁Ray	▁Ray	▁Ray	4	english
 ▁ric	▁ric	▁ric	4	english
-onie	onie		4	NULL
+onie	onie	onie	4	english
 цион	цион		4	russian
 ▁Kap	▁Kap	▁Kap	4	english
 ▁Lim	▁Lim	▁Lim	4	english
@@ -11480,7 +11480,7 @@ iesz	iesz		4	polish
 oral	oral		4	italian
 fast	fast	fast	4	english
 ▁Cru	▁Cru	▁Cru	4	english
-itud	itud		4	NULL
+itud	itud	itud	4	english
 aram	aram	aram	4	english
 ▁где	▁где		4	russian
 ▁Bot	▁Bot	▁Bot	4	english
@@ -11502,7 +11502,7 @@ zeta	zeta		4	hungarian
 льта	льта		4	russian
 ▁Ost	▁Ost	▁Ost	4	english
 kins	kins	kins	4	english
-tags	tags		4	NULL
+tags	tags	tags	4	english
 ▁fly	▁fly	▁fly	4	english
 tech	tech	tech	4	english
 ▁Enc	▁Enc	▁Enc	4	english
@@ -11515,14 +11515,14 @@ fang	fang		4	german
 ▁SET	▁SET	▁SET	4	english
 Save	Save	Save	4	english
 льно	льно		4	russian
-erer	erer		4	NULL
+erer	erer	erer	4	english
 ▁США	▁США		4	russian
 ▁Hay	▁Hay	▁Hay	4	english
 ▁був	▁був		4	russian
 ▁Naz	▁Naz	▁Naz	4	english
 ...)	...)		4	NULL
 ROUP	ROUP		4	german
-eman	eman		4	NULL
+eman	eman	eman	4	english
 ▁тех	▁тех		4	russian
 Pool	Pool	Pool	4	english
 ▁Row	▁Row	▁Row	4	english
@@ -11537,7 +11537,7 @@ icia	icia		4	french
 uvud	uvud		4	swedish
 ▁mét	▁mét		4	hungarian
 ница	ница		4	russian
-esti	esti		4	NULL
+esti	esti	esti	4	english
 tegr	tegr		4	estonian
 ▁Nik	▁Nik	▁Nik	4	english
 iffe	iffe	iffe	4	english
@@ -11555,7 +11555,7 @@ anim	anim	anim	4	english
 onna	onna	onna	4	english
 apes	apes		4	italian
 Unis	Unis		4	french
-edom	edom		4	NULL
+edom	edom	edom	4	english
 ▁Rio	▁Rio	▁Rio	4	english
 ▁Mir	▁Mir	▁Mir	4	english
 uset	uset	uset	4	english
@@ -11608,7 +11608,7 @@ lais	lais		4	french
 halb	halb		4	german
 ▁Спо	▁Спо		4	russian
 ▁вій	▁вій		4	russian
-ilia	ilia		4	NULL
+ilia	ilia	ilia	4	english
 ▁Arg	▁Arg	▁Arg	4	english
 ▁Num	▁Num		4	NULL
 pson	pson	pson	4	english
@@ -11636,7 +11636,7 @@ aded	aded	aded	4	english
 cred	cred	cred	4	english
 fall	fall	fall	4	english
 esen	esen		4	italian
-cean	cean		4	NULL
+cean	cean	cean	4	english
 ▁Fel	▁Fel	▁Fel	4	english
 pred	pred		4	slovak
 ▁Cin	▁Cin	▁Cin	4	english
@@ -11673,7 +11673,7 @@ ALSE	ALSE	ALSE	4	english
 коло	коло		4	russian
 reib	reib		4	german
 ▁$(\	▁$(\		4	NULL
-obil	obil		4	NULL
+obil	obil	obil	4	english
 ▁phr	▁phr	▁phr	4	english
 ▁cra	▁cra	▁cra	4	english
 ▁бра	▁бра		4	russian
@@ -11715,7 +11715,7 @@ EDIT	EDIT	EDIT	4	english
 omer	omer		4	malay
 emen	emen		4	french
 ▁Kil	▁Kil	▁Kil	4	english
-cion	cion		4	NULL
+cion	cion	cion	4	english
 ilor	ilor	ilor	4	english
 abei	abei	abei	4	english
 ográ	ográ		4	spanish
@@ -11793,7 +11793,7 @@ alem	alem		4	french
 ▁baz	▁baz		4	polish
 avia	avia	avia	4	english
 kazy	kazy		4	slovak
-tion	tion		4	NULL
+tion	tion	tion	4	english
 дела	дела		4	russian
 ▁дея	▁дея		4	russian
 diff	diff	diff	4	english
@@ -11815,11 +11815,11 @@ uter	uter		4	italian
 ▁Ash	▁Ash	▁Ash	4	english
 riel	riel		4	french
 illi	illi	illi	4	english
-agon	agon		4	NULL
+agon	agon	agon	4	english
 ▁sle	▁sle	▁sle	4	english
 ▁Вер	▁Вер		4	russian
-edge	edge		4	NULL
-itos	itos		4	NULL
+edge	edge	edge	4	english
+itos	itos	itos	4	english
 hein	hein	hein	4	english
 Year	Year	Year	4	english
 ▁ctx	▁ctx	▁ctx	4	english
@@ -11884,7 +11884,7 @@ rett	rett	rett	4	english
 ▁sup	▁sup		4	french
 ▁mog	▁mog		4	serbian
 irty	irty	irty	4	english
-bere	bere		4	NULL
+bere	bere	bere	4	english
 mask	mask	mask	4	english
 abet	abet	abet	4	english
 евич	евич		4	russian
@@ -11970,7 +11970,7 @@ nika	nika	nika	4	english
 ▁Cos	▁Cos	▁Cos	4	english
 aman	aman	aman	4	english
 otta	otta		4	italian
-eral	eral		4	NULL
+eral	eral	eral	4	english
 дель	дель		4	russian
 ()->	()->		4	NULL
 iges	iges		4	danish
@@ -12025,13 +12025,13 @@ onds	onds		4	dutch
 ▁zap	▁zap	▁zap	4	english
 Area	Area	Area	4	english
 ▁Mik	▁Mik	▁Mik	4	english
-ieux	ieux		4	NULL
+ieux	ieux	ieux	4	english
 ▁Fun	▁Fun	▁Fun	4	english
 rile	rile		4	italian
 xico	xico		4	spanish
 cart	cart	cart	4	english
 emes	emes	emes	4	english
-bara	bara		4	NULL
+bara	bara	bara	4	english
 ▁cad	▁cad	▁cad	4	english
 elve	elve	elve	4	english
 ▁vin	▁vin		4	NULL
@@ -12055,7 +12055,7 @@ ieri	ieri		4	italian
 auch	auch		4	german
 ▁zna	▁zna		4	serbian
 рого	рого		4	russian
-iken	iken		4	NULL
+iken	iken	iken	4	english
 чина	чина		4	russian
 phys	phys	phys	4	english
 ▁дей	▁дей		4	russian
@@ -12092,7 +12092,7 @@ hell	hell		4	german
 ▁Fac	▁Fac	▁Fac	4	english
 ulpt	ulpt	ulpt	4	english
 itul	itul		4	romanian
-isti	isti		4	NULL
+isti	isti	isti	4	english
 ▁Bed	▁Bed		4	french
 ▁тем	▁тем		4	russian
 Game	Game	Game	4	english
@@ -12107,7 +12107,7 @@ nbsp	nbsp	nbsp	4	english
 ▁жен	▁жен		4	russian
 elte	elte		4	german
 ▁рус	▁рус		4	russian
-quip	quip		4	NULL
+quip	quip	quip	4	english
 ikel	ikel		4	german
 ▁wir	▁wir		4	german
 ▁фев	▁фев		4	russian
@@ -12144,9 +12144,9 @@ kind	kind	kind	4	english
 ▁scr	▁scr		4	french
 ória	ória		4	portuguese
 ucky	ucky	ucky	4	english
-Func	Func		4	NULL
+Func	Func	Func	4	english
 ▁obt	▁obt	▁obt	4	english
-stan	stan		4	NULL
+stan	stan	stan	4	english
 ▁Gew	▁Gew		4	german
 ▁ост	▁ост		4	russian
 ▁elő	▁elő		4	hungarian
@@ -12175,7 +12175,7 @@ ensa	ensa		4	spanish
 ewnę	ewn	ewn	4	english
 ▁'''	▁'''		4	NULL
 wend	wend	wend	4	english
-ered	ered		4	NULL
+ered	ered	ered	4	english
 ержа	ержа		4	russian
 such	such	such	4	english
 logo	logo	logo	4	english
@@ -12196,7 +12196,7 @@ rout	rout	rout	4	english
 xxxx	xxxx	xxxx	4	english
 ▁KEY	▁KEY	▁KEY	4	english
 ▁hin	▁hin		4	NULL
-onio	onio		4	NULL
+onio	onio	onio	4	english
 ▁pró	▁pró		4	spanish
 ▁ros	▁ros	▁ros	4	english
 ▁shr	▁shr	▁shr	4	english
@@ -12236,7 +12236,7 @@ uper	uper	uper	4	english
 }^{(	}^{(		4	NULL
 hire	hire	hire	4	english
 ▁süd	▁süd		4	german
-atel	atel		4	NULL
+atel	atel	atel	4	english
 ссий	ссий		4	russian
 bits	bits	bits	4	english
 ▁wed	▁wed		4	dutch
@@ -12250,8 +12250,8 @@ entr	entr	entr	4	english
 appy	appy	appy	4	english
 ství	ství		4	czech
 ▁gek	▁gek	▁gek	4	english
-atar	atar		4	NULL
-ilio	ilio		4	NULL
+atar	atar	atar	4	english
+ilio	ilio	ilio	4	english
 ▁vig	▁vig		4	french
 ▁ice	▁ice	▁ice	4	english
 ▁Say	▁Say	▁Say	4	english
@@ -12276,7 +12276,7 @@ ibly	ibly	ibly	4	english
 ▁Rub	▁Rub	▁Rub	4	english
 irit	irit	irit	4	english
 ▁Анд	▁Анд		4	russian
-erem	erem		4	NULL
+erem	erem	erem	4	english
 ▁ski	▁ski	▁ski	4	english
 Dest	Dest		4	portuguese
 ulus	ulus		4	indonesian
@@ -12295,7 +12295,7 @@ iero	iero		4	italian
 dump	dump	dump	4	english
 inta	inta	inta	4	english
 Rest	Rest	Rest	4	english
-zten	zten		4	NULL
+zten	zten	zten	4	english
 PORT	PORT	PORT	4	english
 igte	igte		4	german
 чных	чных		4	russian
@@ -12355,14 +12355,14 @@ adém	adém		4	portuguese
 ▁poc	▁poc	▁poc	4	english
 ního	ního		4	czech
 ▁Gib	▁Gib	▁Gib	4	english
-izar	izar		4	NULL
+izar	izar	izar	4	english
 izia	izia		4	croatian
 sudo	sudo		4	italian
 ület	ület		4	hungarian
 ▁zou	▁zou		4	dutch
 нами	нами		4	russian
 ▁ese	▁ese		4	spanish
-qual	qual		4	NULL
+qual	qual	qual	4	english
 ▁rod	▁rod		4	slovak
 рабо	рабо		4	russian
 virt	virt	virt	4	english
@@ -12389,7 +12389,7 @@ ické	ické		4	czech
 ▁'',	▁'',		4	NULL
 ▁учи	▁учи		4	russian
 ▁Inv	▁Inv	▁Inv	4	english
-cola	cola		4	NULL
+cola	cola	cola	4	english
 ▁bem	▁bem		4	portuguese
 ften	ften	ften	4	english
 ▁пес	▁пес		4	russian
@@ -12457,13 +12457,13 @@ isée	isée		4	french
 bose	bose	bose	4	english
 ▁Бер	▁Бер		4	russian
 pole	pole		4	swedish
-Mart	Mart		4	NULL
+Mart	Mart	Mart	4	english
 imat	imat	imat	4	english
 ▁FOR	▁FOR	▁FOR	4	english
 rias	rias	rias	4	english
 ▁Gaz	▁Gaz	▁Gaz	4	english
 ▁Sig	▁Sig	▁Sig	4	english
-bras	bras		4	NULL
+bras	bras	bras	4	english
 ▁Jar	▁Jar	▁Jar	4	english
 ▁Bog	▁Bog	▁Bog	4	english
 ▁sty	▁sty		4	polish
@@ -12474,11 +12474,11 @@ zerw	zerw		4	polish
 ▁них	▁них		4	russian
 ▁vue	▁vue		4	french
 ▁Rou	▁Rou	▁Rou	4	english
-bone	bone		4	NULL
+bone	bone	bone	4	english
 туры	туры		4	russian
 áció	áció		4	hungarian
 ▁orn	▁orn	▁orn	4	english
-ilib	ilib		4	NULL
+ilib	ilib	ilib	4	english
 ierz	ierz		4	italian
 ugno	ugno	ugno	4	english
 ▁tör	▁tör		4	swedish
@@ -12486,7 +12486,7 @@ rijk	rijk		4	dutch
 ▁Got	▁Got	▁Got	4	english
 ptop	ptop	ptop	4	english
 ▁rue	▁rue		4	french
-iona	iona		4	NULL
+iona	iona	iona	4	english
 ▁Aqu	▁Aqu		4	french
 elde	elde	elde	4	english
 flex	flex	flex	4	english
@@ -12502,8 +12502,8 @@ cord	cord	cord	4	english
 ване	ване		4	russian
 avid	avid	avid	4	english
 osti	osti		4	german
-cius	cius		4	NULL
-bres	bres		4	NULL
+cius	cius	cius	4	english
+bres	bres	bres	4	english
 neur	neur		4	french
 ▁Occ	▁Occ	▁Occ	4	english
 olas	olas		4	turkish
@@ -12582,13 +12582,13 @@ inha	inha	inha	4	english
 дина	дина		4	russian
 ▁Все	▁Все		4	russian
 ▁Agr	▁Agr	▁Agr	4	english
-enie	enie		4	NULL
+enie	enie	enie	4	english
 CODE	CODE	CODE	4	english
 nice	nice	nice	4	english
 Lock	Lock	Lock	4	english
 clar	clar	clar	4	english
 ▁pov	▁pov		4	NULL
-atra	atra		4	NULL
+atra	atra	atra	4	english
 ▁Ord	▁Ord	▁Ord	4	english
 ▁rum	▁rum		4	italian
 deck	deck	deck	4	english
@@ -12621,7 +12621,7 @@ Role	Role	Role	4	english
 ](#)	](#)		4	NULL
 inea	inea	inea	4	english
 граф	граф		4	russian
-anje	anje		4	NULL
+anje	anje	anje	4	english
 ▁ули	▁ули		4	russian
 ▁Age	▁Age	▁Age	4	english
 ▁swo	▁swo	▁swo	4	english
@@ -12704,7 +12704,7 @@ ffff	ffff	ffff	4	english
 ▁XII	▁XII	▁XII	4	english
 inae	inae	inae	4	english
 ▁Бра	▁Бра		4	russian
-iros	iros		4	NULL
+iros	iros	iros	4	english
 ▁oil	▁oil	▁oil	4	english
 ▁clo	▁clo	▁clo	4	english
 ▁мет	▁мет		4	russian
@@ -12735,7 +12735,7 @@ utto	utto		4	norwegian
 odox	odox	odox	4	english
 ▁Maz	▁Maz	▁Maz	4	english
 ▁Рес	▁Рес		4	russian
-ikus	ikus		4	NULL
+ikus	ikus	ikus	4	english
 ▁lid	▁lid		4	dutch
 ppel	ppel		4	french
 Also	Also	Also	4	english
@@ -12776,9 +12776,9 @@ spot	spot	spot	4	english
 unal	unal	unal	4	english
 nest	nest		4	portuguese
 ▁Low	▁Low	▁Low	4	english
-imet	imet		4	NULL
+imet	imet	imet	4	english
 have	have	have	4	english
-atem	atem		4	NULL
+atem	atem	atem	4	english
 wers	wers		4	dutch
 ових	ових		4	russian
 ▁eat	▁eat	▁eat	4	english
@@ -12824,7 +12824,7 @@ umbn	umbn		4	german
 ..."	..."		4	NULL
 ▁bio	▁bio	▁bio	4	english
 bage	bage	bage	4	english
-ienn	ienn		4	NULL
+ienn	ienn	ienn	4	english
 rose	rose	rose	4	english
 ▁Ton	▁Ton	▁Ton	4	english
 STAT	STAT	STAT	4	english
@@ -12853,7 +12853,7 @@ Flow	Flow	Flow	4	english
 ▁Аль	▁Аль		4	russian
 ▁Пра	▁Пра		4	russian
 ność	ność		4	polish
-oker	oker		4	NULL
+oker	oker	oker	4	english
 ▁хра	▁хра		4	russian
 erta	erta	erta	4	english
 EGIN	EGIN	EGIN	4	english
@@ -12867,7 +12867,7 @@ folk	folk	folk	4	english
 odge	odge		4	polish
 ▁Tai	▁Tai		4	lithuanian
 ▁вме	▁вме		4	russian
-prec	prec		4	NULL
+prec	prec	prec	4	english
 ▁nag	▁nag	▁nag	4	english
 ▁UTC	▁UTC	▁UTC	4	english
 olia	olia		4	finnish
@@ -12968,7 +12968,7 @@ fred	fred	fred	4	english
 week	week	week	4	english
 ▁chr	▁chr	▁chr	4	english
 него	него		4	russian
-eras	eras		4	NULL
+eras	eras	eras	4	english
 ▁dez	▁dez		4	german
 aniu	aniu		4	spanish
 ▁Heb	▁Heb		4	dutch
@@ -12998,7 +12998,7 @@ auté	auté		4	french
 Prom	Prom	Prom	4	english
 ▁Sax	▁Sax	▁Sax	4	english
 скус	скус		4	russian
-ltre	ltre		4	NULL
+ltre	ltre	ltre	4	english
 ondo	ondo		4	dutch
 imos	imos		4	french
 ципа	ципа		4	russian
@@ -13084,7 +13084,7 @@ nete	nete	nete	4	english
 ▁Tot	▁Tot	▁Tot	4	english
 ▁kin	▁kin	▁kin	4	english
 ▁tbl	▁tbl		4	turkish
-zysk	zysk		4	NULL
+zysk	zysk	zysk	4	english
 shop	shop	shop	4	english
 ▁erw	▁erw	▁erw	4	english
 Mess	Mess		4	italian
@@ -13199,7 +13199,7 @@ alia	alia	alia	4	english
 ▁Syl	▁Syl		4	japanese
 вели	вели		4	russian
 engu	engu	engu	4	english
-izen	izen		4	NULL
+izen	izen	izen	4	english
 beck	beck	beck	4	english
 lius	lius	lius	4	english
 iral	iral	iral	4	english
@@ -13224,7 +13224,7 @@ midt	midt	midt	4	english
 ▁зан	▁зан		4	russian
 take	take	take	4	english
 ▁Sid	▁Sid	▁Sid	4	english
-ulos	ulos		4	NULL
+ulos	ulos	ulos	4	english
 ▁Sak	▁Sak	▁Sak	4	english
 ▁zes	▁zes		4	dutch
 arde	arde	arde	4	english
@@ -13246,7 +13246,7 @@ pret	pret	pret	4	english
 Mask	Mask	Mask	4	english
 yard	yard	yard	4	english
 ▁сві	▁сві		4	russian
-arqu	arqu		4	NULL
+arqu	arqu	arqu	4	english
 ▁Bib	▁Bib	▁Bib	4	english
 ▁уда	▁уда		4	russian
 uchs	uchs	uchs	4	english
@@ -13257,7 +13257,7 @@ Rate	Rate	Rate	4	english
 indu	indu	indu	4	english
 ▁Bod	▁Bod	▁Bod	4	english
 anon	anon		4	portuguese
-imen	imen		4	NULL
+imen	imen	imen	4	english
 ▁све	▁све		4	russian
 фика	фика		4	russian
 ▁сло	▁сло		4	russian
@@ -13273,14 +13273,14 @@ igua	igua		4	spanish
 ulse	ulse	ulse	4	english
 ▁[],	▁[],		4	NULL
 ctic	ctic	ctic	4	english
-amba	amba		4	NULL
+amba	amba	amba	4	english
 ▁wol	▁wol		4	german
 ▁när	▁när		4	swedish
 ampa	ampa	ampa	4	english
 ▁Stu	▁Stu	▁Stu	4	english
 ▁pis	▁pis	▁pis	4	english
 pler	pler	pler	4	english
-ywna	ywna		4	NULL
+ywna	ywna	ywna	4	english
 gets	gets	gets	4	english
 сини	сини		4	russian
 repo	repo	repo	4	english
@@ -13293,7 +13293,7 @@ repo	repo	repo	4	english
 ▁dob	▁dob		4	hungarian
 ▁biz	▁biz		4	turkish
 iras	iras		4	dutch
-abad	abad		4	NULL
+abad	abad	abad	4	english
 dire	dire		4	italian
 imon	imon		4	french
 ▁Zag	▁Zag	▁Zag	4	english
@@ -13303,7 +13303,7 @@ ingo	ingo		4	italian
 ▁Сте	▁Сте		4	russian
 ског	ског		4	russian
 imar	imar	imar	4	english
-ntil	ntil		4	NULL
+ntil	ntil	ntil	4	english
 cios	cios	cios	4	english
 ének	ének		4	hungarian
 ▁gcc	▁gcc	▁gcc	4	english
@@ -13380,7 +13380,7 @@ ossa	ossa		4	italian
 TRUE	TRUE		4	german
 ▁sli	▁sli	▁sli	4	english
 мена	мена		4	russian
-eton	eton		4	NULL
+eton	eton	eton	4	english
 ▁weg	▁weg		4	dutch
 ilus	ilus		4	spanish
 ▁wię	▁wię		4	polish
@@ -13423,7 +13423,7 @@ agle	agle	agle	4	english
 ▁Edd	▁Edd	▁Edd	4	english
 ▁Hem	▁Hem	▁Hem	4	english
 utos	utos		4	hungarian
-proj	proj		4	NULL
+proj	proj	proj	4	english
 Plot	Plot	Plot	4	english
 Fill	Fill	Fill	4	english
 ▁duc	▁duc		4	french
@@ -13435,7 +13435,7 @@ Fill	Fill	Fill	4	english
 Fern	Fern	Fern	4	english
 ając	ajc		4	polish
 наль	наль		4	russian
-anya	anya		4	NULL
+anya	anya	anya	4	english
 седа	седа		4	russian
 walk	walk	walk	4	english
 ▁fug	▁fug	▁fug	4	english
@@ -13524,7 +13524,7 @@ ktiv	ktiv		4	swedish
 ▁Lit	▁Lit	▁Lit	4	english
 ▁aos	▁aos		4	portuguese
 ▁voj	▁voj		4	slovenian
-apan	apan		4	NULL
+apan	apan	apan	4	english
 ▁zal	▁zal		4	dutch
 )^{\	)^{\		4	NULL
 ▁ана	▁ана		4	russian
@@ -13557,7 +13557,7 @@ Dict	Dict		4	german
 ▁Sof	▁Sof	▁Sof	4	english
 ▁Cad	▁Cad	▁Cad	4	english
 iety	iety		4	latvian
-mans	mans		4	NULL
+mans	mans	mans	4	english
 acci	acci		4	italian
 umed	umed		4	french
 ▁Gir	▁Gir	▁Gir	4	english
@@ -13615,7 +13615,7 @@ cile	cile		4	italian
 arga	arga	arga	4	english
 átum	átum		4	hungarian
 ▁DDR	▁DDR		4	french
-yman	yman		4	NULL
+yman	yman	yman	4	english
 дена	дена		4	russian
 ária	ária		4	portuguese
 iese	iese		4	dutch
@@ -13697,7 +13697,7 @@ CONT	CONT	CONT	4	english
 ippi	ippi	ippi	4	english
 eing	eing		4	german
 arlo	arlo	arlo	4	english
-pios	pios		4	NULL
+pios	pios	pios	4	english
 Jean	Jean		4	french
 ätze	ätze		4	swedish
 offs	offs	offs	4	english
@@ -13745,7 +13745,7 @@ Land	Land	Land	4	english
 poly	poly		4	german
 ▁Dak	▁Dak	▁Dak	4	english
 лися	лися		4	russian
-irus	irus		4	NULL
+irus	irus	irus	4	english
 weit	weit		4	german
 ▁Ана	▁Ана		4	russian
 ènes	ènes		4	french
@@ -13756,12 +13756,12 @@ cols	cols	cols	4	english
 ▁tcp	▁tcp	▁tcp	4	english
 êtes	êtes		4	french
 ▁Yam	▁Yam	▁Yam	4	english
-kret	kret		4	NULL
+kret	kret	kret	4	english
 para	para		4	portuguese
 ▁SUM	▁SUM		4	french
 ▁pit	▁pit	▁pit	4	english
 ждан	ждан		4	russian
-igny	igny		4	NULL
+igny	igny	igny	4	english
 \|_{	\|_{		4	NULL
 ▁ему	▁ему		4	russian
 prob	prob	prob	4	english
@@ -13775,7 +13775,7 @@ posa	posa	posa	4	english
 тник	тник		4	russian
 bian	bian	bian	4	english
 ▁Dia	▁Dia		4	indonesian
-obar	obar		4	NULL
+obar	obar	obar	4	english
 olin	olin		4	finnish
 ▁sar	▁sar	▁sar	4	english
 ();`	();`		4	NULL
@@ -13809,10 +13809,10 @@ ethe	ethe	ethe	4	english
 uese	uese	uese	4	english
 лище	лище		4	russian
 ceae	ceae		4	slovak
-usto	usto		4	NULL
+usto	usto	usto	4	english
 ovat	ovat		4	finnish
 acon	acon		4	portuguese
-quot	quot		4	NULL
+quot	quot	quot	4	english
 Pred	Pred	Pred	4	english
 lava	lava		4	italian
 vous	vous		4	french
@@ -13830,7 +13830,7 @@ sens	sens		4	french
 ▁теа	▁теа		4	russian
 AAAA	AAAA	AAAA	4	english
 fach	fach		4	german
-okes	okes		4	NULL
+okes	okes	okes	4	english
 ▁wsz	▁wsz		4	polish
 ▁Lav	▁Lav	▁Lav	4	english
 ▁Чем	▁Чем		4	russian
@@ -13852,8 +13852,8 @@ kund	kund		4	dutch
 ције	ције		4	russian
 ▁HMS	▁HMS	▁HMS	4	english
 dale	dale		4	hungarian
-ilis	ilis		4	NULL
-edor	edor		4	NULL
+ilis	ilis	ilis	4	english
+edor	edor	edor	4	english
 eszt	eszt		4	hungarian
 стом	стом		4	russian
 ▁зда	▁зда		4	russian
@@ -13877,7 +13877,7 @@ idor	idor	idor	4	english
 ▁dix	▁dix		4	french
 iała	iała		4	polish
 ляет	ляет		4	russian
-atan	atan		4	NULL
+atan	atan	atan	4	english
 ▁Тур	▁Тур		4	russian
 цией	цией		4	russian
 ▁étr	▁étr		4	french
@@ -13885,7 +13885,7 @@ atan	atan		4	NULL
 ▁nan	▁nan		4	NULL
 Demo	Demo	Demo	4	english
 ▁nep	▁nep	▁nep	4	english
-itis	itis		4	NULL
+itis	itis	itis	4	english
 ▁pup	▁pup	▁pup	4	english
 ▁Bek	▁Bek	▁Bek	4	english
 })$.	})$.		4	NULL
@@ -13899,7 +13899,7 @@ Circ	Circ	Circ	4	english
 ▁ksi	▁ksi		4	finnish
 нина	нина		4	russian
 enas	enas		4	spanish
-obox	obox		4	NULL
+obox	obox	obox	4	english
 рови	рови		4	russian
 CESS	CESS		4	italian
 enix	enix		4	turkish
@@ -13910,7 +13910,7 @@ arbe	arbe		4	french
 anja	anja	anja	4	english
 ▁тек	▁тек		4	russian
 rust	rust	rust	4	english
-ikal	ikal		4	NULL
+ikal	ikal	ikal	4	english
 illé	illé	illé	4	english
 ▁Роз	▁Роз		4	russian
 ▁Хро	▁Хро		4	russian
@@ -13954,7 +13954,7 @@ Live	Live	Live	4	english
 ▁Sau	▁Sau	▁Sau	4	english
 ▁той	▁той		4	russian
 дели	дели		4	russian
-Edge	Edge		4	NULL
+Edge	Edge	Edge	4	english
 Side	Side	Side	4	english
 ▁hög	▁hög		4	swedish
 ▁Від	▁Від		4	russian
@@ -13970,7 +13970,7 @@ pick	pick	pick	4	english
 ▁Wes	▁Wes	▁Wes	4	english
 Drag	Drag		4	german
 гато	гато		4	russian
-eree	eree		4	NULL
+eree	eree	eree	4	english
 ▁lac	▁lac		4	NULL
 ▁Foi	▁Foi		4	portuguese
 ▁Sri	▁Sri	▁Sri	4	english
@@ -14030,7 +14030,7 @@ LIST	LIST	LIST	4	english
 Exit	Exit	Exit	4	english
 ▁бан	▁бан		4	russian
 ício	ício		4	portuguese
-Qual	Qual		4	NULL
+Qual	Qual	Qual	4	english
 stag	stag	stag	4	english
 icut	icut	icut	4	english
 ▁Xml	▁Xml	▁Xml	4	english
@@ -14068,7 +14068,7 @@ orde	orde		4	dutch
 assa	assa	assa	4	english
 туре	туре		4	russian
 ▁lak	▁lak		4	hungarian
-itza	itza		4	NULL
+itza	itza	itza	4	english
 perp	perp	perp	4	english
 rror	rror	rror	4	english
 ▁змі	▁змі		4	russian
@@ -14080,7 +14080,7 @@ Mont	Mont	Mont	4	english
 tick	tick	tick	4	english
 mine	mine	mine	4	english
 ▁Spo	▁Spo	▁Spo	4	english
-skog	skog		4	NULL
+skog	skog	skog	4	english
 тори	тори		4	russian
 ▁lij	▁lij		4	russian
 Bool	Bool	Bool	4	english
@@ -14147,7 +14147,7 @@ Attr	Attr		4	arabic
 asis	asis	asis	4	english
 ▁Roc	▁Roc	▁Roc	4	english
 udni	udni		4	czech
-uuid	uuid		4	NULL
+uuid	uuid	uuid	4	english
 ▁взя	▁взя		4	russian
 Does	Does	Does	4	english
 angs	angs	angs	4	english
@@ -14176,7 +14176,7 @@ inde	inde	inde	4	english
 Cart	Cart	Cart	4	english
 ▁wij	▁wij		4	dutch
 ▁Ris	▁Ris	▁Ris	4	english
-erea	erea		4	NULL
+erea	erea	erea	4	english
 ▁mij	▁mij		4	dutch
 imas	imas		4	lithuanian
 ▁Wei	▁Wei	▁Wei	4	english
@@ -14190,7 +14190,7 @@ iony	iony		4	russian
 тета	тета		4	russian
 ▁kop	▁kop		4	danish
 ▁lei	▁lei		4	italian
-geon	geon		4	NULL
+geon	geon	geon	4	english
 ▁эта	▁эта		4	russian
 ▁DNA	▁DNA	▁DNA	4	english
 ▁sid	▁sid	▁sid	4	english
@@ -14219,7 +14219,7 @@ erva	erva	erva	4	english
 ▁Kun	▁Kun	▁Kun	4	english
 odot	odot	odot	4	english
 enes	enes		4	spanish
-ljen	ljen		4	NULL
+ljen	ljen	ljen	4	english
 ▁hos	▁hos		4	norwegian
 dawn	dawn	dawn	4	english
 race	race	race	4	english
@@ -14230,7 +14230,7 @@ Have	Have	Have	4	english
 бран	бран		4	russian
 atif	atif		4	french
 INST	INST		4	german
-Grad	Grad		4	NULL
+Grad	Grad	Grad	4	english
 ▁Sug	▁Sug	▁Sug	4	english
 avam	avam		4	portuguese
 ▁Haz	▁Haz	▁Haz	4	english
@@ -14276,7 +14276,7 @@ dent	dent	dent	4	english
 ôtel	ôtel		4	french
 iman	iman	iman	4	english
 ']))	']))		4	NULL
-lera	lera		4	NULL
+lera	lera	lera	4	english
 ▁Ley	▁Ley	▁Ley	4	english
 lder	lder	lder	4	english
 ▁voz	▁voz		4	spanish
@@ -14307,7 +14307,7 @@ thes	thes	thes	4	english
 ▁Flo	▁Flo	▁Flo	4	english
 urls	urls	urls	4	english
 guez	guez	guez	4	english
-iono	iono		4	NULL
+iono	iono	iono	4	english
 bine	bine	bine	4	english
 тных	тных		4	russian
 êque	êque		4	french
@@ -14349,7 +14349,7 @@ RECT	RECT	RECT	4	english
 ▁Whe	▁Whe	▁Whe	4	english
 hnen	hnen	hnen	4	english
 ▁Льв	▁Льв		4	russian
-etal	etal		4	NULL
+etal	etal	etal	4	english
 baut	baut	baut	4	english
 ▁дов	▁дов		4	russian
 ▁Pon	▁Pon	▁Pon	4	english
@@ -14434,9 +14434,9 @@ mile	mile	mile	4	english
 hrer	hrer		4	german
 rass	rass	rass	4	english
 Take	Take	Take	4	english
-atge	atge		4	NULL
+atge	atge	atge	4	english
 seed	seed	seed	4	english
-ahoo	ahoo		4	NULL
+ahoo	ahoo	ahoo	4	english
 ührt	ührt		4	german
 ▁Cot	▁Cot	▁Cot	4	english
 RESS	RESS	RESS	4	english
@@ -14454,7 +14454,7 @@ rado	rado	rado	4	english
 ▁poj	▁poj		4	NULL
 ouwd	ouwd		4	dutch
 ▁LIM	▁LIM	▁LIM	4	english
-esar	esar		4	NULL
+esar	esar	esar	4	english
 icki	icki		4	polish
 ▁dbo	▁dbo	▁dbo	4	english
 skih	skih		4	croatian
@@ -14477,7 +14477,7 @@ migr	migr	migr	4	english
 ▁tud	▁tud		4	hungarian
 ▁SER	▁SER	▁SER	4	english
 ▁Ice	▁Ice	▁Ice	4	english
-vole	vole		4	NULL
+vole	vole	vole	4	english
 ▁gle	▁gle	▁gle	4	english
 ucci	ucci		4	italian
 Jack	Jack	Jack	4	english
@@ -14516,7 +14516,7 @@ fund	fund	fund	4	english
 ▁обы	▁обы		4	russian
 rikt	rikt		4	swedish
 ▁Гре	▁Гре		4	russian
-andr	andr		4	NULL
+andr	andr	andr	4	english
 etry	etry	etry	4	english
 ▁dél	▁dél		4	hungarian
 мест	мест		4	russian
@@ -14534,7 +14534,7 @@ rita	rita	rita	4	english
 ▁règ	▁règ		4	french
 agli	agli		4	italian
 lait	lait		4	french
-etra	etra		4	NULL
+etra	etra	etra	4	english
 ▁Peg	▁Peg		4	NULL
 adal	adal	adal	4	english
 ▁Mam	▁Mam		4	polish
@@ -14543,7 +14543,7 @@ olit	olit		4	finnish
 ової	ової		4	russian
 ▁Kel	▁Kel	▁Kel	4	english
 alog	alog	alog	4	english
-ixen	ixen		4	NULL
+ixen	ixen	ixen	4	english
 uden	uden		4	danish
 жить	жить		4	russian
 ▁();	▁();		4	NULL
@@ -14557,7 +14557,7 @@ Turn	Turn	Turn	4	english
 ▁jsf	▁jsf		4	czech
 ▁Tul	▁Tul		4	romanian
 ▁Zak	▁Zak	▁Zak	4	english
-zyma	zyma		4	NULL
+zyma	zyma	zyma	4	english
 hrte	hrte		4	german
 ▁fet	▁fet		4	NULL
 ▁Paz	▁Paz	▁Paz	4	english
@@ -14569,7 +14569,7 @@ jící	jící		4	czech
 ▁før	▁før		4	danish
 ▁Kop	▁Kop	▁Kop	4	english
 ▁Pul	▁Pul		4	romanian
-nats	nats		4	NULL
+nats	nats	nats	4	english
 меня	меня		4	russian
 rets	rets		4	swedish
 larg	larg	larg	4	english
@@ -14601,7 +14601,7 @@ ckså	ckså		4	danish
 ▁рів	▁рів		4	russian
 ▁fee	▁fee	▁fee	4	english
 ▁RUN	▁RUN	▁RUN	4	english
-akov	akov		4	NULL
+akov	akov	akov	4	english
 ceil	ceil	ceil	4	english
 ▁dov	▁dov		4	italian
 ▁оби	▁оби		4	russian
@@ -14638,7 +14638,7 @@ zeum	zeum		4	spanish
 ▁moż	▁moż		4	polish
 чник	чник		4	russian
 IONS	IONS	IONS	4	english
-ynie	ynie		4	NULL
+ynie	ynie	ynie	4	english
 ▁нап	▁нап		4	russian
 ▁IBM	▁IBM	▁IBM	4	english
 ▁Nin	▁Nin	▁Nin	4	english
@@ -14675,7 +14675,7 @@ iels	iels		4	latvian
 meno	meno		4	indonesian
 eggi	eggi	eggi	4	english
 étés	étés		4	french
-merk	merk		4	NULL
+merk	merk	merk	4	english
 ▁rok	▁rok		4	polish
 ▁юго	▁юго		4	russian
 ▁kyr	▁kyr		4	swedish
@@ -14708,7 +14708,7 @@ quit	quit	quit	4	english
 анта	анта		4	russian
 Coll	Coll	Coll	4	english
 liqu	liqu		4	french
-cije	cije		4	NULL
+cije	cije	cije	4	english
 know	know	know	4	english
 ▁zie	▁zie		4	dutch
 mart	mart		4	turkish
@@ -14719,7 +14719,7 @@ auff	auff		4	german
 ▁vär	▁vär		4	swedish
 ▁Lip	▁Lip	▁Lip	4	english
 вшие	вшие		4	russian
-ymen	ymen		4	NULL
+ymen	ymen	ymen	4	english
 BOOL	BOOL	BOOL	4	english
 ▁Kay	▁Kay	▁Kay	4	english
 cian	cian	cian	4	english
@@ -14750,13 +14750,13 @@ agar	agar	agar	4	english
 ▁DIS	▁DIS	▁DIS	4	english
 ▁ору	▁ору		4	russian
 ▁Нор	▁Нор		4	russian
-esia	esia		4	NULL
+esia	esia	esia	4	english
 calc	calc		4	french
 çoit	çoit		4	turkish
 ▁кли	▁кли		4	russian
 ▁Sue	▁Sue	▁Sue	4	english
 ▁кам	▁кам		4	russian
-azar	azar		4	NULL
+azar	azar	azar	4	english
 ável	ável		4	portuguese
 arth	arth	arth	4	english
 ▁нор	▁нор		4	russian
@@ -14783,7 +14783,7 @@ ijst	ijst		4	dutch
 ▁","	▁","		4	NULL
 тара	тара		4	russian
 ▁róż	▁róż		4	polish
-poss	poss		4	NULL
+poss	poss	poss	4	english
 cita	cita	cita	4	english
 ":{"	":{"		4	NULL
 ifie	ifie	ifie	4	english
@@ -14848,7 +14848,7 @@ rund	rund	rund	4	english
 ässt	ässt		4	german
 lict	lict	lict	4	english
 ▁rez	▁rez		4	latvian
-nitz	nitz		4	NULL
+nitz	nitz	nitz	4	english
 bove	bove		4	dutch
 oben	oben	oben	4	english
 idan	idan		4	german
@@ -14880,8 +14880,8 @@ ację	acj		4	polish
 ▁rhs	▁rhs	▁rhs	4	english
 oris	oris	oris	4	english
 rong	rong	rong	4	english
-ikes	ikes		4	NULL
-icum	icum		4	NULL
+ikes	ikes	ikes	4	english
+icum	icum	icum	4	english
 ▁%),	▁%),		4	NULL
 важа	важа		4	russian
 ▁unf	▁unf	▁unf	4	english
@@ -14912,7 +14912,7 @@ slug	slug	slug	4	english
 ▁учё	▁учё		4	russian
 érer	érer		4	hungarian
 ▁mig	▁mig		4	danish
-etro	etro		4	NULL
+etro	etro	etro	4	english
 itie	itie		4	dutch
 uola	uola		4	italian
 ▁всі	▁всі		4	russian
@@ -14930,7 +14930,7 @@ emos	emos		4	spanish
 ▁Gul	▁Gul		4	romanian
 Scal	Scal	Scal	4	english
 ▁Sep	▁Sep	▁Sep	4	english
-yrus	yrus		4	NULL
+yrus	yrus	yrus	4	english
 Help	Help	Help	4	english
 pont	pont		4	hungarian
 suit	suit	suit	4	english
@@ -14988,7 +14988,7 @@ begin	begin	begin	5	english
 ▁from	▁from	▁from	5	english
 ▁your	▁your	▁your	5	english
 ▁cont	▁cont	▁cont	5	english
-ition	ition		5	NULL
+ition	ition	ition	5	english
 ▁work	▁work	▁work	5	english
 ▁will	▁will	▁will	5	english
 ption	ption	ption	5	english
@@ -15106,7 +15106,7 @@ lient	lient		5	french
 ▁down	▁down	▁down	5	english
 ather	ather	ather	5	english
 ▁year	▁year	▁year	5	english
-inter	inter		5	NULL
+inter	inter	inter	5	english
 label	label	label	5	english
 ▁cent	▁cent		5	spanish
 ython	ython		5	swedish
@@ -15147,7 +15147,7 @@ ustom	ustom		5	polish
 velop	velop	velop	5	english
 ▁last	▁last	▁last	5	english
 ▁term	▁term	▁term	5	english
-ional	ional		5	NULL
+ional	ional	ional	5	english
 ables	ables	ables	5	english
 utton	utton		5	norwegian
 ▁sure	▁sure	▁sure	5	english
@@ -15159,7 +15159,7 @@ ments	ments		5	indonesian
 ▁best	▁best	▁best	5	english
 aster	aster	aster	5	english
 ▁prim	▁prim		5	italian
-ities	ities		5	NULL
+ities	ities	ities	5	english
 Value	Value		5	german
 thing	thing	thing	5	english
 ▁stud	▁stud		5	spanish
@@ -15172,7 +15172,7 @@ ether	ether	ether	5	english
 class	class	class	5	english
 ittle	ittle		5	hungarian
 embre	embre		5	french
-ische	ische		5	NULL
+ische	ische	ische	5	english
 ▁port	▁port	▁port	5	english
 ready	ready	ready	5	english
 ▁come	▁come		5	italian
@@ -15183,7 +15183,7 @@ indow	indow	indow	5	english
 ivity	ivity	ivity	5	english
 ▁init	▁init		5	NULL
 ▁prob	▁prob	▁prob	5	english
-iment	iment		5	NULL
+iment	iment	iment	5	english
 ouble	ouble	ouble	5	english
 input	input	input	5	english
 ▁cour	▁cour	▁cour	5	english
@@ -15194,7 +15194,7 @@ width	width	width	5	english
 ▁fact	▁fact	▁fact	5	english
 ▁java	▁java	▁java	5	english
 istor	istor		5	turkish
-ither	ither		5	NULL
+ither	ither	ither	5	english
 ▁take	▁take	▁take	5	english
 ▁eine	▁eine		5	german
 ▁Cons	▁Cons	▁Cons	5	english
@@ -15233,7 +15233,7 @@ plate	plate	plate	5	english
 ograf	ograf		5	swedish
 vious	vious	vious	5	english
 ▁give	▁give	▁give	5	english
-table	table		5	NULL
+table	table	table	5	english
 array	array	array	5	english
 IMAGE	IMAGE	IMAGE	5	english
 Class	Class	Class	5	english
@@ -15289,7 +15289,7 @@ ormal	ormal	ormal	5	english
 ended	ended	ended	5	english
 color	color	color	5	english
 ugust	ugust	ugust	5	english
-ymbol	ymbol		5	NULL
+ymbol	ymbol	ymbol	5	english
 ▁mark	▁mark	▁mark	5	english
 State	State	State	5	english
 count	count	count	5	english
@@ -15338,13 +15338,13 @@ ithub	ithub	ithub	5	english
 ▁full	▁full	▁full	5	english
 ▁situ	▁situ		5	NULL
 ▁came	▁came	▁came	5	english
-local	local		5	NULL
+local	local	local	5	english
 ology	ology	ology	5	english
 Query	Query	Query	5	english
 ▁keep	▁keep	▁keep	5	english
 reate	reate	reate	5	english
 pport	pport	pport	5	english
-ector	ector		5	NULL
+ector	ector	ector	5	english
 ▁conc	▁conc		5	french
 ▁four	▁four	▁four	5	english
 viron	viron	viron	5	english
@@ -15357,7 +15357,7 @@ uffer	uffer		5	italian
 where	where	where	5	english
 Field	Field	Field	5	english
 const	const	const	5	english
-valid	valid		5	NULL
+valid	valid	valid	5	english
 ▁York	▁York	▁York	5	english
 ▁prop	▁prop	▁prop	5	english
 ▁less	▁less	▁less	5	english
@@ -15391,8 +15391,8 @@ style	style	style	5	english
 ▁году	▁году		5	russian
 Color	Color	Color	5	english
 apter	apter	apter	5	english
-imgur	imgur		5	NULL
-itive	itive		5	NULL
+imgur	imgur	imgur	5	english
+itive	itive	itive	5	english
 ▁Aust	▁Aust	▁Aust	5	english
 iness	iness	iness	5	english
 thers	thers	thers	5	english
@@ -15476,7 +15476,7 @@ click	click	click	5	english
 ▁plan	▁plan	▁plan	5	english
 ▁team	▁team	▁team	5	english
 inary	inary	inary	5	english
-ander	ander		5	NULL
+ander	ander	ander	5	english
 ▁Comp	▁Comp		5	german
 ▁Some	▁Some	▁Some	5	english
 ▁days	▁days	▁days	5	english
@@ -15485,7 +15485,7 @@ state	state	state	5	english
 ▁edit	▁edit	▁edit	5	english
 uring	uring	uring	5	english
 ▁Jahr	▁Jahr		5	german
-ename	ename		5	NULL
+ename	ename	ename	5	english
 ▁root	▁root	▁root	5	english
 range	range	range	5	english
 ▁tamb	▁tamb		5	NULL
@@ -15544,7 +15544,7 @@ alled	alled	alled	5	english
 ▁vill	▁vill		5	swedish
 idden	idden	idden	5	english
 ▁draw	▁draw	▁draw	5	english
-yntax	yntax		5	NULL
+yntax	yntax	yntax	5	english
 ▁deux	▁deux		5	french
 ▁Main	▁Main	▁Main	5	english
 ▁camp	▁camp	▁camp	5	english
@@ -15625,7 +15625,7 @@ anged	anged	anged	5	english
 ▁JSON	▁JSON	▁JSON	5	english
 ▁Open	▁Open	▁Open	5	english
 ▁clos	▁clos	▁clos	5	english
-istic	istic		5	NULL
+istic	istic	istic	5	english
 ▁ital	▁ital		5	italian
 ▁Date	▁Date	▁Date	5	english
 which	which	which	5	english
@@ -15636,7 +15636,7 @@ quare	quare	quare	5	english
 ▁town	▁town	▁town	5	english
 undle	undle	undle	5	english
 Param	Param	Param	5	english
-gener	gener		5	NULL
+gener	gener	gener	5	english
 ▁espe	▁espe		5	spanish
 ellow	ellow		5	french
 using	using	using	5	english
@@ -15683,7 +15683,7 @@ useum	useum	useum	5	english
 patch	patch	patch	5	english
 ▁Jose	▁Jose	▁Jose	5	english
 ▁prze	▁prze		5	polish
-itory	itory		5	NULL
+itory	itory	itory	5	english
 ▁requ	▁requ		5	french
 ▁обла	▁обла		5	russian
 ▁High	▁High	▁High	5	english
@@ -15849,7 +15849,7 @@ ulate	ulate	ulate	5	english
 ▁priv	▁priv	▁priv	5	english
 ▁Cong	▁Cong	▁Cong	5	english
 ▁epis	▁epis		5	NULL
-istry	istry		5	NULL
+istry	istry	istry	5	english
 orage	orage		5	italian
 ▁whom	▁whom	▁whom	5	english
 buntu	buntu		5	hungarian
@@ -15865,7 +15865,7 @@ ensor	ensor		5	portuguese
 scope	scope	scope	5	english
 ▁bien	▁bien		5	french
 atore	atore		5	italian
-Datos	Datos		5	NULL
+Datos	Datos	Datos	5	english
 ▁Prem	▁Prem	▁Prem	5	english
 ▁Sing	▁Sing	▁Sing	5	english
 ▁guer	▁guer	▁guer	5	english
@@ -15901,9 +15901,9 @@ astic	astic	astic	5	english
 ▁fond	▁fond		5	french
 empty	empty	empty	5	english
 ▁educ	▁educ		5	french
-ensis	ensis		5	NULL
+ensis	ensis	ensis	5	english
 ▁Cour	▁Cour	▁Cour	5	english
-essor	essor		5	NULL
+essor	essor	essor	5	english
 ▁spir	▁spir	▁spir	5	english
 ▁Elle	▁Elle		5	french
 ▁born	▁born	▁born	5	english
@@ -16051,7 +16051,7 @@ Stack	Stack	Stack	5	english
 ateur	ateur		5	french
 apply	apply	apply	5	english
 ▁goal	▁goal	▁goal	5	english
-anner	anner		5	NULL
+anner	anner	anner	5	english
 ▁März	▁März		5	german
 illet	illet	illet	5	english
 ▁zwei	▁zwei		5	german
@@ -16083,7 +16083,7 @@ Order	Order	Order	5	english
 ▁Foot	▁Foot	▁Foot	5	english
 ▁meas	▁meas	▁meas	5	english
 ▁clar	▁clar	▁clar	5	english
-illes	illes		5	NULL
+illes	illes	illes	5	english
 ▁$('#	▁$('#		5	NULL
 ▁naar	▁naar		5	dutch
 ▁nice	▁nice	▁nice	5	english
@@ -16147,7 +16147,7 @@ asket	asket	asket	5	english
 ▁Mann	▁Mann	▁Mann	5	english
 ▁está	▁está		5	portuguese
 ▁diag	▁diag	▁diag	5	english
-mysql	mysql		5	NULL
+mysql	mysql	mysql	5	english
 ▁José	▁José		5	spanish
 ▁Span	▁Span	▁Span	5	english
 ▁stay	▁stay	▁stay	5	english
@@ -16186,7 +16186,7 @@ leich	leich		5	german
 ▁была	▁была		5	russian
 grade	grade	grade	5	english
 inese	inese	inese	5	english
-isten	isten		5	NULL
+isten	isten	isten	5	english
 ▁Call	▁Call	▁Call	5	english
 oring	oring	oring	5	english
 chter	chter		5	german
@@ -16304,7 +16304,7 @@ ician	ician		5	french
 ▁Guer	▁Guer	▁Guer	5	english
 ▁dall	▁dall		5	italian
 ▁desp	▁desp		5	japanese
-Empty	Empty		5	NULL
+Empty	Empty	Empty	5	english
 inent	inent	inent	5	english
 ▁chem	▁chem	▁chem	5	english
 ▁batt	▁batt	▁batt	5	english
@@ -16358,7 +16358,7 @@ andon	andon	andon	5	english
 enced	enced	enced	5	english
 ▁firm	▁firm		5	spanish
 ▁ring	▁ring	▁ring	5	english
-istes	istes		5	NULL
+istes	istes	istes	5	english
 ▁Schw	▁Schw	▁Schw	5	english
 ▁nome	▁nome		5	italian
 ▁trat	▁trat	▁trat	5	english
@@ -16391,7 +16391,7 @@ ennes	ennes	ennes	5	english
 linux	linux	linux	5	english
 acing	acing	acing	5	english
 abeth	abeth	abeth	5	english
-istas	istas		5	NULL
+istas	istas	istas	5	english
 equiv	equiv	equiv	5	english
 ▁tous	▁tous	▁tous	5	english
 ▁geme	▁geme		5	dutch
@@ -16420,7 +16420,7 @@ allow	allow	allow	5	english
 ▁горо	▁горо		5	russian
 orter	orter		5	german
 ▁hide	▁hide	▁hide	5	english
-refix	refix		5	NULL
+refix	refix	refix	5	english
 cdots	cdots	cdots	5	english
 ▁très	▁très		5	french
 ▁proc	▁proc	▁proc	5	english
@@ -16463,7 +16463,7 @@ ocket	ocket	ocket	5	english
 ▁news	▁news	▁news	5	english
 ▁país	▁país		5	spanish
 ufact	ufact		5	italian
-istan	istan		5	NULL
+istan	istan	istan	5	english
 resol	resol	resol	5	english
 unden	unden	unden	5	english
 media	media	media	5	english
@@ -16526,7 +16526,7 @@ prime	prime	prime	5	english
 ▁wall	▁wall	▁wall	5	english
 ▁fois	▁fois		5	french
 ▁nell	▁nell		5	italian
-Level	Level		5	NULL
+Level	Level	Level	5	english
 ▁janu	▁janu		5	dutch
 ▁över	▁över		5	swedish
 force	force	force	5	english
@@ -16583,7 +16583,7 @@ itate	itate		5	italian
 Enter	Enter	Enter	5	english
 ▁Mitg	▁Mitg		5	german
 Cache	Cache	Cache	5	english
-aters	aters		5	NULL
+aters	aters	aters	5	english
 ▁pens	▁pens	▁pens	5	english
 ▁citt	▁citt		5	italian
 ▁Wolf	▁Wolf	▁Wolf	5	english
@@ -16719,7 +16719,7 @@ Bytes	Bytes		5	german
 ▁Anna	▁Anna	▁Anna	5	english
 ▁hors	▁hors	▁hors	5	english
 ▁doll	▁doll	▁doll	5	english
-activ	activ		5	NULL
+activ	activ	activ	5	english
 unque	unque		5	italian
 oston	oston		5	german
 assen	assen	assen	5	english
@@ -16733,7 +16733,7 @@ leton	leton		5	slovenian
 vised	vised	vised	5	english
 track	track	track	5	english
 ▁Исто	▁Исто		5	russian
-anned	anned		5	NULL
+anned	anned	anned	5	english
 ▁Вели	▁Вели		5	russian
 ▁hair	▁hair	▁hair	5	english
 ▁sido	▁sido		5	spanish
@@ -16747,7 +16747,7 @@ ielle	ielle		5	latvian
 athan	athan	athan	5	english
 ▁бере	▁бере		5	russian
 ▁Arts	▁Arts	▁Arts	5	english
-iting	iting		5	NULL
+iting	iting	iting	5	english
 ▁enjo	▁enjo	▁enjo	5	english
 oting	oting	oting	5	english
 ▁Giov	▁Giov	▁Giov	5	english
@@ -16949,7 +16949,7 @@ maven	maven	maven	5	english
 ▁pray	▁pray	▁pray	5	english
 ▁Dick	▁Dick	▁Dick	5	english
 ▁пода	▁пода		5	russian
-istra	istra		5	NULL
+istra	istra	istra	5	english
 ▁jump	▁jump	▁jump	5	english
 catch	catch	catch	5	english
 ▁tiem	▁tiem		5	NULL
@@ -16975,10 +16975,10 @@ Forms	Forms	Forms	5	english
 ierno	ierno		5	italian
 angen	angen	angen	5	english
 ▁semi	▁semi	▁semi	5	english
-ederb	ederb		5	NULL
+ederb	ederb	ederb	5	english
 isted	isted	isted	5	english
 ▁dich	▁dich		5	german
-async	async		5	NULL
+async	async	async	5	english
 ▁Chem	▁Chem	▁Chem	5	english
 icana	icana	icana	5	english
 ▁grep	▁grep		5	norwegian
@@ -17011,7 +17011,7 @@ aling	aling	aling	5	english
 ▁сред	▁сред		5	russian
 ▁soit	▁soit		5	french
 чение	чение		5	russian
-icode	icode		5	NULL
+icode	icode	icode	5	english
 ▁donc	▁donc		5	french
 лання	лання		5	russian
 ▁verd	▁verd		5	dutch
@@ -17030,7 +17030,7 @@ plays	plays	plays	5	english
 ▁куль	▁куль		5	russian
 igned	igned	igned	5	english
 iglia	iglia		5	spanish
-ienen	ienen		5	NULL
+ienen	ienen	ienen	5	english
 ▁Para	▁Para		5	portuguese
 ▁lieu	▁lieu		5	french
 ▁boat	▁boat	▁boat	5	english
@@ -17043,7 +17043,7 @@ antin	antin	antin	5	english
 edeut	edeut		5	german
 ▁....	▁....		5	NULL
 ▁viel	▁viel		5	german
-presa	presa		5	NULL
+presa	presa	presa	5	english
 ▁осіб	▁осіб		5	russian
 ▁Gren	▁Gren	▁Gren	5	english
 ▁Brig	▁Brig		5	dutch
@@ -17146,7 +17146,7 @@ After	After	After	5	english
 ходит	ходит		5	russian
 ▁bomb	▁bomb	▁bomb	5	english
 ▁wenn	▁wenn		5	german
-inity	inity		5	NULL
+inity	inity	inity	5	english
 ▁янва	▁янва		5	russian
 lower	lower	lower	5	english
 ступи	ступи		5	russian
@@ -17224,7 +17224,7 @@ eland	eland		5	portuguese
 Proxy	Proxy	Proxy	5	english
 ▁ocup	▁ocup		5	NULL
 ▁Fall	▁Fall	▁Fall	5	english
-entre	entre		5	NULL
+entre	entre	entre	5	english
 World	World	World	5	english
 LEASE	LEASE	LEASE	5	english
 eling	eling	eling	5	english
@@ -17423,12 +17423,12 @@ aused	aused	aused	5	english
 ▁marg	▁marg	▁marg	5	english
 ▁који	▁који		5	russian
 Scope	Scope	Scope	5	english
-ynast	ynast		5	NULL
+ynast	ynast	ynast	5	english
 ▁Tony	▁Tony	▁Tony	5	english
 ▁одна	▁одна		5	russian
 ▁Dark	▁Dark	▁Dark	5	english
 recht	recht		5	german
-esses	esses		5	NULL
+esses	esses	esses	5	english
 antry	antry	antry	5	english
 Multi	Multi	Multi	5	english
 ▁Gene	▁Gene	▁Gene	5	english
@@ -17513,7 +17513,7 @@ heast	heast	heast	5	english
 allas	allas	allas	5	english
 ycler	ycler	ycler	5	english
 ▁Fich	▁Fich		5	spanish
-shell	shell		5	NULL
+shell	shell	shell	5	english
 riere	riere		5	italian
 Allow	Allow	Allow	5	english
 estic	estic		5	spanish
@@ -17544,7 +17544,7 @@ itten	itten		5	hungarian
 Other	Other	Other	5	english
 basic	basic	basic	5	english
 ▁evil	▁evil		5	russian
-esser	esser		5	NULL
+esser	esser	esser	5	english
 преде	преде		5	russian
 built	built	built	5	english
 ▁audi	▁audi	▁audi	5	english
@@ -17623,7 +17623,7 @@ cular	cular	cular	5	english
 itage	itage		5	french
 ▁Burn	▁Burn	▁Burn	5	english
 ▁beat	▁beat	▁beat	5	english
-acent	acent		5	NULL
+acent	acent	acent	5	english
 Alert	Alert	Alert	5	english
 usted	usted		5	spanish
 ▁Bert	▁Bert	▁Bert	5	english
@@ -17713,7 +17713,7 @@ boost	boost		5	dutch
 ▁coup	▁coup	▁coup	5	english
 Bound	Bound	Bound	5	english
 Audio	Audio	Audio	5	english
-citet	citet		5	NULL
+citet	citet	citet	5	english
 ▁Brun	▁Brun	▁Brun	5	english
 ▁valu	▁valu	▁valu	5	english
 slant	slant	slant	5	english
@@ -17740,7 +17740,7 @@ bourg	bourg	bourg	5	english
 ▁rain	▁rain	▁rain	5	english
 iture	iture	iture	5	english
 ▁cinq	▁cinq		5	french
-itors	itors		5	NULL
+itors	itors	itors	5	english
 ▁Luft	▁Luft	▁Luft	5	english
 ▁Lind	▁Lind	▁Lind	5	english
 ▁Cook	▁Cook	▁Cook	5	english
@@ -17842,7 +17842,7 @@ wedge	wedge		5	dutch
 ▁farm	▁farm	▁farm	5	english
 ▁rôle	▁rôle		5	french
 ▁окон	▁окон		5	russian
-izard	izard		5	NULL
+izard	izard	izard	5	english
 actic	actic	actic	5	english
 ▁fool	▁fool	▁fool	5	english
 rypto	rypto	rypto	5	english
@@ -17882,7 +17882,7 @@ abile	abile		5	italian
 ▁lord	▁lord	▁lord	5	english
 Extra	Extra	Extra	5	english
 loads	loads	loads	5	english
-codes	codes		5	NULL
+codes	codes	codes	5	english
 ▁lanz	▁lanz		5	german
 ▁Sver	▁Sver		5	swedish
 agers	agers	agers	5	english
@@ -17915,7 +17915,7 @@ slice	slice	slice	5	english
 ▁grey	▁grey	▁grey	5	english
 ▁Dopo	▁Dopo		5	italian
 ▁Trad	▁Trad	▁Trad	5	english
-itori	itori		5	NULL
+itori	itori	itori	5	english
 ▁spel	▁spel		5	dutch
 ▁Plot	▁Plot	▁Plot	5	english
 ▁Gast	▁Gast	▁Gast	5	english
@@ -18009,14 +18009,14 @@ ighth	ighth	ighth	5	english
 ▁Much	▁Much	▁Much	5	english
 ▁afin	▁afin		5	portuguese
 ▁Priv	▁Priv	▁Priv	5	english
-izada	izada		5	NULL
+izada	izada	izada	5	english
 ▁Wiel	▁Wiel	▁Wiel	5	english
 ▁Gray	▁Gray	▁Gray	5	english
 ▁Leop	▁Leop	▁Leop	5	english
 frica	frica	frica	5	english
 lings	lings	lings	5	english
 ▁села	▁села		5	russian
-esian	esian		5	NULL
+esian	esian	esian	5	english
 ▁неза	▁неза		5	russian
 скому	скому		5	russian
 ▁rear	▁rear	▁rear	5	english
@@ -18025,7 +18025,7 @@ orgen	orgen	orgen	5	english
 jourd	jourd		5	french
 ▁свою	▁свою		5	russian
 ▁wine	▁wine	▁wine	5	english
-oteca	oteca		5	NULL
+oteca	oteca	oteca	5	english
 ▁Null	▁Null	▁Null	5	english
 inals	inals	inals	5	english
 ▁Sold	▁Sold	▁Sold	5	english
@@ -18049,7 +18049,7 @@ attro	attro	attro	5	english
 cross	cross	cross	5	english
 ▁rejo	▁rejo		5	NULL
 VALUE	VALUE	VALUE	5	english
-istro	istro		5	NULL
+istro	istro	istro	5	english
 ▁Keep	▁Keep	▁Keep	5	english
 ▁Side	▁Side	▁Side	5	english
 ▁коми	▁коми		5	russian
@@ -18100,10 +18100,10 @@ immer	immer		5	german
 ▁Cell	▁Cell	▁Cell	5	english
 ▁sell	▁sell	▁sell	5	english
 gment	gment	gment	5	english
-izers	izers		5	NULL
+izers	izers	izers	5	english
 ▁меди	▁меди		5	russian
 ▁lake	▁lake		5	NULL
-anych	anych		5	NULL
+anych	anych	anych	5	english
 ▁pris	▁pris		5	french
 ▁voll	▁voll		5	french
 ▁ceux	▁ceux	▁ceux	5	english
@@ -18236,7 +18236,7 @@ erves	erves	erves	5	english
 ▁Демо	▁Демо		5	russian
 ▁дире	▁дире		5	russian
 ▁тому	▁тому		5	russian
-oltre	oltre		5	NULL
+oltre	oltre	oltre	5	english
 ▁Моск	▁Моск		5	russian
 ▁logo	▁logo	▁logo	5	english
 lette	lette		5	slovenian
@@ -18300,7 +18300,7 @@ alous	alous	alous	5	english
 throw	throw	throw	5	english
 лений	лений		5	russian
 onaut	onaut	onaut	5	english
-ilian	ilian		5	NULL
+ilian	ilian	ilian	5	english
 ▁unto	▁unto		5	german
 ▁Meta	▁Meta	▁Meta	5	english
 ▁mint	▁mint		5	hungarian
@@ -18378,7 +18378,7 @@ mouth	mouth	mouth	5	english
 ▁fasc	▁fasc		5	NULL
 ▁dedu	▁dedu	▁dedu	5	english
 ▁flav	▁flav	▁flav	5	english
-ituto	ituto		5	NULL
+ituto	ituto	ituto	5	english
 ▁envi	▁envi		5	french
 upper	upper	upper	5	english
 akers	akers	akers	5	english
@@ -18506,7 +18506,7 @@ zburg	zburg	zburg	5	english
 ▁hurt	▁hurt	▁hurt	5	english
 ▁ganz	▁ganz		5	german
 uchte	uchte		5	german
-techn	techn		5	NULL
+techn	techn	techn	5	english
 ▁Tool	▁Tool	▁Tool	5	english
 homme	homme		5	french
 terre	terre		5	french
@@ -18553,7 +18553,7 @@ gmail	gmail	gmail	5	english
 ▁scar	▁scar	▁scar	5	english
 ▁aust	▁aust		5	german
 ibile	ibile		5	italian
-itime	itime		5	NULL
+itime	itime	itime	5	english
 ▁tack	▁tack	▁tack	5	english
 ▁viss	▁viss	▁viss	5	english
 ▁Orts	▁Orts		5	german
@@ -18579,7 +18579,7 @@ Brain	Brain	Brain	5	english
 plane	plane	plane	5	english
 ності	ності		5	russian
 änner	änner		5	swedish
-ITION	ITION		5	NULL
+ITION	ITION	ITION	5	english
 ▁född	▁född		5	swedish
 ▁Rank	▁Rank	▁Rank	5	english
 ▁vuel	▁vuel		5	spanish
@@ -18606,7 +18606,7 @@ phony	phony	phony	5	english
 ▁отли	▁отли		5	russian
 ▁mitt	▁mitt		5	swedish
 uario	uario		5	spanish
-frika	frika		5	NULL
+frika	frika	frika	5	english
 ▁calc	▁calc		5	french
 ▁dzie	▁dzie		5	polish
 ▁mest	▁mest	▁mest	5	english
@@ -18635,7 +18635,7 @@ ORDER	ORDER	ORDER	5	english
 ▁kwam	▁kwam		5	dutch
 ▁cosa	▁cosa		5	italian
 ▁dioc	▁dioc	▁dioc	5	english
-annes	annes		5	NULL
+annes	annes	annes	5	english
 orrow	orrow	orrow	5	english
 ▁eren	▁eren		5	NULL
 ▁ново	▁ново		5	russian
@@ -18686,7 +18686,7 @@ regon	regon	regon	5	english
 party	party	party	5	english
 iteit	iteit		5	dutch
 rások	rások		5	hungarian
-ccion	ccion		5	NULL
+ccion	ccion	ccion	5	english
 ▁több	▁több		5	hungarian
 ▁WITH	▁WITH	▁WITH	5	english
 ▁unos	▁unos		5	spanish
@@ -18694,8 +18694,8 @@ ampio	ampio		5	italian
 ▁casi	▁casi		5	spanish
 encer	encer		5	spanish
 raise	raise	raise	5	english
-ipage	ipage		5	NULL
-istre	istre		5	NULL
+ipage	ipage	ipage	5	english
+istre	istre	istre	5	english
 ▁René	▁René		5	french
 ▁Punk	▁Punk		5	german
 ▁мона	▁мона		5	russian
@@ -18804,7 +18804,7 @@ nginx	nginx		5	vietnamese
 Could	Could	Could	5	english
 ▁dece	▁dece		5	turkish
 intro	intro	intro	5	english
-forum	forum		5	NULL
+forum	forum	forum	5	english
 ▁stro	▁stro	▁stro	5	english
 ▁Farm	▁Farm	▁Farm	5	english
 javax	javax	javax	5	english
@@ -18854,7 +18854,7 @@ xpath	xpath	xpath	5	english
 -----	-----		5	NULL
 ▁APIs	▁APIs	▁APIs	5	english
 ▁Vier	▁Vier		5	french
-itore	itore		5	NULL
+itore	itore	itore	5	english
 ▁Cuba	▁Cuba	▁Cuba	5	english
 stdio	stdio		5	german
 Produ	Produ		5	norwegian
@@ -18971,7 +18971,7 @@ erset	erset		5	german
 ▁Krit	▁Krit	▁Krit	5	english
 ▁NASA	▁NASA		5	arabic
 analy	analy	analy	5	english
-emark	emark		5	NULL
+emark	emark	emark	5	english
 ▁Rick	▁Rick	▁Rick	5	english
 evalu	evalu	evalu	5	english
 ▁CURL	▁CURL	▁CURL	5	english
@@ -19024,7 +19024,7 @@ steps	steps	steps	5	english
 ▁Lage	▁Lage	▁Lage	5	english
 ▁Mitt	▁Mitt	▁Mitt	5	english
 ▁ping	▁ping	▁ping	5	english
-adors	adors		5	NULL
+adors	adors	adors	5	english
 ▁amor	▁amor	▁amor	5	english
 demic	demic	demic	5	english
 ▁bugs	▁bugs	▁bugs	5	english
@@ -19036,7 +19036,7 @@ aders	aders	aders	5	english
 plain	plain	plain	5	english
 ▁Cred	▁Cred	▁Cred	5	english
 Green	Green	Green	5	english
-elsen	elsen		5	NULL
+elsen	elsen	elsen	5	english
 ▁vern	▁vern	▁vern	5	english
 ▁музи	▁музи		5	russian
 ▁anth	▁anth	▁anth	5	english
@@ -19070,7 +19070,7 @@ ornal	ornal	ornal	5	english
 ▁salv	▁salv	▁salv	5	english
 ▁авиа	▁авиа		5	russian
 ▁общи	▁общи		5	russian
-emann	emann		5	NULL
+emann	emann	emann	5	english
 парта	парта		5	russian
 paths	paths	paths	5	english
 üssen	üssen		5	german
@@ -19089,7 +19089,7 @@ urent	urent	urent	5	english
 щение	щение		5	russian
 ▁ciel	▁ciel		5	spanish
 ▁joue	▁joue		5	french
-uropa	uropa		5	NULL
+uropa	uropa	uropa	5	english
 ▁Lomb	▁Lomb	▁Lomb	5	english
 ienza	ienza		5	italian
 ▁Rund	▁Rund	▁Rund	5	english
@@ -19119,10 +19119,10 @@ owano	owano		5	polish
 ствие	ствие		5	russian
 ствии	ствии		5	russian
 ▁сооб	▁сооб		5	russian
-separ	separ		5	NULL
+separ	separ	separ	5	english
 empre	empre		5	spanish
 ▁Bonn	▁Bonn	▁Bonn	5	english
-Stats	Stats		5	NULL
+Stats	Stats	Stats	5	english
 ▁trom	▁trom	▁trom	5	english
 стана	стана		5	russian
 ▁molt	▁molt		5	NULL
@@ -19138,7 +19138,7 @@ icile	icile		5	french
 ▁Curt	▁Curt	▁Curt	5	english
 enson	enson		5	portuguese
 спорт	спорт		5	russian
-onial	onial		5	NULL
+onial	onial	onial	5	english
 ▁allo	▁allo	▁allo	5	english
 ▁majd	▁majd		5	serbian
 verso	verso		5	italian
@@ -19215,7 +19215,7 @@ fasst	fasst		5	german
 ▁карь	▁карь		5	russian
 ▁tips	▁tips		5	NULL
 льных	льных		5	russian
-essel	essel		5	NULL
+essel	essel	essel	5	english
 ▁aggi	▁aggi		5	italian
 enser	enser		5	portuguese
 incie	incie		5	czech
@@ -19242,17 +19242,17 @@ heits	heits	heits	5	english
 FALSE	FALSE	FALSE	5	english
 rayed	rayed	rayed	5	english
 писан	писан		5	russian
-atern	atern		5	NULL
+atern	atern	atern	5	english
 ▁cuer	▁cuer		5	spanish
 blogs	blogs	blogs	5	english
 ▁clés	▁clés		5	hungarian
-uerdo	uerdo		5	NULL
+uerdo	uerdo	uerdo	5	english
 hagen	hagen	hagen	5	english
 ▁ford	▁ford		5	swedish
 ▁Серг	▁Серг		5	russian
 ▁Rang	▁Rang		5	german
 ▁nada	▁nada		5	spanish
-onian	onian		5	NULL
+onian	onian	onian	5	english
 START	START	START	5	english
 ▁ejec	▁ejec		5	spanish
 iwers	iwers		5	spanish
@@ -19291,7 +19291,7 @@ imper	imper	imper	5	english
 ▁Volk	▁Volk	▁Volk	5	english
 ▁burg	▁burg		5	german
 ▁Deux	▁Deux	▁Deux	5	english
-onica	onica		5	NULL
+onica	onica	onica	5	english
 ▁caps	▁caps	▁caps	5	english
 ▁suis	▁suis		5	french
 ▁Daar	▁Daar		5	dutch
@@ -19396,7 +19396,7 @@ icane	icane	icane	5	english
 ▁Unix	▁Unix	▁Unix	5	english
 could	could	could	5	english
 owned	owned	owned	5	english
-VALID	VALID		5	NULL
+VALID	VALID	VALID	5	english
 ▁atac	▁atac		5	NULL
 ▁Cold	▁Cold	▁Cold	5	english
 ▁spre	▁spre	▁spre	5	english
@@ -19630,7 +19630,7 @@ uncia	uncia		5	spanish
 ▁этот	▁этот		5	russian
 ▁отме	▁отме		5	russian
 ченко	ченко		5	russian
-itats	itats		5	NULL
+itats	itats	itats	5	english
 flash	flash		5	french
 ▁worn	▁worn	▁worn	5	english
 ▁Gill	▁Gill	▁Gill	5	english
@@ -19654,7 +19654,7 @@ cards	cards	cards	5	english
 ▁sink	▁sink	▁sink	5	english
 apsed	apsed	apsed	5	english
 About	About	About	5	english
-urbed	urbed		5	NULL
+urbed	urbed	urbed	5	english
 Ready	Ready	Ready	5	english
 ▁plut	▁plut	▁plut	5	english
 ▁toss	▁toss		5	italian
@@ -19724,7 +19724,7 @@ Three	Three	Three	5	english
 ▁Marx	▁Marx	▁Marx	5	english
 ▁insc	▁insc	▁insc	5	english
 vidia	vidia	vidia	5	english
-fonts	fonts		5	NULL
+fonts	fonts	fonts	5	english
 ▁Ster	▁Ster	▁Ster	5	english
 insic	insic	insic	5	english
 xygen	xygen	xygen	5	english
@@ -19802,7 +19802,7 @@ exist	exist	exist	5	english
 ▁berg	▁berg		5	swedish
 ières	ières		5	french
 glass	glass	glass	5	english
-cdnjs	cdnjs		5	NULL
+cdnjs	cdnjs	cdnjs	5	english
 ▁кафе	▁кафе		5	russian
 ▁Глав	▁Глав		5	russian
 (...)	(...)		5	NULL
@@ -20222,7 +20222,7 @@ lement	lement	lement	6	english
 strong	strong	strong	6	english
 ▁after	▁after	▁after	6	english
 ▁gener	▁gener		6	NULL
-ession	ession		6	NULL
+ession	ession	ession	6	english
 String	String	String	6	english
 urrent	urrent	urrent	6	english
 ▁point	▁point	▁point	6	english
@@ -20235,7 +20235,7 @@ ething	ething	ething	6	english
 ▁check	▁check	▁check	6	english
 ▁every	▁every	▁every	6	english
 ▁these	▁these	▁these	6	english
-essage	essage		6	NULL
+essage	essage	essage	6	english
 ▁again	▁again	▁again	6	english
 ▁found	▁found	▁found	6	english
 ▁right	▁right	▁right	6	english
@@ -20245,7 +20245,7 @@ essage	essage		6	NULL
 ▁still	▁still	▁still	6	english
 ▁being	▁being	▁being	6	english
 ▁There	▁There	▁There	6	english
-ischen	ischen		6	NULL
+ischen	ischen	ischen	6	english
 ically	ically	ically	6	english
 rivate	rivate	r ivate	6	english
 ▁works	▁works	▁works	6	english
@@ -20291,7 +20291,7 @@ Object	Object	Object	6	english
 script	script	script	6	english
 ▁given	▁given	▁given	6	english
 ▁final	▁final	▁final	6	english
-itions	itions		6	NULL
+itions	itions	itions	6	english
 ▁three	▁three	▁three	6	english
 ▁issue	▁issue	▁issue	6	english
 ackage	ackage	ackage	6	english
@@ -20380,7 +20380,7 @@ change	change	change	6	english
 ▁throw	▁throw	▁throw	6	english
 ▁world	▁world	▁world	6	english
 ▁least	▁least	▁least	6	english
-ischer	ischer		6	NULL
+ischer	ischer	ischer	6	english
 ▁bound	▁bound	▁bound	6	english
 psilon	psilon	psilon	6	english
 ▁level	▁level	▁level	6	english
@@ -20400,7 +20400,7 @@ azione	azione		6	italian
 ▁Thank	▁Thank	▁Thank	6	english
 ▁begin	▁begin	▁begin	6	english
 option	option	option	6	english
-imedia	imedia		6	NULL
+imedia	imedia	imedia	6	english
 ▁apply	▁apply	▁apply	6	english
 ▁along	▁along	▁along	6	english
 ▁einer	▁einer		6	german
@@ -20494,7 +20494,7 @@ ements	ements		6	french
 ▁South	▁South	▁South	6	english
 Action	Action	Action	6	english
 spring	spring	spring	6	english
-apache	apache		6	NULL
+apache	apache	apache	6	english
 ▁dynam	▁dynam	▁dynam	6	english
 ▁State	▁State	▁State	6	english
 ▁contr	▁contr	▁contr	6	english
@@ -20621,7 +20621,7 @@ itting	itting		6	hungarian
 ▁Check	▁Check	▁Check	6	english
 iembre	iembre		6	spanish
 ▁Liter	▁Liter		6	german
-module	module		6	NULL
+module	module	module	6	english
 ▁wrote	▁wrote	▁wrote	6	english
 ologie	ologie		6	swedish
 stream	stream	stream	6	english
@@ -20709,7 +20709,7 @@ othing	othing	othing	6	english
 ▁evalu	▁evalu	▁evalu	6	english
 ▁River	▁River	▁River	6	english
 ▁Olymp	▁Olymp	▁Olymp	6	english
-imento	imento		6	NULL
+imento	imento	imento	6	english
 ▁incor	▁incor	▁incor	6	english
 ▁onder	▁onder		6	dutch
 ▁waren	▁waren		6	german
@@ -20872,7 +20872,7 @@ params	params	params	6	english
 ▁China	▁China	▁China	6	english
 ▁przez	▁przez		6	polish
 ▁други	▁други		6	russian
-ionale	ionale		6	NULL
+ionale	ionale	ionale	6	english
 ▁upper	▁upper	▁upper	6	english
 ▁Every	▁Every	▁Every	6	english
 ▁nodes	▁nodes	▁nodes	6	english
@@ -20908,7 +20908,7 @@ ometry	ometry	ometry	6	english
 Header	Header	Header	6	english
 insert	insert		6	hindi
 ▁favor	▁favor		6	italian
-iments	iments		6	NULL
+iments	iments	iments	6	english
 ▁Value	▁Value		6	german
 ▁liber	▁liber	▁liber	6	english
 ▁Movie	▁Movie		6	french
@@ -20973,7 +20973,7 @@ images	images	images	6	english
 Option	Option	Option	6	english
 ▁views	▁views	▁views	6	english
 ▁stood	▁stood	▁stood	6	english
-isches	isches		6	NULL
+isches	isches	isches	6	english
 ▁basis	▁basis	▁basis	6	english
 ▁время	▁время		6	russian
 handle	handle	handle	6	english
@@ -21011,7 +21011,7 @@ Target	Target	Target	6	english
 clipse	clipse	clipse	6	english
 ▁chart	▁chart	▁chart	6	english
 terior	terior		6	spanish
-ynamic	ynamic		6	NULL
+ynamic	ynamic	ynamic	6	english
 ▁usage	▁usage	▁usage	6	english
 ▁Natur	▁Natur		6	german
 ографи	ографи		6	russian
@@ -21128,7 +21128,7 @@ Params	Params	Params	6	english
 ▁older	▁older	▁older	6	english
 ▁blank	▁blank	▁blank	6	english
 ▁usual	▁usual	▁usual	6	english
-istent	istent		6	NULL
+istent	istent	istent	6	english
 ▁ended	▁ended	▁ended	6	english
 ▁chain	▁chain	▁chain	6	english
 ▁polít	▁polít		6	czech
@@ -21141,10 +21141,10 @@ aching	aching	aching	6	english
 ▁Haupt	▁Haupt		6	german
 ection	ection	ection	6	english
 points	points	points	6	english
-invoke	invoke		6	NULL
+invoke	invoke	invoke	6	english
 anging	anging	anging	6	english
 Parent	Parent	Parent	6	english
-styles	styles		6	NULL
+styles	styles	styles	6	english
 models	models	models	6	english
 ▁happy	▁happy	▁happy	6	english
 ▁части	▁части		6	russian
@@ -21305,7 +21305,7 @@ before	before	before	6	english
 ▁sight	▁sight	▁sight	6	english
 ▁meter	▁meter		6	swedish
 ▁Platz	▁Platz		6	german
-ectors	ectors		6	NULL
+ectors	ectors	ectors	6	english
 ▁coach	▁coach	▁coach	6	english
 ▁Cross	▁Cross	▁Cross	6	english
 ▁sides	▁sides	▁sides	6	english
@@ -21511,7 +21511,7 @@ Schema	Schema	Schema	6	english
 ▁chose	▁chose	▁chose	6	english
 ▁Light	▁Light	▁Light	6	english
 ▁europ	▁europ	▁europ	6	english
-region	region		6	NULL
+region	region	region	6	english
 ▁Repub	▁Repub	▁Repub	6	english
 ▁medal	▁medal	▁medal	6	english
 ▁город	▁город		6	russian
@@ -21587,7 +21587,7 @@ radius	radius	radius	6	english
 ▁causa	▁causa	▁causa	6	english
 ▁Nicol	▁Nicol	▁Nicol	6	english
 ▁estud	▁estud		6	spanish
-prefix	prefix		6	NULL
+prefix	prefix	prefix	6	english
 ▁Diese	▁Diese		6	german
 ouvern	ouvern		6	french
 ▁inser	▁inser	▁inser	6	english
@@ -21774,7 +21774,7 @@ Assert	Assert	Assert	6	english
 ▁synth	▁synth	▁synth	6	english
 plorer	plorer	plorer	6	english
 icians	icians		6	french
-ambigu	ambigu		6	NULL
+ambigu	ambigu	ambigu	6	english
 Symbol	Symbol	Symbol	6	english
 ▁moral	▁moral	▁moral	6	english
 ▁damit	▁damit	▁damit	6	english
@@ -21782,10 +21782,10 @@ Symbol	Symbol	Symbol	6	english
 rypted	rypted	rypt ed	6	english
 ческий	ческий		6	russian
 ▁immer	▁immer		6	german
-inline	inline		6	NULL
+inline	inline	inline	6	english
 ▁gover	▁gover	▁gover	6	english
 ▁repre	▁repre	▁repre	6	english
-imeter	imeter		6	NULL
+imeter	imeter	imeter	6	english
 Equals	Equals	Equals	6	english
 ▁stell	▁stell	▁stell	6	english
 ▁Indep	▁Indep	▁Indep	6	english
@@ -21973,7 +21973,7 @@ France	France	France	6	english
 ▁prend	▁prend		6	french
 ▁Seite	▁Seite		6	german
 ▁orden	▁orden		6	spanish
-ischof	ischof		6	NULL
+ischof	ischof	isch of	6	english
 ▁facil	▁facil		6	NULL
 ▁Allen	▁Allen	▁Allen	6	english
 ingham	ingham		6	italian
@@ -21997,7 +21997,7 @@ Submit	Submit	Submit	6	english
 lywood	lywood	lywood	6	english
 ▁ignor	▁ignor	▁ignor	6	english
 ▁molto	▁molto		6	italian
-tembre	tembre		6	NULL
+tembre	tembre	tembre	6	english
 ▁otras	▁otras		6	spanish
 ▁Mario	▁Mario		6	italian
 texttt	texttt	text tt	6	english
@@ -22044,7 +22044,7 @@ circle	circle		6	persian
 assign	assign	assign	6	english
 idense	idense	id ense	6	english
 remote	remote	remote	6	english
-Syntax	Syntax		6	NULL
+Syntax	Syntax	Syntax	6	english
 parser	parser	parser	6	english
 ▁gebru	▁gebru		6	NULL
 ▁grant	▁grant	▁grant	6	english
@@ -22119,7 +22119,7 @@ Static	Static	Static	6	english
 ▁denen	▁denen		6	german
 ▁Eisen	▁Eisen	▁Eisen	6	english
 ▁sotto	▁sotto		6	italian
-atable	atable		6	NULL
+atable	atable	atable	6	english
 ▁jeune	▁jeune		6	french
 aining	aining	aining	6	english
 nement	nement		6	french
@@ -22158,8 +22158,8 @@ Direct	Direct	Direct	6	english
 völker	völker		6	german
 ништво	ништво		6	russian
 ▁altre	▁altre		6	italian
-phabet	phabet		6	NULL
-atrice	atrice		6	NULL
+phabet	phabet	phabet	6	english
+atrice	atrice	atrice	6	english
 bourne	bourne	bourne	6	english
 ▁entra	▁entra	▁entra	6	english
 ística	ística		6	spanish
@@ -22171,7 +22171,7 @@ ecycle	ecycle		6	dutch
 kernel	kernel	kernel	6	english
 ▁inwon	▁inwon		6	dutch
 reduce	reduce	reduce	6	english
-Insert	Insert		6	NULL
+Insert	Insert	Insert	6	english
 mapsto	mapsto		6	german
 shadow	shadow	shadow	6	english
 ▁Costa	▁Costa	▁Costa	6	english
@@ -22396,7 +22396,7 @@ Master	Master	Master	6	english
 Series	Series	Series	6	english
 ▁efect	▁efect	▁efect	6	english
 ▁lying	▁lying	▁lying	6	english
-ematic	ematic		6	NULL
+ematic	ematic	ematic	6	english
 ▁Basic	▁Basic	▁Basic	6	english
 ▁fancy	▁fancy	▁fancy	6	english
 ▁участ	▁участ		6	russian
@@ -22551,7 +22551,7 @@ lookup	lookup	lookup	6	english
 ▁стала	▁стала		6	russian
 ▁persu	▁persu	▁persu	6	english
 loster	loster	l oster	6	english
-ategor	ategor		6	NULL
+ategor	ategor	ategor	6	english
 ▁madre	▁madre		6	spanish
 ▁revel	▁revel	▁revel	6	english
 ▁marry	▁marry	▁marry	6	english
@@ -22590,7 +22590,7 @@ cancel	cancel	cancel	6	english
 Camera	Camera	Camera	6	english
 ▁deput	▁deput		6	serbian
 ▁Kirch	▁Kirch		6	german
-Invoke	Invoke		6	NULL
+Invoke	Invoke	Invoke	6	english
 ▁INNER	▁INNER	▁INNER	6	english
 ▁Price	▁Price	▁Price	6	english
 ▁effet	▁effet	▁effet	6	english
@@ -22762,7 +22762,7 @@ always	always	always	6	english
 ▁spons	▁spons	▁spons	6	english
 ▁Bible	▁Bible	▁Bible	6	english
 ▁имени	▁имени		6	russian
-Canvas	Canvas		6	NULL
+Canvas	Canvas	Canvas	6	english
 ningar	ningar	ningar	6	english
 ▁Flash	▁Flash	▁Flash	6	english
 ollary	ollary		6	finnish
@@ -22784,7 +22784,7 @@ hadoop	hadoop		6	swedish
 ▁Maxim	▁Maxim	▁Maxim	6	english
 kirche	kirche		6	german
 ▁Style	▁Style	▁Style	6	english
-istant	istant		6	NULL
+istant	istant	istant	6	english
 ------	------		6	NULL
 ▁retre	▁retre		6	french
 ▁uncle	▁uncle	▁uncle	6	english
@@ -22794,7 +22794,7 @@ istant	istant		6	NULL
 ▁Mayor	▁Mayor	▁Mayor	6	english
 policy	policy	policy	6	english
 ▁Paolo	▁Paolo	▁Paolo	6	english
-imenti	imenti		6	NULL
+imenti	imenti	imenti	6	english
 father	father	father	6	english
 ▁dolor	▁dolor	▁dolor	6	english
 ▁Belle	▁Belle	▁Belle	6	english
@@ -23014,7 +23014,7 @@ arring	arring	arring	6	english
 ▁línea	▁línea		6	spanish
 Brainz	Brainz	Brain z	6	english
 ▁Tourn	▁Tourn	▁Tourn	6	english
-mysqli	mysqli		6	NULL
+mysqli	mysqli	mysqli	6	english
 ▁Miami	▁Miami	▁Miami	6	english
 iemann	iemann		6	dutch
 lessly	lessly	lessly	6	english
@@ -23126,7 +23126,7 @@ rolled	rolled	rolled	6	english
 ▁проте	▁проте		6	russian
 ▁комму	▁комму		6	russian
 ▁swing	▁swing	▁swing	6	english
-istica	istica		6	NULL
+istica	istica	istica	6	english
 матиче	матиче		6	russian
 ▁flows	▁flows	▁flows	6	english
 creens	creens	creens	6	english
@@ -23557,7 +23557,7 @@ Office	Office	Office	6	english
 ▁servi	▁servi	▁servi	6	english
 ▁acted	▁acted	▁acted	6	english
 ▁anger	▁anger	▁anger	6	english
-aterra	aterra		6	NULL
+aterra	aterra	aterra	6	english
 ciente	ciente		6	spanish
 starts	starts	starts	6	english
 unning	unning	unning	6	english
@@ -23723,7 +23723,7 @@ stelle	stelle	stelle	6	english
 ▁nunca	▁nunca		6	spanish
 ▁położ	▁położ		6	polish
 Secret	Secret	Secret	6	english
-istema	istema		6	NULL
+istema	istema	istema	6	english
 ▁figur	▁figur	▁figur	6	english
 ▁Ghost	▁Ghost	▁Ghost	6	english
 ▁совер	▁совер		6	russian
@@ -23776,7 +23776,7 @@ amsung	amsung		6	german
 énario	énario		6	french
 unless	unless	unless	6	english
 puesta	puesta		6	spanish
-ifolia	ifolia		6	NULL
+ifolia	ifolia	if olia	6	english
 œuvres	œuvres		6	french
 ▁thumb	▁thumb	▁thumb	6	english
 ▁pesar	▁pesar		6	portuguese
@@ -23807,7 +23807,7 @@ yellow	yellow	yellow	6	english
 Loaded	Loaded	Loaded	6	english
 ografi	ografi		6	indonesian
 ▁indul	▁indul	▁indul	6	english
-kotlin	kotlin		6	NULL
+kotlin	kotlin	k otlin	6	english
 ▁Engel	▁Engel		6	dutch
 ▁Timer	▁Timer	▁Timer	6	english
 SError	SError	SError	6	english
@@ -23957,7 +23957,7 @@ mathcal	mathcal	math cal	7	english
 plement	plement	plement	7	english
 section	section	section	7	english
 ▁access	▁access	▁access	7	english
-ization	ization		7	NULL
+ization	ization	ization	7	english
 ▁contin	▁contin	▁contin	7	english
 ▁expect	▁expect	▁expect	7	english
 ▁includ	▁includ	▁includ	7	english
@@ -24020,10 +24020,10 @@ ailable	ailable	ailable	7	english
 ▁action	▁action	▁action	7	english
 Service	Service	Service	7	english
 ▁height	▁height	▁height	7	english
-atabase	atabase		7	NULL
+atabase	atabase	atabase	7	english
 ▁course	▁course	▁course	7	english
 ▁thread	▁thread	▁thread	7	english
-itional	itional		7	NULL
+itional	itional	itional	7	english
 ▁moment	▁moment	▁moment	7	english
 version	version	version	7	english
 Manager	Manager	Manager	7	english
@@ -24043,7 +24043,7 @@ ination	ination	ination	7	english
 ▁report	▁report	▁report	7	english
 gerufen	gerufen		7	german
 ▁window	▁window	▁window	7	english
-inition	inition		7	NULL
+inition	inition	inition	7	english
 ▁necess	▁necess		7	spanish
 ▁itself	▁itself		7	finnish
 ▁Please	▁Please	▁Please	7	english
@@ -24064,7 +24064,7 @@ Message	Message	Message	7	english
 ▁double	▁double	▁double	7	english
 current	current	current	7	english
 ▁period	▁period	▁period	7	english
-aterial	aterial		7	NULL
+aterial	aterial	aterial	7	english
 ▁worked	▁worked	▁worked	7	english
 ▁happen	▁happen	▁happen	7	english
 ▁commun	▁commun	▁commun	7	english
@@ -24105,12 +24105,12 @@ ragment	ragment	r agment	7	english
 ▁almost	▁almost	▁almost	7	english
 isation	isation		7	french
 ▁figure	▁figure	▁figure	7	english
-default	default		7	NULL
+default	default	default	7	english
 ▁matter	▁matter	▁matter	7	english
 ▁handle	▁handle	▁handle	7	english
 ▁adding	▁adding	▁adding	7	english
 ▁errors	▁errors	▁errors	7	english
-ocument	ocument		7	NULL
+ocument	ocument	ocument	7	english
 osition	osition	osition	7	english
 ▁passed	▁passed	▁passed	7	english
 ▁member	▁member	▁member	7	english
@@ -24148,7 +24148,7 @@ project	project	project	7	english
 ▁exists	▁exists		7	russian
 ▁regard	▁regard		7	french
 develop	develop	develop	7	english
-message	message		7	NULL
+message	message	message	7	english
 ▁become	▁become	▁become	7	english
 ▁events	▁events	▁events	7	english
 ▁assert	▁assert	▁assert	7	english
@@ -24293,7 +24293,7 @@ control	control	control	7	english
 ▁groups	▁groups	▁groups	7	english
 ▁opened	▁opened	▁opened	7	english
 ▁Martin	▁Martin	▁Martin	7	english
-replace	replace		7	NULL
+replace	replace	replace	7	english
 ▁allows	▁allows	▁allows	7	english
 command	command	command	7	english
 ▁unless	▁unless	▁unless	7	english
@@ -24390,7 +24390,7 @@ bernate	bernate	bern ate	7	english
 ▁Source	▁Source	▁Source	7	english
 Product	Product	Product	7	english
 ▁printf	▁printf	▁printf	7	english
-modules	modules		7	NULL
+modules	modules	modules	7	english
 ▁binary	▁binary	▁binary	7	english
 Current	Current	Current	7	english
 Changed	Changed	Changed	7	english
@@ -24414,7 +24414,7 @@ izontal	izontal		7	serbian
 ▁orient	▁orient	▁orient	7	english
 ▁recent	▁recent	▁recent	7	english
 ▁serial	▁serial		7	italian
-Integer	Integer		7	NULL
+Integer	Integer	Integer	7	english
 ▁Center	▁Center	▁Center	7	english
 ▁commer	▁commer	▁commer	7	english
 ▁entity	▁entity	▁entity	7	english
@@ -24519,7 +24519,7 @@ licated	licated	licated	7	english
 ▁offset	▁offset	▁offset	7	english
 ▁helped	▁helped	▁helped	7	english
 ▁Awards	▁Awards	▁Awards	7	english
-ynomial	ynomial		7	NULL
+ynomial	ynomial	ynomial	7	english
 ▁writer	▁writer	▁writer	7	english
 ▁resist	▁resist	▁resist	7	english
 ▁Visual	▁Visual	▁Visual	7	english
@@ -24543,10 +24543,10 @@ entials	entials	entials	7	english
 ▁perman	▁perman	▁perman	7	english
 ▁extrem	▁extrem	▁extrem	7	english
 ▁killed	▁killed	▁killed	7	english
-tabular	tabular		7	NULL
+tabular	tabular	tab ular	7	english
 ▁detail	▁detail	▁detail	7	english
 ▁prompt	▁prompt		7	spanish
-ynchron	ynchron		7	NULL
+ynchron	ynchron	ynchron	7	english
 ▁tested	▁tested	▁tested	7	english
 lopedia	lopedia		7	finnish
 ▁propos	▁propos	▁propos	7	english
@@ -24810,7 +24810,7 @@ setText	setText		7	code
 ▁estado	▁estado		7	spanish
 picture	picture	picture	7	english
 ▁Boston	▁Boston	▁Boston	7	english
-defined	defined		7	NULL
+defined	defined	defined	7	english
 ▁precis	▁precis		7	portuguese
 ▁quatre	▁quatre		7	french
 servlet	servlet		7	dutch
@@ -24915,7 +24915,7 @@ columns	columns	columns	7	english
 pressed	pressed	pressed	7	english
 foreach	foreach	foreach	7	english
 ▁improv	▁improv		7	portuguese
-reflect	reflect		7	NULL
+reflect	reflect	reflect	7	english
 classes	classes	classes	7	english
 ▁league	▁league	▁league	7	english
 ▁troops	▁troops	▁troops	7	english
@@ -25174,14 +25174,14 @@ collect	collect	collect	7	english
 ▁Marine	▁Marine	▁Marine	7	english
 ▁invari	▁invari		7	NULL
 ▁Having	▁Having	▁Having	7	english
-browser	browser		7	NULL
+browser	browser	browser	7	english
 ▁legend	▁legend		7	spanish
 ▁Peters	▁Peters	▁Peters	7	english
 ▁honest	▁honest		7	spanish
 subject	subject	subject	7	english
 ▁dentro	▁dentro	▁dentro	7	english
 ▁begann	▁begann	▁begann	7	english
-integer	integer		7	NULL
+integer	integer	integer	7	english
 ▁Import	▁Import	▁Import	7	english
 ▁Status	▁Status	▁Status	7	english
 ▁trabaj	▁trabaj		7	spanish
@@ -25351,7 +25351,7 @@ written	written	written	7	english
 ▁twelve	▁twelve		7	dutch
 ческого	ческого		7	russian
 ▁située	▁située		7	french
-wrapper	wrapper		7	NULL
+wrapper	wrapper	wrapper	7	english
 ▁magyar	▁magyar		7	hungarian
 ▁titles	▁titles	▁titles	7	english
 ▁aunque	▁aunque		7	spanish
@@ -25418,7 +25418,7 @@ Headers	Headers	Headers	7	english
 ▁fiddle	▁fiddle	▁fiddle	7	english
 ▁patron	▁patron	▁patron	7	english
 ▁listop	▁listop	▁listop	7	english
-returns	returns		7	NULL
+returns	returns	returns	7	english
 ▁Jordan	▁Jordan	▁Jordan	7	english
 ▁sexual	▁sexual	▁sexual	7	english
 ▁россий	▁россий		7	russian
@@ -25641,7 +25641,7 @@ Replace	Replace	Replace	7	english
 ▁typeof	▁typeof	▁typeof	7	english
 ▁sollte	▁sollte		7	german
 ▁assass	▁assass	▁assass	7	english
-itories	itories		7	NULL
+itories	itories	itories	7	english
 ▁comand	▁comand	▁comand	7	english
 ▁kleine	▁kleine		7	dutch
 ▁Census	▁Census	▁Census	7	english
@@ -25774,9 +25774,9 @@ Changes	Changes	Changes	7	english
 ▁Bedeut	▁Bedeut		7	german
 ▁Stefan	▁Stefan		7	german
 ▁oscill	▁oscill		7	spanish
-Browser	Browser		7	NULL
+Browser	Browser	Browser	7	english
 ▁Singap	▁Singap	▁Singap	7	english
-istance	istance		7	NULL
+istance	istance	istance	7	english
 ▁chiesa	▁chiesa		7	italian
 contrib	contrib		7	french
 numeric	numeric		7	spanish
@@ -25794,7 +25794,7 @@ ordered	ordered	ordered	7	english
 earance	earance	ear ance	7	english
 ▁переда	▁переда		7	russian
 archivi	archivi		7	italian
-unnable	unnable		7	NULL
+unnable	unnable	unnable	7	english
 ▁Andrea	▁Andrea	▁Andrea	7	english
 ▁fusion	▁fusion	▁fusion	7	english
 ▁afford	▁afford	▁afford	7	english
@@ -25979,7 +25979,7 @@ itative	itative	itative	7	english
 ▁ticket	▁ticket	▁ticket	7	english
 ▁behave	▁behave		7	german
 ▁labour	▁labour	▁labour	7	english
-estellt	estellt		7	NULL
+estellt	estellt	estellt	7	english
 DEFAULT	DEFAULT	DEFAULT	7	english
 ▁unders	▁unders	▁unders	7	english
 ▁вместе	▁вместе		7	russian
@@ -26052,7 +26052,7 @@ Dynamic	Dynamic	Dynamic	7	english
 ▁kunnen	▁kunnen		7	dutch
 Michael	Michael	Michael	7	english
 ▁metros	▁metros		7	spanish
-species	species		7	NULL
+species	species	species	7	english
 ▁injury	▁injury	▁injury	7	english
 Pressed	Pressed	Pressed	7	english
 Gesture	Gesture	Gesture	7	english
@@ -26148,7 +26148,7 @@ clojure	clojure		7	lithuanian
 ▁purely	▁purely		7	italian
 ▁orange	▁orange	▁orange	7	english
 ▁грудня	▁грудня		7	russian
-itivity	itivity		7	NULL
+itivity	itivity	itivity	7	english
 ▁talked	▁talked	▁talked	7	english
 ▁statue	▁statue	▁statue	7	english
 ▁городе	▁городе		7	russian
@@ -26357,7 +26357,7 @@ amentos	amentos		7	italian
 ▁органі	▁органі		7	russian
 exports	exports	exports	7	english
 ▁refuse	▁refuse	▁refuse	7	english
-inflate	inflate		7	NULL
+inflate	inflate	inflate	7	english
 Nothing	Nothing	Nothing	7	english
 Actions	Actions	Actions	7	english
 ▁червня	▁червня		7	russian
@@ -27011,7 +27011,7 @@ exchange	exchange	exchange	8	english
 Function	Function	Function	8	english
 ▁Service	▁Service	▁Service	8	english
 ▁testing	▁testing	▁testing	8	english
-Template	Template		8	NULL
+Template	Template	Template	8	english
 ▁systems	▁systems	▁systems	8	english
 username	username	username	8	english
 ▁constru	▁constru		8	romanian
@@ -27022,7 +27022,7 @@ property	property	property	8	english
 ▁foreach	▁foreach	▁foreach	8	english
 Resource	Resource	Resource	8	english
 overline	overline	over line	8	english
-template	template		8	NULL
+template	template	template	8	english
 operator	operator	operator	8	english
 ▁hundred	▁hundred	▁hundred	8	english
 ▁virtual	▁virtual	▁virtual	8	english
@@ -27034,7 +27034,7 @@ operator	operator	operator	8	english
 Provider	Provider	Provider	8	english
 enschaft	enschaft		8	german
 ▁premier	▁premier		8	french
-pository	pository		8	NULL
+pository	pository	pository	8	english
 ▁formula	▁formula	▁formula	8	english
 ▁matches	▁matches	▁matches	8	english
 ▁commune	▁commune		8	french
@@ -27187,7 +27187,7 @@ entially	entially	ential ly	8	english
 ▁opinion	▁opinion	▁opinion	8	english
 ▁reflect	▁reflect		8	NULL
 ▁clearly	▁clearly	▁clearly	8	english
-eqnarray	eqnarray		8	NULL
+eqnarray	eqnarray	eq n array	8	english
 ▁conflic	▁conflic	▁conflic	8	english
 ▁reprodu	▁reprodu		8	norwegian
 filename	filename	filename	8	english
@@ -27592,7 +27592,7 @@ Register	Register	Register	8	english
 ▁victory	▁victory	▁victory	8	english
 periment	periment	periment	8	english
 ▁террито	▁террито		8	russian
-setminus	setminus		8	NULL
+setminus	setminus	set minus	8	english
 ▁pressed	▁pressed	▁pressed	8	english
 material	material	material	8	english
 ▁capable	▁capable	▁capable	8	english
@@ -27621,7 +27621,7 @@ ListView	ListView	List View	8	english
 ▁authors	▁authors	▁authors	8	english
 Argument	Argument		8	spanish
 ▁Student	▁Student	▁Student	8	english
-essional	essional		8	NULL
+essional	essional	essional	8	english
 ▁августа	▁августа		8	russian
 override	override	override	8	english
 ▁Meister	▁Meister		8	german
@@ -27697,7 +27697,7 @@ wicklung	wicklung		8	german
 ▁Account	▁Account	▁Account	8	english
 ▁sorting	▁sorting	▁sorting	8	english
 ▁деятель	▁деятель		8	russian
-GridView	GridView		8	NULL
+GridView	GridView	Grid View	8	english
 ▁seguito	▁seguito		8	italian
 abstract	abstract	abstract	8	english
 ▁strateg	▁strateg		8	NULL
@@ -27731,12 +27731,12 @@ omorphic	omorphic	omorphic	8	english
 FileName	FileName	File Name	8	english
 ▁Through	▁Through	▁Through	8	english
 ▁claimed	▁claimed	▁claimed	8	english
-izations	izations		8	NULL
+izations	izations	izations	8	english
 ▁solving	▁solving	▁solving	8	english
 ▁Indians	▁Indians	▁Indians	8	english
 ▁descend	▁descend		8	italian
 ▁federal	▁federal	▁federal	8	english
-Inflater	Inflater		8	NULL
+Inflater	Inflater	Inflater	8	english
 ▁discipl	▁discipl	▁discipl	8	english
 ▁disease	▁disease	▁disease	8	english
 ▁Edition	▁Edition	▁Edition	8	english
@@ -27978,7 +27978,7 @@ Username	Username	Username	8	english
 ▁leaders	▁leaders	▁leaders	8	english
 ▁Holland	▁Holland	▁Holland	8	english
 ▁ejemplo	▁ejemplo		8	spanish
-footnote	footnote		8	NULL
+footnote	footnote	foot note	8	english
 ▁Congrès	▁Congrès		8	french
 Iterator	Iterator	Iterator	8	english
 ▁Charlie	▁Charlie	▁Charlie	8	english
@@ -28186,7 +28186,7 @@ Registry	Registry	Registry	8	english
 ▁possess	▁possess	▁possess	8	english
 ▁enemies	▁enemies		8	spanish
 ▁amongst	▁amongst		8	dutch
-Footnote	Footnote		8	NULL
+Footnote	Footnote	Foot note	8	english
 quantity	quantity	quantity	8	english
 typename	typename		8	german
 ▁especie	▁especie		8	spanish
@@ -28217,7 +28217,7 @@ Download	Download	Download	8	english
 ▁touched	▁touched	▁touched	8	english
 ▁HashMap	▁HashMap	▁HashMap	8	english
 ▁evangel	▁evangel	▁evangel	8	english
-ttemberg	ttemberg		8	NULL
+ttemberg	ttemberg	ttemberg	8	english
 ▁Provinz	▁Provinz		8	german
 ▁painted	▁painted	▁painted	8	english
 lichkeit	lichkeit		8	german
@@ -28312,7 +28312,7 @@ Material	Material	Material	8	english
 itations	itations	itations	8	english
 ▁islands	▁islands	▁islands	8	english
 ▁Partido	▁Partido		8	spanish
-minipage	minipage		8	NULL
+minipage	minipage	min ip age	8	english
 ▁Fernseh	▁Fernseh		8	german
 jections	jections	jections	8	english
 ▁costitu	▁costitu		8	spanish
@@ -28401,7 +28401,7 @@ Projects	Projects	Projects	8	english
 ▁linking	▁linking	▁linking	8	english
 building	building	building	8	english
 ▁reconna	▁reconna	▁reconna	8	english
-optional	optional		8	NULL
+optional	optional	optional	8	english
 ▁squares	▁squares	▁squares	8	english
 ▁preview	▁preview	▁preview	8	english
 ▁landing	▁landing	▁landing	8	english
@@ -28471,7 +28471,7 @@ Original	Original	Original	8	english
 ▁liberal	▁liberal	▁liberal	8	english
 makeText	makeText		8	code
 ственных	ственных		8	russian
-currency	currency		8	NULL
+currency	currency	currency	8	english
 romagnet	romagnet	rom agnet	8	english
 versions	versions	versions	8	english
 ▁grudnia	▁grudnia		8	polish
@@ -28949,7 +28949,7 @@ Reference	Reference	Reference	9	english
 ▁Californ	▁Californ	▁Californ	9	english
 container	container	container	9	english
 ▁obtained	▁obtained	▁obtained	9	english
-Wikimedia	Wikimedia		9	NULL
+Wikimedia	Wikimedia	W ik imedia	9	english
 localhost	localhost		9	portuguese
 ▁category	▁category	▁category	9	english
 ▁Minister	▁Minister	▁Minister	9	english
@@ -29260,7 +29260,7 @@ omorphism	omorphism	om orphism	9	english
 ▁mountain	▁mountain	▁mountain	9	english
 ▁networks	▁networks	▁networks	9	english
 ▁duration	▁duration	▁duration	9	english
-ategories	ategories		9	NULL
+ategories	ategories	ategories	9	english
 ▁displays	▁displays	▁displays	9	english
 ▁connexes	▁connexes		9	french
 ImageView	ImageView	Image View	9	english
@@ -29318,7 +29318,7 @@ achusetts	achusetts	achusetts	9	english
 ▁captured	▁captured	▁captured	9	english
 ▁inserted	▁inserted	▁inserted	9	english
 ▁Personen	▁Personen		9	german
-parameter	parameter		9	NULL
+parameter	parameter	parameter	9	english
 ▁Services	▁Services	▁Services	9	english
 ▁metadata	▁metadata		9	spanish
 ▁protagon	▁protagon	▁protagon	9	english
@@ -29422,7 +29422,7 @@ extension	extension	extension	9	english
 configure	configure	configure	9	english
 ▁suffered	▁suffered	▁suffered	9	english
 Extension	Extension	Extension	9	english
-itionally	itionally		9	NULL
+itionally	itionally	itionally	9	english
 ▁conclude	▁conclude	▁conclude	9	english
 ifference	ifference	ifference	9	english
 ▁calendar	▁calendar	▁calendar	9	english
@@ -29619,7 +29619,7 @@ direction	direction	direction	9	english
 variables	variables	variables	9	english
 agnostics	agnostics	agn ostics	9	english
 ▁astronom	▁astronom	▁astronom	9	english
-templates	templates		9	NULL
+templates	templates	templates	9	english
 ▁Computer	▁Computer	▁Computer	9	english
 ▁Jonathan	▁Jonathan	▁Jonathan	9	english
 ▁Children	▁Children	▁Children	9	english
@@ -29715,7 +29715,7 @@ execution	execution	execution	9	english
 ▁Thompson	▁Thompson	▁Thompson	9	english
 ▁Communic	▁Communic	▁Communic	9	english
 scription	scription	scription	9	english
-namespace	namespace		9	NULL
+namespace	namespace	namespace	9	english
 ▁snapshot	▁snapshot	▁snapshot	9	english
 ▁promised	▁promised	▁promised	9	english
 ▁Shakespe	▁Shakespe	▁Shakespe	9	english
@@ -29760,7 +29760,7 @@ cellation	cellation	cell ation	9	english
 ermeister	ermeister		9	german
 ▁Cultural	▁Cultural	▁Cultural	9	english
 ▁Broadway	▁Broadway	▁Broadway	9	english
-Namespace	Namespace		9	NULL
+Namespace	Namespace	Namespace	9	english
 ▁studying	▁studying	▁studying	9	english
 ▁designer	▁designer	▁designer	9	english
 ▁informed	▁informed	▁informed	9	english
@@ -30264,7 +30264,7 @@ controller	controller	controller	10	english
 ▁Francisco	▁Francisco	▁Francisco	10	english
 ▁somewhere	▁somewhere	▁somewhere	10	english
 ▁diciembre	▁diciembre		10	spanish
-usepackage	usepackage		10	NULL
+usepackage	usepackage	use package	10	english
 ▁presented	▁presented	▁presented	10	english
 ▁selection	▁selection	▁selection	10	english
 ▁announced	▁announced	▁announced	10	english
@@ -30419,7 +30419,7 @@ Definition	Definition	Definition	10	english
 ▁replacing	▁replacing	▁replacing	10	english
 ▁generator	▁generator	▁generator	10	english
 ▁detection	▁detection	▁detection	10	english
-ynchronous	ynchronous		10	NULL
+ynchronous	ynchronous	ynchronous	10	english
 ▁Stuttgart	▁Stuttgart		10	german
 ▁Politiker	▁Politiker		10	german
 StackTrace	StackTrace		10	russian
@@ -30469,7 +30469,7 @@ definition	definition	definition	10	english
 ▁secondary	▁secondary	▁secondary	10	english
 ▁confirmed	▁confirmed	▁confirmed	10	english
 ▁recursive	▁recursive	▁recursive	10	english
-parameters	parameters		10	NULL
+parameters	parameters	parameters	10	english
 ▁República	▁República		10	spanish
 ▁generates	▁generates	▁generates	10	english
 ▁immediate	▁immediate	▁immediate	10	english
@@ -30551,7 +30551,7 @@ geschichte	geschichte		10	german
 ▁evaluated	▁evaluated	▁evaluated	10	english
 repository	repository	repository	10	english
 ▁organized	▁organized	▁organized	10	english
-Descriptor	Descriptor		10	NULL
+Descriptor	Descriptor	Descriptor	10	english
 ▁Landkreis	▁Landkreis		10	german
 ▁Biografia	▁Biografia		10	portuguese
 processing	processing	processing	10	english
@@ -31192,7 +31192,7 @@ multicolumn	multicolumn	mult icol umn	11	english
 ▁separately	▁separately	▁separately	11	english
 ▁everywhere	▁everywhere	▁everywhere	11	english
 ▁regardless	▁regardless		11	french
-tikzpicture	tikzpicture		11	NULL
+tikzpicture	tikzpicture	tik z picture	11	english
 ▁impression	▁impression	▁impression	11	english
 ▁annotation	▁annotation	▁annotation	11	english
 ▁screenshot	▁screenshot	▁screenshot	11	english
@@ -31931,7 +31931,7 @@ longrightarrow	longrightarrow	long rightarrow	14	english
 ▁notifications	▁notifications	▁notifications	14	english
 ▁decomposition	▁decomposition	▁decomposition	14	english
 ▁modifications	▁modifications	▁modifications	14	english
-LayoutInflater	LayoutInflater		14	NULL
+LayoutInflater	LayoutInflater	Layout Inflater	14	english
 RelativeLayout	RelativeLayout	Relative Layout	14	english
 CollectionView	CollectionView	Collection View	14	english
 ▁concentration	▁concentration	▁concentration	14	english
