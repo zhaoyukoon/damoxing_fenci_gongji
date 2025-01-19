@@ -11,7 +11,7 @@ from lang_detect import detect_lang
 from plot_markdown import plot_length_distribution, write_lang_count_markdown
 
 # Model list
-models = [
+models = ['RWKV',
     '360Zhinao2-7B-Chat-4K', 'Yi-1.5-34B-Chat', 'gemma-2-9b-it', 'telechat-7B',
     'Llama-3.3-70B-Instruct', 'Mistral-7B-Instruct-v0.3', 'Phi-3.5-mini-instruct',
     'deepseek_v3', 'qwen2.5-72b', 'MiniCPM3-4B', 'internlm3-8b-instruct',
