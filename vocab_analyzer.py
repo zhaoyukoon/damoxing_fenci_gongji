@@ -166,13 +166,13 @@ def process_vocab(tok_path):
     # Write output files
     sorted_dict = {k: v for k, v in sorted(v_len.items(), key=lambda x: x[1])}
 
-    logger.info(f'write to {tok_path}/vocab_extend_segged.tsv')
-    with open(tok_path + '/vocab_extend_segged.tsv', 'w', encoding='utf-8') as f:
+    logger.info(f'write to {tok_path}/vocab_extend_re-segged_chinese.tsv')
+    with open(tok_path + '/vocab_extend_re-segged_chinese.tsv', 'w', encoding='utf-8') as f:
         for k, v in sorted(seg_chinese_vocab.items(), key=lambda x: -x[1]):
             f.write(f"{k}\t{v}\t{len(k)}\n")
 
-    logger.info(f'write to {tok_path}/vocab_extend_segged_english.tsv')
-    with open(tok_path + '/vocab_extend_segged_english.tsv', 'w', encoding='utf-8') as f:
+    logger.info(f'write to {tok_path}/vocab_extend_re-segged_english.tsv')
+    with open(tok_path + '/vocab_extend_re-segged_english.tsv', 'w', encoding='utf-8') as f:
         for k, v in sorted(seg_english_vocab.items(), key=lambda x: -x[1]):
             f.write(f"{k}\t{v}\t{len(k)}\n")
 
@@ -181,8 +181,8 @@ def process_vocab(tok_path):
         for k, v in sorted(english_vocab.items(), key=lambda x: -x[1]):
             f.write(f"{k}\t{v}\n")
 
-    logger.info(f'write to {tok_path}/vocab_char.tsv')
-    with open(tok_path + '/vocab_char.tsv', 'w', encoding='utf-8') as f:
+    logger.info(f'write to {tok_path}/vocab_chinese_char.tsv')
+    with open(tok_path + '/vocab_chinese_char.tsv', 'w', encoding='utf-8') as f:
         for k, v in sorted(seg_char_vocab.items(), key=lambda x: -x[1]):
             f.write(f"{k}\t{v}\n")
 
