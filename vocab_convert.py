@@ -169,6 +169,8 @@ chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
 english_pattern = re.compile(r'^[a-zA-Z]+$')
 digit_pattern = re.compile(r'^[0-9]+$')
  
+code_camel=re.compile('[a-z]+[A-Z][a-z]')
+code_pattern = re.compile(r'^\.[a-zA-Z]+')
 def detect_language(text):
     """
     Detect the probable language of a text string based on character ranges.
@@ -236,13 +238,12 @@ def get_primary_language(text):
     return max(langs.items(), key=lambda x: x[1])[0]
 
 
-pPp=re.compile('[A-Z][a-z]+[A-Z]')
 
 
 def refine_english_lang(s):
     s=s.replace('▁', '').strip()
-    if pPp.match(s):
-        return 'english'
+    if code_camel.match(s) or code_pattern.match(s):
+        return 'code'
     lang= lang_model.predict(s, k=1)
     lang=lang[0][0].replace('__label__','')
 
@@ -268,6 +269,9 @@ def detect_lang(s):
     if lang=='english':
         return refine_english_lang(s)
 
+    if lang == 'NULL': 
+        if code_pattern.match(s) or code_camel.match(s):
+            return 'code'
     return lang
 
 
