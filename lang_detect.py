@@ -9,8 +9,10 @@ lang_model = fasttext.load_model('lid.176.ftz')
 chinese_pattern = re.compile(r'^[\u4E00-\u9FFF]+$')
 english_pattern = re.compile(r'^[a-zA-Z]+$')
 digit_pattern = re.compile(r'^[0-9]+$')
-code_camel = re.compile('[a-z]+[A-Z][a-z]')
-code_pattern = re.compile(r'^[.$>:][a-zA-Z]+')
+#code_camel = re.compile('[a-z]+[A-Z][a-z]')
+code_camel = re.compile('^[A-Z]+[a-z]+[A-Z][a-z]')
+code_camel2 = re.compile('^[a-z]+[A-Z]+[a-z]')
+code_pattern = re.compile(r'^[.$>:@()_][a-zA-Z]+')
 
 def get_language_names():
     """
@@ -132,7 +134,7 @@ def refine_english_lang(s, pure=False):
     Refine language detection for English text.
     """
     s = s.replace('▁', '').strip()
-    if code_camel.match(s) or code_pattern.match(s):
+    if code_camel.match(s) or code_pattern.match(s) or code_camel2.match(s):
         return 'code'
     lang = lang_model.predict(s, k=1)
     score = lang[1][0]
@@ -166,6 +168,6 @@ def detect_lang(s):
         return refine_english_lang(s)
 
     if lang == 'NULL': 
-        if code_pattern.match(s) or code_camel.match(s):
+        if code_pattern.match(s) or code_camel.match(s) or code_camel2.match(s):
             return 'code'
     return lang
