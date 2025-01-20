@@ -100,3 +100,8 @@ def write_lang_count_markdown(model_to_lang_count):
         for model in models:
             total_row.append(str(model_totals[model]))
         f.write('| ' + ' | '.join(total_row) + ' |\n')
+        f.write('说明：\n')
+        f.write('\n1. code是满足.Net这样或者clickHouseWorld这样格式的词汇\n')
+        f.write('\n2. digits是满足^[0-9]+$\n')
+        f.write('\n3. control是词汇包含\\t和\\n\n')
+        f.write('\n4. `NULL`非上面所有类型，有待进一步细化。\n')
