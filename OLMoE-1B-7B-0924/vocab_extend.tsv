@@ -17140,7 +17140,7 @@ perp	perp	perp	4	english
 anth	anth	anth	4	english
 tain	tain	tain	4	english
 udes	udes	udes	4	english
-ById	ById	ById	4	english
+ById	ById		4	code
 mpty	mpty	mpty	4	english
 emen	emen		4	french
 %%%%	%%%%		4	NULL
@@ -18366,7 +18366,7 @@ umar	umar		4	portuguese
 Ġ1956	1956		4	digits
 ĠSean	Sean	Sean	4	english
 Ġ1939	1939		4	digits
-ĠNaCl	NaCl		4	spanish
+ĠNaCl	NaCl		4	code
 Ġshoe	shoe	shoe	4	english
 Ġcher	cher	cher	4	english
 reed	reed	reed	4	english
@@ -20045,7 +20045,7 @@ MISS	MISS	MISS	4	english
 ruce	ruce	ruce	4	english
 Poly	Poly	Poly	4	english
 nuts	nuts	nuts	4	english
-ĠMcCl	McCl	McCl	4	english
+ĠMcCl	McCl		4	code
 elem	elem	elem	4	english
 ĠPerl	Perl	Perl	4	english
 ĠSuff	Suff	Suff	4	english
@@ -20095,7 +20095,7 @@ DATE	DATE	DATE	4	english
 ĠChip	Chip	Chip	4	english
 ĠBarb	Barb	Barb	4	english
 clic	clic	clic	4	english
-ĠHeLa	HeLa	HeLa	4	english
+ĠHeLa	HeLa		4	code
 Pier	Pier		4	french
 oire	oire		4	french
 coal	coal	coal	4	english
@@ -20341,7 +20341,7 @@ drag	drag	drag	4	english
 helm	helm	helm	4	english
 ĠRoma	Roma		4	italian
 iflu	iflu	iflu	4	english
-NdEx	NdEx	NdEx	4	english
+NdEx	NdEx		4	code
 ĠDust	Dust	Dust	4	english
 ĠMUST	MUST	MUST	4	english
 orns	orns	orns	4	english
@@ -21214,7 +21214,7 @@ rish	rish	rish	4	english
 ĠShim	Shim	Shim	4	english
 ĠJude	Jude	Jude	4	english
 nore	nore	nore	4	english
-ĠWiFi	WiFi	WiFi	4	english
+ĠWiFi	WiFi		4	code
 romb	romb	romb	4	english
 ĠLEDs	LEDs	LEDs	4	english
 Ġlays	lays	lays	4	english
@@ -22334,7 +22334,7 @@ mina	mina	mina	4	english
 perf	perf		4	french
 enso	enso	enso	4	english
 ĠMAKE	MAKE	MAKE	4	english
-ĠMgCl	MgCl	MgCl	4	english
+ĠMgCl	MgCl		4	code
 odon	odon	odon	4	english
 ]));	]));		4	NULL
 emis	emis	emis	4	english
@@ -27034,7 +27034,7 @@ Diagn	Diagn	Diagn	5	english
 Added	Added	Added	5	english
 varpi	varpi	varpi	5	english
 andro	andro	andro	5	english
-ĠmRNAs	mRNAs	mRNAs	5	english
+ĠmRNAs	mRNAs		5	code
 Ġranch	ranch	ranch	5	english
 LOCAL	LOCAL		5	spanish
 aughs	aughs	aughs	5	english
@@ -28286,7 +28286,7 @@ orers	orers	orers	5	english
 ĠOrdin	Ordin		5	italian
 Hydro	Hydro	Hydro	5	english
 Ġcrept	crept	crept	5	english
-ĠMcKin	McKin	McKin	5	english
+ĠMcKin	McKin		5	code
 Ġlitre	litre		5	spanish
 ielle	ielle	ielle	5	english
 Ġcrore	crore	crore	5	english
@@ -28695,7 +28695,7 @@ spots	spots	spots	5	english
 Ġrefin	refin	refin	5	english
 logic	logic	logic	5	english
 ĠChick	Chick	Chick	5	english
-ĠMcCoy	McCoy	McCoy	5	english
+ĠMcCoy	McCoy		5	code
 Ġforts	forts	forts	5	english
 Ġdebit	debit	debit	5	english
 strÃ¶m	ström		5	NULL
@@ -31466,7 +31466,7 @@ rypted	rypted	rypt ed	6	english
 ĠTravel	Travel	Travel	6	english
 Ġschema	schema		6	german
 ĠAlaska	Alaska	Al aska	6	english
-ĠmiRNAs	miRNAs	mi RNAs	6	english
+ĠmiRNAs	miRNAs		6	code
 assium	assium	assium	6	english
 Schema	Schema	Schema	6	english
 ĠJustin	Justin	Justin	6	english
@@ -32644,7 +32644,7 @@ strict	strict	strict	6	english
 Ġindemn	indemn	ind emn	6	english
 Ġuneven	uneven		6	french
 ĠPhotos	Photos	Photos	6	english
-ĠMcCain	McCain	Mc Cain	6	english
+ĠMcCain	McCain		6	code
 lining	lining	lining	6	english
 Shared	Shared	Shared	6	english
 Ġreinst	reinst	re inst	6	english
@@ -33082,7 +33082,7 @@ geries	geries	geries	6	english
 Ġintram	intram	intr am	6	english
 neider	neider	neider	6	english
 Ġspikes	spikes	sp ikes	6	english
-ĠGitHub	GitHub	Git Hub	6	english
+ĠGitHub	GitHub		6	code
 ĠChapel	Chapel	Ch apel	6	english
 Ġminers	miners	miners	6	english
 ĠExpect	Expect		6	italian
@@ -34441,7 +34441,7 @@ Moving	Moving	Moving	6	english
 Ġransom	ransom	r ansom	6	english
 ushima	ushima	ushima	6	english
 sensor	sensor	sensor	6	english
-ĠPayPal	PayPal	Pay Pal	6	english
+ĠPayPal	PayPal		6	code
 Ġgladly	gladly	gl ad ly	6	english
 Ġjamais	jamais		6	french
 ĠExamin	Examin	Ex amin	6	english
@@ -34594,7 +34594,7 @@ fluoro	fluoro	flu oro	6	english
 Ġstrlen	strlen	strlen	6	english
 Ġ100000	100000		6	digits
 Ġhaemat	haemat		6	italian
-NavBar	NavBar	Nav Bar	6	english
+NavBar	NavBar		6	code
 ĠHoover	Hoover	Ho over	6	english
 ĠConway	Conway	Con way	6	english
 ĠPoetry	Poetry	Po etry	6	english
@@ -34744,7 +34744,7 @@ quette	quette		6	italian
 oxifen	oxifen		6	german
 fourth	fourth	four th	6	english
 Ġankles	ankles	ank les	6	english
-ĠPubMed	PubMed	Pub Med	6	english
+ĠPubMed	PubMed		6	code
 ĠPlants	Plants	Plants	6	english
 Ġgeared	geared	ge ared	6	english
 Ġamplic	amplic	amp lic	6	english
@@ -36160,7 +36160,7 @@ present	present	present	7	english
 Ġadvised	advised	ad vised	7	english
 Ġlanding	landing	landing	7	english
 Ġcancell	cancell	c ancell	7	english
-ĠYouTube	YouTube	You Tube	7	english
+ĠYouTube	YouTube		7	code
 quality	quality	quality	7	english
 ĠSupport	Support	Support	7	english
 Ġfounder	founder	found er	7	english
@@ -37305,7 +37305,7 @@ amilies	amilies		7	french
 Ġglimpse	glimpse	gl impse	7	english
 ricting	ricting	r ict ing	7	english
 builder	builder	builder	7	english
-PhysRev	PhysRev	Phys Rev	7	english
+PhysRev	PhysRev		7	code
 Ġtweeted	tweeted	tweet ed	7	english
 Ġdebates	debates	deb ates	7	english
 commend	commend	commend	7	english
@@ -38785,7 +38785,7 @@ Respond	Respond	Respond	7	english
 Ġdebuted	debuted	de but ed	7	english
 diamond	diamond		7	italian
 ĠWalmart	Walmart	W almart	7	english
-NotNull	NotNull	Not Null	7	english
+NotNull	NotNull		7	code
 ĠHampton	Hampton	H ampton	7	english
 ĠDevices	Devices	Devices	7	english
 Syscall	Syscall	Sys call	7	english
@@ -39070,7 +39070,7 @@ bounded	bounded	bounded	7	english
 Ġcontinu	continu	continu	7	english
 Ġtextile	textile	text ile	7	english
 Ġmilitar	militar		7	spanish
-TextBox	TextBox	Text Box	7	english
+TextBox	TextBox		7	code
 Ġsequest	sequest	se quest	7	english
 SESSION	SESSION	SESSION	7	english
 Decimal	Decimal		7	italian
@@ -39124,7 +39124,7 @@ Univers	Univers	Univers	7	english
 ĠSUMMARY	SUMMARY	SUMMARY	7	english
 perturb	perturb	pert urb	7	english
 ĠShapiro	Shapiro	Sh apiro	7	english
-AtIndex	AtIndex	At Index	7	english
+AtIndex	AtIndex		7	code
 Ġfooting	footing	foot ing	7	english
 Ġbehaved	behaved		7	german
 Ġseismic	seismic	se ismic	7	english
@@ -39350,7 +39350,7 @@ heating	heating	he ating	7	english
 ĠIntrodu	Introdu	Introdu	7	english
 ĠDodgers	Dodgers	Dod gers	7	english
 Ġarsenal	arsenal	ars enal	7	english
-ĠHashMap	HashMap	Hash Map	7	english
+ĠHashMap	HashMap		7	code
 uminous	uminous	uminous	7	english
 cutting	cutting	cut ting	7	english
 regions	regions	regions	7	english
@@ -39467,7 +39467,7 @@ Usually	Usually	Usually	7	english
 Ġatheist	atheist		7	german
 iphatic	iphatic	iph atic	7	english
 ĠMarxist	Marxist	Mar x ist	7	english
-ĠlncRNAs	lncRNAs		7	french
+ĠlncRNAs	lncRNAs		7	code
 ĠJaneiro	Janeiro		7	portuguese
 Ġverbose	verbose		7	german
 Ġmundane	mundane	mund ane	7	english
@@ -39567,7 +39567,7 @@ Players	Players	Players	7	english
 Ġepistem	epistem	ep istem	7	english
 locking	locking	locking	7	english
 Ġyoutube	youtube		7	spanish
-TypeDef	TypeDef	Type Def	7	english
+TypeDef	TypeDef		7	code
 Ġtoolbar	toolbar	toolbar	7	english
 scaling	scaling	sc aling	7	english
 Saharan	Saharan	S aharan	7	english
@@ -40943,7 +40943,7 @@ Moreover	Moreover		8	vietnamese
 Ġalgebras	algebras	al ge bras	8	english
 ĠUniverse	Universe	Universe	8	english
 Ġintimate	intimate	int imate	8	english
-ToString	ToString	To String	8	english
+ToString	ToString		8	code
 Ġsteering	steering	ste ering	8	english
 Ġadvocate	advocate	adv ocate	8	english
 Ġinhibits	inhibits	in hib its	8	english
@@ -41176,7 +41176,7 @@ argument	argument	argument	8	english
 acterial	acterial	acterial	8	english
 February	February	February	8	english
 Ġathletic	athletic	ath letic	8	english
-DateTime	DateTime		8	german
+DateTime	DateTime		8	code
 initions	initions	initions	8	english
 packages	packages	packages	8	english
 Ġmixtures	mixtures		8	french
@@ -41360,7 +41360,7 @@ Sequence	Sequence	Sequence	8	english
 comments	comments	comments	8	english
 roscopic	roscopic		8	french
 Ġdopamine	dopamine	dop amine	8	english
-ĠMcDonald	McDonald	Mc Donald	8	english
+ĠMcDonald	McDonald		8	code
 Ġanalysts	analysts	anal ysts	8	english
 structor	structor		8	spanish
 assembly	assembly	assembly	8	english
@@ -41626,7 +41626,7 @@ Multiple	Multiple	Multiple	8	english
 Ġsystolic	systolic	s yst olic	8	english
 addition	addition	addition	8	english
 Ġwithdrew	withdrew	with d rew	8	english
-FileName	FileName	File Name	8	english
+FileName	FileName		8	code
 Ġplasmids	plasmids	pl asm ids	8	english
 ĠAustrian	Austrian	A ust rian	8	english
 ĠSettings	Settings	Settings	8	english
@@ -41666,7 +41666,7 @@ tochrome	tochrome		8	spanish
 Ġmitigate	mitigate	mit igate	8	english
 Ġguessing	guessing	guess ing	8	english
 Ġendorsed	endorsed	endors ed	8	english
-ViewById	ViewById	View By Id	8	english
+ViewById	ViewById		8	code
 Ġabruptly	abruptly		8	spanish
 Ġheadline	headline	headline	8	english
 balanced	balanced	balanced	8	english
@@ -41699,7 +41699,7 @@ Material	Material	Material	8	english
 protobuf	protobuf	protobuf	8	english
 Ġreadonly	readonly		8	spanish
 Ġfinitely	finitely	f initely	8	english
-TextView	TextView	Text View	8	english
+TextView	TextView		8	code
 Customer	Customer	Customer	8	english
 ĠCitizens	Citizens	Cit izens	8	english
 FUNCTION	FUNCTION	FUNCTION	8	english
@@ -41823,7 +41823,7 @@ examples	examples	examples	8	english
 Republic	Republic	Republic	8	english
 Ġlandlord	landlord	land lord	8	english
 Ġcanceled	canceled	c anceled	8	english
-ĠMcCarthy	McCarthy	Mc Carthy	8	english
+ĠMcCarthy	McCarthy		8	code
 Ġhomework	homework	home work	8	english
 Ġelicited	elicited	elic ited	8	english
 Ġdragging	dragging	drag ging	8	english
@@ -41910,7 +41910,7 @@ uttering	uttering	uttering	8	english
 ĠInfantry	Infantry	Inf antry	8	english
 Ġrepaired	repaired	re paired	8	english
 Ġpharmacy	pharmacy	ph armacy	8	english
-ĠDateTime	DateTime		8	german
+ĠDateTime	DateTime		8	code
 Ġcontours	contours	cont ours	8	english
 otically	otically	ot ically	8	english
 Ġroutines	routines	r outines	8	english
@@ -41993,7 +41993,7 @@ oretical	oretical	oretical	8	english
 Ġeditions	editions	ed itions	8	english
 Ġsplendid	splendid	spl endid	8	english
 Ġfeathers	feathers	fe athers	8	english
-NotFound	NotFound	Not Found	8	english
+NotFound	NotFound		8	code
 Renderer	Renderer		8	german
 ĠAdvisory	Advisory	Ad vis ory	8	english
 Ġsummoned	summoned	summ oned	8	english
@@ -42501,7 +42501,7 @@ Petition	Petition	Pet ition	8	english
 Ġtestimon	testimon	test imon	8	english
 ertation	ertation	ert ation	8	english
 ĠParadise	Paradise	Parad ise	8	english
-TestCase	TestCase	Test Case	8	english
+TestCase	TestCase		8	code
 ĠContents	Contents	Contents	8	english
 ĠDelivery	Delivery	Delivery	8	english
 ĠCochrane	Cochrane	C och r ane	8	english
@@ -42726,11 +42726,11 @@ extended	extended	extended	8	english
 sciously	sciously	sciously	8	english
 Ġpeasants	peasants	peas ants	8	english
 ĠSocrates	Socrates	S ocr ates	8	english
-MenuItem	MenuItem	Menu Item	8	english
+MenuItem	MenuItem		8	code
 Ġsubtract	subtract	subtract	8	english
 Ġbursting	bursting	burst ing	8	english
 Learning	Learning	Learning	8	english
-ListView	ListView	List View	8	english
+ListView	ListView		8	code
 Ġpowdered	powdered	pow der ed	8	english
 ĠMajority	Majority	Major ity	8	english
 Consumer	Consumer	Consumer	8	english
@@ -42741,7 +42741,7 @@ Consumer	Consumer	Consumer	8	english
 erdinand	erdinand	erd inand	8	english
 Ġwardrobe	wardrobe	ward robe	8	english
 Ġpristine	pristine	pr istine	8	english
-ĠLinkedIn	LinkedIn	Linked In	8	english
+ĠLinkedIn	LinkedIn		8	code
 Ġcharcoal	charcoal	char coal	8	english
 ĠApproach	Approach	Appro ach	8	english
 ĠViolence	Violence	Viol ence	8	english
@@ -43192,10 +43192,10 @@ ordering	ordering	ordering	8	english
 handling	handling	handling	8	english
 football	football	football	8	english
 ĠSanskrit	Sanskrit		8	german
-FilePath	FilePath	File Path	8	english
-GridView	GridView	Grid View	8	english
+FilePath	FilePath		8	code
+GridView	GridView		8	code
 Ġrecharge	recharge	re charge	8	english
-FileType	FileType	File Type	8	english
+FileType	FileType		8	code
 Ġgrasping	grasping	gr asp ing	8	english
 Ġpolicing	policing	pol icing	8	english
 Ġmistrial	mistrial	m istr ial	8	english
@@ -44529,7 +44529,7 @@ Christian	Christian	Christian	9	english
 Ġcancelled	cancelled	cancel led	9	english
 Ġbalancing	balancing	bal ancing	9	english
 Ġmodifying	modifying	mod ifying	9	english
-ĠArrayList	ArrayList	Array List	9	english
+ĠArrayList	ArrayList		9	code
 Ġmodelling	modelling	mod elling	9	english
 Ġsubscribe	subscribe	subscribe	9	english
 Animation	Animation	Animation	9	english
@@ -44828,7 +44828,7 @@ Constants	Constants	Constants	9	english
 Ġelongated	elongated	elong ated	9	english
 Ġabolished	abolished	abol ished	9	english
 Ġreligions	religions	relig ions	9	english
-ĠWordPress	WordPress	Word Press	9	english
+ĠWordPress	WordPress		9	code
 Ġdescended	descended		9	italian
 Ġpreserves	preserves	pres erves	9	english
 Ġtriglycer	triglycer	tr ig lycer	9	english
@@ -44962,7 +44962,7 @@ signature	signature	signature	9	english
 ĠHopefully	Hopefully	Hopefully	9	english
 Ġplanetary	planetary	planet ary	9	english
 Ġalleviate	alleviate	al lev iate	9	english
-WriteLine	WriteLine	Write Line	9	english
+WriteLine	WriteLine		9	code
 acknowled	acknowled	ack now led	9	english
 Ġantiviral	antiviral	ant iv iral	9	english
 ĠEuropeans	Europeans	Europe ans	9	english
@@ -45256,7 +45256,7 @@ difficult	difficult	d ifficult	9	english
 apoptotic	apoptotic	ap opt otic	9	english
 Ġparasitic	parasitic	par asit ic	9	english
 intensity	intensity	int ensity	9	english
-ClCompile	ClCompile	Cl Compile	9	english
+ClCompile	ClCompile		9	code
 vertising	vertising	vert ising	9	english
 Ġupgrading	upgrading	up grading	9	english
 ĠClassical	Classical	Class ical	9	english
@@ -45350,7 +45350,7 @@ phosphory	phosphory	ph osph ory	9	english
 Ġinflicted	inflicted	inf licted	9	english
 Ġtroubling	troubling	tr ou bling	9	english
 Ġcytosolic	cytosolic	cy tos olic	9	english
-ViewModel	ViewModel	View Model	9	english
+ViewModel	ViewModel		9	code
 Ġagitation	agitation		9	vietnamese
 hibernate	hibernate		9	french
 Ġviolently	violently	viol ently	9	english
@@ -45364,7 +45364,7 @@ Arguments	Arguments	Arguments	9	english
 Supported	Supported	Supported	9	english
 Ġprompting	prompting	prompt ing	9	english
 Ġsimulator	simulator	sim ulator	9	english
-EventArgs	EventArgs	Event Args	9	english
+EventArgs	EventArgs		9	code
 ĠEquipment	Equipment	Equipment	9	english
 Ġcardboard	cardboard	card board	9	english
 Ġinpatient	inpatient	in patient	9	english
@@ -45426,7 +45426,7 @@ ophysical	ophysical	ophysical	9	english
 ĠVariables	Variables	Variables	9	english
 ĠNietzsche	Nietzsche		9	german
 ĠNortheast	Northeast	N ort heast	9	english
-ĠMcConnell	McConnell	Mc Connell	9	english
+ĠMcConnell	McConnell		9	code
 contained	contained	contained	9	english
 Ġappraisal	appraisal	app raisal	9	english
 Ġscholarly	scholarly	sch ol arly	9	english
@@ -45617,10 +45617,10 @@ Molecular	Molecular	M olecular	9	english
 Yesterday	Yesterday	Yesterday	9	english
 Ġgreatness	greatness	great ness	9	english
 Ġbrightest	brightest		9	german
-ClassName	ClassName	Class Name	9	english
+ClassName	ClassName		9	code
 ĠCaucasian	Caucasian	C auc asian	9	english
 generally	generally	gener ally	9	english
-ArrayList	ArrayList	Array List	9	english
+ArrayList	ArrayList		9	code
 Ġrecalling	recalling	rec alling	9	english
 Ġapproving	approving	appro ving	9	english
 Ġnormative	normative	norm ative	9	english
@@ -45729,7 +45729,7 @@ agreement	agreement	agreement	9	english
 procedure	procedure	procedure	9	english
 Ġtextbooks	textbooks	text books	9	english
 Ġrestricts	restricts	restrict s	9	english
-ImageView	ImageView	Image View	9	english
+ImageView	ImageView		9	code
 Ġautonomic	autonomic		9	italian
 continued	continued	continued	9	english
 Ġfishermen	fishermen	f isher men	9	english
@@ -45775,7 +45775,7 @@ lipidemia	lipidemia	lip idem ia	9	english
 Ġschooling	schooling	school ing	9	english
 ĠBreakfast	Breakfast	Breakfast	9	english
 Ġunpopular	unpopular	un popular	9	english
-ItemGroup	ItemGroup	Item Group	9	english
+ItemGroup	ItemGroup		9	code
 Ġcleansing	cleansing	cle ansing	9	english
 Ġmoonlight	moonlight	moon light	9	english
 Ġpatriarch	patriarch	pat ri arch	9	english
@@ -45808,7 +45808,7 @@ atization	atization	at ization	9	english
 Ġproffered	proffered	pro ffer ed	9	english
 injection	injection	in jection	9	english
 ĠAutomatic	Automatic	Automatic	9	english
-TextField	TextField	Text Field	9	english
+TextField	TextField		9	code
 Ġrepulsive	repulsive	rep ulsive	9	english
 Ġrepairing	repairing	repair ing	9	english
 Ġprotector	protector	prote ctor	9	english
@@ -45905,7 +45905,7 @@ itiveness	itiveness	it iveness	9	english
 olinergic	olinergic	olin ergic	9	english
 Ġmoderator	moderator	moder ator	9	english
 Ġneoplasms	neoplasms	ne oplas ms	9	english
-GroupName	GroupName		9	german
+GroupName	GroupName		9	code
 Ġuntouched	untouched	unt ouched	9	english
 ĠMessenger	Messenger	Messenger	9	english
 Ġautosomal	autosomal	aut osomal	9	english
@@ -46439,7 +46439,7 @@ Collection	Collection	Collection	10	english
 Ġtransistor	transistor	trans istor	10	english
 Ġentreprene	entreprene	entre prene	10	english
 Ġexcitation	excitation	exc itation	10	english
-ĠJavaScript	JavaScript	Java Script	10	english
+ĠJavaScript	JavaScript		10	code
 controlled	controlled	controlled	10	english
 Ġafterwards	afterwards	after wards	10	english
 Ġcorruption	corruption	cor ruption	10	english
@@ -47190,7 +47190,7 @@ obacterium	obacterium	obacter ium	10	english
 Ġpedestrian	pedestrian	ped estrian	10	english
 Ġtriplicate	triplicate	trip licate	10	english
 Ġfulfilling	fulfilling	ful f illing	10	english
-FromString	FromString	From String	10	english
+FromString	FromString		10	code
 Ġsymmetries	symmetries	sym met ries	10	english
 Throughout	Throughout	Throughout	10	english
 ĠTournament	Tournament	Tournament	10	english
@@ -47351,7 +47351,7 @@ Defendants	Defendants		10	french
 plantation	plantation	plant ation	10	english
 Ġpolyclonal	polyclonal	pol ycl onal	10	english
 Ġrelational	relational	rel ational	10	english
-DataSource	DataSource	Data Source	10	english
+DataSource	DataSource		10	code
 DISCUSSION	DISCUSSION		10	german
 Ġsacrifices	sacrifices	s acr ific es	10	english
 Ġbeforehand	beforehand	before hand	10	english
@@ -47405,7 +47405,7 @@ dependence	dependence	depend ence	10	english
 Ġperceptual	perceptual	per cept ual	10	english
 interested	interested	inter ested	10	english
 Ġcondensate	condensate		10	italian
-StackTrace	StackTrace		10	russian
+StackTrace	StackTrace		10	code
 classified	classified	classified	10	english
 Ġconductors	conductors		10	spanish
 Ġcommanders	commanders	command ers	10	english
@@ -47562,7 +47562,7 @@ degenerate	degenerate	deg enerate	10	english
 ĠConsortium	Consortium	Cons ortium	10	english
 Ġprogresses	progresses	progress es	10	english
 Ġmarginally	marginally	m arg inal ly	10	english
-JavaScript	JavaScript	Java Script	10	english
+JavaScript	JavaScript		10	code
 Ġmissionary	missionary	mission ary	10	english
 Ġconsortium	consortium	cons ortium	10	english
 ĠExcellence	Excellence	Ex cellence	10	english
@@ -48454,7 +48454,7 @@ marinedrugs	marinedrugs	mar ined r ugs	11	english
 Ġlipoprotein	lipoprotein		11	german
 Ġincorrectly	incorrectly	incorrect ly	11	english
 transferase	transferase	transfer ase	11	english
-InputStream	InputStream	Input Stream	11	english
+InputStream	InputStream		11	code
 Ġsovereignty	sovereignty		11	german
 Ġideological	ideological	ide ological	11	english
 Ġdrastically	drastically	dr ast ically	11	english
@@ -48556,7 +48556,7 @@ connections	connections	connections	11	english
 Ġarticulated	articulated	art icul ated	11	english
 Ġbehavioural	behavioural	beh aviour al	11	english
 Ġexcitations	excitations	ex cit ations	11	english
-ĠPlayStation	PlayStation	Play Station	11	english
+ĠPlayStation	PlayStation		11	code
 transaction	transaction	transaction	11	english
 Ġastonishing	astonishing	aston ishing	11	english
 Ġanisotropic	anisotropic		11	spanish
@@ -49364,7 +49364,7 @@ distribution	distribution	distribution	12	english
 particularly	particularly	particularly	12	english
 Ġasynchronous	asynchronous	as ynchronous	12	english
 Ġbiologically	biologically	bi ologically	12	english
-OutputStream	OutputStream	Output Stream	12	english
+OutputStream	OutputStream		12	code
 Ġdistributing	distributing	dis tributing	12	english
 Ġdemographics	demographics	dem ographics	12	english
 Ġdiscontinued	discontinued	dis continued	12	english
@@ -49417,7 +49417,7 @@ aphylococcus	aphylococcus	aphyl ococcus	12	english
 Ġaccelerating	accelerating	acceler ating	12	english
 Ġtransplanted	transplanted	trans pl anted	12	english
 Ġunidentified	unidentified	un identified	12	english
-LinearLayout	LinearLayout	Linear Layout	12	english
+LinearLayout	LinearLayout		12	code
 Ġosteoporosis	osteoporosis	oste oporosis	12	english
 Ġpropositions	propositions	pro positions	12	english
 Ġequivalently	equivalently	equ ival ently	12	english
@@ -49776,7 +49776,7 @@ opathological	opathological	opath ological	13	english
 Ġthermodynamic	thermodynamic	ther mod ynamic	13	english
 Ġunpredictable	unpredictable	un predict able	13	english
 Ġtranslational	translational	trans l ational	13	english
-EventListener	EventListener	Event Listener	13	english
+EventListener	EventListener		13	code
 Ġspectroscopic	spectroscopic	spect roscopic	13	english
 Ġindispensable	indispensable		13	french
 Ġtransmembrane	transmembrane		13	italian
@@ -49785,7 +49785,7 @@ EventListener	EventListener	Event Listener	13	english
 Ġassassination	assassination	ass ass ination	13	english
 Ġdownregulated	downregulated		13	french
 Ġcontradictory	contradictory	contr ad ict ory	13	english
-ClickListener	ClickListener	Click Listener	13	english
+ClickListener	ClickListener		13	code
 Ġdiscretionary	discretionary	dis cretion ary	13	english
 Ġreimbursement	reimbursement	re imbursement	13	english
 Ġpersonalities	personalities	personal ities	13	english
@@ -49816,7 +49816,7 @@ approximately	approximately	approximately	13	english
 Ġembarrassment	embarrassment	emb arr assment	13	english
 Ġcharacterised	characterised	character ised	13	english
 Ġinstallations	installations	install ations	13	english
-InstanceState	InstanceState	Instance State	13	english
+InstanceState	InstanceState		13	code
 ADVERTISEMENT	ADVERTISEMENT	ADVERTISEMENT	13	english
 Ġdiscrepancies	discrepancies	dis cre p ancies	13	english
 Ġpreponderance	preponderance	pre ponder ance	13	english
@@ -49853,8 +49853,8 @@ Differentiate	Differentiate	Different iate	13	english
 Ġtransmissions	transmissions	trans missions	13	english
 micromachines	micromachines	mic rom achines	13	english
 ĠContributions	Contributions	Con tributions	13	english
-PropertyGroup	PropertyGroup	Property Group	13	english
-PtrFromString	PtrFromString	Ptr From String	13	english
+PropertyGroup	PropertyGroup		13	code
+PtrFromString	PtrFromString		13	code
 Ġadministering	administering	admin ister ing	13	english
 Ġcontralateral	contralateral	contr al ateral	13	english
 Ġdimensionless	dimensionless	dimension less	13	english
@@ -49916,7 +49916,7 @@ international	international	international	13	english
 Ġcontraception	contraception	contr ace ption	13	english
 Ġadmissibility	admissibility	ad miss ibility	13	english
 Ġenlightenment	enlightenment	en light enment	13	english
-ĠStringBuilder	StringBuilder	String Builder	13	english
+ĠStringBuilder	StringBuilder		13	code
 <|endoftext|>	<|endoftext|>	<|endoftext|>	13	english
 Ġadministration	administration	administr ation	14	english
 Ġconcentrations	concentrations	con centr ations	14	english
@@ -49957,7 +49957,7 @@ longrightarrow	longrightarrow	long rightarrow	14	english
 Ġoverexpression	overexpression	over expression	14	english
 ĠRepresentative	Representative	Representative	14	english
 Ġrehabilitation	rehabilitation	reh abil itation	14	english
-ViewController	ViewController	View Controller	14	english
+ViewController	ViewController		14	code
 ĠCommunications	Communications	Commun ications	14	english
 Ġquantification	quantification	quant ification	14	english
 Ġexperimentally	experimentally	experiment ally	14	english
@@ -50001,7 +50001,7 @@ communications	communications	communications	14	english
 ĊĊĊĊĊĊĊ	\n\n\n\n\n\n\n		14	control
 ĠClassification	Classification	Classification	14	english
 ĠIdentification	Identification	Identification	14	english
-AndroidRuntime	AndroidRuntime	Android Runtime	14	english
+AndroidRuntime	AndroidRuntime		14	code
 Ġmethodological	methodological	method ological	14	english
 Ġresponsiveness	responsiveness	respons iveness	14	english
 Ġinterconnected	interconnected	inter connected	14	english
@@ -50036,7 +50036,7 @@ microorganisms	microorganisms	micro organ isms	14	english
 Ġintraoperative	intraoperative	in tra operative	14	english
 Ġmultiplicative	multiplicative	multip lic ative	14	english
 Ġelectronically	electronically	electron ically	14	english
-ActivityThread	ActivityThread	Activity Thread	14	english
+ActivityThread	ActivityThread		14	code
 Ġredistribution	redistribution	redis tribution	14	english
 ĠSuperintendent	Superintendent	Super intendent	14	english
 Ġcircumstantial	circumstantial	circ um stantial	14	english
@@ -50109,7 +50109,7 @@ springframework	springframework	spring framework	15	english
 Ġclassifications	classifications	class ifications	15	english
 Acknowledgments	Acknowledgments	Acknowled gments	15	english
 printStackTrace	printStackTrace		15	code
-OnClickListener	OnClickListener	On Click Listener	15	english
+OnClickListener	OnClickListener		15	code
 Ġinconsistencies	inconsistencies	in cons ist encies	15	english
 Ġcrystallization	crystallization	cr ystall ization	15	english
 Ġbioavailability	bioavailability	bio availability	15	english
@@ -50165,10 +50165,10 @@ scriptscriptstyle	scriptscriptstyle	scripts cript style	17	english
 ="../../../../../	="../../../../../		17	NULL
 Ġindistinguishable	indistinguishable		17	spanish
 Ġneurodegenerative	neurodegenerative	ne uro deg enerative	17	english
-ĠBytePtrFromString	BytePtrFromString		17	german
+ĠBytePtrFromString	BytePtrFromString		17	code
 Ġmisrepresentation	misrepresentation	mis representation	17	english
 =================	=================		17	NULL
-ArgumentException	ArgumentException	Argument Exception	17	english
+ArgumentException	ArgumentException		17	code
 Ġmultidisciplinary	multidisciplinary	mult id isciplinary	17	english
 Ġimmunosuppressive	immunosuppressive	im mun os uppress ive	17	english
 Ġhistopathological	histopathological	hist opath ological	17	english

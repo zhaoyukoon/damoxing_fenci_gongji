@@ -45336,7 +45336,7 @@ STEP	STEP	STEP	4	english
 ▁PhD	▁PhD		4	NULL
 edis	edis	edis	4	english
 ▁til	▁til		4	NULL
-IsIn	IsIn	IsIn	4	english
+IsIn	IsIn		4	code
 ▁fid	▁fid		4	NULL
 ▁ich	▁ich		4	german
 mbox	mbox	mbox	4	english
@@ -46781,7 +46781,7 @@ orne	orne	orne	4	english
 ▁Dur	▁Dur		4	NULL
 olds	olds	olds	4	english
 Cult	Cult	Cult	4	english
-WiFi	WiFi	WiFi	4	english
+WiFi	WiFi		4	code
 ▁Aqu	▁Aqu		4	french
 ▁Bay	▁Bay		4	NULL
 ▁새로운	▁새로운		4	korean
@@ -46884,7 +46884,7 @@ Ange	Ange	Ange	4	english
 incl	incl	incl	4	english
 anth	anth	anth	4	english
 тите	тите		4	russian
-PyQt	PyQt	PyQt	4	english
+PyQt	PyQt		4	code
 ▁bak	▁bak		4	NULL
 ▁bou	▁bou		4	NULL
 vine	vine	vine	4	english
@@ -57598,7 +57598,7 @@ nter	nter	nter	4	english
 cncn	cncn		4	french
 OCCc	OCCc	OCCc	4	english
 -].?	-].?		4	NULL
-BrCc	BrCc	BrCc	4	english
+BrCc	BrCc		4	code
 ▁OCc	▁OCc		4	NULL
 ▁CCn	▁CCn		4	NULL
 tolu	tolu	tolu	4	english
@@ -57618,7 +57618,7 @@ cnco	cnco	cnco	4	english
 )+..	)+..		4	NULL
 ▁NCc	▁NCc		4	NULL
 >-[(	>-[(		4	NULL
-ClCc	ClCc	ClCc	4	english
+ClCc	ClCc		4	code
 HPLC	HPLC	HPLC	4	english
 fluo	fluo	fluo	4	english
 CCSc	CCSc	CCSc	4	english
@@ -57630,7 +57630,7 @@ cnnn	cnnn	cnnn	4	english
 nnnn	nnnn		4	russian
 ]+..	]+..		4	NULL
 ▁TEA	▁TEA		4	NULL
-BuLi	BuLi	BuLi	4	english
+BuLi	BuLi		4	code
 cnoc	cnoc	cnoc	4	english
 cscc	cscc	cscc	4	english
 puri	puri	puri	4	english
@@ -67383,7 +67383,7 @@ enger	enger	enger	5	english
 ▁bins	▁bins	▁bins	5	english
 ▁salt	▁salt		5	NULL
 ▁camp	▁camp		5	NULL
-▁PyQt	▁PyQt		5	NULL
+▁PyQt	▁PyQt		5	code
 ▁risk	▁risk	▁risk	5	english
 ▁sock	▁sock		5	NULL
 ▁cube	▁cube	▁cube	5	english
@@ -67503,7 +67503,7 @@ joint	joint	joint	5	english
 ▁spot	▁spot		5	NULL
 proto	proto	proto	5	english
 Super	Super	Super	5	english
-ToInt	ToInt	ToInt	5	english
+ToInt	ToInt		5	code
 ▁sudo	▁sudo		5	italian
 plain	plain	plain	5	english
 ▁$('#	▁$('#		5	NULL
@@ -68235,7 +68235,7 @@ Typed	Typed	Typed	5	english
 Flash	Flash	Flash	5	english
 ▁padx	▁padx	▁padx	5	english
 ▁sees	▁sees	▁sees	5	english
-QtGui	QtGui	QtGui	5	english
+QtGui	QtGui		5	code
 ▁born	▁born	▁born	5	english
 ▁wife	▁wife	▁wife	5	english
 ▁Term	▁Term	▁Term	5	english
@@ -68348,7 +68348,7 @@ tilde	tilde	tilde	5	english
 Never	Never	Never	5	english
 usual	usual	usual	5	english
 ▁skew	▁skew		5	NULL
-▁WiFi	▁WiFi		5	NULL
+▁WiFi	▁WiFi		5	code
 Raise	Raise	Raise	5	english
 ▁Clip	▁Clip		5	NULL
 "/></	"/></		5	NULL
@@ -68548,7 +68548,7 @@ setUp	setUp		5	code
 ▁rust	▁rust		5	NULL
 ▁hate	▁hate	▁hate	5	english
 ▁Fall	▁Fall		5	NULL
-LaTeX	LaTeX	LaTeX	5	english
+LaTeX	LaTeX		5	code
 ▁Such	▁Such		5	NULL
 rator	rator	rator	5	english
 ▁vect	▁vect	▁vect	5	english
@@ -69485,7 +69485,7 @@ akter	akter	akter	5	english
 ▁peri	▁peri		5	NULL
 ▁noch	▁noch		5	german
 ▁гово	▁гово		5	russian
-ToStr	ToStr	ToStr	5	english
+ToStr	ToStr		5	code
 ▁двух	▁двух		5	russian
 holds	holds	holds	5	english
 ▁sein	▁sein		5	german
@@ -70881,7 +70881,7 @@ ielle	ielle	ielle	5	english
 ▁Spit	▁Spit	▁Spit	5	english
 ▁Sond	▁Sond		5	german
 ▁Isla	▁Isla		5	spanish
-▁NaCl	▁NaCl		5	spanish
+▁NaCl	▁NaCl		5	code
 ▁bale	▁bale		5	NULL
 ▁fron	▁fron	▁fron	5	english
 liced	liced	liced	5	english
@@ -74567,7 +74567,7 @@ freie	freie	freie	5	english
 ▁Flie	▁Flie		5	NULL
 Angeb	Angeb		5	german
 ▁Tief	▁Tief		5	NULL
-▁MwSt	▁MwSt		5	NULL
+▁MwSt	▁MwSt		5	code
 ▁Akku	▁Akku		5	NULL
 rhein	rhein	rhein	5	english
 ▁Sein	▁Sein		5	french
@@ -78771,13 +78771,13 @@ CCOCc	CCOCc	CCOCc	5	english
 enoxy	enoxy	enoxy	5	english
 -[[[(	-[[[(		5	NULL
 COCOc	COCOc	COCOc	5	english
-▁BrCc	▁BrCc		5	NULL
+▁BrCc	▁BrCc		5	code
 aceto	aceto	aceto	5	english
 CCCCn	CCCCn	CCCCn	5	english
 CCCNc	CCCNc	CCCNc	5	english
 sulfo	sulfo	sulfo	5	english
 ▁CCCn	▁CCCn		5	NULL
-▁ClCc	▁ClCc		5	NULL
+▁ClCc	▁ClCc		5	code
 ▁COCc	▁COCc		5	NULL
 ▁tetr	▁tetr		5	NULL
 methy	methy	methy	5	english
@@ -85832,7 +85832,7 @@ ensity	ensity	ensity	6	english
 ▁regex	▁regex		6	NULL
 sorted	sorted	sorted	6	english
 ▁hours	▁hours	� � hours	6	english
-AspNet	AspNet	Asp Net	6	english
+AspNet	AspNet		6	code
 person	person	person	6	english
 energy	energy	energy	6	english
 Python	Python	Python	6	english
@@ -85965,7 +85965,7 @@ sizeof	sizeof	sizeof	6	english
 ▁Frame	▁Frame		6	NULL
 ▁drive	▁drive	� � drive	6	english
 hidden	hidden	hidden	6	english
-IsNull	IsNull	Is Null	6	english
+IsNull	IsNull		6	code
 ▁stuff	▁stuff	� � stuff	6	english
 memory	memory	memory	6	english
 ▁Linux	▁Linux		6	NULL
@@ -86042,7 +86042,7 @@ radius	radius	radius	6	english
 ▁liter	▁liter		6	NULL
 ▁noise	▁noise	� � noise	6	english
 Before	Before	Before	6	english
-ToList	ToList	To List	6	english
+ToList	ToList		6	code
 ercise	ercise	ercise	6	english
 ▁Block	▁Block	� � Block	6	english
 rating	rating	rating	6	english
@@ -86191,7 +86191,7 @@ camera	camera	camera	6	english
 ▁sites	▁sites	� � sites	6	english
 ▁Entry	▁Entry		6	NULL
 ▁floor	▁floor	� � floor	6	english
-UserId	UserId	User Id	6	english
+UserId	UserId		6	code
 Volume	Volume	Volume	6	english
 ▁Tuple	▁Tuple		6	NULL
 ▁Apple	▁Apple		6	NULL
@@ -86450,7 +86450,7 @@ CSharp	CSharp	C Sharp	6	english
 epochs	epochs	epochs	6	english
 ▁Price	▁Price		6	NULL
 Circle	Circle	Circle	6	english
-▁NumPy	▁NumPy		6	NULL
+▁NumPy	▁NumPy		6	code
 selves	selves	selves	6	english
 ▁Ident	▁Ident		6	NULL
 market	market	market	6	english
@@ -86587,7 +86587,7 @@ xticks	xticks	xt icks	6	english
 ection	ection	ection	6	english
 ▁rates	▁rates		6	NULL
 ▁react	▁react		6	NULL
-IsTrue	IsTrue	Is True	6	english
+IsTrue	IsTrue		6	code
 ▁fruit	▁fruit	� � fruit	6	english
 ▁voice	▁voice	� � voice	6	english
 scaled	scaled	scaled	6	english
@@ -86619,7 +86619,7 @@ setter	setter	setter	6	english
 ▁excel	▁excel	� � excel	6	english
 ▁hover	▁hover		6	NULL
 ▁Trace	▁Trace		6	NULL
-▁LaTeX	▁LaTeX		6	NULL
+▁LaTeX	▁LaTeX		6	code
 ▁Agent	▁Agent		6	NULL
 ▁weird	▁weird		6	NULL
 school	school	school	6	english
@@ -86650,7 +86650,7 @@ Branch	Branch	Branch	6	english
 commun	commun	commun	6	english
 ferred	ferred	ferred	6	english
 reated	reated	reated	6	english
-▁QtGui	▁QtGui		6	NULL
+▁QtGui	▁QtGui		6	code
 flight	flight	flight	6	english
 colour	colour	colour	6	english
 ▁spark	▁spark		6	NULL
@@ -86658,7 +86658,7 @@ medium	medium	medium	6	english
 ▁thous	▁thous		6	NULL
 ▁trial	▁trial		6	NULL
 ▁alive	▁alive	� � alive	6	english
-IntPtr	IntPtr	Int Ptr	6	english
+IntPtr	IntPtr		6	code
 ▁alone	▁alone		6	NULL
 ▁entre	▁entre		6	NULL
 ▁Gecko	▁Gecko	� � Ge cko	6	english
@@ -86743,7 +86743,7 @@ riding	riding	r iding	6	english
 street	street	street	6	english
 ▁capac	▁capac		6	NULL
 ▁proto	▁proto		6	NULL
-QtCore	QtCore	Qt Core	6	english
+QtCore	QtCore		6	code
 Margin	Margin	Margin	6	english
 ▁Issue	▁Issue	� � Issue	6	english
 ▁moder	▁moder		6	NULL
@@ -86985,7 +86985,7 @@ notice	notice		6	french
 Ensure	Ensure	Ensure	6	english
 ▁north	▁north	� � north	6	english
 cannot	cannot	cannot	6	english
-▁MySql	▁MySql		6	NULL
+▁MySql	▁MySql		6	code
 ▁loose	▁loose	� � lo ose	6	english
 LOGGER	LOGGER	LOGGER	6	english
 ▁young	▁young	� � young	6	english
@@ -87136,7 +87136,7 @@ Assume	Assume	Ass ume	6	english
 ▁Grade	▁Grade		6	NULL
 ▁verse	▁verse		6	NULL
 ▁relat	▁relat		6	NULL
-ItemId	ItemId	Item Id	6	english
+ItemId	ItemId		6	code
 ▁Organ	▁Organ		6	NULL
 ▁Proto	▁Proto		6	NULL
 steady	steady	steady	6	english
@@ -87268,7 +87268,7 @@ proper	proper	proper	6	english
 cosine	cosine	cos ine	6	english
 Topics	Topics	Topics	6	english
 umbled	umbled	umbled	6	english
-GetInt	GetInt	Get Int	6	english
+GetInt	GetInt		6	code
 ▁Phase	▁Phase		6	NULL
 ровать	ровать		6	russian
 ▁pseud	▁pseud		6	NULL
@@ -87325,13 +87325,13 @@ Silver	Silver	Silver	6	english
 listed	listed	listed	6	english
 ▁teste	▁teste		6	NULL
 ▁wider	▁wider	� � w ider	6	english
-TryGet	TryGet	Try Get	6	english
+TryGet	TryGet		6	code
 ▁coeff	▁coeff		6	NULL
 remain	remain	remain	6	english
 ▁flood	▁flood	� � f lood	6	english
 ▁Serve	▁Serve		6	NULL
 ▁instr	▁instr		6	NULL
-▁ImGui	▁ImGui		6	NULL
+▁ImGui	▁ImGui		6	code
 ▁faith	▁faith		6	french
 ▁Sorry	▁Sorry		6	NULL
 ▁civil	▁civil	� � civil	6	english
@@ -98876,7 +98876,7 @@ nNgoài	nNgoài		6	code
 ▁Trạch	▁Trạch		6	vietnamese
 ▁nguội	▁nguội		6	vietnamese
 Chuyển	Chuyển		6	vietnamese
-ShipTo	ShipTo	Ship To	6	english
+ShipTo	ShipTo		6	code
 ▁cũng	▁cũng	� � cu ̃ ng	6	english
 nKhông	nKhông		6	code
 ▁nhuộm	▁nhuộm		6	vietnamese
@@ -99697,7 +99697,7 @@ dirname	dirname	dirname	7	english
 ▁enable	▁enable		7	spanish
 ▁rights	▁rights	� � rights	7	english
 ▁serial	▁serial		7	italian
-NotNull	NotNull	Not Null	7	english
+NotNull	NotNull		7	code
 ▁Simple	▁Simple		7	NULL
 console	console	console	7	english
 environ	environ		7	french
@@ -99934,7 +99934,7 @@ Headers	Headers	Headers	7	english
 vention	vention	vention	7	english
 Visible	Visible	Visible	7	english
 Desktop	Desktop	Desktop	7	english
-NonNull	NonNull	Non Null	7	english
+NonNull	NonNull		7	code
 indices	indices		7	italian
 setText	setText		7	code
 ▁degree	▁degree	� � degree	7	english
@@ -99951,7 +99951,7 @@ Seconds	Seconds	Seconds	7	english
 ▁subset	▁subset	� � subset	7	english
 ▁approx	▁approx	� � approx	7	english
 ▁become	▁become	� � be come	7	english
-ToArray	ToArray	To Array	7	english
+ToArray	ToArray		7	code
 invalid	invalid	invalid	7	english
 ▁worker	▁worker	� � worker	7	english
 initely	initely	initely	7	english
@@ -99970,7 +99970,7 @@ DEFAULT	DEFAULT	DEFAULT	7	english
 ▁numero	▁numero		7	italian
 ▁Taking	▁Taking	� � Taking	7	english
 freopen	freopen	fre open	7	english
-HashMap	HashMap	Hash Map	7	english
+HashMap	HashMap		7	code
 ▁Record	▁Record		7	NULL
 ▁equals	▁equals	� � equals	7	english
 ▁bounds	▁bounds	� � bounds	7	english
@@ -100061,7 +100061,7 @@ Segment	Segment	Segment	7	english
 weather	weather	weather	7	english
 ▁Commit	▁Commit	� � Commit	7	english
 ▁corner	▁corner		7	NULL
-GetType	GetType	Get Type	7	english
+GetType	GetType		7	code
 Country	Country	Country	7	english
 ▁loader	▁loader		7	NULL
 ▁pprint	▁pprint	� � p print	7	english
@@ -100261,7 +100261,7 @@ Correct	Correct	Correct	7	english
 ▁intern	▁intern		7	NULL
 ▁season	▁season	� � season	7	english
 ▁Schema	▁Schema	� � Schema	7	english
-TextBox	TextBox	Text Box	7	english
+TextBox	TextBox		7	code
 ▁ranges	▁ranges	� � ranges	7	english
 caption	caption	caption	7	english
 ▁Offset	▁Offset		7	NULL
@@ -100279,7 +100279,7 @@ jectory	jectory	jectory	7	english
 vectors	vectors	vectors	7	english
 special	special	special	7	english
 ▁mapped	▁mapped		7	italian
-▁IntPtr	▁IntPtr		7	NULL
+▁IntPtr	▁IntPtr		7	code
 Welcome	Welcome	Welcome	7	english
 website	website	website	7	english
 imately	imately	imately	7	english
@@ -100351,7 +100351,7 @@ written	written	written	7	english
 ▁Verify	▁Verify	� � Verify	7	english
 ▁Bitmap	▁Bitmap		7	russian
 ▁Unique	▁Unique		7	french
-OrderBy	OrderBy	Order By	7	english
+OrderBy	OrderBy		7	code
 minimum	minimum	minimum	7	english
 general	general	general	7	english
 ▁thrown	▁thrown	� � th rown	7	english
@@ -100389,7 +100389,7 @@ working	working	working	7	english
 Picture	Picture	Picture	7	english
 ▁Helper	▁Helper	� � Helper	7	english
 ▁edited	▁edited	� � edited	7	english
-IndexOf	IndexOf	Index Of	7	english
+IndexOf	IndexOf		7	code
 ▁powers	▁powers	� � powers	7	english
 ▁Repeat	▁Repeat		7	NULL
 Maximum	Maximum	Maximum	7	english
@@ -100401,7 +100401,7 @@ heading	heading	heading	7	english
 ▁latter	▁latter		7	german
 ▁cosine	▁cosine		7	NULL
 parents	parents	parents	7	english
-DataSet	DataSet	Data Set	7	english
+DataSet	DataSet		7	code
 ▁effort	▁effort	� � eff ort	7	english
 clicked	clicked	clicked	7	english
 ▁reload	▁reload		7	NULL
@@ -100582,7 +100582,7 @@ pending	pending	pending	7	english
 ▁Launch	▁Launch	� � Launch	7	english
 ▁PROVID	▁PROVID		7	NULL
 ▁Detail	▁Detail	� � Detail	7	english
-▁QtCore	▁QtCore		7	NULL
+▁QtCore	▁QtCore		7	code
 ▁orient	▁orient	� � orient	7	english
 ▁leader	▁leader		7	NULL
 failure	failure	failure	7	english
@@ -100846,7 +100846,7 @@ sklearn	sklearn	sk learn	7	english
 traffic	traffic	traffic	7	english
 ▁Silver	▁Silver	� � Silver	7	english
 ▁paying	▁paying	� � pay ing	7	english
-DataRow	DataRow	Data Row	7	english
+DataRow	DataRow		7	code
 ▁diagon	▁diagon		7	NULL
 Reviews	Reviews	Reviews	7	english
 overlap	overlap	over lap	7	english
@@ -100932,7 +100932,7 @@ meeting	meeting	meeting	7	english
 ▁spirit	▁spirit		7	NULL
 compact	compact	compact	7	english
 ▁nation	▁nation	� � nation	7	english
-▁ModInt	▁ModInt		7	NULL
+▁ModInt	▁ModInt		7	code
 Prepare	Prepare	Prepare	7	english
 ▁planes	▁planes		7	NULL
 ▁Monday	▁Monday		7	NULL
@@ -100940,7 +100940,7 @@ outside	outside	outside	7	english
 ▁proved	▁proved	� � proved	7	english
 ▁patent	▁patent		7	german
 ▁провер	▁провер		7	russian
-ReadInt	ReadInt	Read Int	7	english
+ReadInt	ReadInt		7	code
 iterate	iterate	iterate	7	english
 ▁stairs	▁stairs		7	french
 ▁torque	▁torque		7	french
@@ -101096,7 +101096,7 @@ Chinese	Chinese	Chinese	7	english
 ▁contin	▁contin		7	NULL
 ▁mutual	▁mutual	� � mut ual	7	english
 ▁golden	▁golden	� � gold en	7	english
-MaxPool	MaxPool	Max Pool	7	english
+MaxPool	MaxPool		7	code
 ▁guides	▁guides	� � guid es	7	english
 -------	-------		7	NULL
 ▁Coffee	▁Coffee		7	NULL
@@ -101130,7 +101130,7 @@ overall	overall	overall	7	english
 perhaps	perhaps	perhaps	7	english
 lattice	lattice		7	german
 ▁Robert	▁Robert		7	NULL
-NetCore	NetCore	Net Core	7	english
+NetCore	NetCore		7	code
 valores	valores	val ores	7	english
 ▁twenty	▁twenty	� � tw enty	7	english
 Perfect	Perfect	Perfect	7	english
@@ -101156,7 +101156,7 @@ medical	medical	medical	7	english
 ▁pocket	▁pocket	� � p ocket	7	english
 ▁ration	▁ration	� � ration	7	english
 ▁sister	▁sister	� � s ister	7	english
-CodeDom	CodeDom	Code Dom	7	english
+CodeDom	CodeDom		7	code
 explain	explain	ex plain	7	english
 inciple	inciple	incip le	7	english
 ▁recept	▁recept	� � re cept	7	english
@@ -101202,7 +101202,7 @@ entered	entered	entered	7	english
 licable	licable	licable	7	english
 ▁steady	▁steady	� � steady	7	english
 ▁Taylor	▁Taylor	� � Taylor	7	english
-YouTube	YouTube	You Tube	7	english
+YouTube	YouTube		7	code
 assumed	assumed	ass umed	7	english
 ▁arises	▁arises	� � ar ises	7	english
 ▁County	▁County	� � County	7	english
@@ -101240,7 +101240,7 @@ horizon	horizon	h orizon	7	english
 ▁Unlike	▁Unlike	� � Unlike	7	english
 ▁послед	▁послед		7	russian
 Medical	Medical	Medical	7	english
-▁PayPal	▁PayPal		7	NULL
+▁PayPal	▁PayPal		7	code
 ▁marble	▁marble	� � mar ble	7	english
 ▁expres	▁expres		7	NULL
 ▁shower	▁shower	� � sh ower	7	english
@@ -109053,7 +109053,7 @@ ollagen	ollagen		7	german
 ▁khách	▁khách		7	NULL
 ▁thuong	▁thuong	� � thu ong	7	english
 ▁Nguyệt	▁Nguyệt		7	vietnamese
-▁ShipTo	▁ShipTo		7	NULL
+▁ShipTo	▁ShipTo		7	code
 ▁nghiện	▁nghiện		7	vietnamese
 ▁nghịch	▁nghịch		7	vietnamese
 ▁Saigon	▁Saigon	� � Sa igon	7	english
@@ -109145,7 +109145,7 @@ nguyent	nguyent	ng uy ent	7	english
 ▁Erling	▁Erling	� � Er ling	7	english
 ▁Cerezo	▁Cerezo		7	NULL
 ▁bệnh	▁bệnh	� � be ̣ ̂ nh	7	english
-VinFast	VinFast	Vin Fast	7	english
+VinFast	VinFast		7	code
 ▁trứng	▁trứng		7	turkish
 hyundai	hyundai		7	french
 tailieu	tailieu		7	french
@@ -109291,7 +109291,7 @@ Listener	Listener	Listener	8	english
 ▁channel	▁channel	� � channel	8	english
 ▁reverse	▁reverse		8	NULL
 igration	igration	igration	8	english
-ToString	ToString	To String	8	english
+ToString	ToString		8	code
 ▁similar	▁similar	� � similar	8	english
 ▁Setting	▁Setting	� � Setting	8	english
 ▁writing	▁writing	� � writing	8	english
@@ -109307,7 +109307,7 @@ location	location	location	8	english
 ▁Returns	▁Returns		8	NULL
 settings	settings	settings	8	english
 ▁headers	▁headers		8	NULL
-DateTime	DateTime		8	german
+DateTime	DateTime		8	code
 Function	Function	Function	8	english
 Document	Document	Document	8	english
 Argument	Argument	Argument	8	english
@@ -109335,7 +109335,7 @@ overflow	overflow	overflow	8	english
 ▁handler	▁handler		8	NULL
 Required	Required	Required	8	english
 ▁decimal	▁decimal		8	italian
-TestCase	TestCase	Test Case	8	english
+TestCase	TestCase		8	code
 Location	Location	Location	8	english
 ▁looking	▁looking	� � looking	8	english
 ▁browser	▁browser		8	NULL
@@ -109479,7 +109479,7 @@ operator	operator	operator	8	english
 ▁Reading	▁Reading	� � Reading	8	english
 ▁defines	▁defines	� � defines	8	english
 ▁desired	▁desired	� � desired	8	english
-NotFound	NotFound	Not Found	8	english
+NotFound	NotFound		8	code
 ▁capture	▁capture	� � capture	8	english
 ▁appears	▁appears	� � appe ars	8	english
 internal	internal	internal	8	english
@@ -109495,7 +109495,7 @@ complete	complete	complete	8	english
 ▁thought	▁thought	� � thought	8	english
 question	question	question	8	english
 Security	Security	Security	8	english
-AreEqual	AreEqual	Are Equal	8	english
+AreEqual	AreEqual		8	code
 ▁choices	▁choices	� � choices	8	english
 language	language	language	8	english
 ▁enabled	▁enabled		8	spanish
@@ -109524,7 +109524,7 @@ packages	packages	packages	8	english
 ▁happens	▁happens	� � h app ens	8	english
 Entities	Entities	Entities	8	english
 ▁factory	▁factory	� � factory	8	english
-FileName	FileName	File Name	8	english
+FileName	FileName		8	code
 Customer	Customer	Customer	8	english
 sentence	sentence	sentence	8	english
 Fragment	Fragment		8	german
@@ -109559,7 +109559,7 @@ material	material	material	8	english
 Username	Username	Username	8	english
 ▁Current	▁Current	� � Current	8	english
 ▁picture	▁picture	� � picture	8	english
-IsNullOr	IsNullOr	Is Null Or	8	english
+IsNullOr	IsNullOr		8	code
 ▁appreci	▁appreci		8	italian
 Descript	Descript	Des cript	8	english
 Diagnost	Diagnost	Diagn ost	8	english
@@ -109660,13 +109660,13 @@ Iterator	Iterator	Iterator	8	english
 pecially	pecially	pecially	8	english
 ▁Scanner	▁Scanner		8	NULL
 relation	relation	relation	8	english
-ReadOnly	ReadOnly	Read Only	8	english
+ReadOnly	ReadOnly		8	code
 unsigned	unsigned	unsigned	8	english
 ▁payment	▁payment	� � payment	8	english
 ▁imports	▁imports	� � imports	8	english
 channels	channels	channels	8	english
 ▁concept	▁concept	� � concept	8	english
-▁HashMap	▁HashMap		8	NULL
+▁HashMap	▁HashMap		8	code
 ▁symbols	▁symbols		8	NULL
 provider	provider	provider	8	english
 ▁ordered	▁ordered	� � ordered	8	english
@@ -109675,9 +109675,9 @@ abstract	abstract	abstract	8	english
 ▁closing	▁closing	� � closing	8	english
 datasets	datasets		8	italian
 ▁cancell	▁cancell	� � c ancell	8	english
-AddField	AddField	Add Field	8	english
+AddField	AddField		8	code
 ▁showing	▁showing	� � show ing	8	english
-GetValue	GetValue		8	german
+GetValue	GetValue		8	code
 Redirect	Redirect	Redirect	8	english
 deletion	deletion	de letion	8	english
 Encoding	Encoding	Encoding	8	english
@@ -109694,7 +109694,7 @@ Standard	Standard	Standard	8	english
 ▁attempt	▁attempt	� � attempt	8	english
 ▁println	▁println	� � println	8	english
 linspace	linspace	lin space	8	english
-ViewById	ViewById	View By Id	8	english
+ViewById	ViewById		8	code
 ▁voltage	▁voltage	� � vol tage	8	english
 ▁getchar	▁getchar	� � get char	8	english
 ▁applies	▁applies	� � ap plies	8	english
@@ -109717,7 +109717,7 @@ specific	specific	specific	8	english
 ikipedia	ikipedia		8	turkish
 fileName	fileName		8	code
 ▁playing	▁playing	� � playing	8	english
-ListView	ListView	List View	8	english
+ListView	ListView		8	code
 examples	examples	examples	8	english
 ▁Creates	▁Creates		8	NULL
 ▁station	▁station	� � station	8	english
@@ -109737,7 +109737,7 @@ redirect	redirect	redirect	8	english
 ▁targets	▁targets	� � targets	8	english
 ▁encrypt	▁encrypt		8	spanish
 ▁divisor	▁divisor		8	french
-TextView	TextView	Text View	8	english
+TextView	TextView		8	code
 graphics	graphics	graphics	8	english
 articles	articles	articles	8	english
 standard	standard	standard	8	english
@@ -109747,7 +109747,7 @@ endpoint	endpoint	endpoint	8	english
 ▁Twitter	▁Twitter		8	NULL
 requires	requires	requires	8	english
 ▁Include	▁Include	� � Include	8	english
-TreeNode	TreeNode	Tree Node	8	english
+TreeNode	TreeNode		8	code
 constant	constant	constant	8	english
 ▁restore	▁restore		8	italian
 ▁unknown	▁unknown	� � unknown	8	english
@@ -109844,7 +109844,7 @@ formance	formance	formance	8	english
 ▁Unicode	▁Unicode		8	NULL
 ▁welcome	▁welcome	� � welcome	8	english
 ▁inherit	▁inherit	� � inherit	8	english
-MenuItem	MenuItem	Menu Item	8	english
+MenuItem	MenuItem		8	code
 makedirs	makedirs	mak ed irs	8	english
 ▁Promise	▁Promise	� � Promise	8	english
 ▁talking	▁talking	� � talk ing	8	english
@@ -109885,7 +109885,7 @@ external	external	external	8	english
 ▁Because	▁Because		8	NULL
 ▁Dataset	▁Dataset		8	italian
 ▁Attempt	▁Attempt	� � Attempt	8	english
-DataType	DataType	Data Type	8	english
+DataType	DataType		8	code
 Original	Original	Original	8	english
 Software	Software	Software	8	english
 timezone	timezone	timezone	8	english
@@ -109980,7 +109980,7 @@ multiply	multiply	multiply	8	english
 ▁suspect	▁suspect	� � sus pect	8	english
 queryset	queryset	query set	8	english
 gradient	gradient		8	spanish
-TypeName	TypeName		8	german
+TypeName	TypeName		8	code
 ▁regions	▁regions	� � regions	8	english
 ▁protect	▁protect		8	NULL
 triangle	triangle	triangle	8	english
@@ -110007,7 +110007,7 @@ equation	equation	equ ation	8	english
 ▁Publish	▁Publish	� � Publish	8	english
 ▁Section	▁Section	� � Section	8	english
 ological	ological	ological	8	english
-NumberOf	NumberOf	Number Of	8	english
+NumberOf	NumberOf		8	code
 vertical	vertical	vertical	8	english
 Consider	Consider	Consider	8	english
 ▁domains	▁domains		8	french
@@ -110077,9 +110077,9 @@ Gradient	Gradient		8	spanish
 finished	finished	finished	8	english
 ▁greatly	▁greatly		8	NULL
 standing	standing	standing	8	english
-▁YouTube	▁YouTube		8	NULL
-ShouldBe	ShouldBe	Should Be	8	english
-TryParse	TryParse	Try Parse	8	english
+▁YouTube	▁YouTube		8	code
+ShouldBe	ShouldBe		8	code
+TryParse	TryParse		8	code
 ▁learned	▁learned	� � learn ed	8	english
 ▁treated	▁treated	� � treated	8	english
 ▁softmax	▁softmax		8	french
@@ -110089,7 +110089,7 @@ research	research	research	8	english
 ▁whereas	▁whereas	� � where as	8	english
 ▁meeting	▁meeting	� � meeting	8	english
 ▁spatial	▁spatial	� � sp atial	8	english
-▁PyTorch	▁PyTorch		8	NULL
+▁PyTorch	▁PyTorch		8	code
 Computer	Computer	Computer	8	english
 ▁INTEGER	▁INTEGER		8	NULL
 Particle	Particle	Particle	8	english
@@ -110104,7 +110104,7 @@ parallel	parallel	parallel	8	english
 NSString	NSString	NSString	8	english
 ▁biggest	▁biggest	� � big gest	8	english
 ▁serious	▁serious	� � ser ious	8	english
-ListNode	ListNode	List Node	8	english
+ListNode	ListNode		8	code
 ▁joining	▁joining	� � joining	8	english
 ▁knowing	▁knowing	� � kn owing	8	english
 numberOf	numberOf		8	code
@@ -110113,7 +110113,7 @@ fraction	fraction	fraction	8	english
 ▁careful	▁careful	� � care ful	8	english
 ▁totally	▁totally	� � tot ally	8	english
 ▁rewrite	▁rewrite	� � rewrite	8	english
-GridView	GridView	Grid View	8	english
+GridView	GridView		8	code
 ▁Average	▁Average	� � Average	8	english
 building	building	building	8	english
 ▁curious	▁curious	� � cur ious	8	english
@@ -110149,7 +110149,7 @@ delegate	delegate	delegate	8	english
 ▁conduct	▁conduct	� � conduct	8	english
 ▁Details	▁Details	� � Details	8	english
 rcParams	rcParams		8	code
-TimeSpan	TimeSpan	Time Span	8	english
+TimeSpan	TimeSpan		8	code
 ▁History	▁History	� � History	8	english
 ▁Forward	▁Forward		8	NULL
 ▁Special	▁Special	� � Special	8	english
@@ -110164,7 +110164,7 @@ sampling	sampling	sampling	8	english
 Retrieve	Retrieve	Retrieve	8	english
 ▁rolling	▁rolling	� � rolling	8	english
 Negative	Negative	Negative	8	english
-ComboBox	ComboBox	Combo Box	8	english
+ComboBox	ComboBox		8	code
 ▁realize	▁realize	� � real ize	8	english
 ▁telling	▁telling	� � telling	8	english
 ▁pooling	▁pooling	� � pool ing	8	english
@@ -110186,7 +110186,7 @@ Parallel	Parallel	Parallel	8	english
 Decision	Decision	Decision	8	english
 Debugger	Debugger	Debugger	8	english
 ▁metavar	▁metavar		8	italian
-CheckBox	CheckBox	Check Box	8	english
+CheckBox	CheckBox		8	code
 matching	matching	matching	8	english
 ▁labeled	▁labeled	� � l abeled	8	english
 ▁shifted	▁shifted	� � shift ed	8	english
@@ -110365,7 +110365,7 @@ physical	physical	physical	8	english
 ▁informa	▁informa		8	NULL
 ▁Systems	▁Systems	� � Systems	8	english
 accepted	accepted	accepted	8	english
-FileType	FileType	File Type	8	english
+FileType	FileType		8	code
 ▁Correct	▁Correct	� � Correct	8	english
 ▁Edition	▁Edition	� � Edition	8	english
 Research	Research	Research	8	english
@@ -110457,7 +110457,7 @@ election	election	e lection	8	english
 director	director	director	8	english
 ▁transit	▁transit	� � trans it	8	english
 ▁Quantum	▁Quantum	� � Quantum	8	english
-DataGrid	DataGrid	Data Grid	8	english
+DataGrid	DataGrid		8	code
 matrices	matrices	mat rices	8	english
 Director	Director	Director	8	english
 ymmetric	ymmetric	ymmetric	8	english
@@ -110676,7 +110676,7 @@ anything	anything	anything	8	english
 ▁proving	▁proving	� � pro ving	8	english
 ▁inertia	▁inertia		8	german
 ▁focuses	▁focuses	� � focus es	8	english
-FromArgb	FromArgb	From Argb	8	english
+FromArgb	FromArgb		8	code
 ▁Classic	▁Classic	� � Classic	8	english
 ▁suffice	▁suffice	� � s uff ice	8	english
 ▁evening	▁evening	� � even ing	8	english
@@ -110811,7 +110811,7 @@ checkBox	checkBox		8	code
 ▁Besides	▁Besides	� � Besides	8	english
 analytic	analytic	analytic	8	english
 ▁halfway	▁halfway	� � half way	8	english
-TabIndex	TabIndex	Tab Index	8	english
+TabIndex	TabIndex		8	code
 ▁Matthew	▁Matthew		8	NULL
 ▁dragged	▁dragged	� � drag ged	8	english
 ▁whoever	▁whoever		8	french
@@ -112056,10 +112056,10 @@ Lyapunov	Lyapunov		8	serbian
 وبالتالي	وبالتالي		8	arabic
 المناسبة	المناسبة		8	arabic
 فلسطينية	فلسطينية		8	arabic
-WhatsApp	WhatsApp	Whats App	8	english
+WhatsApp	WhatsApp		8	code
 ▁العدوال	▁العدوال		8	arabic
 ▁ومميزات	▁ومميزات		8	arabic
-▁GeForce	▁GeForce		8	NULL
+▁GeForce	▁GeForce		8	code
 المساعدة	المساعدة		8	arabic
 urnished	urnished	urnished	8	english
 ▁المتنقل	▁المتنقل		8	arabic
@@ -116089,10 +116089,10 @@ Showroom	Showroom	Show room	8	english
 ▁trường	▁trường	� � tr ươ ̀ ng	8	english
 ▁viettel	▁viettel		8	NULL
 ▁nghiệp	▁nghiệp		8	vietnamese
-▁VietSub	▁VietSub		8	NULL
-▁VinFast	▁VinFast		8	NULL
+▁VietSub	▁VietSub		8	code
+▁VinFast	▁VinFast		8	code
 ▁HOTLINE	▁HOTLINE		8	japanese
-▁VietNam	▁VietNam		8	vietnamese
+▁VietNam	▁VietNam		8	code
 ▁chuyển	▁chuyển		8	russian
 ▁thường	▁thường		8	vietnamese
 ▁Exciter	▁Exciter	� � Exc iter	8	english
@@ -116162,7 +116162,7 @@ framework	framework	framework	9	english
 ▁distance	▁distance	� � distance	9	english
 ▁readonly	▁readonly		9	spanish
 ▁operator	▁operator	� � operator	9	english
-CharField	CharField	Char Field	9	english
+CharField	CharField		9	code
 ▁language	▁language	� � language	9	english
 ▁username	▁username	� � username	9	english
 ▁generate	▁generate		9	NULL
@@ -116183,7 +116183,7 @@ Threading	Threading	Thread ing	9	english
 ▁internal	▁internal	� � internal	9	english
 questions	questions	questions	9	english
 ▁encoding	▁encoding	� � encoding	9	english
-WriteLine	WriteLine	Write Line	9	english
+WriteLine	WriteLine		9	code
 ▁integers	▁integers		9	NULL
 ▁features	▁features	� � features	9	english
 ▁messages	▁messages		9	italian
@@ -116191,7 +116191,7 @@ WriteLine	WriteLine	Write Line	9	english
 ▁sentence	▁sentence	� � sentence	9	english
 ▁creating	▁creating	� � creating	9	english
 ▁software	▁software	� � software	9	english
-▁DateTime	▁DateTime		9	german
+▁DateTime	▁DateTime		9	code
 ▁Generate	▁Generate		9	NULL
 ▁consider	▁consider	� � consider	9	english
 ▁category	▁category	� � category	9	english
@@ -116214,7 +116214,7 @@ Interface	Interface	Interface	9	english
 ▁interval	▁interval		9	NULL
 ▁unittest	▁unittest		9	NULL
 ▁callback	▁callback	� � callback	9	english
-ViewModel	ViewModel	View Model	9	english
+ViewModel	ViewModel		9	code
 ▁provides	▁provides	� � provid es	9	english
 ▁returned	▁returned	� � returned	9	english
 ategories	ategories	ategories	9	english
@@ -116242,7 +116242,7 @@ struction	struction	struction	9	english
 ▁includes	▁includes	� � includes	9	english
 ▁interact	▁interact		9	NULL
 ▁constant	▁constant		9	NULL
-DataFrame	DataFrame	Data Frame	9	english
+DataFrame	DataFrame		9	code
 ▁endpoint	▁endpoint	� � endpoint	9	english
 ▁argparse	▁argparse		9	NULL
 ▁included	▁included	� � included	9	english
@@ -116281,7 +116281,7 @@ interface	interface	interface	9	english
 ▁problems	▁problems	� � pro blems	9	english
 ▁unsigned	▁unsigned	� � unsigned	9	english
 ▁increase	▁increase	� � increase	9	english
-EventArgs	EventArgs	Event Args	9	english
+EventArgs	EventArgs		9	code
 ▁together	▁together	� � t ogether	9	english
 ▁interpre	▁interpre		9	italian
 ▁followed	▁followed	� � follow ed	9	english
@@ -116291,7 +116291,7 @@ EventArgs	EventArgs	Event Args	9	english
 timestamp	timestamp	timestamp	9	english
 ▁appropri	▁appropri		9	italian
 ▁reserved	▁reserved	� � reserved	9	english
-▁TreeNode	▁TreeNode		9	NULL
+▁TreeNode	▁TreeNode		9	code
 ▁duration	▁duration	� � duration	9	english
 ▁interest	▁interest	� � interest	9	english
 ▁platform	▁platform	� � platform	9	english
@@ -116316,14 +116316,14 @@ condition	condition	condition	9	english
 Constants	Constants	Constants	9	english
 ▁security	▁security	� � security	9	english
 Formatter	Formatter	Formatter	9	english
-ArrayList	ArrayList	Array List	9	english
-TextField	TextField	Text Field	9	english
+ArrayList	ArrayList		9	code
+TextField	TextField		9	code
 ▁dispatch	▁dispatch	� � dispatch	9	english
 ▁triangle	▁triangle	� � triangle	9	english
 ▁creation	▁creation	� � creation	9	english
 ▁smallest	▁smallest	� � small est	9	english
 ▁assigned	▁assigned	� � assigned	9	english
-▁ListNode	▁ListNode		9	NULL
+▁ListNode	▁ListNode		9	code
 ▁Category	▁Category	� � Category	9	english
 Extension	Extension	Extension	9	english
 component	component	component	9	english
@@ -116406,8 +116406,8 @@ velopment	velopment	velopment	9	english
 ▁describe	▁describe	� � describe	9	english
 ▁vertical	▁vertical	� � vertical	9	english
 ▁replaced	▁replaced	� � re placed	9	english
-OrDefault	OrDefault	Or Default	9	english
-DbContext	DbContext		9	russian
+OrDefault	OrDefault		9	code
+DbContext	DbContext		9	code
 minecraft	minecraft	minecraft	9	english
 ▁remember	▁remember	� � remember	9	english
 Animation	Animation	Animation	9	english
@@ -116526,7 +116526,7 @@ construct	construct	construct	9	english
 ▁variance	▁variance		9	NULL
 embedding	embedding	embedding	9	english
 ▁internet	▁internet		9	turkish
-AutoField	AutoField	Auto Field	9	english
+AutoField	AutoField		9	code
 ▁bounding	▁bounding	� � bounding	9	english
 ▁normally	▁normally	� � normally	9	english
 Something	Something	Something	9	english
@@ -116540,12 +116540,12 @@ Inventory	Inventory	Inventory	9	english
 calculate	calculate	calculate	9	english
 ▁assuming	▁assuming	� � assuming	9	english
 ▁implicit	▁implicit		9	NULL
-▁TestCase	▁TestCase		9	NULL
+▁TestCase	▁TestCase		9	code
 ▁fontsize	▁fontsize		9	russian
 ▁controls	▁controls		9	NULL
 rocessing	rocessing	rocessing	9	english
 ▁particip	▁particip		9	italian
-▁TimeSpan	▁TimeSpan	� � Time Span	9	english
+▁TimeSpan	▁TimeSpan		9	code
 ▁simulate	▁simulate	� � simulate	9	english
 ▁whenever	▁whenever	� � wh enever	9	english
 ▁possibly	▁possibly	� � possibly	9	english
@@ -116554,7 +116554,7 @@ rocessing	rocessing	rocessing	9	english
 ▁Required	▁Required	� � Required	9	english
 something	something	something	9	english
 ▁attached	▁attached	� � attached	9	english
-SetActive	SetActive	Set Active	9	english
+SetActive	SetActive		9	code
 ▁particle	▁particle	� � particle	9	english
 ▁Keyboard	▁Keyboard	� � Keyboard	9	english
 neighbors	neighbors	neighbors	9	english
@@ -116609,7 +116609,7 @@ optimizer	optimizer	optimizer	9	english
 positions	positions	positions	9	english
 ▁declared	▁declared	� � decl ared	9	english
 Alignment	Alignment	Alignment	9	english
-▁KeyError	▁KeyError	� � Key Error	9	english
+▁KeyError	▁KeyError		9	code
 ▁Internet	▁Internet	� � Internet	9	english
 ▁Sequence	▁Sequence	� � Sequence	9	english
 ▁confused	▁confused	� � conf used	9	english
@@ -116639,11 +116639,11 @@ necessary	necessary		9	spanish
 Copyright	Copyright	Copyright	9	english
 ▁Multiply	▁Multiply	� � Multiply	9	english
 undefined	undefined	undefined	9	english
-DateField	DateField		9	german
+DateField	DateField		9	code
 tablename	tablename	tablename	9	english
 ▁involved	▁involved	� � in volved	9	english
 constexpr	constexpr	constexpr	9	english
-GetString	GetString	Get String	9	english
+GetString	GetString		9	code
 ▁Decision	▁Decision	� � Decision	9	english
 ▁somewhat	▁somewhat	� � some what	9	english
 Questions	Questions	Questions	9	english
@@ -116671,7 +116671,7 @@ Frequency	Frequency	Frequency	9	english
 ▁creature	▁creature	� � cre ature	9	english
 ▁captured	▁captured	� � capt ured	9	english
 ▁answered	▁answered	� � answered	9	english
-TestClass	TestClass	Test Class	9	english
+TestClass	TestClass		9	code
 signature	signature	signature	9	english
 completed	completed	completed	9	english
 instances	instances	instances	9	english
@@ -116699,7 +116699,7 @@ community	community	community	9	english
 Dimension	Dimension	Dimension	9	english
 predicted	predicted	pred icted	9	english
 Calculate	Calculate	Calculate	9	english
-TextInput	TextInput	Text Input	9	english
+TextInput	TextInput		9	code
 ▁forecast	▁forecast		9	NULL
 ▁affected	▁affected	� � affected	9	english
 separated	separated	se parated	9	english
@@ -116748,7 +116748,7 @@ histogram	histogram	hist ogram	9	english
 ▁momentum	▁momentum	� � moment um	9	english
 ▁topology	▁topology	� � top ology	9	english
 ▁prepared	▁prepared	� � prepared	9	english
-TypeError	TypeError	Type Error	9	english
+TypeError	TypeError		9	code
 lowercase	lowercase	lower case	9	english
 ▁computes	▁computes	� � comput es	9	english
 ▁birthday	▁birthday	� � birthday	9	english
@@ -116783,7 +116783,7 @@ iteration	iteration		9	french
 enumerate	enumerate		9	french
 ▁compound	▁compound	� � compound	9	english
 ▁distingu	▁distingu	� � dist ingu	9	english
-DllImport	DllImport	Dll Import	9	english
+DllImport	DllImport		9	code
 ▁Gradient	▁Gradient		9	spanish
 ▁measured	▁measured	� � me asured	9	english
 ▁simplest	▁simplest		9	NULL
@@ -116822,7 +116822,7 @@ secondary	secondary	secondary	9	english
 ▁Defaults	▁Defaults		9	NULL
 Wikipedia	Wikipedia	Wikipedia	9	english
 threading	threading	thread ing	9	english
-QtWidgets	QtWidgets	Qt Widgets	9	english
+QtWidgets	QtWidgets		9	code
 ▁designer	▁designer	� � designer	9	english
 ▁investig	▁investig	� � invest ig	9	english
 ▁referred	▁referred	� � re ferred	9	english
@@ -116941,7 +116941,7 @@ education	education	education	9	english
 ▁suddenly	▁suddenly	� � s ud denly	9	english
 remainder	remainder	re mainder	9	english
 ▁scanning	▁scanning	� � sc anning	9	english
-PropTypes	PropTypes	Prop Types	9	english
+PropTypes	PropTypes		9	code
 ▁instruct	▁instruct	� � in struct	9	english
 ▁pairwise	▁pairwise		9	NULL
 disposing	disposing		9	italian
@@ -116960,7 +116960,7 @@ Intercept	Intercept	Intercept	9	english
 ▁Designer	▁Designer	� � Designer	9	english
 procedure	procedure	procedure	9	english
 ▁reaching	▁reaching	� � re aching	9	english
-BatchNorm	BatchNorm	Batch Norm	9	english
+BatchNorm	BatchNorm		9	code
 ▁calories	▁calories	� � cal ories	9	english
 inference	inference	in ference	9	english
 ▁результа	▁результа		9	russian
@@ -117008,7 +117008,7 @@ traceback	traceback		9	spanish
 ascending	ascending	ascending	9	english
 ▁national	▁national	� � national	9	english
 knowledge	knowledge	knowledge	9	english
-TagHelper	TagHelper	Tag Helper	9	english
+TagHelper	TagHelper		9	code
 ▁Negative	▁Negative	� � Negative	9	english
 ▁Specific	▁Specific	� � Specific	9	english
 ▁dynamics	▁dynamics	� � d ynamics	9	english
@@ -117074,7 +117074,7 @@ statistic	statistic	stat istic	9	english
 Financial	Financial	Financial	9	english
 ▁elliptic	▁elliptic	� � ell ipt ic	9	english
 ▁Electron	▁Electron	� � Electron	9	english
-ReSharper	ReSharper	Re Sharper	9	english
+ReSharper	ReSharper		9	code
 ▁overcome	▁overcome	� � over come	9	english
 ▁inspired	▁inspired	� � in spired	9	english
 ▁energies	▁energies	� � ener gies	9	english
@@ -117098,7 +117098,7 @@ deviation	deviation	de viation	9	english
 underline	underline	underline	9	english
 ▁marginal	▁marginal		9	NULL
 ▁adaptive	▁adaptive	� � adaptive	9	english
-BackColor	BackColor	Back Color	9	english
+BackColor	BackColor		9	code
 ▁Practice	▁Practice	� � Practice	9	english
 ▁nonlocal	▁nonlocal	� � non local	9	english
 amplitude	amplitude	am plitude	9	english
@@ -117110,7 +117110,7 @@ setlength	setlength	set length	9	english
 ▁Revision	▁Revision	� � Revision	9	english
 ferential	ferential	fer ential	9	english
 computing	computing	comput ing	9	english
-ElementAt	ElementAt	Element At	9	english
+ElementAt	ElementAt		9	code
 ▁calculus	▁calculus	� � cal culus	9	english
 ▁arranged	▁arranged	� � arr anged	9	english
 ▁carriage	▁carriage	� � car riage	9	english
@@ -117118,7 +117118,7 @@ ElementAt	ElementAt	Element At	9	english
 ▁theories	▁theories	� � the ories	9	english
 technical	technical	technical	9	english
 depending	depending	depending	9	english
-GetObject	GetObject	Get Object	9	english
+GetObject	GetObject		9	code
 ▁marriage	▁marriage	� � mar riage	9	english
 ▁redshift	▁redshift		9	NULL
 ▁unstable	▁unstable		9	german
@@ -117208,19 +117208,19 @@ localized	localized	localized	9	english
 ▁Problems	▁Problems	� � Problems	9	english
 ▁Pressure	▁Pressure		9	NULL
 ▁Topology	▁Topology	� � Topology	9	english
-TimeField	TimeField	Time Field	9	english
+TimeField	TimeField		9	code
 ▁employed	▁employed	� � em ployed	9	english
 iterative	iterative	iter ative	9	english
 ▁shoulder	▁shoulder	� � should er	9	english
 ▁Creative	▁Creative	� � Creative	9	english
 ▁journals	▁journals	� � journ als	9	english
-ToolStrip	ToolStrip	Tool Strip	9	english
+ToolStrip	ToolStrip		9	code
 ▁algebras	▁algebras	� � al ge bras	9	english
 ▁возможно	▁возможно		9	russian
 mediately	mediately	mediately	9	english
 ▁stepping	▁stepping	� � ste pping	9	english
 Interview	Interview	Interview	9	english
-▁FileType	▁FileType	� � File Type	9	english
+▁FileType	▁FileType		9	code
 glyphicon	glyphicon	glyphicon	9	english
 ▁yielding	▁yielding	� � yield ing	9	english
 ▁aluminum	▁aluminum	� � al uminum	9	english
@@ -117252,7 +117252,7 @@ marketing	marketing	marketing	9	english
 ▁Homework	▁Homework	� � Homework	9	english
 Cartesian	Cartesian		9	turkish
 ▁criminal	▁criminal	� � criminal	9	english
-ByVersion	ByVersion	By Version	9	english
+ByVersion	ByVersion		9	code
 Marketing	Marketing	Marketing	9	english
 Professor	Professor	Professor	9	english
 ▁элементы	▁элементы		9	russian
@@ -117291,12 +117291,12 @@ invariant	invariant	in variant	9	english
 linestyle	linestyle	lin estyle	9	english
 immediate	immediate	im mediate	9	english
 ▁Integral	▁Integral	� � Integral	9	english
-WordPress	WordPress	Word Press	9	english
+WordPress	WordPress		9	code
 ▁entitled	▁entitled	� � ent itled	9	english
 ▁добавить	▁добавить		9	russian
 ▁claiming	▁claiming	� � claim ing	9	english
 beautiful	beautiful	beautiful	9	english
-ForeColor	ForeColor	Fore Color	9	english
+ForeColor	ForeColor		9	code
 ▁historic	▁historic	� � historic	9	english
 ▁darkness	▁darkness	� � dark ness	9	english
 ▁cellular	▁cellular	� � cell ular	9	english
@@ -117319,7 +117319,7 @@ imaginary	imaginary	imag inary	9	english
 ▁dissolve	▁dissolve	� � d iss olve	9	english
 fractions	fractions	fra ctions	9	english
 described	described	des cribed	9	english
-▁WhatsApp	▁WhatsApp		9	NULL
+▁WhatsApp	▁WhatsApp		9	code
 ▁работать	▁работать		9	russian
 ▁acoustic	▁acoustic		9	portuguese
 ▁Simplify	▁Simplify	� � Simpl ify	9	english
@@ -117329,8 +117329,8 @@ described	described	des cribed	9	english
 ▁страницы	▁страницы		9	russian
 ▁########	▁########		9	NULL
 classical	classical	class ical	9	english
-AppCompat	AppCompat		9	indonesian
-PageIndex	PageIndex	Page Index	9	english
+AppCompat	AppCompat		9	code
+PageIndex	PageIndex		9	code
 ▁judgment	▁judgment	� � jud gment	9	english
 ▁pleasant	▁pleasant	� � pleasant	9	english
 ▁rigorous	▁rigorous		9	NULL
@@ -117607,7 +117607,7 @@ diffusion	diffusion		9	french
 textstyle	textstyle	text style	9	english
 logarithm	logarithm	log arith m	9	english
 pectation	pectation	pect ation	9	english
-RowNumber	RowNumber	Row Number	9	english
+RowNumber	RowNumber		9	code
 ▁arithmet	▁arithmet	� � arith met	9	english
 vanishing	vanishing	van ishing	9	english
 separable	separable	se parable	9	english
@@ -117649,7 +117649,7 @@ Chebyshev	Chebyshev	Che bys hev	9	english
 parabolic	parabolic	par abolic	9	english
 planetary	planetary	planet ary	9	english
 expressed	expressed	express ed	9	english
-▁CrossRef	▁CrossRef		9	NULL
+▁CrossRef	▁CrossRef		9	code
 empirical	empirical	emp irical	9	english
 splitting	splitting	spl itting	9	english
 inductive	inductive	ind uctive	9	english
@@ -120656,7 +120656,7 @@ Repository	Repository	Repository	10	english
 ▁className	▁className		10	code
 Connection	Connection	Connection	10	english
 Serializer	Serializer	Serializer	10	english
-▁DataFrame	▁DataFrame		10	NULL
+▁DataFrame	▁DataFrame		10	code
 ▁Copyright	▁Copyright	� � Copyright	10	english
 ▁transform	▁transform		10	NULL
 ▁statement	▁statement	� � statement	10	english
@@ -120684,10 +120684,10 @@ Properties	Properties	Properties	10	english
 ▁remaining	▁remaining	� � remaining	10	english
 ▁dataframe	▁dataframe		10	spanish
 ▁installed	▁installed	� � installed	10	english
-ForeignKey	ForeignKey	Foreign Key	10	english
+ForeignKey	ForeignKey		10	code
 components	components	components	10	english
 Expression	Expression	Expression	10	english
-▁ArrayList	▁ArrayList		10	NULL
+▁ArrayList	▁ArrayList		10	code
 ▁timestamp	▁timestamp	� � timestamp	10	english
 ▁iteration	▁iteration		10	french
 ▁connected	▁connected	� � connected	10	english
@@ -120702,7 +120702,7 @@ ationToken	ationToken		10	code
 ▁framework	▁framework	� � framework	10	english
 ▁displayed	▁displayed		10	NULL
 ▁determine	▁determine	� � det ermine	10	english
-▁CharField	▁CharField	� � Char Field	10	english
+▁CharField	▁CharField		10	code
 ▁Migration	▁Migration	� � Migration	10	english
 Validation	Validation	Validation	10	english
 ▁converted	▁converted	� � converted	10	english
@@ -120716,7 +120716,7 @@ processing	processing	processing	10	english
 ▁commented	▁commented	� � comment ed	10	english
 Dictionary	Dictionary	Dictionary	10	english
 ▁including	▁including	� � including	10	english
-AspNetCore	AspNetCore	Asp Net Core	10	english
+AspNetCore	AspNetCore		10	code
 ▁dimension	▁dimension	� � dimension	10	english
 ▁temporary	▁temporary	� � temporary	10	english
 ▁construct	▁construct	� � construct	10	english
@@ -120726,7 +120726,7 @@ AspNetCore	AspNetCore	Asp Net Core	10	english
 parameters	parameters	parameters	10	english
 validation	validation	validation	10	english
 ▁according	▁according	� � according	10	english
-▁PropTypes	▁PropTypes	� � Prop Types	10	english
+▁PropTypes	▁PropTypes		10	code
 Classifier	Classifier	Classifier	10	english
 ▁operating	▁operating	� � oper ating	10	english
 migrations	migrations	m igrations	10	english
@@ -120781,13 +120781,13 @@ javascript	javascript	javascript	10	english
 ▁optimizer	▁optimizer		10	NULL
 ▁Configure	▁Configure		10	NULL
 ▁remainder	▁remainder	� � re mainder	10	english
-AlterField	AlterField	Alter Field	10	english
+AlterField	AlterField		10	code
 ▁recursive	▁recursive	� � recursive	10	english
 ▁undefined	▁undefined		10	NULL
 ▁efficient	▁efficient		10	french
 ▁situation	▁situation	� � s ituation	10	english
 Management	Management	Management	10	english
-▁EventArgs	▁EventArgs		10	NULL
+▁EventArgs	▁EventArgs		10	code
 Components	Components	Components	10	english
 startswith	startswith	startswith	10	english
 ▁signature	▁signature	� � signature	10	english
@@ -120803,7 +120803,7 @@ exceptions	exceptions	exceptions	10	english
 ▁completed	▁completed	� � completed	10	english
 ▁candidate	▁candidate	� � candidate	10	english
 ▁sentences	▁sentences	� � sent ences	10	english
-StatusCode	StatusCode	Status Code	10	english
+StatusCode	StatusCode		10	code
 ▁wondering	▁wondering	� � wonder ing	10	english
 categories	categories	categories	10	english
 ▁sometimes	▁sometimes	� � sometimes	10	english
@@ -120824,11 +120824,11 @@ Reflection	Reflection	Reflection	10	english
 ▁Directory	▁Directory	� � Directory	10	english
 ▁basically	▁basically	� � bas ically	10	english
 ▁deviation	▁deviation	� � de viation	10	english
-TestMethod	TestMethod	Test Method	10	english
+TestMethod	TestMethod		10	code
 ▁extracted	▁extracted	� � ex tracted	10	english
 ▁searching	▁searching	� � search ing	10	english
 attributes	attributes	attributes	10	english
-▁TypeError	▁TypeError	� � Type Error	10	english
+▁TypeError	▁TypeError		10	code
 ▁therefore	▁therefore	� � there fore	10	english
 ▁distances	▁distances		10	NULL
 coordinate	coordinate	coordinate	10	english
@@ -120842,7 +120842,7 @@ expression	expression	expression	10	english
 ▁neighbors	▁neighbors	� � neighbors	10	english
 prediction	prediction	prediction	10	english
 ▁technique	▁technique	� � tech nique	10	english
-GameObject	GameObject	Game Object	10	english
+GameObject	GameObject		10	code
 ▁typically	▁typically	� � typically	10	english
 Navigation	Navigation	Navigation	10	english
 serializer	serializer	serializer	10	english
@@ -120877,7 +120877,7 @@ matplotlib	matplotlib	mat plotlib	10	english
 ▁Therefore	▁Therefore		10	NULL
 ▁regarding	▁regarding	� � reg arding	10	english
 permission	permission	permission	10	english
-InlineData	InlineData	Inline Data	10	english
+InlineData	InlineData		10	code
 ▁executing	▁executing	� � execut ing	10	english
 ▁arbitrary	▁arbitrary		10	portuguese
 ▁behaviour	▁behaviour	� � beh aviour	10	english
@@ -120910,7 +120910,7 @@ Horizontal	Horizontal	Horizontal	10	english
 ▁dependent	▁dependent		10	NULL
 ▁continues	▁continues	� � contin ues	10	english
 ▁introduce	▁introduce	� � introdu ce	10	english
-DataMember	DataMember	Data Member	10	english
+DataMember	DataMember		10	code
 ▁attention	▁attention	� � attention	10	english
 ▁interpret	▁interpret		10	italian
 ▁collision	▁collision	� � collision	10	english
@@ -120923,7 +120923,7 @@ Visibility	Visibility	Visibility	10	english
 Comparison	Comparison	Comparison	10	english
 experiment	experiment	experiment	10	english
 ▁magnitude	▁magnitude	� � m agnitude	10	english
-MainWindow	MainWindow	Main Window	10	english
+MainWindow	MainWindow		10	code
 ▁describes	▁describes	� � des cribes	10	english
 ▁interrupt	▁interrupt		10	NULL
 ▁Condition	▁Condition	� � Condition	10	english
@@ -120932,7 +120932,7 @@ validators	validators		10	spanish
 ▁secondary	▁secondary	� � secondary	10	english
 ▁linewidth	▁linewidth		10	NULL
 ▁useEffect	▁useEffect		10	code
-JavaScript	JavaScript	Java Script	10	english
+JavaScript	JavaScript		10	code
 ▁mechanism	▁mechanism	� � mechan ism	10	english
 decorators	decorators	decor ators	10	english
 ▁particles	▁particles	� � particles	10	english
@@ -120948,19 +120948,19 @@ Sequential	Sequential	Sequential	10	english
 ▁listening	▁listening	� � list ening	10	english
 ▁effective	▁effective	� � effective	10	english
 ▁initially	▁initially	� � initial ly	10	english
-ImageField	ImageField	Image Field	10	english
+ImageField	ImageField		10	code
 ▁anonymous	▁anonymous	� � anonymous	10	english
 ▁expensive	▁expensive	� � exp ensive	10	english
 transition	transition	transition	10	english
 ▁providing	▁providing	� � provid ing	10	english
 ▁evaluated	▁evaluated	� � evalu ated	10	english
 ▁unordered	▁unordered		10	spanish
-XmlElement	XmlElement	Xml Element	10	english
+XmlElement	XmlElement		10	code
 population	population	population	10	english
 dependency	dependency	dependency	10	english
 resolution	resolution	resolution	10	english
 ▁materials	▁materials		10	NULL
-MethodImpl	MethodImpl	Method Impl	10	english
+MethodImpl	MethodImpl		10	code
 activation	activation	activation	10	english
 ▁explained	▁explained	� � expl ained	10	english
 horizontal	horizontal	horizontal	10	english
@@ -120982,14 +120982,14 @@ percentage	percentage	percentage	10	english
 ▁extremely	▁extremely		10	NULL
 ▁aggregate	▁aggregate	� � aggregate	10	english
 ▁increases	▁increases	� � in creases	10	english
-PrimaryKey	PrimaryKey	Primary Key	10	english
-▁QtWidgets	▁QtWidgets		10	NULL
+PrimaryKey	PrimaryKey		10	code
+▁QtWidgets	▁QtWidgets		10	code
 ▁intensity	▁intensity	� � int ensity	10	english
 ▁symmetric	▁symmetric	� � s ymmetric	10	english
 ▁Algorithm	▁Algorithm	� � Algorithm	10	english
 ▁tradition	▁tradition	� � trad ition	10	english
 ▁technical	▁technical	� � technical	10	english
-ValueError	ValueError	Value Error	10	english
+ValueError	ValueError		10	code
 ▁intersect	▁intersect		10	NULL
 ▁perimeter	▁perimeter	� � per imeter	10	english
 distribute	distribute	dis tribute	10	english
@@ -121006,7 +121006,7 @@ Foundation	Foundation	Foundation	10	english
 ▁Something	▁Something	� � Something	10	english
 ▁sensitive	▁sensitive	� � s ensitive	10	english
 transforms	transforms	trans forms	10	english
-AppendLine	AppendLine	Append Line	10	english
+AppendLine	AppendLine		10	code
 ▁Euclidean	▁Euclidean		10	NULL
 operations	operations	operations	10	english
 ▁equipment	▁equipment	� � equipment	10	english
@@ -121036,14 +121036,14 @@ References	References	References	10	english
 ▁existence	▁existence	� � exist ence	10	english
 ▁portfolio	▁portfolio		10	NULL
 ▁obtaining	▁obtaining	� � obt aining	10	english
-ColumnName	ColumnName	Column Name	10	english
-▁ReSharper	▁ReSharper		10	NULL
+ColumnName	ColumnName		10	code
+▁ReSharper	▁ReSharper		10	code
 ▁switching	▁switching	� � switch ing	10	english
 assignment	assignment	assignment	10	english
 ▁criterion	▁criterion	� � criterion	10	english
 ▁estimated	▁estimated	� � estimated	10	english
 ▁injection	▁injection	� � in jection	10	english
-MessageBox	MessageBox	Message Box	10	english
+MessageBox	MessageBox		10	code
 dimensions	dimensions		10	french
 ▁destroyed	▁destroyed	� � destroy ed	10	english
 ▁triangles	▁triangles	� � tri angles	10	english
@@ -121053,7 +121053,7 @@ dimensions	dimensions		10	french
 ▁integrate	▁integrate		10	portuguese
 ▁composite	▁composite	� � com posite	10	english
 ▁scenarios	▁scenarios		10	NULL
-ObjectName	ObjectName	Object Name	10	english
+ObjectName	ObjectName		10	code
 ▁alternate	▁alternate		10	NULL
 descriptor	descriptor	descriptor	10	english
 ▁influence	▁influence	� � in fluence	10	english
@@ -121064,7 +121064,7 @@ descriptor	descriptor	descriptor	10	english
 preprocess	preprocess	pre process	10	english
 projection	projection	projection	10	english
 ▁intention	▁intention	� � int ention	10	english
-▁WordPress	▁WordPress		10	NULL
+▁WordPress	▁WordPress		10	code
 ▁Structure	▁Structure	� � Structure	10	english
 ▁estimator	▁estimator		10	spanish
 ▁combining	▁combining	� � comb ining	10	english
@@ -121079,7 +121079,7 @@ calculator	calculator	calculator	10	english
 simulation	simulation	simulation	10	english
 ▁Dimension	▁Dimension	� � Dimension	10	english
 additional	additional	additional	10	english
-▁PartialEq	▁PartialEq		10	NULL
+▁PartialEq	▁PartialEq		10	code
 ▁expressed	▁expressed	� � express ed	10	english
 ▁dedicated	▁dedicated	� � ded icated	10	english
 ▁satisfies	▁satisfies	� � s atisf ies	10	english
@@ -121123,7 +121123,7 @@ experience	experience	experience	10	english
 ▁practices	▁practices		10	german
 ▁Community	▁Community	� � Community	10	english
 ▁Transport	▁Transport	� � Transport	10	english
-▁AutoField	▁AutoField	� � Auto Field	10	english
+▁AutoField	▁AutoField		10	code
 confidence	confidence	confidence	10	english
 ▁discussed	▁discussed	� � dis cuss ed	10	english
 artifactId	artifactId		10	code
@@ -121167,7 +121167,7 @@ amiltonian	amiltonian		10	french
 ▁molecules	▁molecules	� � m olecules	10	english
 Algorithms	Algorithms	Algorithms	10	english
 ▁preceding	▁preceding	� � preced ing	10	english
-EnumMember	EnumMember	Enum Member	10	english
+EnumMember	EnumMember		10	code
 ▁producing	▁producing	� � produ cing	10	english
 ▁auxiliary	▁auxiliary	� � aux iliary	10	english
 ▁naturally	▁naturally	� � natur ally	10	english
@@ -121200,7 +121200,7 @@ varepsilon	varepsilon	vare psilon	10	english
 ▁inclusion	▁inclusion	� � in clusion	10	english
 ▁authentic	▁authentic	� � auth entic	10	english
 ▁reactions	▁reactions	� � re actions	10	english
-PowerShell	PowerShell	Power Shell	10	english
+PowerShell	PowerShell		10	code
 ▁unchecked	▁unchecked	� � unchecked	10	english
 especially	especially	especially	10	english
 Quaternion	Quaternion	Quaternion	10	english
@@ -121222,7 +121222,7 @@ polynomial	polynomial	pol ynomial	10	english
 ▁Christian	▁Christian		10	NULL
 ▁chocolate	▁chocolate		10	NULL
 Rightarrow	Rightarrow	Right arrow	10	english
-MaxPooling	MaxPooling	Max Pooling	10	english
+MaxPooling	MaxPooling		10	code
 ▁projected	▁projected	� � project ed	10	english
 ▁Traceback	▁Traceback		10	spanish
 ▁curvature	▁curvature	� � cur vature	10	english
@@ -121255,7 +121255,7 @@ importance	importance	importance	10	english
 University	University	University	10	english
 ▁transient	▁transient	� � trans ient	10	english
 protection	protection	pro tection	10	english
-TagHelpers	TagHelpers	Tag Helpers	10	english
+TagHelpers	TagHelpers		10	code
 ▁traveling	▁traveling	� � travel ing	10	english
 supervised	supervised	super vised	10	english
 ▁Solutions	▁Solutions	� � Solutions	10	english
@@ -121420,7 +121420,7 @@ government	government	government	10	english
 reasonable	reasonable	reasonable	10	english
 investment	investment	investment	10	english
 triangular	triangular	tri angular	10	english
-TensorFlow	TensorFlow	Tensor Flow	10	english
+TensorFlow	TensorFlow		10	code
 ▁Alexander	▁Alexander		10	NULL
 ▁chemicals	▁chemicals	� � chem icals	10	english
 ▁conducted	▁conducted	� � conduct ed	10	english
@@ -121579,7 +121579,7 @@ plications	plications	p lications	10	english
 ▁piecewise	▁piecewise	� � piece wise	10	english
 ▁Hermitian	▁Hermitian	� � Herm itian	10	english
 ▁isosceles	▁isosceles		10	italian
-MathSciNet	MathSciNet	Math Sci Net	10	english
+MathSciNet	MathSciNet		10	code
 ▁countably	▁countably	� � count ably	10	english
 ▁Frobenius	▁Frobenius		10	NULL
 ▁comprehen	▁comprehen	� � com pre hen	10	english
@@ -123503,7 +123503,7 @@ application	application	application	11	english
 ▁particular	▁particular	� � part icular	11	english
 ▁controller	▁controller		11	NULL
 ▁isinstance	▁isinstance	� � is instance	11	english
-▁ValueError	▁ValueError	� � Value Error	11	english
+▁ValueError	▁ValueError		11	code
 ▁serializer	▁serializer	� � serializer	11	english
 ▁calculated	▁calculated	� � cal culated	11	english
 ▁repository	▁repository	� � repository	11	english
@@ -123531,7 +123531,7 @@ Environment	Environment	Environment	11	english
 ▁compliance	▁compliance	� � com pliance	11	english
 ▁classifier	▁classifier	� � classifier	11	english
 Constructor	Constructor		11	spanish
-▁GameObject	▁GameObject	� � Game Object	11	english
+▁GameObject	▁GameObject		11	code
 Implemented	Implemented	Implemented	11	english
 ▁CONDITIONS	▁CONDITIONS	� � CON DIT IONS	11	english
 ▁categories	▁categories		11	NULL
@@ -123549,11 +123549,11 @@ IOException	IOException		11	german
 ▁sqlalchemy	▁sqlalchemy		11	NULL
 ▁iterations	▁iterations	� � iterations	11	english
 ▁completely	▁completely	� � com pletely	11	english
-▁JavaScript	▁JavaScript	� � Java Script	11	english
+▁JavaScript	▁JavaScript		11	code
 persistence	persistence	p ersistence	11	english
 Diagnostics	Diagnostics	Diagnostics	11	english
 ▁simulation	▁simulation	� � simulation	11	english
-InputStream	InputStream	Input Stream	11	english
+InputStream	InputStream		11	code
 ▁Foundation	▁Foundation	� � Foundation	11	english
 ▁references	▁references	� � references	11	english
 ▁exceptions	▁exceptions	� � exceptions	11	english
@@ -123585,7 +123585,7 @@ transaction	transaction	transaction	11	english
 ▁mathematic	▁mathematic	� � mat hem atic	11	english
 ▁descending	▁descending	� � descending	11	english
 ▁comprehens	▁comprehens	� � com preh ens	11	english
-▁ForeignKey	▁ForeignKey	� � Foreign Key	11	english
+▁ForeignKey	▁ForeignKey		11	code
 ▁polynomial	▁polynomial	� � pol ynomial	11	english
 ▁validators	▁validators		11	spanish
 placeholder	placeholder	placeholder	11	english
@@ -123598,7 +123598,7 @@ fortunately	fortunately	fortunately	11	english
 ▁encryption	▁encryption	� � en cryption	11	english
 Programming	Programming	Programming	11	english
 ▁configured	▁configured	� � configured	11	english
-DisplayName	DisplayName	Display Name	11	english
+DisplayName	DisplayName		11	code
 ▁especially	▁especially	� � especially	11	english
 ▁generation	▁generation	� � generation	11	english
 ▁instanceof	▁instanceof		11	NULL
@@ -123606,7 +123606,7 @@ DisplayName	DisplayName	Display Name	11	english
 ▁----------	▁----------		11	NULL
 destination	destination	destination	11	english
 ▁algorithms	▁algorithms	� � alg orithms	11	english
-▁TensorFlow	▁TensorFlow		11	NULL
+▁TensorFlow	▁TensorFlow		11	code
 Deserialize	Deserialize	Deserialize	11	english
 ▁assertThat	▁assertThat		11	code
 coordinates	coordinates		11	persian
@@ -123618,7 +123618,7 @@ predictions	predictions	pred ictions	11	english
 ▁normalized	▁normalized	� � normalized	11	english
 ▁submission	▁submission	� � submission	11	english
 ▁Definition	▁Definition	� � Definition	11	english
-CreateModel	CreateModel	Create Model	11	english
+CreateModel	CreateModel		11	code
 ▁transforms	▁transforms	� � trans forms	11	english
 ▁similarity	▁similarity	� � similar ity	11	english
 dimensional	dimensional	dim ensional	11	english
@@ -123658,7 +123658,7 @@ Certificate	Certificate	Certificate	11	english
 ▁confidence	▁confidence		11	NULL
 ▁performing	▁performing	� � perform ing	11	english
 ▁sufficient	▁sufficient		11	french
-▁MessageBox	▁MessageBox	� � Message Box	11	english
+▁MessageBox	▁MessageBox		11	code
 -----------	-----------		11	NULL
 ▁translated	▁translated	� � translated	11	english
 categorical	categorical	categor ical	11	english
@@ -123698,7 +123698,7 @@ Declaration	Declaration	Declaration	11	english
 ▁limitation	▁limitation	� � lim itation	11	english
 ▁sequential	▁sequential	� � se quential	11	english
 ▁Management	▁Management	� � Management	11	english
-TryGetValue	TryGetValue		11	german
+TryGetValue	TryGetValue		11	code
 ▁describing	▁describing	� � des cribing	11	english
 orientation	orientation	orientation	11	english
 ▁protection	▁protection	� � pro tection	11	english
@@ -123901,7 +123901,7 @@ Calculating	Calculating	Calcul ating	11	english
 represented	represented	represented	11	english
 ▁navigating	▁navigating	� � n avig ating	11	english
 ▁facilitate	▁facilitate		11	NULL
-▁EntryPoint	▁EntryPoint		11	NULL
+▁EntryPoint	▁EntryPoint		11	code
 exponential	exponential	ex ponential	11	english
 consecutive	consecutive	con secutive	11	english
 expandafter	expandafter	expand after	11	english
@@ -123918,7 +123918,7 @@ Initializes	Initializes	Initial izes	11	english
 ▁thoroughly	▁thoroughly	� � th orough ly	11	english
 Exponential	Exponential	Ex ponential	11	english
 ▁suspicious	▁suspicious	� � s usp icious	11	english
-▁DevExpress	▁DevExpress		11	NULL
+▁DevExpress	▁DevExpress		11	code
 ▁suspension	▁suspension	� � s usp ension	11	english
 explanation	explanation	ex planation	11	english
 ▁collective	▁collective	� � collect ive	11	english
@@ -123936,7 +123936,7 @@ interesting	interesting	interesting	11	english
 ▁accelerate	▁accelerate	� � acceler ate	11	english
 ▁remembered	▁remembered	� � remember ed	11	english
 computation	computation	com putation	11	english
-FindElement	FindElement	Find Element	11	english
+FindElement	FindElement		11	code
 ▁biological	▁biological	� � bi ological	11	english
 ▁Stochastic	▁Stochastic		11	german
 ▁relativity	▁relativity	� � rel ativity	11	english
@@ -124056,7 +124056,7 @@ complicated	complicated	comp licated	11	english
 educational	educational	educ ational	11	english
 ▁Université	▁Université		11	french
 ▁Smartphone	▁Smartphone		11	NULL
-▁QuickBooks	▁QuickBooks	� � Quick Books	11	english
+▁QuickBooks	▁QuickBooks		11	code
 ▁Assumption	▁Assumption	� � Ass umption	11	english
 ▁differenti	▁differenti	� � d iffer enti	11	english
 istribution	istribution	is tribution	11	english
@@ -124348,7 +124348,7 @@ politischen	politischen		11	german
 ▁Unterhalts	▁Unterhalts		11	german
 ▁Bewertungs	▁Bewertungs		11	german
 Hintergrund	Hintergrund		11	german
-TripAdvisor	TripAdvisor	Trip Advisor	11	english
+TripAdvisor	TripAdvisor		11	code
 Gesundheits	Gesundheits		11	german
 ▁zusammenzu	▁zusammenzu		11	german
 Erfahrungen	Erfahrungen		11	german
@@ -125258,10 +125258,10 @@ Vietcombank	Vietcombank		11	indonesian
 ▁constructor	▁constructor		12	spanish
 ▁distributed	▁distributed	� � distributed	12	english
 ▁coordinates	▁coordinates		12	persian
-▁UnityEngine	▁UnityEngine	� � Unity Engine	12	english
+▁UnityEngine	▁UnityEngine		12	code
 ------------	------------		12	NULL
 ▁collections	▁collections	� � collections	12	english
-JsonProperty	JsonProperty	Json Property	12	english
+JsonProperty	JsonProperty		12	code
 ▁permissions	▁permissions	� � permissions	12	english
 ▁transaction	▁transaction	� � transaction	12	english
 ▁IEnumerable	▁IEnumerable		12	NULL
@@ -125272,7 +125272,7 @@ JsonProperty	JsonProperty	Json Property	12	english
 ▁Calculating	▁Calculating	� � Calcul ating	12	english
 ▁predictions	▁predictions	� � pred ictions	12	english
 ▁probability	▁probability	� � prob ability	12	english
-IntegerField	IntegerField	Integer Field	12	english
+IntegerField	IntegerField		12	code
 ▁implemented	▁implemented	� � implemented	12	english
 ▁appropriate	▁appropriate		12	NULL
 ▁placeholder	▁placeholder	� � placeholder	12	english
@@ -125289,7 +125289,7 @@ Notification	Notification	Notification	12	english
 ▁defaultdict	▁defaultdict		12	NULL
 ▁IOException	▁IOException		12	german
 ▁initialized	▁initialized	� � initialized	12	english
-GetComponent	GetComponent	Get Component	12	english
+GetComponent	GetComponent		12	code
 Serializable	Serializable	Serializable	12	english
 ▁Constructor	▁Constructor		12	spanish
 ▁expressions	▁expressions	� � express ions	12	english
@@ -125310,16 +125310,16 @@ Serializable	Serializable	Serializable	12	english
 ============	============		12	NULL
 ▁convolution	▁convolution	� � con volution	12	english
 ▁independent	▁independent	� � ind ependent	12	english
-OutputStream	OutputStream	Output Stream	12	english
+OutputStream	OutputStream		12	code
 Registration	Registration	Registration	12	english
 ▁interesting	▁interesting	� � interesting	12	english
-EventHandler	EventHandler	Event Handler	12	english
+EventHandler	EventHandler		12	code
 ▁explanation	▁explanation	� � ex planation	12	english
 ▁consecutive	▁consecutive	� � con secutive	12	english
 ▁Initializes	▁Initializes	� � Initial izes	12	english
 ************	************		12	NULL
 ▁Instantiate	▁Instantiate	� � Instantiate	12	english
-BooleanField	BooleanField	Boolean Field	12	english
+BooleanField	BooleanField		12	code
 ▁constraints	▁constraints	� � constraints	12	english
 ▁requirement	▁requirement	� � require ment	12	english
 ▁permutation	▁permutation	� � per mutation	12	english
@@ -125333,7 +125333,7 @@ BooleanField	BooleanField	Boolean Field	12	english
 ▁corresponds	▁corresponds	� � cor respond s	12	english
 ▁urlpatterns	▁urlpatterns		12	NULL
 ▁frequencies	▁frequencies	� � fre qu encies	12	english
-PropertyName	PropertyName		12	german
+PropertyName	PropertyName		12	code
 ▁observation	▁observation	� � ob servation	12	english
 ▁interacting	▁interacting	� � inter acting	12	english
 findViewById	findViewById		12	code
@@ -125373,7 +125373,7 @@ Distribution	Distribution	Distribution	12	english
 assertRaises	assertRaises		12	code
 ▁torchvision	▁torchvision	� � torch vision	12	english
 ▁Programming	▁Programming	� � Programming	12	english
-HttpResponse	HttpResponse	Http Response	12	english
+HttpResponse	HttpResponse		12	code
 ▁Explanation	▁Explanation	� � Explanation	12	english
 ▁substantial	▁substantial	� � sub stantial	12	english
 ▁established	▁established	� � est ablished	12	english
@@ -125384,12 +125384,12 @@ incrementing	incrementing	increment ing	12	english
 applications	applications	applications	12	english
 ▁demonstrate	▁demonstrate	� � dem onstr ate	12	english
 Transactions	Transactions	Transactions	12	english
-RequestParam	RequestParam	Request Param	12	english
+RequestParam	RequestParam		12	code
 ▁composition	▁composition	� � composition	12	english
-DefaultValue	DefaultValue		12	german
+DefaultValue	DefaultValue		12	code
 ▁subtraction	▁subtraction	� � sub traction	12	english
 crossentropy	crossentropy	cross entropy	12	english
-DecimalField	DecimalField	Decimal Field	12	english
+DecimalField	DecimalField		12	code
 Applications	Applications	Applications	12	english
 ▁Mathematica	▁Mathematica	� � Mat hemat ica	12	english
 ▁traditional	▁traditional	� � traditional	12	english
@@ -125404,7 +125404,7 @@ Applications	Applications	Applications	12	english
 ▁Temperature	▁Temperature	� � Temperature	12	english
 ▁individuals	▁individuals	� � individual s	12	english
 ▁consumption	▁consumption	� � cons umption	12	english
-ServiceModel	ServiceModel	Service Model	12	english
+ServiceModel	ServiceModel		12	code
 operatorname	operatorname	operator name	12	english
 ▁reconstruct	▁reconstruct	� � re construct	12	english
 ▁transitions	▁transitions	� � trans itions	12	english
@@ -125515,7 +125515,7 @@ transmission	transmission	trans mission	12	english
 ▁methodology	▁methodology	� � method ology	12	english
 multivariate	multivariate	mult ivariate	12	english
 ▁atmospheric	▁atmospheric	� � at mos pheric	12	english
-DataGridView	DataGridView	Data Grid View	12	english
+DataGridView	DataGridView		12	code
 ▁researchers	▁researchers	� � research ers	12	english
 specifically	specifically	spec ifically	12	english
 ▁competitive	▁competitive	� � competitive	12	english
@@ -125588,7 +125588,7 @@ relativistic	relativistic	rel ativ istic	12	english
 ▁algorithmic	▁algorithmic	� � algorithm ic	12	english
 ▁bifurcation	▁bifurcation	� � b if ur cation	12	english
 ▁mathematica	▁mathematica	� � mat hemat ica	12	english
-▁CommentTime	▁CommentTime	� � Comment Time	12	english
+▁CommentTime	▁CommentTime		12	code
 ▁macroscopic	▁macroscopic		12	french
 respectively	respectively	respect ively	12	english
 ▁Variational	▁Variational	� � Vari ational	12	english
@@ -125618,7 +125618,7 @@ calculations	calculations	calcul ations	12	english
 ▁الإلكترونية	▁الإلكترونية		12	arabic
 ▁الديمقراطية	▁الديمقراطية		12	arabic
 ▁التكنولوجيا	▁التكنولوجيا		12	arabic
-▁TripAdvisor	▁TripAdvisor	� � Trip Advisor	12	english
+▁TripAdvisor	▁TripAdvisor		12	code
 ▁الاستثمارات	▁الاستثمارات		12	arabic
 ▁الكيلومترات	▁الكيلومترات		12	arabic
 ــــــــــــ	ــــــــــــ		12	arabic
@@ -126318,15 +126318,15 @@ stackoverflow	stackoverflow	stackoverflow	13	english
 ▁distribution	▁distribution	� � distribution	13	english
 stackexchange	stackexchange	stack exchange	13	english
 ▁representing	▁representing	� � represent ing	13	english
-▁HttpResponse	▁HttpResponse		13	NULL
+▁HttpResponse	▁HttpResponse		13	code
 ▁relationship	▁relationship	� � relationship	13	english
 ▁successfully	▁successfully	� � success fully	13	english
 Serialization	Serialization	Serialization	13	english
 configuration	configuration	configuration	13	english
 ▁applications	▁applications	� � applications	13	english
-DateTimeField	DateTimeField		13	german
+DateTimeField	DateTimeField		13	code
 ▁dictionaries	▁dictionaries	� � d ictionaries	13	english
-NullException	NullException	Null Exception	13	english
+NullException	NullException		13	code
 ▁instructions	▁instructions	� � instructions	13	english
 Authorization	Authorization	Authorization	13	english
 ▁respectively	▁respectively	� � respect ively	13	english
@@ -126334,7 +126334,7 @@ Authorization	Authorization	Authorization	13	english
 ▁notification	▁notification	� � notification	13	english
 ▁assertEquals	▁assertEquals		13	code
 ▁registration	▁registration	� � registration	13	english
-IsNullOrEmpty	IsNullOrEmpty	Is Null Or Empty	13	english
+IsNullOrEmpty	IsNullOrEmpty		13	code
 ▁intersection	▁intersection	� � intersection	13	english
 preprocessing	preprocessing	pre processing	13	english
 ▁specifically	▁specifically	� � spec ifically	13	english
@@ -126353,7 +126353,7 @@ documentation	documentation	documentation	13	english
 ▁continuously	▁continuously	� � continu ously	13	english
 ▁asynchronous	▁asynchronous	� � as ynchronous	13	english
 ▁construction	▁construction	� � construction	13	english
-▁RandomForest	▁RandomForest		13	NULL
+▁RandomForest	▁RandomForest		13	code
 ▁acceleration	▁acceleration	� � acc eleration	13	english
 ▁particularly	▁particularly	� � particularly	13	english
 ▁observations	▁observations	� � observ ations	13	english
@@ -126362,14 +126362,14 @@ documentation	documentation	documentation	13	english
 ▁intermediate	▁intermediate	� � inter mediate	13	english
 ▁redistribute	▁redistribute	� � redis tribute	13	english
 Unfortunately	Unfortunately	Unfortunately	13	english
-▁DecisionTree	▁DecisionTree	� � Decision Tree	13	english
+▁DecisionTree	▁DecisionTree		13	code
 ▁measurements	▁measurements	� � measure ments	13	english
 ▁Registration	▁Registration	� � Registration	13	english
-ValueHandling	ValueHandling	Value Handling	13	english
-StringBuilder	StringBuilder	String Builder	13	english
+ValueHandling	ValueHandling		13	code
+StringBuilder	StringBuilder		13	code
 ▁temperatures	▁temperatures	� � temper atures	13	english
 ▁differential	▁differential	� � d iffer ential	13	english
-▁BindingFlags	▁BindingFlags		13	german
+▁BindingFlags	▁BindingFlags		13	code
 ▁substitution	▁substitution	� � sub stitution	13	english
 ▁interactions	▁interactions	� � inter actions	13	english
 ▁professional	▁professional	� � professional	13	english
@@ -126384,7 +126384,7 @@ Communication	Communication	Communication	13	english
 ▁contribution	▁contribution	� � con tribution	13	english
 ▁experimental	▁experimental	� � experimental	13	english
 decomposition	decomposition	de composition	13	english
-SelectedIndex	SelectedIndex	Selected Index	13	english
+SelectedIndex	SelectedIndex		13	code
 ▁constructing	▁constructing	� � construct ing	13	english
 ▁proportional	▁proportional	� � pro port ional	13	english
 ▁Applications	▁Applications	� � Applications	13	english
@@ -126399,8 +126399,8 @@ SelectedIndex	SelectedIndex	Selected Index	13	english
 ▁sufficiently	▁sufficiently	� � s ufficient ly	13	english
 ▁manipulating	▁manipulating	� � man ip ulating	13	english
 ▁использовать	▁использовать		13	russian
-UnmanagedType	UnmanagedType		13	french
-BeautifulSoup	BeautifulSoup	Beautiful Soup	13	english
+UnmanagedType	UnmanagedType		13	code
+BeautifulSoup	BeautifulSoup		13	code
 distributions	distributions	dis tributions	13	english
 communication	communication	communication	13	english
 ▁hierarchical	▁hierarchical	� � hier archical	13	english
@@ -126416,7 +126416,7 @@ normalization	normalization	normal ization	13	english
 #############	#############		13	NULL
 ▁Transactions	▁Transactions	� � Transactions	13	english
 *************	*************		13	NULL
-GeneratedCode	GeneratedCode	Generated Code	13	english
+GeneratedCode	GeneratedCode		13	code
 international	international	international	13	english
 ▁interference	▁interference	� � inter ference	13	english
 ▁subsequently	▁subsequently	� � sub se quently	13	english
@@ -126484,7 +126484,7 @@ concentration	concentration	con centration	13	english
 factorization	factorization	factor ization	13	english
 gravitational	gravitational	gr avit ational	13	english
 Supplementary	Supplementary	Supplement ary	13	english
-CitationClass	CitationClass	Citation Class	13	english
+CitationClass	CitationClass		13	code
 combinatorial	combinatorial	com bin atorial	13	english
 ▁............	▁............		13	NULL
 computational	computational	comput ational	13	english
@@ -126904,24 +126904,24 @@ cungquanghang	cungquanghang	c ung qu ang hang	13	english
 ▁corresponding	▁corresponding	� � cor respond ing	14	english
 ▁automatically	▁automatically		14	NULL
 ▁documentation	▁documentation		14	NULL
-▁BeautifulSoup	▁BeautifulSoup	� � Beautiful Soup	14	english
+▁BeautifulSoup	▁BeautifulSoup		14	code
 ▁functionality	▁functionality	� � function ality	14	english
 Authentication	Authentication	Authentication	14	english
-▁MonoBehaviour	▁MonoBehaviour		14	NULL
+▁MonoBehaviour	▁MonoBehaviour		14	code
 ▁Configuration	▁Configuration	� � Configuration	14	english
-ComponentModel	ComponentModel	Component Model	14	english
-▁StringBuilder	▁StringBuilder	� � String Builder	14	english
-SerializeField	SerializeField	Serialize Field	14	english
-ArgumentParser	ArgumentParser	Argument Parser	14	english
+ComponentModel	ComponentModel		14	code
+▁StringBuilder	▁StringBuilder		14	code
+SerializeField	SerializeField		14	code
+ArgumentParser	ArgumentParser		14	code
 getElementById	getElementById		14	code
 --------------	--------------		14	NULL
 ▁understanding	▁understanding	� � under standing	14	english
-FirstOrDefault	FirstOrDefault	First Or Default	14	english
+FirstOrDefault	FirstOrDefault		14	code
 ▁probabilities	▁probabilities	� � prob abilities	14	english
 ▁authenticated	▁authenticated	� � authenticated	14	english
 ▁communication	▁communication	� � communication	14	english
 ▁compatibility	▁compatibility	� � compat ibility	14	english
-▁DateTimeField	▁DateTimeField		14	german
+▁DateTimeField	▁DateTimeField		14	code
 authentication	authentication	authentication	14	english
 ▁interpolation	▁interpolation	� � inter polation	14	english
 ▁convolutional	▁convolutional	� � con volution al	14	english
@@ -126942,7 +126942,7 @@ implementation	implementation	implementation	14	english
 ▁circumstances	▁circumstances	� � circ um stances	14	english
 **************	**************		14	NULL
 ▁international	▁international	� � international	14	english
-NotImplemented	NotImplemented	Not Implemented	14	english
+NotImplemented	NotImplemented		14	code
 ▁concentration	▁concentration	� � con centration	14	english
 ##############	##############		14	NULL
 ▁independently	▁independently	� � ind epend ently	14	english
@@ -126962,7 +126962,7 @@ transformation	transformation	trans formation	14	english
 ▁perpendicular	▁perpendicular	� � per pendicular	14	english
 ▁Communication	▁Communication	� � Communication	14	english
 ▁-------------	▁-------------		14	NULL
-NativeTypeName	NativeTypeName	Native Type Name	14	english
+NativeTypeName	NativeTypeName		14	code
 multiplication	multiplication	multip lication	14	english
 ▁environmental	▁environmental	� � environment al	14	english
 ▁complementary	▁complementary	� � com plement ary	14	english
@@ -127004,7 +127004,7 @@ overrightarrow	overrightarrow	over rightarrow	14	english
 ▁Trigonometric	▁Trigonometric		14	italian
 ▁propositional	▁propositional	� � pro pos itional	14	english
 ▁Gravitational	▁Gravitational	� � Gr avit ational	14	english
-▁CommentAuthor	▁CommentAuthor	� � Comment Author	14	english
+▁CommentAuthor	▁CommentAuthor		14	code
 ▁Corresponding	▁Corresponding	� � Correspond ing	14	english
 differentiable	differentiable	d iffer enti able	14	english
 characteristic	characteristic	character istic	14	english
@@ -127240,11 +127240,11 @@ springframework	springframework	spring framework	15	english
 ▁representation	▁representation	� � representation	15	english
 ▁implementation	▁implementation	� � implementation	15	english
 ▁authentication	▁authentication	� � authentication	15	english
-▁NotImplemented	▁NotImplemented	� � Not Implemented	15	english
+▁NotImplemented	▁NotImplemented		15	code
 ▁classification	▁classification	� � classification	15	english
 ▁multiplication	▁multiplication	� � multip lication	15	english
 ▁transformation	▁transformation	� � trans formation	15	english
-PropertyChanged	PropertyChanged	Property Changed	15	english
+PropertyChanged	PropertyChanged		15	code
 ▁Authentication	▁Authentication	� � Authentication	15	english
 ---------------	---------------		15	NULL
 ▁simultaneously	▁simultaneously	� � sim ult aneously	15	english
@@ -127256,7 +127256,7 @@ PropertyChanged	PropertyChanged	Property Changed	15	english
 ▁Classification	▁Classification	� � Classification	15	english
 includegraphics	includegraphics	include graphics	15	english
 ▁identification	▁identification	� � ident ification	15	english
-ResourceManager	ResourceManager	Resource Manager	15	english
+ResourceManager	ResourceManager		15	code
 ▁responsibility	▁responsibility	� � respons ibility	15	english
 ▁representative	▁representative	� � represent ative	15	english
 ▁reconstruction	▁reconstruction	� � re construction	15	english
@@ -127397,17 +127397,17 @@ ________________	________________		16	NULL
 ▁MERCHANTABILITY	▁MERCHANTABILITY		16	german
 ................	................		16	NULL
 ▁transformations	▁transformations	� � transform ations	16	english
-CompilerServices	CompilerServices	Compiler Services	16	english
+CompilerServices	CompilerServices		16	code
 ▁reproducibility	▁reproducibility	� � re pro duc ibility	16	english
 ▁straightforward	▁straightforward	� � straight forward	16	english
 abcdefghijklmnop	abcdefghijklmnop	abcdefghijkl mnop	16	english
 ▁representations	▁representations	� � represent ations	16	english
 ▁characteristics	▁characteristics	� � character istics	16	english
-ExecutionContext	ExecutionContext	Execution Context	16	english
+ExecutionContext	ExecutionContext		16	code
 ────────────────	────────────────		16	NULL
 aaaaaaaaaaaaaaaa	aaaaaaaaaaaaaaaa	aaaaaaaa aaaaaaaa	16	english
 ▁Redistributions	▁Redistributions	� � Redis tributions	16	english
-▁ResourceManager	▁ResourceManager		16	NULL
+▁ResourceManager	▁ResourceManager		16	code
 XXXXXXXXXXXXXXXX	XXXXXXXXXXXXXXXX		16	french
 ▁electromagnetic	▁electromagnetic	� � elect rom agnetic	16	english
 ▁differentiation	▁differentiation	� � d iffer enti ation	16	english

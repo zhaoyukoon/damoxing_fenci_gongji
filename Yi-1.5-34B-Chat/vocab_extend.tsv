@@ -29806,7 +29806,7 @@ oped	oped	oped	4	english
 ▁Hub	▁Hub		4	NULL
 тели	тели		4	russian
 ▁pig	▁pig	▁pig	4	english
-ById	ById	ById	4	english
+ById	ById		4	code
 scar	scar	scar	4	english
 什么时候	什么时候	什么 时候	4	chinese
 mask	mask	mask	4	english
@@ -29973,7 +29973,7 @@ town	town	town	4	english
 ▁Cre	▁Cre		4	NULL
 ▁Fro	▁Fro		4	NULL
 ▁bil	▁bil		4	NULL
-MzAx	MzAx		4	arabic
+MzAx	MzAx		4	code
 love	love	love	4	english
 thur	thur	thur	4	english
 ▁Fly	▁Fly		4	NULL
@@ -30029,7 +30029,7 @@ osph	osph		4	italian
 ))\\	))\\		4	NULL
 ques	ques		4	italian
 保险公司	保险公司	保险公司	4	chinese
-MzAw	MzAw	MzAw	4	english
+MzAw	MzAw		4	code
 Will	Will	Will	4	english
 eros	eros		4	italian
 ▁Sad	▁Sad		4	NULL
@@ -30478,7 +30478,7 @@ nCor	nCor		4	code
 ▁mud	▁mud		4	NULL
 acre	acre	acre	4	english
 ▁dun	▁dun		4	NULL
-MzIz	MzIz	MzIz	4	english
+MzIz	MzIz		4	code
 runt	runt	runt	4	english
 ▁mim	▁mim		4	NULL
 engu	engu	engu	4	english
@@ -30486,7 +30486,7 @@ engu	engu	engu	4	english
 ***\	***\		4	NULL
 bigr	bigr	bigr	4	english
 ▁Lex	▁Lex		4	NULL
-MzIw	MzIw	MzIw	4	english
+MzIw	MzIw		4	code
 nEng	nEng		4	code
 (\"#	(\"#		4	NULL
 ▁Pow	▁Pow		4	NULL
@@ -30563,7 +30563,7 @@ Conf	Conf	Conf	4	english
 Auto	Auto	Auto	4	english
 ++)\	++)\		4	NULL
 ▁Hat	▁Hat		4	NULL
-MzIy	MzIy		4	turkish
+MzIy	MzIy		4	code
 Even	Even	Even	4	english
 ▁idi	▁idi		4	NULL
 劳动合同	劳动合同	劳动合同	4	chinese
@@ -30576,7 +30576,7 @@ seed	seed	seed	4	english
 ▁keV	▁keV		4	malay
 ados	ados		4	spanish
 ▁spy	▁spy		4	NULL
-MzIx	MzIx	MzIx	4	english
+MzIx	MzIx		4	code
 HECK	HECK	HECK	4	english
 '];\	'];\		4	NULL
 otyp	otyp		4	german
@@ -31496,7 +31496,7 @@ cats	cats	cats	4	english
 inez	inez	inez	4	english
 nAut	nAut		4	code
 ▁din	▁din		4	NULL
-MzUy	MzUy	MzUy	4	english
+MzUy	MzUy		4	code
 opts	opts	opts	4	english
 ▁$-$	▁$-$		4	NULL
 otor	otor	otor	4	english
@@ -31599,7 +31599,7 @@ rots	rots	rots	4	english
 ▁Isn	▁Isn		4	NULL
 HTTP	HTTP	HTTP	4	english
 }^{*	}^{*		4	NULL
-MzUx	MzUx	MzUx	4	english
+MzUx	MzUx		4	code
 ▁ctx	▁ctx		4	NULL
 obia	obia	obia	4	english
 ▁Yuk	▁Yuk		4	NULL
@@ -31608,7 +31608,7 @@ obia	obia	obia	4	english
 宣传教育	宣传教育	宣传教育	4	chinese
 asso	asso		4	italian
 toos	toos	toos	4	english
-MzUz	MzUz	MzUz	4	english
+MzUz	MzUz		4	code
 ▁Tap	▁Tap		4	NULL
 demo	demo	demo	4	english
 ENTS	ENTS	ENTS	4	english
@@ -37835,7 +37835,7 @@ elong	elong	elong	5	english
 ▁sums	▁sums		5	NULL
 nshow	nshow	nshow	5	english
 Getty	Getty	Getty	5	english
-▁WiFi	▁WiFi		5	NULL
+▁WiFi	▁WiFi		5	code
 ▁ONLY	▁ONLY		5	NULL
 ▁fork	▁fork		5	NULL
 Share	Share	Share	5	english
@@ -39962,7 +39962,7 @@ nTeam	nTeam		5	code
 andin	andin	andin	5	english
 ▁como	▁como		5	spanish
 ▁wast	▁wast	▁wast	5	english
-▁McCl	▁McCl		5	NULL
+▁McCl	▁McCl		5	code
 ▁STAR	▁STAR		5	NULL
 ▁rebo	▁rebo		5	NULL
 ruent	ruent		5	french
@@ -45866,7 +45866,7 @@ nMusic	nMusic		6	code
 ▁Maver	▁Maver	� � M aver	6	english
 ▁assim	▁assim		6	portuguese
 matter	matter	matter	6	english
-▁McKin	▁McKin		6	NULL
+▁McKin	▁McKin		6	code
 ▁Views	▁Views	� � Views	6	english
 ▁управ	▁управ		6	russian
 ▁Needs	▁Needs	� � Needs	6	english
@@ -46578,7 +46578,7 @@ nCreat	nCreat		6	code
 ▁Kirby	▁Kirby		6	NULL
 ▁xmlns	▁xmlns		6	NULL
 helial	helial		6	german
-▁McCoy	▁McCoy		6	NULL
+▁McCoy	▁McCoy		6	code
 优化营商环境	优化营商环境	优化 营商 环境	6	chinese
 Travel	Travel	Travel	6	english
 Remark	Remark	Remark	6	english
@@ -48748,7 +48748,7 @@ Invalid	Invalid	Invalid	7	english
 ▁Parker	▁Parker		7	NULL
 ▁hazard	▁hazard		7	NULL
 ▁strive	▁strive	� � str ive	7	english
-▁McCain	▁McCain		7	NULL
+▁McCain	▁McCain		7	code
 ▁Taiwan	▁Taiwan	� � Tai wan	7	english
 execute	execute	execute	7	english
 ▁portal	▁portal	� � portal	7	english
@@ -49432,7 +49432,7 @@ otional	otional	otional	7	english
 ▁Recent	▁Recent	� � Recent	7	english
 ▁inspir	▁inspir		7	NULL
 ▁shoots	▁shoots		7	NULL
-PhysRev	PhysRev	Phys Rev	7	english
+PhysRev	PhysRev		7	code
 ▁Border	▁Border	� � Border	7	english
 ▁greedy	▁greedy	� � gre edy	7	english
 paramet	paramet	param et	7	english
@@ -49554,7 +49554,7 @@ Methods	Methods	Methods	7	english
 ▁cyclic	▁cyclic	� � cy clic	7	english
 unknown	unknown	unknown	7	english
 strings	strings	strings	7	english
-▁ResNet	▁ResNet	� � Res Net	7	english
+▁ResNet	▁ResNet		7	code
 ▁gifted	▁gifted	� � gift ed	7	english
 ▁deform	▁deform		7	NULL
 arnings	arnings	arnings	7	english
@@ -49570,7 +49570,7 @@ nresult	nresult	n result	7	english
 ▁relent	▁relent	� � rel ent	7	english
 ubernet	ubernet	ubern et	7	english
 ▁stamps	▁stamps	� � st amps	7	english
-NotNull	NotNull	Not Null	7	english
+NotNull	NotNull		7	code
 verages	verages	verages	7	english
 ▁christ	▁christ		7	NULL
 tration	tration	tration	7	english
@@ -49582,7 +49582,7 @@ tassert	tassert		7	italian
 feeding	feeding	feeding	7	english
 ▁sodium	▁sodium	� � s odium	7	english
 iciency	iciency		7	french
-▁GitHub	▁GitHub		7	NULL
+▁GitHub	▁GitHub		7	code
 surface	surface	surface	7	english
 ▁occupy	▁occupy	� � occup y	7	english
 nHealth	nHealth		7	code
@@ -49653,7 +49653,7 @@ compact	compact	compact	7	english
 ▁usable	▁usable		7	french
 nOnline	nOnline		7	code
 ▁recess	▁recess	� � re cess	7	english
-▁PayPal	▁PayPal		7	NULL
+▁PayPal	▁PayPal		7	code
 ▁adhere	▁adhere	� � adh ere	7	english
 ▁throne	▁throne	� � th rone	7	english
 bounded	bounded	bounded	7	english
@@ -50492,7 +50492,7 @@ helpers	helpers	helpers	7	english
 nThomas	nThomas		7	code
 ▁antiqu	▁antiqu		7	french
 ensible	ensible	ensible	7	english
-HashMap	HashMap	Hash Map	7	english
+HashMap	HashMap		7	code
 ▁Flickr	▁Flickr		7	NULL
 ▁PARTIC	▁PARTIC		7	NULL
 ▁Snyder	▁Snyder	� � S nyder	7	english
@@ -51286,7 +51286,7 @@ vehicle	vehicle	vehicle	7	english
 ▁cooker	▁cooker	� � c ooker	7	english
 ▁Rafael	▁Rafael	� � R afael	7	english
 Concept	Concept	Concept	7	english
-EqualTo	EqualTo	Equal To	7	english
+EqualTo	EqualTo		7	code
 Suppose	Suppose	Supp ose	7	english
 ▁Shared	▁Shared	� � Shared	7	english
 ▁lawful	▁lawful	� � law ful	7	english
@@ -51333,7 +51333,7 @@ provide	provide	provide	7	english
 ▁Escape	▁Escape		7	NULL
 ▁warmed	▁warmed	� � w armed	7	english
 Chinese	Chinese	Chinese	7	english
-▁LeBron	▁LeBron		7	NULL
+▁LeBron	▁LeBron		7	code
 ▁Offers	▁Offers	� � Offers	7	english
 ▁работи	▁работи		7	russian
 ▁Buying	▁Buying	� � Buying	7	english
@@ -51438,7 +51438,7 @@ tingham	tingham	tingham	7	english
 ▁Rivera	▁Rivera	� � River a	7	english
 лександ	лександ		7	russian
 ▁sensit	▁sensit		7	NULL
-NonNull	NonNull	Non Null	7	english
+NonNull	NonNull		7	code
 ▁Murder	▁Murder	� � M urder	7	english
 ▁sleepy	▁sleepy	� � sleep y	7	english
 ▁toured	▁toured	� � t oured	7	english
@@ -52260,7 +52260,7 @@ unctions	unctions	unction s	8	english
 ▁wanting	▁wanting	� � want ing	8	english
 ▁routine	▁routine	� � routine	8	english
 ▁rapidly	▁rapidly	� � rapid ly	8	english
-▁YouTube	▁YouTube		8	NULL
+▁YouTube	▁YouTube		8	code
 ▁delight	▁delight	� � del ight	8	english
 ▁Product	▁Product	� � Product	8	english
 ▁vectors	▁vectors	� � vectors	8	english
@@ -53252,7 +53252,7 @@ validate	validate	validate	8	english
 ▁wonders	▁wonders	� � w onders	8	english
 ▁Monitor	▁Monitor		8	NULL
 ▁happier	▁happier	� � h app ier	8	english
-▁MacBook	▁MacBook		8	NULL
+▁MacBook	▁MacBook		8	code
 ▁lengthy	▁lengthy	� � length y	8	english
 ▁Integer	▁Integer		8	NULL
 ▁Imagine	▁Imagine	� � Imagine	8	english
@@ -53464,7 +53464,7 @@ otential	otential	otential	8	english
 ▁chopped	▁chopped	� � ch opped	8	english
 ▁Premium	▁Premium	� � Premium	8	english
 ▁heights	▁heights	� � he ights	8	english
-ToString	ToString	To String	8	english
+ToString	ToString		8	code
 ▁Session	▁Session	� � Session	8	english
 ▁crashes	▁crashes	� � cr ashes	8	english
 ▁budgets	▁budgets	� � bud gets	8	english
@@ -53540,7 +53540,7 @@ heastern	heastern	heastern	8	english
 ▁judging	▁judging	� � jud ging	8	english
 ▁hottest	▁hottest		8	NULL
 ▁locking	▁locking	� � locking	8	english
-DateTime	DateTime		8	german
+DateTime	DateTime		8	code
 ▁shaking	▁shaking	� � sh aking	8	english
 ▁immense	▁immense	� � imm ense	8	english
 idential	idential	idential	8	english
@@ -54114,7 +54114,7 @@ Protocol	Protocol	Protocol	8	english
 ▁cleanup	▁cleanup		8	NULL
 closures	closures	closures	8	english
 ▁terrace	▁terrace		8	NULL
-NotFound	NotFound	Not Found	8	english
+NotFound	NotFound		8	code
 multiple	multiple	multiple	8	english
 ▁Heather	▁Heather		8	NULL
 approved	approved	approved	8	english
@@ -54164,7 +54164,7 @@ gettable	gettable		8	italian
 ▁evolves	▁evolves	� � e vol ves	8	english
 ▁Jupiter	▁Jupiter		8	NULL
 ▁newborn	▁newborn	� � new born	8	english
-DoxyCode	DoxyCode		8	portuguese
+DoxyCode	DoxyCode		8	code
 previous	previous	previous	8	english
 ▁buddies	▁buddies	� � b udd ies	8	english
 ▁integra	▁integra		8	portuguese
@@ -54176,7 +54176,7 @@ previous	previous	previous	8	english
 ▁rebound	▁rebound	� � re bound	8	english
 ordering	ordering	ordering	8	english
 ▁Tonight	▁Tonight	� � Tonight	8	english
-FileName	FileName	File Name	8	english
+FileName	FileName		8	code
 approach	approach	appro ach	8	english
 ▁Economy	▁Economy	� � Econom y	8	english
 ▁tedious	▁tedious		8	italian
@@ -54237,7 +54237,7 @@ uitively	uitively	uit ively	8	english
 ▁trilogy	▁trilogy	� � tr il ogy	8	english
 ▁Dodgers	▁Dodgers		8	NULL
 ▁headset	▁headset	� � head set	8	english
-TestCase	TestCase	Test Case	8	english
+TestCase	TestCase		8	code
 atisfied	atisfied	atisfied	8	english
 ▁Schmidt	▁Schmidt		8	NULL
 ▁compost	▁compost	� � comp ost	8	english
@@ -54478,7 +54478,7 @@ nTwitter	nTwitter		8	code
 accuracy	accuracy	accuracy	8	english
 journals	journals	journ als	8	english
 ▁foresee	▁foresee		8	NULL
-AreEqual	AreEqual	Are Equal	8	english
+AreEqual	AreEqual		8	code
 commands	commands	commands	8	english
 speaking	speaking	spe aking	8	english
 ▁Biology	▁Biology	� � Bi ology	8	english
@@ -54561,7 +54561,7 @@ bfseries	bfseries	bf series	8	english
 ▁inherit	▁inherit	� � inherit	8	english
 ▁rituals	▁rituals	� � rit ual s	8	english
 ▁sausage	▁sausage	� � sa usage	8	english
-MenuItem	MenuItem	Menu Item	8	english
+MenuItem	MenuItem		8	code
 ▁entails	▁entails	� � ent ails	8	english
 ▁brewery	▁brewery	� � brew ery	8	english
 ▁Mystery	▁Mystery		8	portuguese
@@ -54742,7 +54742,7 @@ evaluate	evaluate		8	french
 ▁placebo	▁placebo		8	spanish
 ▁Animals	▁Animals		8	german
 ▁Finnish	▁Finnish	� � Finn ish	8	english
-▁HashMap	▁HashMap		8	NULL
+▁HashMap	▁HashMap		8	code
 ▁Thrones	▁Thrones		8	spanish
 ▁Chester	▁Chester		8	NULL
 ▁magnets	▁magnets		8	NULL
@@ -54824,7 +54824,7 @@ geqslant	geqslant		8	russian
 ▁smokers	▁smokers		8	NULL
 ▁staging	▁staging	� � st aging	8	english
 ▁Devices	▁Devices		8	NULL
-TextView	TextView	Text View	8	english
+TextView	TextView		8	code
 arations	arations	ar ations	8	english
 ▁Growing	▁Growing	� � Growing	8	english
 educated	educated	educated	8	english
@@ -54948,7 +54948,7 @@ averaged	averaged	aver aged	8	english
 compress	compress	compress	8	english
 ▁Parties	▁Parties	� � Part ies	8	english
 ▁toilets	▁toilets		8	NULL
-FilePath	FilePath	File Path	8	english
+FilePath	FilePath		8	code
 estation	estation		8	spanish
 ▁FITNESS	▁FITNESS		8	NULL
 ▁Webster	▁Webster	� � Web ster	8	english
@@ -55281,7 +55281,7 @@ Snapshot	Snapshot	Snapshot	8	english
 ▁Wheeler	▁Wheeler	� � W he eler	8	english
 ▁Lawyers	▁Lawyers	� � Law yers	8	english
 ▁booklet	▁booklet		8	russian
-ViewById	ViewById	View By Id	8	english
+ViewById	ViewById		8	code
 creative	creative	creative	8	english
 nUsually	nUsually		8	code
 ▁Combine	▁Combine		8	NULL
@@ -55675,7 +55675,7 @@ ashington	ashington	ash ington	9	english
 ▁customer	▁customer	� � customer	9	english
 ▁patients	▁patients		9	NULL
 ▁Facebook	▁Facebook	� � Facebook	9	english
-RedPajama	RedPajama	Red P aj ama	9	english
+RedPajama	RedPajama		9	code
 ▁Saturday	▁Saturday		9	NULL
 ▁controll	▁controll		9	NULL
 ▁magnetic	▁magnetic	� � mag netic	9	english
@@ -56911,7 +56911,7 @@ irmingham	irmingham	irmingham	9	english
 ▁Strategy	▁Strategy	� � Strategy	9	english
 ▁crystals	▁crystals		9	NULL
 Wednesday	Wednesday	Wednesday	9	english
-▁McDonald	▁McDonald		9	NULL
+▁McDonald	▁McDonald		9	code
 ▁triggers	▁triggers	� � tr iggers	9	english
 ▁enrolled	▁enrolled	� � en rolled	9	english
 ▁Harrison	▁Harrison		9	NULL
@@ -57165,7 +57165,7 @@ potential	potential	potential	9	english
 ▁Clinical	▁Clinical	� � Clinical	9	english
 ▁initiate	▁initiate	� � init iate	9	english
 ▁Constant	▁Constant		9	NULL
-▁LinkedIn	▁LinkedIn		9	NULL
+▁LinkedIn	▁LinkedIn		9	code
 ▁contours	▁contours		9	NULL
 ▁outputId	▁outputId		9	code
 ▁nitrogen	▁nitrogen	� � nit rogen	9	english
@@ -57442,7 +57442,7 @@ evolution	evolution	e volution	9	english
 ▁citation	▁citation	� � citation	9	english
 ▁textbook	▁textbook		9	NULL
 ▁proclaim	▁proclaim		9	NULL
-ArrayList	ArrayList	Array List	9	english
+ArrayList	ArrayList		9	code
 ▁shouting	▁shouting	� � sh outing	9	english
 ▁stresses	▁stresses	� � st resses	9	english
 ▁deleting	▁deleting	� � de leting	9	english
@@ -57470,7 +57470,7 @@ radiation	radiation	radi ation	9	english
 Therefore	Therefore	Therefore	9	english
 ▁allergic	▁allergic		9	NULL
 ▁swelling	▁swelling	� � sw elling	9	english
-▁McCarthy	▁McCarthy	� � Mc Carthy	9	english
+▁McCarthy	▁McCarthy		9	code
 Validator	Validator		9	spanish
 ▁teammate	▁teammate	� � te amm ate	9	english
 ▁corridor	▁corridor		9	portuguese
@@ -57499,7 +57499,7 @@ According	According	According	9	english
 orescence	orescence	ores cence	9	english
 othetical	othetical	ot hetical	9	english
 ▁daunting	▁daunting	� � da unting	9	english
-WriteLine	WriteLine	Write Line	9	english
+WriteLine	WriteLine		9	code
 ▁playback	▁playback	� � play back	9	english
 ▁trailing	▁trailing	� � tr ailing	9	english
 ▁repaired	▁repaired	� � re paired	9	english
@@ -57723,7 +57723,7 @@ matically	matically	matically	9	english
 ructuring	ructuring	r uct uring	9	english
 Български	Български		9	russian
 organized	organized	organized	9	english
-ViewModel	ViewModel	View Model	9	english
+ViewModel	ViewModel		9	code
 ▁Edmonton	▁Edmonton		9	NULL
 ▁husbands	▁husbands	� � hus bands	9	english
 ▁lobbying	▁lobbying	� � l obby ing	9	english
@@ -57733,8 +57733,8 @@ nWhatever	nWhatever		9	code
 ▁decaying	▁decaying	� � dec aying	9	english
 ▁rainfall	▁rainfall		9	NULL
 ▁muscular	▁muscular	� � mus cular	9	english
-DataFrame	DataFrame	Data Frame	9	english
-▁DateTime	▁DateTime		9	german
+DataFrame	DataFrame		9	code
+▁DateTime	▁DateTime		9	code
 ▁carriage	▁carriage	� � car riage	9	english
 ▁decorate	▁decorate		9	NULL
 quisition	quisition	quisition	9	english
@@ -57814,7 +57814,7 @@ vanishing	vanishing	van ishing	9	english
 minecraft	minecraft	minecraft	9	english
 ▁Hardware	▁Hardware	� � Hardware	9	english
 ▁Matthews	▁Matthews		9	NULL
-▁ImageNet	▁ImageNet	� � Image Net	9	english
+▁ImageNet	▁ImageNet		9	code
 ▁competed	▁competed	� � comp eted	9	english
 developer	developer	developer	9	english
 ▁immersed	▁immersed	� � immers ed	9	english
@@ -58311,7 +58311,7 @@ publisher	publisher	publisher	9	english
 ▁punching	▁punching	� � p unch ing	9	english
 ▁bookings	▁bookings	� � book ings	9	english
 ▁discreet	▁discreet		9	NULL
-ClassName	ClassName	Class Name	9	english
+ClassName	ClassName		9	code
 iparticle	iparticle	ip article	9	english
 ▁graffiti	▁graffiti		9	NULL
 ▁isotopes	▁isotopes		9	NULL
@@ -58460,7 +58460,7 @@ Candidate	Candidate	Candidate	9	english
 ▁embodied	▁embodied	� � emb odied	9	english
 ▁propriet	▁propriet		9	NULL
 ▁trolling	▁trolling	� � t rolling	9	english
-LowerCase	LowerCase	Lower Case	9	english
+LowerCase	LowerCase		9	code
 portfolio	portfolio	portfolio	9	english
 ▁grooming	▁grooming	� � g room ing	9	english
 ▁nutshell	▁nutshell		9	NULL
@@ -59066,7 +59066,7 @@ Properties	Properties	Properties	10	english
 ▁diagnosed	▁diagnosed	� � diagn osed	10	english
 ▁intrinsic	▁intrinsic		10	NULL
 ▁publisher	▁publisher	� � publisher	10	english
-▁WordPress	▁WordPress		10	NULL
+▁WordPress	▁WordPress		10	code
 scriptsize	scriptsize	scripts ize	10	english
 ▁donations	▁donations	� � don ations	10	english
 ▁excessive	▁excessive	� � ex cess ive	10	english
@@ -59565,7 +59565,7 @@ nCopyright	nCopyright		10	code
 ▁Photoshop	▁Photoshop	� � Photos hop	10	english
 ▁listeners	▁listeners		10	NULL
 ▁miserable	▁miserable		10	italian
-▁ArrayList	▁ArrayList		10	NULL
+▁ArrayList	▁ArrayList		10	code
 ▁observers	▁observers	� � ob servers	10	english
 ▁retaining	▁retaining	� � ret aining	10	english
 ▁Milwaukee	▁Milwaukee	� � Mil waukee	10	english
@@ -60201,7 +60201,7 @@ nimportant	nimportant	n important	10	english
 ▁Churchill	▁Churchill	� � Church ill	10	english
 ▁Recommend	▁Recommend	� � Recommend	10	english
 ▁negatives	▁negatives	� � neg atives	10	english
-▁PropTypes	▁PropTypes	� � Prop Types	10	english
+▁PropTypes	▁PropTypes		10	code
 ▁interplay	▁interplay	� � inter play	10	english
 ▁intervene	▁intervene	� � inter vene	10	english
 ▁Methodist	▁Methodist	� � Method ist	10	english
@@ -60246,7 +60246,7 @@ associated	associated	associated	10	english
 ▁surrogate	▁surrogate		10	NULL
 ▁minimizes	▁minimizes	� � min im izes	10	english
 Initialize	Initialize	Initialize	10	english
-StackTrace	StackTrace		10	russian
+StackTrace	StackTrace		10	code
 ▁stupidity	▁stupidity	� � st up idity	10	english
 ▁footsteps	▁footsteps		10	german
 ▁logarithm	▁logarithm	� � log arith m	10	english
@@ -60440,7 +60440,7 @@ nProfessor	nProfessor		10	code
 ▁elephants	▁elephants	� � ele phants	10	english
 ▁motivates	▁motivates	� � motiv ates	10	english
 nCombining	nCombining		10	code
-▁McConnell	▁McConnell		10	NULL
+▁McConnell	▁McConnell		10	code
 ▁paramount	▁paramount	� � param ount	10	english
 ▁readiness	▁readiness	� � read iness	10	english
 ▁swallowed	▁swallowed		10	NULL
@@ -60638,7 +60638,7 @@ submission	submission	submission	10	english
 navigation	navigation	navigation	10	english
 ▁vengeance	▁vengeance	� � ven ge ance	10	english
 ▁leveraged	▁leveraged	� � lever aged	10	english
-JavaScript	JavaScript	Java Script	10	english
+JavaScript	JavaScript		10	code
 ▁Practices	▁Practices	� � Pract ices	10	english
 ▁sidewalks	▁sidewalks	� � side walk s	10	english
 enterprise	enterprise	enterprise	10	english
@@ -60940,7 +60940,7 @@ pecifically	pecifically	pec ifically	11	english
 ▁simplicity	▁simplicity	� � simp licity	11	english
 ▁consisting	▁consisting	� � cons isting	11	english
 ▁systematic	▁systematic	� � system atic	11	english
-▁JavaScript	▁JavaScript	� � Java Script	11	english
+▁JavaScript	▁JavaScript		11	code
 ▁activation	▁activation	� � activation	11	english
 ▁popularity	▁popularity	� � pop ularity	11	english
 ▁accurately	▁accurately	� � accur ately	11	english
@@ -61556,7 +61556,7 @@ nConclusion	nConclusion		11	code
 ▁collectors	▁collectors	� � collect ors	11	english
 ▁specialize	▁specialize	� � special ize	11	english
 ▁multiplied	▁multiplied	� � mult ipl ied	11	english
-InputStream	InputStream	Input Stream	11	english
+InputStream	InputStream		11	code
 ▁arithmetic	▁arithmetic	� � ar ithmetic	11	english
 ▁conduction	▁conduction	� � con duction	11	english
 ▁sandwiches	▁sandwiches	� � sand wich es	11	english
@@ -61663,7 +61663,7 @@ equilibrium	equilibrium	equ ilibrium	11	english
 ▁enthusiast	▁enthusiast		11	NULL
 ▁sunglasses	▁sunglasses	� � s ung lasses	11	english
 ▁disclaimer	▁disclaimer		11	NULL
-DoxyCompact	DoxyCompact		11	portuguese
+DoxyCompact	DoxyCompact		11	code
 ▁classmates	▁classmates		11	NULL
 integration	integration	integration	11	english
 ▁Originally	▁Originally	� � Originally	11	english
@@ -61689,7 +61689,7 @@ destination	destination	destination	11	english
 ▁dishwasher	▁dishwasher	� � dish washer	11	english
 ▁depressing	▁depressing	� � de press ing	11	english
 ▁triggering	▁triggering	� � trigger ing	11	english
-▁BlackBerry	▁BlackBerry		11	NULL
+▁BlackBerry	▁BlackBerry		11	code
 ▁travellers	▁travellers	� � trav ellers	11	english
 ▁objections	▁objections	� � ob jections	11	english
 ▁broadening	▁broadening	� � b road ening	11	english
@@ -61940,7 +61940,7 @@ orientation	orientation	orientation	11	english
 ▁Wellington	▁Wellington	� � W ellington	11	english
 ▁negativity	▁negativity	� � neg ativity	11	english
 ▁admittedly	▁admittedly		11	NULL
-▁PowerPoint	▁PowerPoint		11	NULL
+▁PowerPoint	▁PowerPoint		11	code
 ▁goalkeeper	▁goalkeeper	� � goal keeper	11	english
 ▁Lieutenant	▁Lieutenant	� � Lie utenant	11	english
 ▁sacrificed	▁sacrificed	� � s acr ific ed	11	english
@@ -62092,7 +62092,7 @@ nUltimately	nUltimately		11	code
 ▁powerhouse	▁powerhouse	� � power house	11	english
 ▁manifested	▁manifested	� � manifest ed	11	english
 ▁replicated	▁replicated	� � rep licated	11	english
-▁PowerShell	▁PowerShell	� � Power Shell	11	english
+▁PowerShell	▁PowerShell		11	code
 ▁cornerback	▁cornerback	� � corner back	11	english
 ▁chromosome	▁chromosome	� � chrom osome	11	english
 <|im_start|>	<|im_start|>		12	NULL
@@ -62507,7 +62507,7 @@ construction	construction	construction	12	english
 ▁legislature	▁legislature	� � leg isl ature	12	english
 ▁dynamically	▁dynamically	� � d ynam ically	12	english
 ▁commitments	▁commitments	� � commit ments	12	english
-▁PlayStation	▁PlayStation	� � Play Station	12	english
+▁PlayStation	▁PlayStation		12	code
 ▁controllers	▁controllers		12	NULL
 ▁prosecutors	▁prosecutors	� � pro secut ors	12	english
 ▁wavelengths	▁wavelengths	� � w avelength s	12	english
@@ -62527,7 +62527,7 @@ distribution	distribution	distribution	12	english
 ▁multiplayer	▁multiplayer	� � mult iplayer	12	english
 ▁excitations	▁excitations	� � ex cit ations	12	english
 ▁territories	▁territories	� � territ ories	12	english
-▁TripAdvisor	▁TripAdvisor	� � Trip Advisor	12	english
+▁TripAdvisor	▁TripAdvisor		12	code
 ▁endorsement	▁endorsement		12	NULL
 ▁termination	▁termination	� � termination	12	english
 ▁remembering	▁remembering	� � remember ing	12	english
@@ -62725,7 +62725,7 @@ nPerformance	nPerformance		12	code
 ▁newsletters	▁newsletters		12	NULL
 ▁versatility	▁versatility	� � vers atility	12	english
 ▁replication	▁replication	� � rep lication	12	english
-DoxyCodeLine	DoxyCodeLine		12	portuguese
+DoxyCodeLine	DoxyCodeLine		12	code
 ▁Alternative	▁Alternative	� � Alternative	12	english
 ▁conditioner	▁conditioner		12	italian
 ▁pedestrians	▁pedestrians	� � ped estrians	12	english
@@ -62877,7 +62877,7 @@ Applications	Applications	Applications	12	english
 ▁volunteered	▁volunteered	� � vol unte ered	12	english
 ▁Improvement	▁Improvement	� � Impro vement	12	english
 nInteresting	nInteresting		12	code
-OutputStream	OutputStream	Output Stream	12	english
+OutputStream	OutputStream		12	code
 ▁subdivision	▁subdivision		12	french
 ▁referencing	▁referencing	� � refer encing	12	english
 ▁concessions	▁concessions	� � con cess ions	12	english
@@ -62900,7 +62900,7 @@ registration	registration	registration	12	english
 ▁oscillators	▁oscillators		12	spanish
 ▁existential	▁existential	� � exist ential	12	english
 reliminaries	reliminaries	re lim inaries	12	english
-EventHandler	EventHandler	Event Handler	12	english
+EventHandler	EventHandler		12	code
 ▁cultivation	▁cultivation	� � cult ivation	12	english
 ▁distracting	▁distracting	� � d istr acting	12	english
 ▁progressing	▁progressing	� � progress ing	12	english
@@ -62914,7 +62914,7 @@ EventHandler	EventHandler	Event Handler	12	english
 ▁decoherence	▁decoherence		12	NULL
 ▁retaliation	▁retaliation	� � ret ali ation	12	english
 ▁Statistical	▁Statistical	� � Stat istical	12	english
-JsonProperty	JsonProperty	Json Property	12	english
+JsonProperty	JsonProperty		12	code
 ▁substantive	▁substantive	� � sub stant ive	12	english
 ▁blockbuster	▁blockbuster	� � block buster	12	english
 ▁transcripts	▁transcripts	� � trans cripts	12	english
@@ -63396,7 +63396,7 @@ ndistribution	ndistribution	nd is tribution	13	english
 ▁preparations	▁preparations	� � pre par ations	13	english
 ▁reproductive	▁reproductive	� � re productive	13	english
 nNevertheless	nNevertheless		13	code
-EventListener	EventListener	Event Listener	13	english
+EventListener	EventListener		13	code
 ▁geographical	▁geographical	� � ge ographical	13	english
 ▁analytically	▁analytically	� � anal yt ically	13	english
 ▁Presidential	▁Presidential	� � Pres idential	13	english
