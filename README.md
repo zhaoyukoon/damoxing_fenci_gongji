@@ -57,9 +57,9 @@
 2. `相同` 都建议谨慎使用BPE tokenizer;
 3. `差异` tokenizer-attack解决如何根据BPE词表反向推到出大模型定量的数据分布，揭示模型训练数据中的一些未公开信息；本项目出发是思考分词准确率对大模型结果的影响，动机和方法都不同，虽然最后一个阶段分析数据来源是殊途同归。
 
-2015/01/14: 给Deepseek和Qwen分别提交新的issues https://github.com/QwenLM/Qwen2.5/issues/1161 https://github.com/deepseek-ai/DeepSeek-V3/issues/273 
+2025/01/14: 给Deepseek和Qwen分别提交新的issues https://github.com/QwenLM/Qwen2.5/issues/1161 https://github.com/deepseek-ai/DeepSeek-V3/issues/273 
 
-2015/01/14: 给OpenAI提交issue https://github.com/openai/tiktoken/issues/368
+2025/01/14: 给OpenAI提交issue https://github.com/openai/tiktoken/issues/368
 
 ## Issue
 
