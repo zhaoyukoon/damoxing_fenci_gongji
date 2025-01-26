@@ -20,6 +20,8 @@
 
 ## 记录
 
+2025/01/26: 发现 [Tokenization Matters! Degrading Large Language Models through Challenging Their Tokenization](https://arxiv.org/pdf/2405.17067)，这篇论文工作更系统研究了tokenizer对大模型影响，而且论文提出了一套构造trap prompt的方法。从研究出发，需要关注更多的是如何构造一个更好的tokenizer。
+
 2025/01/20: 发现一篇 [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
 
 2025/01/20: 发现一篇[2018年 EMNLP 文章](https://aclanthology.org/2020.findings-emnlp.414.pdf)对比了BPE和unigram LM，认为后者是语言模型预训练的更好选择。
