@@ -118,6 +118,7 @@ def main():
         if l > max_len:
             max_len = l
     #max_len = max(len(process_string(s)[0]) for s in pd.concat([train_df, test_df])[2])
+    logger.info(f'vocab size: {len(char_to_idx)}')
 
     logger.info(f'max_len: {max_len}')
     train_dataset = CharDataset(train_df, char_to_idx, max_len)
@@ -132,15 +133,15 @@ def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = LSTMTagger(
         embedding_dim=128,
-        hidden_dim=256,
+        hidden_dim=128,
         vocab_size=len(char_to_idx)
     ).to(device)
 
     # 训练配置
-    optimizer = optim.Adam(model.parameters(), lr=0.001)
+    optimizer = optim.Adam(model.parameters(), lr=0.002)
     criterion = nn.BCELoss(reduction='none')
 
-    train = False
+    train = True
     if train:
         # 训练循环
         num_epochs = 10
@@ -186,7 +187,6 @@ def main():
                 # 获取当前样本的预测、标签和mask
                 sample_preds = preds[i][masks[i].bool()]  # 只考虑有效部分
                 sample_labels = labels[i][masks[i].bool()]  # 只考虑有效部分
-
                 # 判断当前样本是否完全正确
                 if torch.equal(sample_preds, sample_labels):
                     whole_correct += 1
@@ -198,4 +198,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
