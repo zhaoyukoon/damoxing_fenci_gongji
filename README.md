@@ -20,6 +20,8 @@
 
 ## 记录
 
+2025/01/31: 更新了[Mistral-Small-24B-Base-2501](Mistral-Small-24B-Base-2501) ，3482中文词汇，mistral中中文数据还是很少。131072总词汇数量。
+
 2025/01/28: 更新了[Janus-Pro-7B](https://huggingface.co/deepseek-ai/Janus-Pro-7B)，18048中文词汇，最长的词有`以上文章内容仅代表作者本人观点`、`亿亿亿亿亿亿亿亿亿亿亿亿亿亿亿亿`、`习近平新时代中国特色社会主义思想`，和deepseek-v3模型词汇有一定差别。
 
 2025/01/26: 发现 [Tokenization Matters! Degrading Large Language Models through Challenging Their Tokenization](https://arxiv.org/pdf/2405.17067)，这篇论文工作更系统研究了tokenizer对大模型影响，而且论文提出了一套构造trap prompt的方法。从研究出发，需要关注更多的是如何构造一个更好的tokenizer。
