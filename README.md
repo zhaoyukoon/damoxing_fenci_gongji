@@ -20,6 +20,8 @@
 
 ## 记录
 
+2025/01/31: 发现一篇关于llm tokenize论文 [Over-Tokenized Transformer: Vocabulary is Generally Worth Scaling](https://arxiv.org/abs/2501.16975)，通过实验证明词汇量越大模型性能越好，和本项目思路是相反的。
+
 2025/01/31: 更新了[Mistral-Small-24B-Base-2501](Mistral-Small-24B-Base-2501) ，3482中文词汇，mistral中中文数据还是很少。131072总词汇数量。
 
 2025/01/28: 更新了[Janus-Pro-7B](https://huggingface.co/deepseek-ai/Janus-Pro-7B)，18048中文词汇，最长的词有`以上文章内容仅代表作者本人观点`、`亿亿亿亿亿亿亿亿亿亿亿亿亿亿亿亿`、`习近平新时代中国特色社会主义思想`，和deepseek-v3模型词汇有一定差别。
